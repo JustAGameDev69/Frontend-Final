@@ -11,7 +11,7 @@ function MainHeader() {
             src="https://file.hstatic.net/200000636033/file/logo_fd11946b31524fbe98765f34f3de0628.svg"
             alt=""
           />
-          <div className="flex items-center bg-[#BE1529] h-11 px-2 rounded">
+          <div className="flex items-center bg-[#BE1529] h-11 px-2 rounded hover:cursor-pointer">
             <span className="mr-2">
               {" "}
               <svg

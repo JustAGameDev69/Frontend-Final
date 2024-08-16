@@ -7,6 +7,7 @@ export default function SearchBar() {
           name="q"
           className="text-[#212529] w-full text-base h-10 shadow p-4 rounded outline-none focus:outline-none"
           placeholder="Bạn cần tìm gì?"
+          required
         />
         <button type="submit">
           <svg

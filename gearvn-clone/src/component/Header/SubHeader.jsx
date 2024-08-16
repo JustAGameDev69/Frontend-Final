@@ -37,7 +37,7 @@ export default function SubHeader() {
               strokeLinejoin="round"
             ></path>
           </svg>
-          <p>San voucher gear vn</p>
+          <p>Săn Voucher GEARVN</p>
         </SubHeaderLink>
         <SubHeaderLink divided={true}>
           <svg
@@ -74,7 +74,7 @@ export default function SubHeader() {
               stroke="currentcolor"
             ></rect>
           </svg>
-          <p>Tin cong nghe</p>
+          <p>Tin công nghệ</p>
         </SubHeaderLink>
         <SubHeaderLink divided={true}>
           <svg
@@ -115,7 +115,7 @@ export default function SubHeader() {
               fill="currentcolor"
             ></rect>
           </svg>
-          <p>Huong dan thanh toan</p>
+          <p>Hướng dẫn thanh toán</p>
         </SubHeaderLink>
         <SubHeaderLink divided={true}>
           <svg
@@ -203,7 +203,7 @@ export default function SubHeader() {
               fill="currentColor"
             ></path>
           </svg>
-          <p>Huong dan tra gop</p>
+          <p>Hướng dẫn trả góp</p>
         </SubHeaderLink>
         <SubHeaderLink divided={true}>
           <svg
@@ -222,7 +222,7 @@ export default function SubHeader() {
               fill="currentcolor"
             ></path>
           </svg>
-          <p>Tra cuu bao hanh</p>
+          <p>Tra cứu bảo hành</p>
         </SubHeaderLink>
       </div>
     </div>
