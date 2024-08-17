@@ -1,6 +1,6 @@
 export default function SearchBar() {
   return (
-    <form action="/search" className="w-full px-1 block">
+    <form action="/search" className="w-5/12 px-1 block">
       <div className="relative">
         <input
           type="text"

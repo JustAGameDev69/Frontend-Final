@@ -4,10 +4,10 @@ import SearchBar from "./SearchBar";
 function MainHeader() {
   return (
     <div className="w-full bg-[#E30019] h-auto">
-      <div className="content-container justify-between flex items-center text-base text-white text-nowrap w-full font-medium">
-        <div className="flex py-4 items-center pr-2">
+      <div className="content-container justify-between flex items-center text-base text-white text-nowrap w-full font-medium gap-3">
+        <div className="flex py-4 items-center pr-2 w-3/12">
           <img
-            className="h-10 mr-4"
+            className="h-9 mr-3"
             src="https://file.hstatic.net/200000636033/file/logo_fd11946b31524fbe98765f34f3de0628.svg"
             alt=""
           />
@@ -52,7 +52,7 @@ function MainHeader() {
         </div>
         <div className="flex items-center gap-2 w-9/12">
           <SearchBar />
-          <div className="flex gap-6 items-center">
+          <div className="flex gap-6 items-center w-7/12">
             <ActionLink content={"Hotline: 1900.5301"} textWidth={"w-14"}>
               <svg
                 viewBox="0 0 20 25"

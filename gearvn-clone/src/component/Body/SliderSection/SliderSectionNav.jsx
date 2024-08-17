@@ -388,7 +388,7 @@ export default function SliderSectionNav() {
           <circle cx="15" cy="7" r="1" fill="currentcolor"></circle>
         </svg>
       </SliderNavItems>
-      <SliderNavItems content={"Phụ kiện (Hub, sạc, cáp,..)"}>
+      <SliderNavItems content={"Phụ kiện (Hub, sạc, cáp)"}>
         <svg
           width="20"
           height="14"
