@@ -4295,14 +4295,227 @@
         "cableType": "Phẳng, tất cả màu trắng",
         "port": "Chân ATX/MB 20+4 x 1 : 650mm*1\nCPU/EPS 4+4 Chân x 2 : 700mm*2\nPCI-e 16 Chân x 1: 700mm*1\nPCI-e 6+2 Chân x 6 : 650mm+150mm*2, 750mm*2\nSATA x 8 : 600mm+150mm+150mm+150mm*2\n4 Pin Ngoại Vi x 4 : 500mm+150mm+150mm+150mm*1"
       }
+    },
+    {
+      "id": 2,
+      "title": "Nguồn máy tính GIGABYTE AORUS ELITE P1000W PCIe 5.0 - 80 Plus Platinum - Full Modular (1000W)",
+      "manufacturer": "GIGABYTE",
+      "sale": "19",
+      "price": "1.290.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/p650ss_ice-06_0a181d4033c2451c9ef00725bad28ae7_medium.png",
+        "image_2": "https://product.hstatic.net/200000722513/product/p650ss_ice-06_0a181d4033c2451c9ef00725bad28ae7_grande.png",
+        "image_3": "https://product.hstatic.net/200000722513/product/p650ss_ice-05_b1c51c0bca564601a6231cd79100a42a_grande.png",
+        "image_4": "https://product.hstatic.net/200000722513/product/p650ss_ice-02_bd5ffc9b74ee430bba5acdf8c1a91327_grande.png",
+        "image_5": "https://product.hstatic.net/200000722513/product/p650ss_ice-04_c98fb239f9d344838a0277ec957fcd2f_grande.png",
+        "image_6": "https://product.hstatic.net/200000722513/product/p650ss_ice-01_4e2526a6e6034e5ba96444fca7f941a5_grande.png"
+      },
+      "detail": {
+        "model": "GP-P650SS ICE",
+        "type": "Intel Form Factor ATX 12V v3.0",
+        "PFC": "Active PFC (>0.9 typical)",
+        "inputVoltage": "155-240 Vac",
+        "inputCurrent": "6.3A",
+        "inputFrequency": "60-50 Hz",
+        "outputPower": "650W",
+        "size": "150 x 140 x 86 mm",
+        "fanType": "120mm Fluid Dynamic Bearing (FDB) fan",
+        "80Plus": "Bạc",
+        "efficiency": "90% at typical load (230V EU)",
+        "MTBF": "> 100.000 giờ",
+        "protection": "OVP/OPP/SCP/UVP/OCP/OTP",
+        "powerSignal": "100-150ms",
+        "holdupTime": "> 16ms",
+        "cableType": "Thẳng, màu trắng",
+        "port": "ATX/MB 20+4 Pin x 1 : 600mm*1\nCPU/EPS 4+4 Pin x 2 : 650mm+120mm*1\nPCI-e 6+2 Pin x 2 : 600mm*2\nSATA x 3 + 4 Pin Peripheral x 1\nSATA x 2 + 4 Pin Peripheral x 2"
+      }
     }
   ],
-  "keyboard": [{}],
-  "mouse": [{}],
-  "chair": [{}],
-  "headphone": [{}],
-  "speaker": [{}],
-  "console": [{}],
+  "keyboard": [
+    {
+      "id": 1,
+      "title": "Bàn phím Corsair K70 PRO MINI WIRELESS RGB MX Red - White",
+      "sale": "49",
+      "price": "4.489.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/ban-phim-co-khong-day-corsair-k7__7__44203c1a9e6342278f6d8ff4b283bc33_medium.png",
+        "image_2": "https://product.hstatic.net/200000722513/product/keyboard-k70-pro-mini-white-4-16_cdb86b8129ed48789360caea66ce3271_grande.png",
+        "image_3": "https://product.hstatic.net/200000722513/product/ban-phim-co-khong-day-corsair-k7__9__3f7666c8ec3646048ab3c7f499005f30_grande.png",
+        "image_4": "https://product.hstatic.net/200000722513/product/keyboard-k70-pro-mini-white-3-16_06846c7662cc4095b72b0e0f4a25eadc_grande.png",
+        "image_5": "https://product.hstatic.net/200000722513/product/ban-phim-co-khong-day-corsair-k7__8__1dfe1226f60e4a42848b45a242c37bfb_grande.png",
+        "image_6": "https://product.hstatic.net/200000722513/product/keyboard-k70-pro-mini-white-2-16_fdd4640cc5344da88f8f381ef559c2cf_grande.png"
+      },
+      "detail": {
+        "size": "293 x 109 x 40mm",
+        "keycap": "PBT Double-shot",
+        "battery": "Lithium-Ion",
+        "connect": "Multi",
+        "brand": "Corsair",
+        "maximumProfile": "Lên đến 50 profile",
+        "CUE": "Hỗ trợ iCUE",
+        "keyboardRollover": "Full key với Anti-Ghosting",
+        "supportFeature": "Hot-Swap 3-pin",
+        "warranty": "24 tháng",
+        "port": "USB 3.0 và USB 3.1 Type-A",
+        "LED": "RGB",
+        "weight": "0.64kg",
+        "keySwitch": "CHERRY® MX RED/ SPEED",
+        "keys": "61 phím",
+        "processor": "8MB"
+      }
+    }
+  ],
+  "mouse": [
+    {
+      "id": 1,
+      "title": "Chuột Logitech G309 Lightspeed Wireless Bluetooth Đen",
+      "sale": "10",
+      "price": "2.090.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/black_b406079deeae46858542c5af8f18771b_medium.png",
+        "image_2": "https://product.hstatic.net/200000722513/product/2_95f623904df4480a88e886523edee9f6_grande.png",
+        "image_3": "https://product.hstatic.net/200000722513/product/3_111711522a4643d0998deabfb21d74e6_grande.png",
+        "image_4": "https://product.hstatic.net/200000722513/product/4_dbd9cc5d16bf467bada9276fe95ed94c_grande.png",
+        "image_5": "https://product.hstatic.net/200000722513/product/5_0b8352fbb1b749d595120984e2f254ad_grande.png",
+        "image_6": "https://product.hstatic.net/200000722513/product/6_fdf7911e6f5b4da0ba93f0c92572def3_grande.png"
+      },
+      "detail": {
+        "warranty": "24 tháng",
+        "FEET": "PTFE Feet",
+        "batteryTime": "300 giờ với Lightspeed không dây\n600 giờ với Bluetooth",
+        "maxIPS": ">400",
+        "color": "",
+        "weight": "POWERPLAY 68g / Pin AA 86g",
+        "brand": "",
+        "connect": "",
+        "cable": "Lightspeed",
+        "programmingButtons": "",
+        "size": "120 mm x 64 mm x 39 mm",
+        "sensor": "Hero 25K",
+        "switch": "hybrid quang học - cơ học Lightforce",
+        "maxDPI": "100 - 25600 Dpi",
+        "LED": "",
+        "maximumAcceleration": "> 40G2",
+        "design": ""
+      }
+    }
+  ],
+  "chair": [
+    {
+      "id": 1,
+      "title": "Ghế Gaming E-Dra Dignity EGC234 Black",
+      "sale": "15",
+      "price": "1.990.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/521_egc234b___4_c9f3274cf6a14ade8cbafdc596d2ee15_medium.jpg",
+        "image_2": "https://product.hstatic.net/200000722513/product/z5491466387132_32ad25df31ad39bcc60ddb599e8c01b4_ed628f3223a14135bd77857ead21f2e9_grande.jpg",
+        "image_3": "https://product.hstatic.net/200000722513/product/z5491466387134_a3c515402c0625da225356f89957b112_5a9cc0bd27584fe785eaa57298fb3ca2_grande.jpg",
+        "image_4": "https://product.hstatic.net/200000722513/product/z5491466411534_5a261b3a865e3440d21780bbd8b434b6_efb0599e239a4dd89c8afce8035c6682_grande.jpg",
+        "image_5": "https://product.hstatic.net/200000722513/product/z5491466387060_7ba35c81803b169209d7cc76e2c7bae7_2eaa3d7e19ad41d58823b4b4905782b5_grande.jpg",
+        "image_6": "https://product.hstatic.net/200000722513/product/z5491466411537_f77e19fdb2c490b61610049521455a3a_1e742cdd340245e3a744821e8afa1139_grande.jpg"
+      },
+      "detail": {
+        "brand": "E-Dra",
+        "material": "da PU",
+        "armrest": "gắn liền - 1D",
+        "maximumRecliningAngle": "150 độ",
+        "frameMaterial": "Khung, chân nhựa",
+        "hydraulicLiftMechanism": "Class 2",
+        "accessory": "Giấy HDSD / Kê chân"
+      }
+    }
+  ],
+  "headphone": [
+    {
+      "id": 1,
+      "title": "Tai nghe DareU EH469 7.1 RGB Pink",
+      "sale": "27",
+      "price": "599.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/34400_dareu_eh469_pink_1d57e30add8f42eca3eaa006d32481e2_5fea9259b65343acadecc1b76079c8b4_medium.jpg",
+        "image_2": "https://product.hstatic.net/200000722513/product/34400_dareu_eh469_pink_1d57e30add8f42eca3eaa006d32481e2_5fea9259b65343acadecc1b76079c8b4_grande.jpg",
+        "image_3": "https://product.hstatic.net/200000722513/product/_gvn8890_d519abdb8c9a469aba95ab88c62bf2b8_e7033fa9ef74479db2918086d4216e3e_grande.jpg",
+        "image_4": "https://product.hstatic.net/200000722513/product/_gvn8888_e6d7b1f9ae3e4d249016d8b2338ceb30_adb2ea763c9645d2980818e45a1e6f22_grande.jpg",
+        "image_5": "https://product.hstatic.net/200000722513/product/_gvn8892_ff10ed7b669745358264a903189cb04e_081c44ec94a14adea88068766d84401e_grande.jpg",
+        "image_6": "https://product.hstatic.net/200000722513/product/_gvn8894_0ad8345edee04221929145e75e5107f9_3101791b14554960b77265def91a6b2e_grande.jpg"
+      },
+      "detail": {
+        "brand": "DareU",
+        "warranty": "12 tháng",
+        "color": "Hồng",
+        "headphoneType": "Over-ear",
+        "connect": "Có dây",
+        "batteryTime": "",
+        "wirelessRange": "",
+        "microphone": "Có thể điều chỉnh hướng",
+        "frameMaterial": "Hợp kim",
+        "compatibility": "Windows / MacOS",
+        "impedance": "1KHz / 32Ohm",
+        "frequency": "20Hz - 20KHz",
+        "sensitivity": "",
+        "soundQuality": "",
+        "surroundSound": "",
+        "noiseIsolation": "Có",
+        "headphoneDriver": ""
+      }
+    }
+  ],
+  "speaker": [
+    {
+      "id": 1,
+      "title": "Loa Bluetooth Edifier MP85 Trắng",
+      "sale": "38",
+      "price": "450.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/1_bcef33871e754eb9b4f382fb3f51cf57_medium.png",
+        "image_2": "https://product.hstatic.net/200000722513/product/1_bcef33871e754eb9b4f382fb3f51cf57_grande.png",
+        "image_3": "https://product.hstatic.net/200000722513/product/loa-khong-day-edifier-mp85-white-05_ae2a9ed3209b4d87ad8c43b5f86d1815_grande.jpg",
+        "image_4": "https://product.hstatic.net/200000722513/product/loa-khong-day-edifier-mp85-white-03_74869abb556240f29d6b4e6139ed0537_grande.jpg",
+        "image_5": "https://product.hstatic.net/200000722513/product/_gvn8892_ff10ed7b669745358264a903189cb04e_081c44ec94a14adea88068766d84401e_grande.jpg",
+        "image_6": "https://product.hstatic.net/200000722513/product/_gvn8894_0ad8345edee04221929145e75e5107f9_3101791b14554960b77265def91a6b2e_grande.jpg"
+      },
+      "detail": {
+        "power": "2.2W",
+        "configuration": "V5.3",
+        "frequencyResponse": "230Hz - 17kHz",
+        "signalToNoiseRatio": "≥ 85dB (A)",
+        "distortion": "",
+        "signalSensitivity": "Bluetooth: 550±50mFFS",
+        "input": "",
+        "size": "52mm × 63mm × 28.5mm",
+        "weight": "0.7kg"
+      }
+    }
+  ],
+  "console": [
+    {
+      "id": 1,
+      "title": "Máy chơi game Sony PlayStation 5 Slim CFI-2018A 01 (2 TAY CẦM)",
+      "sale": "",
+      "price": "15.000.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/9223-ps5-slim-1_16f3f04d3f974bbebf72569d962b07d7_medium.jpg",
+        "image_2": "https://product.hstatic.net/200000722513/product/9223-ps5-slim-1_16f3f04d3f974bbebf72569d962b07d7_grande.jpg",
+        "image_3": "https://product.hstatic.net/200000722513/product/250-9535-dock-sac-nhanh-tay-cam_60f015d6ab1840c9ba3310900e814dc0_grande.jpg",
+        "image_4": "https://product.hstatic.net/200000722513/product/250-9536-dock-sac-nhanh-tay-cam-3_de4d428982e4453aae081dfe7fab11cb_grande.jpg",
+        "image_5": "https://product.hstatic.net/200000722513/product/playstation-5-slim-ps5-slim-chinh-hang-asia-00479-dualsense-bundle--1-_dd1c9fe5c42f46e6be3b0e4fea1d3932_grande.png",
+        "image_6": "https://product.hstatic.net/200000722513/product/9223-may-ps5-slim-digital-edition-42_cc87502f25fa4134948d0341f3a1fa30_grande.jpg"
+      },
+      "detail": {
+        "CPU": "AMD Zen 2 8 nhân 16 luồng, xung nhịp 3.5GHz",
+        "RAM": "16GB GDDR6",
+        "SSD": "1TB SSD tốc độ đạt 5,5 GB/s",
+        "VGA": "Kiến trúc RDNA 2 của AMD, sức mạnh 10.3 TFLOPS, tốc độ 2.23GHz, hỗ trợ Ray-Tracing",
+        "interfacePort": "Hỗ trợ Ray-Tracing\nHỗ trợ tần số quét 120Hz\nÂm thanh vòm 3D\nTương thích ngược với các game PS4",
+        "disk": "Ultra HD Blu-ray",
+        "audio": "Tempest 3D AudioTech",
+        "connectPort": "HDMI 2.1\nUSB-A\nUSB-C",
+        "color": "Trắng",
+        "weight": "3.2kg",
+        "size": "35.8cm x 9,6cm x 21.6cm (Bản ổ đĩa)"
+      }
+    }
+  ],
   "accessory": [{}],
   "officedevice": [{}],
   "apple": [{}]
