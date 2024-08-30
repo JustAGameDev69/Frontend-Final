@@ -2,7 +2,7 @@ import { Carousel } from "@material-tailwind/react";
 
 export default function CarouselBanner() {
   return (
-    <div className="w-full h-2/3">
+    <div className="w-full h-80">
       <Carousel
         autoplay={true}
         autoplayDelay={4000}

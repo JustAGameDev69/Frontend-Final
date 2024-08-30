@@ -1,0 +1,21 @@
+.react-multiple-carousel__arrow--right {
+  right: calc(4% - 40px);
+}
+
+.react-multiple-carousel__arrow--left {
+  left: calc(4% - 44px);
+}
+
+.react-multiple-carousel__arrow {
+  position: absolute;
+  outline: 0;
+  transition: all 0.5s;
+  border-radius: 35px;
+  z-index: 1000;
+  border: 0;
+  background: rgba(204, 201, 201, 0.5);
+  min-width: 36px;
+  min-height: 36px;
+  opacity: 1;
+  cursor: pointer;
+}

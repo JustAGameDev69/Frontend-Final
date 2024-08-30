@@ -1,0 +1,49 @@
+.product-carousel-header {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 50px;
+  color: #333333;
+  font-size: 14px;
+  line-height: 1.5;
+  padding: 0 1rem;
+}
+
+.product-carousel-header-left {
+  display: flex;
+  align-items: center;
+  height: 36px;
+}
+
+.product-carousel-header-left h4 {
+  font-size: 22px;
+}
+
+.product-carousel-header-left span {
+  width: 1px;
+  height: 22px;
+  background-color: gray;
+  margin: 0 16px;
+}
+
+.product-carousel-header-left svg {
+  width: 20px;
+  height: 20px;
+  margin-right: 14px;
+}
+
+.product-carousel-header-left p {
+  font-weight: 600;
+}
+
+.product-carousel-header-right {
+  display: flex;
+  justify-content: space-between;
+  gap: 24px;
+}
+
+.show-all {
+  color: #1982f9;
+  font-weight: 400;
+}

@@ -5,7 +5,6 @@ function App() {
     <>
       <Header />
       <Body />
-      <h1>GearVN clone</h1>
     </>
   );
 }
