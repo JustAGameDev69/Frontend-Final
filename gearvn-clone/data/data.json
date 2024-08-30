@@ -3964,8 +3964,339 @@
       }
     }
   ],
-  "coolingfan": [{}],
-  "PSU": [{}],
+  "coolingfan": [
+    {
+      "id": 1,
+      "title": "Bộ 3 quạt Xigmatek STARLINK ULTRA ARGB BLACK",
+      "manufacturer": "Xigmatek",
+      "sale": "16",
+      "price": "1.290.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/10198-tnc-store-quat-tan-nhiet-x_be645523146b46f09a1d93af2f0af5b0_medium.png",
+        "image_2": "https://product.hstatic.net/200000722513/product/10198-tnc-store-quat-tan-nhiet-x_be645523146b46f09a1d93af2f0af5b0_grande.png",
+        "image_3": "https://product.hstatic.net/200000722513/product/starlink-ultra____-02_0d217bee05264c45b3d7b2b9c074e70c_grande.png",
+        "image_4": "https://product.hstatic.net/200000722513/product/7123-fan-xigmatek-starlink-ultra_d9f1eb493499421d83bcfedc9c5be866_grande.png"
+      },
+      "detail": {
+        "brand": "Xigmatek",
+        "typeOfShaftBearing": "Hydraulic Bearing",
+        "LEDpos": "HUB",
+        "operatingVoltage": "5.0V~12.0V",
+        "powerDrawFan": "12V 0.24A 2.88W",
+        "pressure": "65.5 CFM",
+        "lifeSpan": "30,000 giờ",
+        "size": "120x120x25mm",
+        "ledColor": "ARGB",
+        "fanSpeed": "800-2000+-10% RPM",
+        "powerDrawLED": "5V 0.864A 4.32W",
+        "noiseLevel": "<29.2 BA",
+        "airPressure": "2.05 mmH2O",
+        "fanContain": "Bộ 3 cái",
+        "accessory": "Smart fan control box, remote controller, fan screws"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Bộ 3 quạt Corsair RS120 ARGB WHITE (CO-9050185-WW)",
+      "manufacturer": "Corsair",
+      "sale": "14",
+      "price": "1.390.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/rs120_argb_wht_trpl_01_e35dee912dcb480e94cbac4237d0aec0_medium.png",
+        "image_2": "https://product.hstatic.net/200000722513/product/rs120_argb_wht_trpl_01_e35dee912dcb480e94cbac4237d0aec0_grande.png",
+        "image_3": "https://product.hstatic.net/200000722513/product/rs120_argb_wht_trpl_03_2d34a4e597a64b0a9854d75dc99d488c_grande.png",
+        "image_4": "https://product.hstatic.net/200000722513/product/rs120_argb_wht_trpl_02_aea759278bc5409bb66b2d31fdf692bb_grande.png",
+        "image_5": "https://product.hstatic.net/200000722513/product/rs120_argb_blk_trpl_04_08bb5bb55808403ea27c9548f440c392_grande.png"
+      },
+      "detail": {
+        "brand": "Corsair",
+        "typeOfShaftBearing": "",
+        "LEDpos": "",
+        "operatingVoltage": "",
+        "powerDrawFan": "0.4A",
+        "pressure": "13.3 - 72.8 CFM",
+        "lifeSpan": "",
+        "size": "120mm x 25mm",
+        "ledColor": "RGB",
+        "fanSpeed": "400 – 2100 RPM ±10%",
+        "powerDrawLED": "",
+        "noiseLevel": "10 - 36 dBA",
+        "airPressure": "0.2 – 4.15 mm-H2O",
+        "fanContain": "3 quạt",
+        "accessory": ""
+      }
+    },
+    {
+      "id": 3,
+      "title": "Bộ 3 quạt Corsair RS120 ARGB BLACK (CO-9050181-WW)",
+      "manufacturer": "Corsair",
+      "sale": "14",
+      "price": "1.390.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/rs120_argb_blk_trpl_01_34dd7f9080a848ac9dfdf53ef62ccf19_medium.png",
+        "image_2": "https://product.hstatic.net/200000722513/product/rs120_argb_blk_trpl_01_34dd7f9080a848ac9dfdf53ef62ccf19_grande.png",
+        "image_3": "https://product.hstatic.net/200000722513/product/rs120_argb_blk_trpl_04_2515bf47789b4e1a93a271b001544085_grande.png",
+        "image_4": "https://product.hstatic.net/200000722513/product/rs120_argb_blk_trpl_03_9fa8c5b547c945c795810ebe1882a59b_grande.png",
+        "image_5": "https://product.hstatic.net/200000722513/product/rs120_argb_blk_trpl_02_c3ddde5dfc154ff3953e736c77cbdc64_grande.png"
+      },
+      "detail": {
+        "brand": "Corsair",
+        "typeOfShaftBearing": "",
+        "LEDpos": "",
+        "operatingVoltage": "",
+        "powerDrawFan": "0.4A",
+        "pressure": "13.3 - 72.8 CFM",
+        "lifeSpan": "",
+        "size": "120mm x 25mm",
+        "ledColor": "RGB",
+        "fanSpeed": "400 – 2100 RPM ±10%",
+        "powerDrawLED": "",
+        "noiseLevel": "10 - 36 dBA",
+        "airPressure": "0.2 – 4.15 mm-H2O",
+        "fanContain": "3 quạt",
+        "accessory": ""
+      }
+    },
+    {
+      "id": 4,
+      "title": "Quạt Máy Tính Lian Li UNI FAN TL120 White Triple Pack",
+      "manufacturer": "Lian Li",
+      "sale": "15",
+      "price": "4.690.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/unfan_tl_04_c_8b4d895e479243e8ac0d76e05eec187c_medium.png",
+        "image_2": "https://product.hstatic.net/200000722513/product/unfan_tl_04_c_8b4d895e479243e8ac0d76e05eec187c_grande.png",
+        "image_3": "https://product.hstatic.net/200000722513/product/dsc6837_c_702215b722864d2b8bff1ad86acdeb15_grande.png"
+      },
+      "detail": {
+        "brand": "Lian Li",
+        "typeOfShaftBearing": "Fluid Dynamic Bearing (FDB)",
+        "LEDpos": "",
+        "operatingVoltage": "DC12V & 5V",
+        "powerDrawFan": "0.4A",
+        "pressure": "90.1 CFM (tối đa)",
+        "lifeSpan": "",
+        "size": "124 x 120 x 28 mm",
+        "ledColor": "",
+        "fanSpeed": "0, 200~2600 RPM",
+        "powerDrawLED": "5.8W",
+        "noiseLevel": "33 dB(A) Max",
+        "airPressure": "3.97 mmH2O (tối đa)",
+        "fanContain": "",
+        "accessory": ""
+      }
+    },
+    {
+      "id": 5,
+      "title": "Quạt Máy Tính Lian Li UNI FAN TL120 White Triple Pack",
+      "manufacturer": "Lian Li",
+      "sale": "15",
+      "price": "4.690.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/unfan_tl_02_c_e749ccb5226e4c9ab56b1eb72256328a_medium.png",
+        "image_2": "https://product.hstatic.net/200000722513/product/unfan_tl_02_c_e749ccb5226e4c9ab56b1eb72256328a_grande.png",
+        "image_3": "https://product.hstatic.net/200000722513/product/dsc6835_c_6ffef6d659ce4b67a424a4f790dca49b_grande.png"
+      },
+      "detail": {
+        "brand": "Lian Li",
+        "typeOfShaftBearing": "Fluid Dynamic Bearing (FDB)",
+        "LEDpos": "",
+        "operatingVoltage": "DC12V & 5V",
+        "powerDrawFan": "0.4A",
+        "pressure": "90.1 CFM (tối đa)",
+        "lifeSpan": "",
+        "size": "124 x 120 x 28 mm",
+        "ledColor": "",
+        "fanSpeed": "0, 200~2600 RPM",
+        "powerDrawLED": "5.8W",
+        "noiseLevel": "33 dB(A) Max",
+        "airPressure": "3.97 mmH2O (tối đa)",
+        "fanContain": "",
+        "accessory": ""
+      }
+    },
+    {
+      "id": 6,
+      "title": "Bộ 3 quạt Xigmatek STARLINK ULTRA ARGB WHITE",
+      "manufacturer": "Xigmatek",
+      "sale": "",
+      "price": "1.090.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/20771_141a410a344d49beb903a97b5e9bfd7e_medium.png"
+      },
+      "detail": {
+        "brand": "Xigmatek",
+        "typeOfShaftBearing": "Hydraulic Bearing",
+        "LEDpos": "HUB",
+        "operatingVoltage": "5.0V~12.0V",
+        "powerDrawFan": "12V 0.24A 2.88W",
+        "pressure": "65.5 CFM",
+        "lifeSpan": "30,000 giờ",
+        "size": "120x120x25mm",
+        "ledColor": "ARGB",
+        "fanSpeed": "800-2000+-10% RPM",
+        "powerDrawLED": "5V 0.864A 4.32W",
+        "noiseLevel": "<29.2 BA",
+        "airPressure": "2.05 mmH2O",
+        "fanContain": "Bộ 3 cái",
+        "accessory": "Smart fan control box, remote controller, fan screws"
+      }
+    },
+    {
+      "id": 7,
+      "title": "Quạt máy tính HYTE Flow FA12 PWM FAN (3-PACK)",
+      "manufacturer": "HYTE",
+      "sale": "",
+      "price": "890.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/image_6499aa1bf60e496eab84d892de11b2cd_medium.png"
+      },
+      "detail": {
+        "brand": "HYTE",
+        "typeOfShaftBearing": "Fluid Dynamic Bearing",
+        "LEDpos": "",
+        "operatingVoltage": "",
+        "powerDrawFan": "",
+        "pressure": "72 CFM",
+        "lifeSpan": "",
+        "size": "120 x 120 x 25 mm",
+        "ledColor": "",
+        "fanSpeed": "1500 RPM",
+        "powerDrawLED": "",
+        "noiseLevel": "Tối đa ~ 28.0 dBA",
+        "airPressure": "1.6 mmH2O",
+        "fanContain": "3 chiếc",
+        "accessory": ""
+      }
+    },
+    {
+      "id": 8,
+      "title": "Bộ 3 quạt Xigmatek STARLINK ARGB WHITE",
+      "manufacturer": "Xigmatek",
+      "sale": "",
+      "price": "690.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/21538_88a187ff839c4646939450df439e4788_medium.jpeg",
+        "image_2": "https://product.hstatic.net/200000722513/product/21538_88a187ff839c4646939450df439e4788_grande.jpeg",
+        "image_3": "https://product.hstatic.net/200000722513/product/21539_f1bfcbe253f3416eb79b8224d3369a27_grande.jpeg",
+        "image_4": "https://product.hstatic.net/200000722513/product/21540_e2980daacc194dcd860649d2193103e7_grande.jpeg"
+      },
+      "detail": {
+        "brand": "Xigmatek",
+        "typeOfShaftBearing": "Hydraulic Bearing",
+        "LEDpos": "HUB",
+        "operatingVoltage": "5.0V~12.0V",
+        "powerDrawFan": "12V 0.24A 2.88W",
+        "pressure": "65.5 CFM",
+        "lifeSpan": "30,000 giờ",
+        "size": "120 x 120 x 25 mm",
+        "ledColor": "ARGB",
+        "fanSpeed": "900-1800 RPM",
+        "powerDrawLED": "5V 0.19A 0.95W",
+        "noiseLevel": "<28.7 BA",
+        "airPressure": "1.88 mmH2O",
+        "fanContain": "Bộ 3 cái",
+        "accessory": "Mini ARGB LED Controller, Fan screws"
+      }
+    },
+    {
+      "id": 9,
+      "title": "Fan NZXT F120 RGB DUO Triple Pack White",
+      "manufacturer": "NZXT ",
+      "sale": "",
+      "price": "2.490.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/controller-left-side-angle-view-white_66e5f86a540947c0997c07094aed4af8_c94a540a94b949b7afcdf5d00b7e4e10_medium.png",
+        "image_2": "https://product.hstatic.net/200000722513/product/controller-left-side-angle-view-white_66e5f86a540947c0997c07094aed4af8_c94a540a94b949b7afcdf5d00b7e4e10_grande.png",
+        "image_3": "https://product.hstatic.net/200000722513/product/gb-duo-triple-pack-angled-front-white_39ef08c4616240c4a3dc1c6946e9660a_f68b763db38446d486df77161bb460a2_grande.png",
+        "image_4": "https://product.hstatic.net/200000722513/product/o-triple-pack-top-down-view-white__1__93484c99b67a4f8bb25e3057241094ff_1f0a9b3c4a114c2e8ac795e2279dae60_grande.png",
+        "image_5": "https://product.hstatic.net/200000722513/product/ple-pack-behind-right-side-view-black_cadbfe87398b41a683ab1e2958039f2d_66b5806d90904e0e9fa45f66b5a62d1d_grande.png",
+        "image_6": "https://product.hstatic.net/200000722513/product/uo-triple-pack-above-angle-view-black_57d3c15f9f28498dab15bee932e6a201_53f69473780445aa8410a3f7a07d9163_grande.png"
+      },
+      "detail": {
+        "brand": "NZXT",
+        "typeOfShaftBearing": "PWM 4 chân",
+        "LEDpos": "",
+        "operatingVoltage": "12V DC",
+        "powerDrawFan": "",
+        "pressure": "48.58 CFM",
+        "lifeSpan": "",
+        "size": "120 x120 x 25 mm",
+        "ledColor": "",
+        "fanSpeed": "500 - 1.800 ± 300RPM",
+        "powerDrawLED": "",
+        "noiseLevel": "29 dBA",
+        "airPressure": "2.42 mm-H₂O",
+        "fanContain": "",
+        "accessory": ""
+      }
+    },
+    {
+      "id": 10,
+      "title": "Quạt máy tính Jetek JQC-120I RGB 12cm",
+      "manufacturer": "Jetek ",
+      "sale": "20",
+      "price": "100.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/998116386fancasejetek12cmledrgbj_29584ee611fb40faa91ea527f17ad40f_medium.png",
+        "image_2": "https://product.hstatic.net/200000722513/product/998116386fancasejetek12cmledrgbj_29584ee611fb40faa91ea527f17ad40f_grande.png",
+        "image_3": "https://product.hstatic.net/200000722513/product/z5436086910814_661e2767337d0da10ca2ba46064cf482_e2e879d4d9324a06baf7665422196d02_grande.jpg"
+      },
+      "detail": {
+        "brand": "Jetek",
+        "typeOfShaftBearing": "",
+        "LEDpos": "",
+        "operatingVoltage": "",
+        "powerDrawFan": "",
+        "pressure": "",
+        "lifeSpan": "",
+        "size": "120mm x 25mm",
+        "ledColor": "RGB",
+        "fanSpeed": "1100 RPM ± 10%",
+        "powerDrawLED": "",
+        "noiseLevel": "",
+        "airPressure": "",
+        "fanContain": "",
+        "accessory": ""
+      }
+    }
+  ],
+  "PSU": [
+    {
+      "id": 1,
+      "title": "Nguồn máy tính GIGABYTE AORUS ELITE P1000W PCIe 5.0 - 80 Plus Platinum - Full Modular (1000W)",
+      "manufacturer": "GIGABYTE",
+      "sale": "",
+      "price": "6.490.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/aorus_elite_p1000w_80__platinum_modular_pcie_5.0-07_0ec8124d51f943d9a84e29232be026b7_medium.png",
+        "image_2": "https://product.hstatic.net/200000722513/product/aorus_elite_p1000w_80__platinum_modular_pcie_5.0-03_2bffe27bbdd347c0b97c97b8f836c55f_grande.png",
+        "image_3": "https://product.hstatic.net/200000722513/product/aorus_elite_p1000w_80__platinum_modular_pcie_5.0-04_77b34004192946cdb4f69e8e9c9b5335_grande.png",
+        "image_4": "https://product.hstatic.net/200000722513/product/aorus_elite_p1000w_80__platinum_modular_pcie_5.0-02_4638cfa67fc046debe6ddcbe208d2e74_grande.png",
+        "image_5": "https://product.hstatic.net/200000722513/product/aorus_elite_p1000w_80__platinum_modular_pcie_5.0-05_d0a414eed57e4e5d91ae5b04e57cdbb1_grande.png",
+        "image_6": "https://product.hstatic.net/200000722513/product/aorus_elite_p1000w_80__platinum_modular_pcie_5.0-01_ad2640487fe44638a0265a6c3d5407a7_grande.png"
+      },
+      "detail": {
+        "model": "AE1000PM PG5",
+        "type": "Intel Form Factor ATX 12V V3.0",
+        "PFC": "PFC hoạt động (> 0.9 typical)",
+        "inputVoltage": "100-240 Vac (full range)",
+        "inputCurrent": "15 - 6.5A",
+        "inputFrequency": "60-50 Hz",
+        "outputPower": "1000W",
+        "size": "150 x 140 x 86 mm",
+        "fanType": "Quạt ổ trục chất lỏng (FDB) 1 x 120mm",
+        "80Plus": "Platinum",
+        "efficiency": "92% at typical load",
+        "MTBF": "> 100.000 giờ",
+        "protection": "OVP / OPP / SCP / UVP / OCP / OTP",
+        "powerSignal": "100-150ms",
+        "holdupTime": "> 16ms",
+        "cableType": "Phẳng, tất cả màu trắng",
+        "port": "Chân ATX/MB 20+4 x 1 : 650mm*1\nCPU/EPS 4+4 Chân x 2 : 700mm*2\nPCI-e 16 Chân x 1: 700mm*1\nPCI-e 6+2 Chân x 6 : 650mm+150mm*2, 750mm*2\nSATA x 8 : 600mm+150mm+150mm+150mm*2\n4 Pin Ngoại Vi x 4 : 500mm+150mm+150mm+150mm*1"
+      }
+    }
+  ],
   "keyboard": [{}],
   "mouse": [{}],
   "chair": [{}],
