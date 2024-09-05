@@ -5993,6 +5993,56 @@
         "size": "",
         "weight": "245g"
       }
+    },
+    {
+      "id": 9,
+      "title": "Loa di động kháng nước IPX4 SOUNARC P1 Portable Speaker - Pink",
+      "sale": "",
+      "price": "350.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/1_ef67d9ff-28a7-4bc7-b9f3-cecc395c54ad_93da1879d99843aa894d9e0ef839c1d4_medium.jpg",
+        "image_2": "https://product.hstatic.net/200000722513/product/1_ef67d9ff-28a7-4bc7-b9f3-cecc395c54ad_93da1879d99843aa894d9e0ef839c1d4_grande.jpg",
+        "image_3": "https://product.hstatic.net/200000722513/product/e0589ac10a2e2968f00ae4315ad82f2b_22946d19-a143-492a-a1ca-0ff64d52c35e_e011dee1840e43ea9eac71cf645fa374_grande.jpg",
+        "image_4": "https://product.hstatic.net/200000722513/product/15a6c5670e2536e3228775c342f7429c_ca312bc3-751a-4f38-ae0d-b5040264838a_8ec3f89604c24b6ba043f57904186f73_grande.jpg",
+        "image_5": "https://product.hstatic.net/200000722513/product/097b106e50a0320c2a394fb6d0c90070_47ef1640-aea7-4f0d-a285-499a1d7a284a_9cbf4b20f1744d5e8a95b4f1911422ca_grande.jpg",
+        "image_6": "https://product.hstatic.net/200000722513/product/83391da716f74a4ae6d1bd2edf808e47_9c459b60-df94-45be-ad72-bfdbc9a9e665_17f3a39533b94b3ebec9bb682e90bf34_grande.jpg"
+      },
+      "detail": {
+        "power": "5W",
+        "configuration": "V5.3",
+        "frequencyResponse": "90Hz-19kHz",
+        "signalToNoiseRatio": "",
+        "distortion": "",
+        "signalSensitivity": "",
+        "input": "5V/900mAh，via Type-C Port",
+        "size": "",
+        "weight": "245g"
+      }
+    },
+    {
+      "id": 10,
+      "title": "Loa di động kháng nước IPX4 SOUNARC P1 Portable Speaker - Black",
+      "sale": "",
+      "price": "350.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/4.2_1ce0ede807c843fca01da2f5d21b9158_medium.jpg",
+        "image_2": "https://product.hstatic.net/200000722513/product/4.2_1ce0ede807c843fca01da2f5d21b9158_grande.jpg",
+        "image_3": "https://product.hstatic.net/200000722513/product/3_415a5719-6b74-403e-929a-a81a8dbc646a_4abc8a1ea57c4f7c8adf85d147af82e4_grande.jpg",
+        "image_4": "https://product.hstatic.net/200000722513/product/11_57889d91-c1ac-4fe4-8d49-608d4326c253_498549d88bf042da89f5dc0195dc7f9a_grande.jpg",
+        "image_5": "https://product.hstatic.net/200000722513/product/10_da6cb14f-e7b4-40d8-a1d5-dd8603ed28db_ad64f94567994f87acd718a80b38cf0c_grande.jpg",
+        "image_6": "https://product.hstatic.net/200000722513/product/5_8b8d5cdf-2744-46bc-b50e-9313b85b443a_cca69803a70e45698cb69392da18ef43_grande.jpg"
+      },
+      "detail": {
+        "power": "5W",
+        "configuration": "V5.3",
+        "frequencyResponse": "90Hz-19kHz",
+        "signalToNoiseRatio": "",
+        "distortion": "",
+        "signalSensitivity": "",
+        "input": "5V/900mAh，via Type-C Port",
+        "size": "",
+        "weight": "245g"
+      }
     }
   ],
   "console": [
@@ -6022,9 +6072,333 @@
         "weight": "3.2kg",
         "size": "35.8cm x 9,6cm x 21.6cm (Bản ổ đĩa)"
       }
+    },
+    {
+      "id": 2,
+      "title": "Máy chơi game Sony PlayStation 5 Slim CFI-2018A 01",
+      "sale": "",
+      "price": "13.300.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/9223-ps5-slim_f51c096af206409bb9dfe7a858ea433d_medium.jpg",
+        "image_2": "https://product.hstatic.net/200000722513/product/9223-ps5-slim_f51c096af206409bb9dfe7a858ea433d_grande.jpg",
+        "image_3": "https://product.hstatic.net/200000722513/product/9223-ps5-slim-1_8bf2a611fdd14468a839dc96c06478b8_grande.jpg",
+        "image_4": "https://product.hstatic.net/200000722513/product/9223-may-ps5-slim-digital-edition-42_813c69ad5f0d4d33b29eebb89990fade_grande.jpg"
+      },
+      "detail": {
+        "CPU": "x86-64-AMD Ryzen “Zen 2” (8 lõi / 16 luồng, upto 3.5GHz)",
+        "RAM": "16GB GDDR6",
+        "SSD": "1TB SSD tốc độ đạt 5,5 GB/s",
+        "VGA": "AMD Radeon RDNA 2",
+        "interfacePort": "Hỗ trợ Ray-Tracing\nHỗ trợ tần số quét 120Hz\nÂm thanh vòm 3D\nTương thích ngược với các game PS4",
+        "disk": "Ultra HD Blu-ray",
+        "audio": "Tempest 3D AudioTech",
+        "connectPort": "HDMI 2.1\nUSB-A\nUSB-C",
+        "color": "Trắng",
+        "weight": "3.2kg",
+        "size": "35.8cm x 9,6cm x 21.6cm (Bản ổ đĩa)"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Tay cầm không dây Dualsense Edge Sony Playstation CFI-ZCP1 G_CFI-ZCP1 G",
+      "sale": "",
+      "price": "13.300.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/z5471996768412_8a99e56fd2f83f5f7f3f3d30bb01776a_2c9c102acd9b4fc7a7301b0c1890d2d7_medium.jpg",
+        "image_2": "https://product.hstatic.net/200000722513/product/z5471996768412_8a99e56fd2f83f5f7f3f3d30bb01776a_2c9c102acd9b4fc7a7301b0c1890d2d7_grande.jpg",
+        "image_3": "https://product.hstatic.net/200000722513/product/z5471996728072_aa53c6ac37df2a5747d8e1f4d73039dd_303e6e97e1c54daeaa547fc5cd38426b_grande.jpg",
+        "image_4": "https://product.hstatic.net/200000722513/product/z5471996746838_0f27b22f8527de95a4b421474303c1ff_adc01e7cdbc14f8b90b9c83660fc8004_grande.jpg",
+        "image_5": "https://product.hstatic.net/200000722513/product/z5471996746959_df215bf1085fd27f9d95006a98c37cfa_c9a5191675954f5bbf1243f3601365f9_grande.jpg"
+      },
+      "detail": {
+        "accessory": "Cáp USB\n2 Caps mặc định\n2 Caps cao\n2 Caps thấp\n2 nút half dome ở mặt sau\n2 nút level back ở mặt sau\nĐầu kết nối tay cầm\nTúi đựng",
+        "feature": "Tùy chỉnh hành trình hai nút Trigger, điều chỉnh vùng chết của cần điều khiển, cường độ rung, độ nhạy\nCần điều khiển có thể thay thế",
+        "connect": "USB Type C/ Bluetoot",
+        "weight": "325g",
+        "size": "160 x 66 x 106 (mm) / 6.3 x 2.6 x 4.2 (in)"
+      }
+    },
+    {
+      "id": 4,
+      "title": "Tay Cầm Không Dây DualSense God Of War Sony Playstation CFI-ZCT1G Z1_CFI-ZCT1G Z1",
+      "sale": "5",
+      "price": "2.090.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/z5471990692565_70ac8bf85a7d531a14c56ddbf6db4462_46431cd7e46f45f5b5613be54cec42c9_medium.jpg",
+        "image_2": "https://product.hstatic.net/200000722513/product/z5471990692565_70ac8bf85a7d531a14c56ddbf6db4462_46431cd7e46f45f5b5613be54cec42c9_grande.jpg",
+        "image_3": "https://product.hstatic.net/200000722513/product/z5471990692561_43c6082705fa02d5d817008b3ed83083_df6a8beadf3d401a87acab3725ce7790_grande.jpg",
+        "image_4": "https://product.hstatic.net/200000722513/product/z5471990651709_4fe8ce9d6b21dee0bdea3515a4d637c6_becf3eab62784d9eb97211a39a3e98d3_grande.jpg",
+        "image_5": "https://product.hstatic.net/200000722513/product/z5471990651816_c9c0bfb2682d9ff3bb0a128fbd196f6f_da6b3bc220ed464bbf931a1e73dacfae_grande.jpg",
+        "image_6": "https://product.hstatic.net/200000722513/product/z5471990632973_1766dea78098cbc5d3b6608090bbf948_801c68309a7b4d22bd26a2bf44615ab9_grande.jpg"
+      },
+      "detail": {
+        "buttons": "PS button, Create button, Options button\nDirectional buttons (Up/Down/Left/Right), Action buttons (Triangle, Circle, Cross, Square)\nR1/L1 button\nR2/L2 button (with Trigger Effect)",
+        "touchpad": "2 Point Touch Pad, Capacitive Type, Click Mechanism",
+        "monitor": "SIXAXIS motion sensing system (three-axis gyroscope + three-axis accelerometer)",
+        "audio": "Built-in Microphone Array, Built-in Mono Speaker, Stereo Headset Jack",
+        "feedback": "Trigger Effect (on R2/L2 button), Vibration (haptic feedback by dual actuators), Indicators (Light bar / Player indicator / MUTE status)",
+        "weight": "280g",
+        "size": "60mm x 66mm x 106mm (không tính kích thước chiếu lớn nhất) (Dài x Cao x Rộng)"
+      }
+    },
+    {
+      "id": 5,
+      "title": "Tay Cầm Không Dây DualSense Grey Camo Sony Playstation CFI-ZCT1G 06_CFI-ZCT1G 06",
+      "sale": "5",
+      "price": "2.090.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/z5471986482810_0368019cb1e8e9e0ba703fae7e5c3452_43b911976a0b4e3bb4d1e30b08c86471_medium.jpg"
+      },
+      "detail": {
+        "buttons": "PS button, Create button, Options button\nDirectional buttons (Up/Down/Left/Right), Action buttons (Triangle, Circle, Cross, Square)\nR1/L1 button\nR2/L2 button (with Trigger Effect)",
+        "touchpad": "2 Point Touch Pad, Capacitive Type, Click Mechanism",
+        "monitor": "SIXAXIS motion sensing system (three-axis gyroscope + three-axis accelerometer)",
+        "audio": "Built-in Microphone Array, Built-in Mono Speaker, Stereo Headset Jack",
+        "feedback": "Trigger Effect (on R2/L2 button), Vibration (haptic feedback by dual actuators), Indicators (Light bar / Player indicator / MUTE status)",
+        "weight": "280g",
+        "size": "60mm x 66mm x 106mm (không tính kích thước chiếu lớn nhất) (Dài x Cao x Rộng)"
+      }
+    },
+    {
+      "id": 6,
+      "title": "Tay Cầm Không Dây DualSense Blue Sony Playstation CFI-ZCT1G 05_CFI-ZCT1G 05",
+      "sale": "5",
+      "price": "2.090.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/z5471982444360_d12ae3c89fde56f1f49ec361a63c5fd1_88b3afda05ef4b68b8384119034798b6_medium.jpg",
+        "image_2": "https://product.hstatic.net/200000722513/product/z5471982444360_d12ae3c89fde56f1f49ec361a63c5fd1_88b3afda05ef4b68b8384119034798b6_grande.jpg",
+        "image_3": "https://product.hstatic.net/200000722513/product/z5471982444450_1632a7e2aba264cff7d0181d18669970_bcc46c7e2828458ea66b511db652bc70_grande.jpg"
+      },
+      "detail": {
+        "buttons": "PS button, Create button, Options button\nDirectional buttons (Up/Down/Left/Right), Action buttons (Triangle, Circle, Cross, Square)\nR1/L1 button\nR2/L2 button (with Trigger Effect)",
+        "touchpad": "2 Point Touch Pad, Capacitive Type, Click Mechanism",
+        "monitor": "SIXAXIS motion sensing system (three-axis gyroscope + three-axis accelerometer)",
+        "audio": "Built-in Microphone Array, Built-in Mono Speaker, Stereo Headset Jack",
+        "feedback": "Trigger Effect (on R2/L2 button), Vibration (haptic feedback by dual actuators), Indicators (Light bar / Player indicator / MUTE status)",
+        "weight": "280g",
+        "size": "60mm x 66mm x 106mm (không tính kích thước chiếu lớn nhất) (Dài x Cao x Rộng)"
+      }
+    },
+    {
+      "id": 7,
+      "title": "Tay Cầm Không Dây DualSense Purple Sony Playstation CFI-ZCT1G 04_CFI-ZCT1G 04",
+      "sale": "5",
+      "price": "2.090.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/z5471974301501_04e72fa0636b97579cd5f10d7652ab77_a391bf683a184e659be0f1ea501505ab_medium.jpg",
+        "image_2": "https://product.hstatic.net/200000722513/product/z5471974301501_04e72fa0636b97579cd5f10d7652ab77_a391bf683a184e659be0f1ea501505ab_grande.jpg",
+        "image_3": "https://product.hstatic.net/200000722513/product/z5471974281164_03d10933de37a5c50cd22c9b8166b871_ac0bf4048b0f402b90ee606cffa7dc08_grande.jpg",
+        "image_4": "https://product.hstatic.net/200000722513/product/z5471974301499_7148cbc71e7e5f106d2c5666626c5380_f02e0fb4e0c5401c90c3143466fd9933_grande.jpg",
+        "image_5": "https://product.hstatic.net/200000722513/product/z5471974301500_da62f749915b2b629938805bb406aca0_a88a9a5b061642b1b6e71fdcd4226780_grande.jpg"
+      },
+      "detail": {
+        "buttons": "PS button, Create button, Options button\nDirectional buttons (Up/Down/Left/Right), Action buttons (Triangle, Circle, Cross, Square)\nR1/L1 button\nR2/L2 button (with Trigger Effect)",
+        "touchpad": "2 Point Touch Pad, Capacitive Type, Click Mechanism",
+        "monitor": "SIXAXIS motion sensing system (three-axis gyroscope + three-axis accelerometer)",
+        "audio": "Built-in Microphone Array, Built-in Mono Speaker, Stereo Headset Jack",
+        "feedback": "Trigger Effect (on R2/L2 button), Vibration (haptic feedback by dual actuators), Indicators (Light bar / Player indicator / MUTE status)",
+        "weight": "280g",
+        "size": "60mm x 66mm x 106mm (không tính kích thước chiếu lớn nhất) (Dài x Cao x Rộng)"
+      }
+    },
+    {
+      "id": 8,
+      "title": "Tay Cầm Không Dây DualSense Nova Pink Sony Playstation CFI-ZCT1G 03_CFI-ZCT1G 03",
+      "sale": "5",
+      "price": "2.090.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/z5471963640916_fb431972d35bed0b509993975354cbc4_6d6dcf7f1a9f45d7963f38f693706618_medium.jpg",
+        "image_2": "https://product.hstatic.net/200000722513/product/z5471963640916_fb431972d35bed0b509993975354cbc4_6d6dcf7f1a9f45d7963f38f693706618_grande.jpg",
+        "image_3": "https://product.hstatic.net/200000722513/product/z5471964084303_f969ae4a038570c07c4957b6c8f044e2_3ed008b7e5574b2d82ce8fa5121064f6_grande.jpg",
+        "image_4": "https://product.hstatic.net/200000722513/product/z5471964609264_95063800fa0b65113b47cbd610062fe4_de018aeae16f463ab1901853efc4b53e_grande.jpg",
+        "image_5": "https://product.hstatic.net/200000722513/product/z5471965801166_eb3be43bcbea851e0454849211210928_b89e4b628456459fae8cd918153696cf_grande.jpg"
+      },
+      "detail": {
+        "buttons": "PS button, Create button, Options button\nDirectional buttons (Up/Down/Left/Right), Action buttons (Triangle, Circle, Cross, Square)\nR1/L1 button\nR2/L2 button (with Trigger Effect)",
+        "touchpad": "2 Point Touch Pad, Capacitive Type, Click Mechanism",
+        "monitor": "SIXAXIS motion sensing system (three-axis gyroscope + three-axis accelerometer)",
+        "audio": "Built-in Microphone Array, Built-in Mono Speaker, Stereo Headset Jack",
+        "feedback": "Trigger Effect (on R2/L2 button), Vibration (haptic feedback by dual actuators), Indicators (Light bar / Player indicator / MUTE status)",
+        "weight": "280g",
+        "size": "60mm x 66mm x 106mm (không tính kích thước chiếu lớn nhất) (Dài x Cao x Rộng)"
+      }
+    },
+    {
+      "id": 9,
+      "title": "Tay cầm không dây DualSense Cosmic Red Sony Playstation CFI-ZCT1G 02_CFI-ZCT1G 02",
+      "sale": "5",
+      "price": "2.090.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/z5471963640916_fb431972d35bed0b509993975354cbc4_6d6dcf7f1a9f45d7963f38f693706618_medium.jpg",
+        "image_2": "https://product.hstatic.net/200000722513/product/z5471963640916_fb431972d35bed0b509993975354cbc4_6d6dcf7f1a9f45d7963f38f693706618_grande.jpg",
+        "image_3": "https://product.hstatic.net/200000722513/product/z5471964084303_f969ae4a038570c07c4957b6c8f044e2_3ed008b7e5574b2d82ce8fa5121064f6_grande.jpg",
+        "image_4": "https://product.hstatic.net/200000722513/product/z5471964609264_95063800fa0b65113b47cbd610062fe4_de018aeae16f463ab1901853efc4b53e_grande.jpg",
+        "image_5": "https://product.hstatic.net/200000722513/product/z5471965801166_eb3be43bcbea851e0454849211210928_b89e4b628456459fae8cd918153696cf_grande.jpg"
+      },
+      "detail": {
+        "buttons": "PS button, Create button, Options button\nDirectional buttons (Up/Down/Left/Right), Action buttons (Triangle, Circle, Cross, Square)\nR1/L1 button\nR2/L2 button (with Trigger Effect)",
+        "touchpad": "2 Point Touch Pad, Capacitive Type, Click Mechanism",
+        "monitor": "SIXAXIS motion sensing system (three-axis gyroscope + three-axis accelerometer)",
+        "audio": "Built-in Microphone Array, Built-in Mono Speaker, Stereo Headset Jack",
+        "feedback": "Trigger Effect (on R2/L2 button), Vibration (haptic feedback by dual actuators), Indicators (Light bar / Player indicator / MUTE status)",
+        "weight": "280g",
+        "size": "60mm x 66mm x 106mm (không tính kích thước chiếu lớn nhất) (Dài x Cao x Rộng)"
+      }
+    },
+    {
+      "id": 10,
+      "title": "Tay Cầm Không Dây DualSense Black Sony Playstation CFI-ZCT1G 01_CFI-ZCT1G 01",
+      "sale": "5",
+      "price": "1.990.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/9033-tay-cam-choi-game-ps5-midnight-black-avt-1_aeb10f57c18849dcbd131ac00accbbe5_medium.jpg",
+        "image_2": "https://product.hstatic.net/200000722513/product/9033-tay-cam-choi-game-ps5-midnight-black-avt-1_aeb10f57c18849dcbd131ac00accbbe5_grande.jpg",
+        "image_3": "https://product.hstatic.net/200000722513/product/9033-tay-cam-choi-game-ps5-midnight-black-2_7bb7f6609db04d4d9ddb8418710b6713_grande.jpg",
+        "image_4": "https://product.hstatic.net/200000722513/product/9033-tay-cam-choi-game-ps5-midnight-black-3_619663acd451456d9a8a0fca3f1de043_grande.jpg",
+        "image_5": "https://product.hstatic.net/200000722513/product/9033-tay-cam-choi-game-ps5-midnight-black-4_df6aa8eab14e46abb9f35317b52afed0_grande.jpg"
+      },
+      "detail": {
+        "buttons": "PS button, Create button, Options button\nDirectional buttons (Up/Down/Left/Right), Action buttons (Triangle, Circle, Cross, Square)\nR1/L1 button\nR2/L2 button (with Trigger Effect)",
+        "touchpad": "2 Point Touch Pad, Capacitive Type, Click Mechanism",
+        "monitor": "SIXAXIS motion sensing system (three-axis gyroscope + three-axis accelerometer)",
+        "audio": "Built-in Microphone Array, Built-in Mono Speaker, Stereo Headset Jack",
+        "feedback": "Trigger Effect (on R2/L2 button), Vibration (haptic feedback by dual actuators), Indicators (Light bar / Player indicator / MUTE status)",
+        "weight": "280g",
+        "size": "60mm x 66mm x 106mm (không tính kích thước chiếu lớn nhất) (Dài x Cao x Rộng)"
+      }
     }
   ],
-  "accessory": [{}],
+  "accessory": [
+    {
+      "id": 1,
+      "title": "Microphone Razer Seiren V3 Chroma - White",
+      "sale": "",
+      "price": "3.689.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/seiren_v3_chroma_white_edition__2024__render01_43c91876151c43cbaf62bbff9fa85b8f_medium.png",
+        "image_2": "https://product.hstatic.net/200000722513/product/seiren_v3_chroma_white_edition__2024__render01_43c91876151c43cbaf62bbff9fa85b8f_grande.png",
+        "image_3": "https://product.hstatic.net/200000722513/product/seiren_v3_chroma_white_edition__2024__render02_9009fe5beb4043dbb6b2a573864ebc25_grande.png",
+        "image_4": "https://product.hstatic.net/200000722513/product/seiren_v3_chroma_white_edition__2024__render03_64bad6af2a054d60b1c7ea29c8fee126_grande.png",
+        "image_5": "https://product.hstatic.net/200000722513/product/seiren_v3_chroma_white_edition__2024__render04_76bc027b293a47dd93ec2d6e0863fc40_grande.png",
+        "image_6": "https://product.hstatic.net/200000722513/product/seiren_v3_chroma_white_edition__2024__render05_7248a5e0dfe14bb5b60203299d85bb19_grande.png"
+      },
+      "detail": {
+        "microphoneDirectionality": "Supercardioid",
+        "outputPower": "None",
+        "connect": "cáp USB Type-A to Type-C",
+        "warranty": "12 Tháng",
+        "sampleBitRate": "96Hz / 24-bit",
+        "capacitorType": "tụ 16mm",
+        "powerConsumption": "5 V / 500 mA",
+        "brand": "Razer",
+        "sensitivity": "-34 dB (1 V / Pa at 1 kHz)",
+        "frequency": "20 Hz - 20 kHz",
+        "maximumSPL": "110 dB"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Microphone Razer Seiren V3 Chroma - Black",
+      "sale": "",
+      "price": "3.580.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/seiren_v3_chroma__2023__render01_9fb6432beb0846a6b0ab7e094b1c55b9_medium.png",
+        "image_2": "https://product.hstatic.net/200000722513/product/seiren_v3_chroma__2023__render01_9fb6432beb0846a6b0ab7e094b1c55b9_grande.png",
+        "image_3": "https://product.hstatic.net/200000722513/product/seiren_v3_chroma__2023__render02_f9b99f28197f4ab49b5b3c1e912e6070_grande.png",
+        "image_4": "https://product.hstatic.net/200000722513/product/seiren_v3_chroma__2023__render03_3eb8310fc8944b779295115a2e056cd4_grande.png",
+        "image_5": "https://product.hstatic.net/200000722513/product/seiren_v3_chroma__2023__render04_0a43aa007c8f4aa39e7c261f9a212a6a_grande.png",
+        "image_6": "https://product.hstatic.net/200000722513/product/seiren_v3_chroma__2023__render05_be92fd093eb44cd89c1b6744d1c99004_grande.png"
+      },
+      "detail": {
+        "microphoneDirectionality": "Supercardioid",
+        "outputPower": "None",
+        "connect": "cáp USB Type-A to Type-C",
+        "warranty": "12 Tháng",
+        "sampleBitRate": "96Hz / 24-bit",
+        "capacitorType": "tụ 16mm",
+        "powerConsumption": "5 V / 500 mA",
+        "brand": "Razer",
+        "sensitivity": "-34 dB (1 V / Pa at 1 kHz)",
+        "frequency": "20 Hz - 20 kHz",
+        "maximumSPL": "110 dB"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Microphone Razer Seiren V3 Mini - Quartz",
+      "sale": "",
+      "price": "1.370.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/seiren_v3_mini_quartz__2023__render_01_3ae3913fe0eb481c8d61908af61b9d32_medium.png",
+        "image_2": "https://product.hstatic.net/200000722513/product/seiren_v3_mini_quartz__2023__render_01_3ae3913fe0eb481c8d61908af61b9d32_grande.png",
+        "image_3": "https://product.hstatic.net/200000722513/product/seiren_v3_mini_quartz__2023__render_02_92acfe141d614ae09fe743eda0b086e9_grande.png",
+        "image_4": "https://product.hstatic.net/200000722513/product/seiren_v3_mini_quartz__2023__render_03_edebd0306f524effb4c9c35b40ec01c3_grande.png"
+      },
+      "detail": {
+        "microphoneDirectionality": "Supercardioid",
+        "outputPower": "None",
+        "connect": "cáp USB Type-A to Type-C",
+        "warranty": "12 Tháng",
+        "sampleBitRate": "96Hz / 24-bit",
+        "capacitorType": "Tụ 14mm",
+        "powerConsumption": "5V 350mA",
+        "brand": "Razer",
+        "sensitivity": "- 36 dB (1 V / Pa at 1 kHz)",
+        "frequency": "20 Hz - 20 kHz",
+        "maximumSPL": "110 dB"
+      }
+    },
+    {
+      "id": 4,
+      "title": "Microphone Razer Seiren V3 Mini - White",
+      "sale": "",
+      "price": "1.370.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/seiren_v3_mini_white_2023__render_01_551f10b96f4448e788b5f14b76ef2592_medium.png",
+        "image_2": "https://product.hstatic.net/200000722513/product/seiren_v3_mini_white_2023__render_01_551f10b96f4448e788b5f14b76ef2592_grande.png",
+        "image_3": "https://product.hstatic.net/200000722513/product/seiren_v3_mini_white_2023__render_03_acdffac88a6c46dbae6bd6c65d3e05f4_grande.png",
+        "image_4": "https://product.hstatic.net/200000722513/product/seiren_v3_mini_white_2023__render_02_d853194278be4f559a45e32cd474b492_grande.png"
+      },
+      "detail": {
+        "microphoneDirectionality": "Supercardioid",
+        "outputPower": "None",
+        "connect": "cáp USB Type-A to Type-C",
+        "warranty": "12 Tháng",
+        "sampleBitRate": "96Hz / 24-bit",
+        "capacitorType": "Tụ 14mm",
+        "powerConsumption": "5V 350mA",
+        "brand": "Razer",
+        "sensitivity": "- 36 dB (1 V / Pa at 1 kHz)",
+        "frequency": "20 Hz - 20 kHz",
+        "maximumSPL": "110 dB"
+      }
+    },
+    {
+      "id": 5,
+      "title": "Microphone Razer Seiren V3 Mini - Black",
+      "sale": "",
+      "price": "1.370.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/seiren_v3_mini___2023__render_01_826b6625c73a4629aceb74f25bca9550_medium.png",
+        "image_2": "https://product.hstatic.net/200000722513/product/seiren_v3_mini___2023__render_01_826b6625c73a4629aceb74f25bca9550_grande.png",
+        "image_3": "https://product.hstatic.net/200000722513/product/seiren_v3_mini___2023__render_02_296ef0c8e1c4437f926efe591f98ae98_grande.png",
+        "image_4": "https://product.hstatic.net/200000722513/product/seiren_v3_mini___2023__render_03_1e21462e54c64bb7a2d220d8518508cd_grande.png"
+      },
+      "detail": {
+        "microphoneDirectionality": "Supercardioid",
+        "outputPower": "None",
+        "connect": "cáp USB Type-A to Type-C",
+        "warranty": "12 Tháng",
+        "sampleBitRate": "96Hz / 24-bit",
+        "capacitorType": "Tụ 14mm",
+        "powerConsumption": "5V 350mA",
+        "brand": "Razer",
+        "sensitivity": "- 36 dB (1 V / Pa at 1 kHz)",
+        "frequency": "20 Hz - 20 kHz",
+        "maximumSPL": "110 dB"
+      }
+    }
+  ],
   "officedevice": [{}],
   "apple": [{}]
 }
