@@ -4329,6 +4329,278 @@
         "cableType": "Thẳng, màu trắng",
         "port": "ATX/MB 20+4 Pin x 1 : 600mm*1\nCPU/EPS 4+4 Pin x 2 : 650mm+120mm*1\nPCI-e 6+2 Pin x 2 : 600mm*2\nSATA x 3 + 4 Pin Peripheral x 1\nSATA x 2 + 4 Pin Peripheral x 2"
       }
+    },
+    {
+      "id": 3,
+      "title": "Nguồn máy tính GIGABYTE P550SS - 80 Plus Silver ( 550W )",
+      "manufacturer": "GIGABYTE",
+      "sale": "9",
+      "price": "1.090.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/p550ss-07_c6a8b9b2cfcf482dbfcc4c69e80d4080_medium.png",
+        "image_2": "https://product.hstatic.net/200000722513/product/p550ss-07_c6a8b9b2cfcf482dbfcc4c69e80d4080_grande.png",
+        "image_3": "https://product.hstatic.net/200000722513/product/p550ss-01_89bf821fe61c4db4bb8f990357bfcb4d_grande.png",
+        "image_4": "https://product.hstatic.net/200000722513/product/p550ss-02_4b03c15d22954cba806633c0613d339b_grande.png",
+        "image_5": "https://product.hstatic.net/200000722513/product/p550ss-03_63c928afd3a9403a965a1a42534c1029_grande.png",
+        "image_6": "https://product.hstatic.net/200000722513/product/p550ss-04_ad7c073397d84ae5a8be722ba9214973_grande.png"
+      },
+      "detail": {
+        "model": "GP-P550SS",
+        "type": "Intel Form Factor ATX 12V v3.0",
+        "PFC": "Active PFC (>0.9 typical)",
+        "inputVoltage": "155-240 Vac",
+        "inputCurrent": "6.3A",
+        "inputFrequency": "60-50 Hz",
+        "outputPower": "650W",
+        "size": "150 x 140 x 86 mm",
+        "fanType": "120mm Fluid Dynamic Bearing (FDB) fan",
+        "80Plus": "Bạc",
+        "efficiency": "90% at typical load (230V EU)",
+        "MTBF": "> 100.000 giờ",
+        "protection": "OVP/OPP/SCP/UVP/OCP/OTP",
+        "powerSignal": "100-150ms",
+        "holdupTime": "> 16ms",
+        "cableType": "Thẳng, đen",
+        "port": "ATX/MB 20+4 Pin x 1 : 600mm*1\nCPU/EPS 4+4 Pin x 2 : 650mm+120mm*1\nPCI-e 6+2 Pin x 2 : 600mm*2\nSATA x 3 + 4 Pin Peripheral x 1\nSATA x 2 + 4 Pin Peripheral x 2"
+      }
+    },
+    {
+      "id": 4,
+      "title": "Nguồn máy tính MSI MAG A1250GL PCIE5 - 80 Plus Gold - Full Modular (1250W)",
+      "manufacturer": "MSI",
+      "sale": "0",
+      "price": "5.490.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/1024__5__10dc755f12ec4edea59e4aaedc53b52e_medium.png",
+        "image_2": "https://product.hstatic.net/200000722513/product/1024__5__10dc755f12ec4edea59e4aaedc53b52e_grande.png",
+        "image_3": "https://product.hstatic.net/200000722513/product/1024__6__d5eeca3525b9418ab1d3a7a5f84f6a49_grande.png",
+        "image_4": "https://product.hstatic.net/200000722513/product/1024__7__369995e726014834adc1e07513b4ac5f_grande.png",
+        "image_5": "https://product.hstatic.net/200000722513/product/1024__8__c0b3724e56404c90b51212964b2ab24a_grande.png",
+        "image_6": "https://product.hstatic.net/200000722513/product/1024__9__9affb24c22a340cfa0396ce467753355_grande.png"
+      },
+      "detail": {
+        "model": "",
+        "type": "",
+        "PFC": "Active PFC",
+        "inputVoltage": "100~240 VAC",
+        "inputCurrent": "",
+        "inputFrequency": "47-63Hz",
+        "outputPower": "1250W",
+        "size": "150 x 150 x 86 mm",
+        "fanType": "Fluid Dynamic Bearing",
+        "80Plus": "Gold",
+        "efficiency": "80 PLUS Gold (up to 90%)",
+        "MTBF": "MTTF 150,000 Hours (25℃)",
+        "protection": "OCP / OVP / OPP / OTP / SCP / UVP",
+        "powerSignal": "",
+        "holdupTime": "",
+        "cableType": "Thẳng, đen",
+        "port": "4-Pin PWM/DC"
+      }
+    },
+    {
+      "id": 5,
+      "title": "Nguồn máy tính Deepcool PN850M - 80 Plus Gold - ATX 3.1 - Full Modular (850W)",
+      "manufacturer": "Deepcool",
+      "sale": "3",
+      "price": "2.990.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/06_b5ea2f53caa441ff84157adcabbd2a64_medium.png",
+        "image_2": "https://product.hstatic.net/200000722513/product/06_b5ea2f53caa441ff84157adcabbd2a64_grande.png",
+        "image_3": "https://product.hstatic.net/200000722513/product/05_9772d9538f02468c9bae2b18501105d1_grande.png",
+        "image_4": "https://product.hstatic.net/200000722513/product/04_f764c6ac7e5f4eb69364f7f391b40876_grande.png",
+        "image_5": "https://product.hstatic.net/200000722513/product/03_335b4223a0f24413bf6708fe2d9c46b5_grande.png",
+        "image_6": "https://product.hstatic.net/200000722513/product/02_98531dee4a4d46c3a0336132b197b8bb_grande.png"
+      },
+      "detail": {
+        "model": "",
+        "type": "ATX12V V3.1",
+        "PFC": "Active PFC + Full Bridge SRC LLC + DC to DC",
+        "inputVoltage": "",
+        "inputCurrent": "",
+        "inputFrequency": "",
+        "outputPower": "",
+        "size": "150×140×86mm (W x L x H)",
+        "fanType": "FDB (Fluid Dynamic Bearing)",
+        "80Plus": "Gold",
+        "efficiency": "≥90% Dưới tải thông thường (50% Loading)",
+        "MTBF": "100,000 Hours",
+        "protection": "SCP,OPP,OTP,OVP,OCP,UVP",
+        "powerSignal": "100-500ms",
+        "holdupTime": "≥16ms(80% Load)",
+        "cableType": "",
+        "port": ""
+      }
+    },
+    {
+      "id": 6,
+      "title": "Nguồn máy tính ASUS Prime 850W - 80 Plus Gold - Full Modular ( 850W )",
+      "manufacturer": "ASUS",
+      "sale": "",
+      "price": "3.490.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/ap-850g-01_ce1fbc32a4384e64bdd5badd98f851c3_medium.jpg",
+        "image_2": "https://product.hstatic.net/200000722513/product/ap-850g-02_a949e2f5dc3a4db5bb7be64f5a0651fd_grande.jpg",
+        "image_3": "https://product.hstatic.net/200000722513/product/ap-850g-03_c11529f841894f57b431fd9467bf01d4_grande.jpg",
+        "image_4": "https://product.hstatic.net/200000722513/product/ap-850g-04_cff361dac82c4a29a7e011dd6d767c39_grande.jpg",
+        "image_5": "https://product.hstatic.net/200000722513/product/ap-850g-05_056776e363ec49279f1411a90502cd25_grande.jpg",
+        "image_6": "https://product.hstatic.net/200000722513/product/ap-850g-06_1fd9fab49e3643678ca6286a75b8093d_grande.jpg"
+      },
+      "detail": {
+        "model": "AP-850G",
+        "type": "ATX12V",
+        "PFC": "Active PFC",
+        "inputVoltage": "100-240Vac",
+        "inputCurrent": "",
+        "inputFrequency": "",
+        "outputPower": "850W",
+        "size": "150 x 150 x 86 mm",
+        "fanType": "",
+        "80Plus": "",
+        "efficiency": "80Plus Gold",
+        "MTBF": "",
+        "protection": "OPP / OVP / UVP / SCP / OCP / OTP",
+        "powerSignal": "",
+        "holdupTime": "",
+        "cableType": "",
+        "port": "MB 24/20-pin x 1\nCPU 4+4-pin x 2\nPCI-E 16-pin x 1 (cả PSU và mặt đầu nối)\nPCI-E 8-pin x 3\nSATA x 5\nPeriplheral x 3"
+      }
+    },
+    {
+      "id": 7,
+      "title": "Nguồn máy tính GIGABYTE UD850GM PG5 - 80 Plus Gold - Full Modular (850W)",
+      "manufacturer": "Gigabyte",
+      "sale": "14",
+      "price": "3.490.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/ud850gm_pg5-07_0adb9528a06f4b94b0fa2e2ea07f5351_medium.png",
+        "image_2": "https://product.hstatic.net/200000722513/product/ud850gm_pg5-05_a511107d8c9c4fe19e9debf49aac94da_grande.png",
+        "image_3": "https://product.hstatic.net/200000722513/product/ud850gm_pg5-06_49b395562ee0453d96e6f033a17b7754_grande.png",
+        "image_4": "https://product.hstatic.net/200000722513/product/ud850gm_pg5-04_a4bf6646fffe4df88459276ee279dba5_grande.png",
+        "image_5": "https://product.hstatic.net/200000722513/product/ud850gm_pg5-01_98be516160014f298d6033473d2ae3b4_grande.png",
+        "image_6": "https://product.hstatic.net/200000722513/product/ud850gm_pg5-02_5400f71b599246e4988e9303996e9550_grande.png"
+      },
+      "detail": {
+        "model": "GP-UD850GM",
+        "type": "Intel Form Factor ATX 12V v2.31",
+        "PFC": "Active PFC (>0.9 typical)",
+        "inputVoltage": "100-240 Vac (full range)",
+        "inputCurrent": "12-6A",
+        "inputFrequency": "60-50 Hz",
+        "outputPower": "850W",
+        "size": "150 x 140 x 86 mm",
+        "fanType": "120mm Hydraulic Bearing(HYB)fan",
+        "80Plus": "Gold",
+        "efficiency": "90% at typical load",
+        "MTBF": "> 100.000 giờ",
+        "protection": "OVP / OPP / SCP / UVP / OCP / OTP",
+        "powerSignal": "100-150ms",
+        "holdupTime": "> 16ms",
+        "cableType": "Phẳng, tất cả màu đen",
+        "port": "ATX/MB 20+4 Pin x 1 : 610mm*1\nCPU/EPS 4+4 Pin x 2 : 600mm+200mm*1\nPCI-e 12+4 Pin x 1: 700mm*1\nPCI-e 6+2 Pin x 4 : 600mm+150mm*2"
+      }
+    },
+    {
+      "id": 8,
+      "title": "Nguồn máy tính ASUS ROG Strix 1000W AURA White Edition - 80 Plus Gold - Full Modular (1000W)",
+      "manufacturer": "Asus",
+      "sale": "",
+      "price": "6.990.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/h732__10__4150de0d482c4cc7bab04278c67116f1_medium.png",
+        "image_2": "https://product.hstatic.net/200000722513/product/h732_b95f07bb7b484e54a34642e16888d5fa_grande.png",
+        "image_3": "https://product.hstatic.net/200000722513/product/h732__1__7df5ed4968a44418a0d7a802ff9ef5f5_grande.png",
+        "image_4": "https://product.hstatic.net/200000722513/product/h732__2__691d9a85dcbc4b5e98d7c39b6f882395_grande.png",
+        "image_5": "https://product.hstatic.net/200000722513/product/h732__3__dc686d265254464c906213b595aad8ba_grande.png",
+        "image_6": "https://product.hstatic.net/200000722513/product/h732__4__3b03344aaf59469bb5e002dbfad1465d_grande.png"
+      },
+      "detail": {
+        "model": "",
+        "type": "ATX 12V",
+        "PFC": "",
+        "inputVoltage": "100-240Vac",
+        "inputCurrent": "",
+        "inputFrequency": "",
+        "outputPower": "1000W",
+        "size": "180 x 150 x 86 mm",
+        "fanType": "",
+        "80Plus": "Gold",
+        "efficiency": "80 Plus Gold",
+        "MTBF": "",
+        "protection": "OPP / OVP / SCP / OCP / OTP",
+        "powerSignal": "",
+        "holdupTime": "",
+        "cableType": "",
+        "port": "MB 24/20-pin x 1\nCPU 4+4-pin x 2\nPCI-E 16-pin x 1\nPCI-E 8-pin x 4 SATA x 5\nPERIPHERAL x 4"
+      }
+    },
+    {
+      "id": 9,
+      "title": "Nguồn máy tính Corsair HX1500i - 80 Plus Platinum - Full Modular (1500W) (CP-9020261-NA)",
+      "manufacturer": "Corsair",
+      "sale": "5",
+      "price": "9.990.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/gearvn-nguon-corsair-hx1500i-full-modular-80-plus-platinum-5_941b6db02f2a4848ac2503a49d00472f_medium.png",
+        "image_2": "https://product.hstatic.net/200000722513/product/gearvn-nguon-corsair-hx1500i-full-modular-80-plus-platinum-1_f7177e0a7e3346dd897a67097033ddd1_grande.png",
+        "image_3": "https://product.hstatic.net/200000722513/product/gearvn-nguon-corsair-hx1500i-full-modular-80-plus-platinum-2_b43fc2640b6a4f2f99cc790149d04597_grande.png",
+        "image_4": "https://product.hstatic.net/200000722513/product/gearvn-nguon-corsair-hx1500i-full-modular-80-plus-platinum-3_2e31e2215a0d4b7aac23bd795875c382_grande.png",
+        "image_5": "https://product.hstatic.net/200000722513/product/gearvn-nguon-corsair-hx1500i-full-modular-80-plus-platinum-8_e2c0698816f24b608cd42cebe1d32d45_grande.png",
+        "image_6": "https://product.hstatic.net/200000722513/product/gearvn-nguon-corsair-hx1500i-full-modular-80-plus-platinum-4_8064efd7ce99486eaacb60a78c198565_grande.png"
+      },
+      "detail": {
+        "model": "",
+        "type": "ATX 12V",
+        "PFC": "",
+        "inputVoltage": "100-240Vac",
+        "inputCurrent": "",
+        "inputFrequency": "",
+        "outputPower": "1500W",
+        "size": "",
+        "fanType": "",
+        "80Plus": "",
+        "efficiency": "80 Plus Titanium",
+        "MTBF": "100,000 hours",
+        "protection": "OPP / OVP / SCP / OCP / OTP",
+        "powerSignal": "",
+        "holdupTime": "",
+        "cableType": "",
+        "port": ""
+      }
+    },
+    {
+      "id": 10,
+      "title": "Nguồn máy tính ASUS ROG Thor 1200P2 - 80 Plus Platinum - Full Modular (1200W)",
+      "manufacturer": "Asus",
+      "sale": "10",
+      "price": "9.990.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/h732_d28f32102b2c4fb6ab2a5bfa31f95b41_30899e2f85eb4ecca967eee77a147ccc_medium.png",
+        "image_2": "https://product.hstatic.net/200000722513/product/h732__6__9bb72716f9924e899b4a6366fba73e06_46afd1e8c6a6498596cf17dcddbb241f_grande.png",
+        "image_3": "https://product.hstatic.net/200000722513/product/h732__4__cee4b8815ca14efcb437435c2b870ff7_8be2d0e2db444103bd283c718bdc3b54_grande.png",
+        "image_4": "https://product.hstatic.net/200000722513/product/h732__1__262c2a9ad40046ab95c312f93f57ce70_2a247850ac25479f8a122daf6c792a01_grande.png",
+        "image_5": "https://product.hstatic.net/200000722513/product/h732__2__48b9d71068124d3cb6fe904fbd29c2fb_881cb095c74a4de1a3dd4a709148ca63_grande.png",
+        "image_6": "https://product.hstatic.net/200000722513/product/h732__3__d25923dd04254dbf894ff7e3d840177f_7e01401ed6ca418781c5cf466cc26a53_grande.png"
+      },
+      "detail": {
+        "model": "ASUS ROG Thor 1200P2",
+        "type": "ATX 12V",
+        "PFC": "",
+        "inputVoltage": "100-240Vac",
+        "inputCurrent": "",
+        "inputFrequency": "",
+        "outputPower": "1000W",
+        "size": "190 x 150 x 86 mm",
+        "fanType": "",
+        "80Plus": "",
+        "efficiency": "80Plus Platinum",
+        "MTBF": "",
+        "protection": "OPP / OVP / UVP / SCP / OCP / OTP",
+        "powerSignal": "",
+        "holdupTime": "",
+        "cableType": "",
+        "port": "MB 24/20-pin x 1\nCPU 4+4-pin x 2\nPCI-E 16-pin x 1\nPCI-E 6+2-pin x 8\nSATA x 12\nPERIPHERAL x 6"
+      }
     }
   ],
   "keyboard": [
@@ -4362,6 +4634,324 @@
         "keySwitch": "CHERRY® MX RED/ SPEED",
         "keys": "61 phím",
         "processor": "8MB"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Bàn phím Corsair K70 PRO MINI WIRELESS RGB MX Red - Black",
+      "sale": "49",
+      "price": "4.489.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/ban-phim-co-khong-day-corsair-k7_e98505220fb44a4f88e56bfb936ec073_medium.png",
+        "image_2": "https://product.hstatic.net/200000722513/product/ban-phim-co-khong-day-corsair-k7_e98505220fb44a4f88e56bfb936ec073_grande.png",
+        "image_3": "https://product.hstatic.net/200000722513/product/ban-phim-co-khong-day-corsair-k7__2__e419801d06a248e4a41f19eb7346fbb9_grande.png",
+        "image_4": "https://product.hstatic.net/200000722513/product/ban-phim-co-khong-day-corsair-k7__3__2835a418fbcb4b7692e6ea969c0bf3ae_grande.png",
+        "image_5": "https://product.hstatic.net/200000722513/product/ban-phim-co-khong-day-corsair-k7__4__0dd4670880de4f30984b83f9de6dc38d_grande.png",
+        "image_6": "https://product.hstatic.net/200000722513/product/ban-phim-co-khong-day-corsair-k7__1__c04dfe706d874701ad8635c6369592da_grande.png"
+      },
+      "detail": {
+        "size": "293 x 109 x 40mm",
+        "keycap": "PBT Double-shot",
+        "battery": "Lithium-Ion",
+        "connect": "Multi",
+        "brand": "Corsair",
+        "maximumProfile": "Lên đến 50 profile",
+        "CUE": "Hỗ trợ iCUE",
+        "keyboardRollover": "Full key với Anti-Ghosting",
+        "supportFeature": "Hot-Swap 3-pin",
+        "warranty": "24 tháng",
+        "port": "USB 3.0 và USB 3.1 Type-A",
+        "LED": "RGB",
+        "weight": "0.64kg",
+        "keySwitch": "CHERRY® MX RED/ SPEED",
+        "keys": "61 phím",
+        "processor": "8MB"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Bàn phím Corsair K70 PRO MINI WIRELESS RGB MX Red - Black",
+      "sale": "",
+      "price": "3.690.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/mu01_________.1-1-510x510_09e73886fb8b4c7da6ae0a4e804f0dcf_medium.png",
+        "image_2": "https://product.hstatic.net/200000722513/product/mu01_________.6-510x510_fa92893eda954a8793d79ae44fcd8c31_grande.png",
+        "image_3": "https://product.hstatic.net/200000722513/product/mu01_________.3-1-510x510_5c2c0cb550be4297bd98ba7ba72dc6f4_grande.png",
+        "image_4": "https://product.hstatic.net/200000722513/product/mu01_________.2-1-510x510_4d82cd5ef7da4311a6e13375a50e74f4_grande.png",
+        "image_5": "https://product.hstatic.net/200000722513/product/5-510x510_b5a3a1f696ac463e8fa37dc32aca198d_grande.png",
+        "image_6": "https://product.hstatic.net/200000722513/product/8-510x510_7cd2aac8412b4e55acf8314d31321968_grande.png"
+      },
+      "detail": {
+        "size": "327*125.3*46.7mm",
+        "keycap": "Mountain Seclusion (PBT Dye-Sub; MOA profile)",
+        "battery": "",
+        "connect": "Multi-Modes",
+        "brand": "AKKO",
+        "maximumProfile": "",
+        "CUE": "",
+        "keyboardRollover": "",
+        "supportFeature": "",
+        "warranty": "12 tháng",
+        "port": "",
+        "LED": "RGB",
+        "weight": "",
+        "keySwitch": "Akko V3 Piano Pro",
+        "keys": "",
+        "processor": ""
+      }
+    },
+    {
+      "id": 3,
+      "title": "Bàn phím cơ AKKO MU01 Joy of Life",
+      "sale": "",
+      "price": "3.690.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/mu01_________.1-1-510x510_09e73886fb8b4c7da6ae0a4e804f0dcf_medium.png",
+        "image_2": "https://product.hstatic.net/200000722513/product/mu01_________.6-510x510_fa92893eda954a8793d79ae44fcd8c31_grande.png",
+        "image_3": "https://product.hstatic.net/200000722513/product/mu01_________.3-1-510x510_5c2c0cb550be4297bd98ba7ba72dc6f4_grande.png",
+        "image_4": "https://product.hstatic.net/200000722513/product/mu01_________.2-1-510x510_4d82cd5ef7da4311a6e13375a50e74f4_grande.png",
+        "image_5": "https://product.hstatic.net/200000722513/product/5-510x510_b5a3a1f696ac463e8fa37dc32aca198d_grande.png",
+        "image_6": "https://product.hstatic.net/200000722513/product/8-510x510_7cd2aac8412b4e55acf8314d31321968_grande.png"
+      },
+      "detail": {
+        "size": "327*125.3*46.7mm",
+        "keycap": "Mountain Seclusion (PBT Dye-Sub; MOA profile)",
+        "battery": "",
+        "connect": "Multi-Modes",
+        "brand": "AKKO",
+        "maximumProfile": "",
+        "CUE": "",
+        "keyboardRollover": "",
+        "supportFeature": "",
+        "warranty": "12 tháng",
+        "port": "",
+        "LED": "RGB",
+        "weight": "",
+        "keySwitch": "Akko V3 Piano Pro",
+        "keys": "",
+        "processor": ""
+      }
+    },
+    {
+      "id": 4,
+      "title": "Bàn phím cơ AKKO MOD 007B HE PC Joy of Life",
+      "sale": "",
+      "price": "3.690.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/thiet-ke-chua-co-ten-7-510x510_4057bd9acafd4f2a9cf7d18829252c9b_medium.png",
+        "image_2": "https://product.hstatic.net/200000722513/product/007pc-he-____rgb__-510x510_75a10dbc9aa24cf498a9179a27759f96_grande.png",
+        "image_3": "https://product.hstatic.net/200000722513/product/007pc-he-______-1-510x510_8e3261f1ad2646c9b20b1574edbf162d_grande.png",
+        "image_4": "https://product.hstatic.net/200000722513/product/007pc-he-______-1-510x510_c0624e992bfe4d01b3768bed41bc5ca7_grande.png",
+        "image_5": "https://product.hstatic.net/200000722513/product/007pc-he-______-510x510_5556da889a944c6ea524d49a5809cb55_grande.png",
+        "image_6": "https://product.hstatic.net/200000722513/product/mod-007b-he-pc-joy-of-life-cz-xq1-510x323_039d81135d2540b282607d1b266f9c63_grande.jpg"
+      },
+      "detail": {
+        "size": "335*147*32mm | Nặng ~ 1.0KG",
+        "keycap": "PBT Dye-Sub; Cherry profile",
+        "battery": "",
+        "connect": "USB Type-C 8K Hz",
+        "brand": "AKKO",
+        "maximumProfile": "",
+        "CUE": "",
+        "keyboardRollover": "",
+        "supportFeature": "NKRO / Multimedia / Macro / Khóa phím Win",
+        "warranty": "12 tháng",
+        "port": "",
+        "LED": "RGB",
+        "weight": "",
+        "keySwitch": "Akko Cream Yellow Magnetic Switch",
+        "keys": "",
+        "processor": ""
+      }
+    },
+    {
+      "id": 5,
+      "title": "Bàn phím AKKO 5108 SE Joy of Life",
+      "sale": "",
+      "price": "2.990.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/thiet-ke-chua-co-ten-9_2f5f783235394285ba098d22832b4f22_medium.png",
+        "image_2": "https://product.hstatic.net/200000722513/product/5108-__-___-_______80a79407e7e64d1f937908abe6038f20_grande.png",
+        "image_3": "https://product.hstatic.net/200000722513/product/5108-__-___-_____2-1_3629976a90d84ff0a438e358e60adea7_grande.png",
+        "image_4": "https://product.hstatic.net/200000722513/product/5108-__-___-_____1-1_7293f5c247d64b489ae8ed704b72507d_grande.png",
+        "image_5": "https://product.hstatic.net/200000722513/product/mod-007b-he-pc-joy-of-life-detachable-usb-510x345_7c65df34742345f5bbfa7c58e1dc5fe0_grande.jpg",
+        "image_6": "https://product.hstatic.net/200000722513/product/5108-__-___-______08ba7c55653949f38f103cf9cf68b353_grande.png"
+      },
+      "detail": {
+        "size": "440*132*41mm",
+        "keycap": "PBT",
+        "battery": "3000mah",
+        "connect": "",
+        "brand": "AKKO",
+        "maximumProfile": "",
+        "CUE": "",
+        "keyboardRollover": "",
+        "supportFeature": "",
+        "warranty": "12 tháng",
+        "port": "",
+        "LED": "RGB",
+        "weight": "",
+        "keySwitch": "",
+        "keys": "",
+        "processor": ""
+      }
+    },
+    {
+      "id": 6,
+      "title": "Bàn phím cơ DareU EK75 Rapid Trigger Black",
+      "sale": "22",
+      "price": "2.290.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/black__5__37a0f1f91dcb4e5f8ac4bf6ee482f62a_medium.png",
+        "image_2": "https://product.hstatic.net/200000722513/product/black__2__c7994b4e1cf64f12a0cd4b2782f01452_grande.png",
+        "image_3": "https://product.hstatic.net/200000722513/product/black__3__ae49b49f080443de82eaa4c912d4097c_grande.png",
+        "image_4": "https://product.hstatic.net/200000722513/product/black__4__4c8ea2b615e847afa4d3c2020eeffa3b_grande.png",
+        "image_5": "https://product.hstatic.net/200000722513/product/black__6__b5b4e076ff15454e978dd3ace94dcba2_grande.png",
+        "image_6": "https://product.hstatic.net/200000722513/product/black__7__f64153e07adb4a4fb4340c7297f6bf80_grande.png"
+      },
+      "detail": {
+        "size": "333 x 140 x 40mm | Trọng lượng: 740g",
+        "keycap": "CHERRY profile, PBT Double-Shot",
+        "battery": "",
+        "connect": "",
+        "brand": "DareU",
+        "maximumProfile": "",
+        "CUE": "",
+        "keyboardRollover": "",
+        "supportFeature": "",
+        "warranty": "12 tháng",
+        "port": "",
+        "LED": "RGB",
+        "weight": "",
+        "keySwitch": "",
+        "keys": "",
+        "processor": ""
+      }
+    },
+    {
+      "id": 7,
+      "title": "Bàn phím cơ AKKO 5075B Plus Horizon SP Akko Switch V3 Cream Yellow Pro",
+      "sale": "25",
+      "price": "1.990.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/5075b-plus-sp___-rgb__-1-1_0245f87c5efe439c8715ad6523371697_medium.png",
+        "image_2": "https://product.hstatic.net/200000722513/product/5075b-plus-sp___-rgb__-1_27054e2192be43ffad8c5fad9e7efa1e_grande.png",
+        "image_3": "https://product.hstatic.net/200000722513/product/5075b-plus-sp___-rgb__-1-1_0245f87c5efe439c8715ad6523371697_grande.png",
+        "image_4": "https://product.hstatic.net/200000722513/product/5075b-plus-sp___-___4dce33bb1704462c9bcdbe7314735436_grande.png",
+        "image_5": "https://product.hstatic.net/200000722513/product/5075b-plus-sp___-___14480575effb488a8cae3ee81d0fbab6_grande.png",
+        "image_6": "https://product.hstatic.net/200000722513/product/5075b-plus-sp___-___2b2227c892af42ad96e14882f6e4bb39_grande.png"
+      },
+      "detail": {
+        "size": "",
+        "keycap": "PBT Doubleshot / ASA profile với khả năng xuyên LED",
+        "battery": "3000mah",
+        "connect": "Có dây / Wireless 2.4 / Bluetooth 5.0",
+        "brand": "AKKO",
+        "maximumProfile": "",
+        "CUE": "",
+        "keyboardRollover": "",
+        "supportFeature": "NKRO / Multimedia / Macro / Khóa phím Win",
+        "warranty": "12 tháng",
+        "port": "",
+        "LED": "RGB",
+        "weight": "",
+        "keySwitch": "Akko switch v3 – Cream Yellow Pro",
+        "keys": "",
+        "processor": ""
+      }
+    },
+    {
+      "id": 8,
+      "title": "Bàn phím AKKO MU01 Autumn",
+      "sale": "9",
+      "price": "3.290.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/mu-2.0-1_22d6bf8e5c3247b6b4aa4112194accd5_medium.png",
+        "image_2": "https://product.hstatic.net/200000722513/product/mu-2.0-1_22d6bf8e5c3247b6b4aa4112194accd5_grande.png",
+        "image_3": "https://product.hstatic.net/200000722513/product/mu-2.1-1_4d163e029eb5463e9069b02d3fc61c36_grande.png",
+        "image_4": "https://product.hstatic.net/200000722513/product/mu-2.2-1_b933defdc1df4f00acf3dc5b8b0606b2_grande.png",
+        "image_5": "https://product.hstatic.net/200000722513/product/mu-2.3-1_d1e2a04b67b8447fb2cf24ecfc992d75_grande.png"
+      },
+      "detail": {
+        "size": "",
+        "keycap": "Autumn Seclusion (PBT Dye-Sub; MOA profile)",
+        "battery": "",
+        "connect": "Có dây - USB Type-C 8k Hz",
+        "brand": "AKKO",
+        "maximumProfile": "",
+        "CUE": "",
+        "keyboardRollover": "",
+        "supportFeature": "NKRO / Multimedia / Macro / Khóa phím Win Hotswap 5 pin",
+        "warranty": "12 tháng",
+        "port": "",
+        "LED": "RGB",
+        "weight": "",
+        "keySwitch": "AKKO X TTC Demon Switch",
+        "keys": "",
+        "processor": ""
+      }
+    },
+    {
+      "id": 9,
+      "title": "Bàn phím cơ DareU EK75 Full White Firefly switch",
+      "sale": "13 ",
+      "price": "699.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/47488_dareu_ek75_white__6__6d19968870264154b3dc98905e329f1a_medium.jpg",
+        "image_2": "https://product.hstatic.net/200000722513/product/47488_dareu_ek75_white__1__afa8527fbe5440938b27d81590bd39ac_grande.jpg",
+        "image_3": "https://product.hstatic.net/200000722513/product/47488_dareu_ek75_white__2__c9fe91cbd2d343e1999e02bb173edea3_grande.jpg",
+        "image_4": "https://product.hstatic.net/200000722513/product/47488_dareu_ek75_white__3__ec33bb65830c45e189cc24fe38253c55_grande.jpg",
+        "image_5": "https://product.hstatic.net/200000722513/product/47488_dareu_ek75_white__4__9728bfb92f174b7799f00eaafce60588_grande.jpg",
+        "image_6": "https://product.hstatic.net/200000722513/product/47488_dareu_ek75_white__5__73c1a1e6f6254dcfaf9d07d4814e934e_grande.jpg"
+      },
+      "detail": {
+        "size": "30.2 x 333.2 x 140.4mm",
+        "keycap": "ABS double injection",
+        "battery": "",
+        "connect": "Có dây",
+        "brand": "DareU",
+        "maximumProfile": "",
+        "CUE": "",
+        "keyboardRollover": "N-Key Rollover",
+        "supportFeature": "",
+        "warranty": "24 Tháng",
+        "port": "",
+        "LED": "RGB",
+        "weight": "",
+        "keySwitch": "DAREU customized Firefly switch",
+        "keys": "80 key + 1 knob (US)",
+        "processor": ""
+      }
+    },
+    {
+      "id": 10,
+      "title": "Bàn phím cơ DareU EK75 White Black Firefly switch",
+      "sale": "13 ",
+      "price": "699.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/bd2d5c0a8a07d4928bfda5fcc64.png_9b0f7402b03b4beea236b41293ad9c22_large_9bcf8def83e9473abd8e320085c9980d_medium.jpg",
+        "image_2": "https://product.hstatic.net/200000722513/product/bd2d5c0a8a07d4928bfda5fcc64.png_9b0f7402b03b4beea236b41293ad9c22_large_9bcf8def83e9473abd8e320085c9980d_grande.jpg",
+        "image_3": "https://product.hstatic.net/200000722513/product/ban-phim-dareu-ek75-rgb-02_07543a726a9f4958911b38767c9226e9_grande.png",
+        "image_4": "https://product.hstatic.net/200000722513/product/ban-phim-dareu-ek75-rgb-03_58a2545c75f84d13b8b0cc18ff514159_grande.png",
+        "image_5": "https://product.hstatic.net/200000722513/product/ban-phim-dareu-ek75-rgb-04_42ced97a55854ef28db89b83837ae7db_grande.png"
+      },
+      "detail": {
+        "size": "30.2 x 333.2 x 140.4mm",
+        "keycap": "ABS double injection",
+        "battery": "",
+        "connect": "Có dây",
+        "brand": "DareU",
+        "maximumProfile": "",
+        "CUE": "",
+        "keyboardRollover": "N-Key Rollover",
+        "supportFeature": "",
+        "warranty": "24 Tháng",
+        "port": "",
+        "LED": "RGB",
+        "weight": "",
+        "keySwitch": "DAREU customized Firefly switch",
+        "keys": "80 key + 1 knob (US)",
+        "processor": ""
       }
     }
   ],
@@ -4398,6 +4988,296 @@
         "maximumAcceleration": "> 40G2",
         "design": ""
       }
+    },
+    {
+      "id": 2,
+      "title": "Chuột Logitech G309 Lightspeed Wireless Bluetooth Trắng",
+      "sale": "10",
+      "price": "2.090.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/white_e563efbdda644fe59e2227176c1607fd_medium.png",
+        "image_2": "https://product.hstatic.net/200000722513/product/3_79a2ad3d6f294967a65bfab3a8e602a6_grande.png",
+        "image_3": "https://product.hstatic.net/200000722513/product/4_25734bfc8ae049dd8b8028c07b93c7d0_grande.png",
+        "image_4": "https://product.hstatic.net/200000722513/product/6_4e3c52d079ae48f3a5721cdbc4345a33_grande.png",
+        "image_5": "https://product.hstatic.net/200000722513/product/7_43ae2533e22a4b09a8ba8c5e3f781298_grande.png",
+        "image_6": "https://product.hstatic.net/200000722513/product/9_fbcf80c142e0489382c1ae23c91d20f1_grande.png"
+      },
+      "detail": {
+        "warranty": "24 tháng",
+        "FEET": "PTFE Feet",
+        "batteryTime": "300 giờ với Lightspeed không dây\n600 giờ với Bluetooth",
+        "maxIPS": ">400",
+        "color": "",
+        "weight": "POWERPLAY 68g / Pin AA 86g",
+        "brand": "",
+        "connect": "",
+        "cable": "Lightspeed",
+        "programmingButtons": "",
+        "size": "120 mm x 64 mm x 39 mm",
+        "sensor": "Hero 25K",
+        "switch": "hybrid quang học - cơ học Lightforce",
+        "maxDPI": "100 - 25600 Dpi",
+        "LED": "",
+        "maximumAcceleration": "> 40G2",
+        "design": ""
+      }
+    },
+    {
+      "id": 3,
+      "title": "Chuột Rapoo MT760 Mini Không Dây Hồng",
+      "sale": "20",
+      "price": "990.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/thumb_gear_31c2bf7f39e9401495380e72a5fa24cb_medium.png",
+        "image_2": "https://product.hstatic.net/200000722513/product/5277-vt760-mini-pink-1_6cbfa95e694e446b926f6a05859e19d9_grande.jpg",
+        "image_3": "https://product.hstatic.net/200000722513/product/5277-vt760-mini-pink-2_757581b92a0b4c44a81db6e8fff281e1_grande.jpg",
+        "image_4": "https://product.hstatic.net/200000722513/product/5277-vt760-mini-pink-3_0a0973d331684f45a77fb2b09e2e681d_grande.jpg",
+        "image_5": "https://product.hstatic.net/200000722513/product/5277-vt760-mini-pink-4_3131d82730ea4d758c7b6063f79b78a6_grande.jpg",
+        "image_6": "https://product.hstatic.net/200000722513/product/5277-vt760-mini-pink-5_56773936dcd74369ac3333a5ce714ea9_grande.jpg"
+      },
+      "detail": {
+        "warranty": "24 tháng",
+        "FEET": "",
+        "batteryTime": "Thời lượng pin lên đến 30 ngày",
+        "maxIPS": "30",
+        "color": "",
+        "weight": "88.6 gram",
+        "brand": "",
+        "connect": "Wireless/Wired/Bluetooth",
+        "cable": "",
+        "programmingButtons": "",
+        "size": "",
+        "sensor": "",
+        "switch": "",
+        "maxDPI": "400",
+        "LED": "",
+        "maximumAcceleration": "",
+        "design": ""
+      }
+    },
+    {
+      "id": 4,
+      "title": "Chuột Razer DeathAdder V3 Hyperspeed Wireless",
+      "sale": "17",
+      "price": "2.990.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/v9amb50o_6df2fc1a8a944bdbbf598f3f0dd408e4_medium.png",
+        "image_2": "https://product.hstatic.net/200000722513/product/iner_h69_h81_9785428607006_240620-deathadder-v3-hyperspeed-1500x1000-5_5beb89e149494a8497b9b3c4b056a0b2_grande.jpg",
+        "image_3": "https://product.hstatic.net/200000722513/product/iner_hc2_h7e_9785428574238_240620-deathadder-v3-hyperspeed-1500x1000-4_1c39299878994929a8958f4bf0099a3d_grande.jpg",
+        "image_4": "https://product.hstatic.net/200000722513/product/iner_h59_h7b_9785428475934_240620-deathadder-v3-hyperspeed-1500x1000-1_8de842d667c24e6da9cb818a065d2179_grande.jpg",
+        "image_5": "https://product.hstatic.net/200000722513/product/iner_h9a_h77_9785428344862_240620-deathadder-v3-hyperspeed-1500x1000-2_abf290567c4b461ba7fda4dd62e7fdcd_grande.jpg",
+        "image_6": "https://product.hstatic.net/200000722513/product/iner_h00_h7e_9785428508702_240620-deathadder-v3-hyperspeed-1500x1000-3_996b24e9bda246169fc6385ba4c2d8e2_grande.jpg"
+      },
+      "detail": {
+        "warranty": "24 tháng",
+        "FEET": "100% PTFE",
+        "batteryTime": "",
+        "maxIPS": "500",
+        "color": "",
+        "weight": "55 gram",
+        "brand": "",
+        "connect": "Không dây",
+        "cable": "",
+        "programmingButtons": "8",
+        "size": "Dài: 122.2 mm / 4.81 in\nRộng: 64.8 mm / 2.55 in\nCao: 41.3 mm / 1.63 in",
+        "sensor": "Cảm biến quang học Focus X 26K",
+        "switch": "Optical Gen-3",
+        "maxDPI": "26000",
+        "LED": "Không",
+        "maximumAcceleration": "40",
+        "design": ""
+      }
+    },
+    {
+      "id": 5,
+      "title": "Chuột Razer Deathadder V3 Pro Faker Edition",
+      "sale": "11",
+      "price": "4.390.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/thumbchuot_d48b1fc55115417cae8e12993f1103b0_eff100e94b52425c8788727470ecabae_medium.gif",
+        "image_2": "https://product.hstatic.net/200000722513/product/thumbchuot_d48b1fc55115417cae8e12993f1103b0_eff100e94b52425c8788727470ecabae_grande.gif",
+        "image_3": "https://product.hstatic.net/200000722513/product/wireless-faker-edition-38883096559861_55d27411196e498f9fd3ca7cb575283c_0dcc1a40ad574dcabb100293e54192da_grande.jpg"
+      },
+      "detail": {
+        "warranty": "24 tháng",
+        "FEET": "100% PTFE",
+        "batteryTime": "Lên đến 90 giờ",
+        "maxIPS": "750",
+        "color": "Đỏ",
+        "weight": "63g",
+        "brand": "",
+        "connect": "Không dây",
+        "cable": "",
+        "programmingButtons": "5",
+        "size": "128 x 68 x 44 mm",
+        "sensor": "Cảm biến quang học Focus Pro 30K",
+        "switch": "Optical Gen-3",
+        "maxDPI": "30000",
+        "LED": "Không",
+        "maximumAcceleration": "70",
+        "design": ""
+      }
+    },
+    {
+      "id": 6,
+      "title": "Chuột gaming Rapoo VT200 RGB Wireless",
+      "sale": "22",
+      "price": "890.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/vt200_6734bf9c0882496cb1f6dd02bb678266_medium.png",
+        "image_2": "https://product.hstatic.net/200000722513/product/1562833596-7887_compressed_06127e9ac1ce4a1590e88df3ded53862_37005db111e640009ece627efc14ed33_grande.jpg",
+        "image_3": "https://product.hstatic.net/200000722513/product/1562833581-1519_compressed_0faf08c509f541429885f84752a9fd3b_8cf18b85dde24e45b3dc07bbdc7e969e_grande.jpg",
+        "image_4": "https://product.hstatic.net/200000722513/product/1562833596-6785_compressed_8598c8e266dd46a08f527ba292882f3d_86598b901af84627ae4008db2296407d_grande.jpg",
+        "image_5": "https://product.hstatic.net/200000722513/product/1562833597-8680_compressed_a7527e25712e45208c467d118299fa63_355b41f6baa145a897971f1f8cda135e_grande.jpg",
+        "image_6": "https://product.hstatic.net/200000722513/product/1562833601-5707_compressed_0fe37ac6ed2d44e49a78318b15d6fded_2af242180a4f4dabb7bb131a0714bc3b_grande.jpg"
+      },
+      "detail": {
+        "warranty": "24 tháng",
+        "FEET": "",
+        "batteryTime": "",
+        "maxIPS": "",
+        "color": "",
+        "weight": "110G",
+        "brand": "Rapoo",
+        "connect": "Wireless",
+        "cable": "",
+        "programmingButtons": "",
+        "size": "",
+        "sensor": "Quang học PixArt",
+        "switch": "",
+        "maxDPI": "Lên đến 5000",
+        "LED": "RGB",
+        "maximumAcceleration": "",
+        "design": ""
+      }
+    },
+    {
+      "id": 7,
+      "title": "Chuột Rapoo VT9 Air Gaming Không Dây Trắng Tím",
+      "sale": "15",
+      "price": "1.990.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/vt9_air_trang_deceba7d8d50450ca9ef0284388f9dda_medium.png",
+        "image_2": "https://product.hstatic.net/200000722513/product/gearvn-chuot-rapoo-vt9-air-gaming-khong-day-trang-tim-1_da46d2436086461ba8b099c873c01ae8_grande.png",
+        "image_3": "https://product.hstatic.net/200000722513/product/gearvn-chuot-rapoo-vt9-air-gaming-khong-day-trang-tim-2_defb8ef4778d4cd8ba2d978b3c92095c_grande.png",
+        "image_4": "https://product.hstatic.net/200000722513/product/gearvn-chuot-rapoo-vt9-air-gaming-khong-day-trang-tim-3_2d8ab3499e294e24a8b38ef6291fbef5_grande.png",
+        "image_5": "https://product.hstatic.net/200000722513/product/gearvn-chuot-rapoo-vt9-air-gaming-khong-day-trang-tim-4_6530bcb5372a4e0dad691383bbaab452_grande.png",
+        "image_6": "https://product.hstatic.net/200000722513/product/gearvn-chuot-rapoo-vt9-air-gaming-khong-day-trang-tim-5_03949b45887f4e918d439417ac005363_grande.png"
+      },
+      "detail": {
+        "warranty": "24 tháng",
+        "FEET": "",
+        "batteryTime": "Pin Sạc Lithium 800 mAh; Thời lượng pin lên đến 160 tiếng",
+        "maxIPS": "650",
+        "color": "",
+        "weight": "59 gram",
+        "brand": "Rapoo",
+        "connect": "Wireless",
+        "cable": "",
+        "programmingButtons": "",
+        "size": "124.9*67.1*40.2mm",
+        "sensor": "Pixart 3398",
+        "switch": "",
+        "maxDPI": "50 – 26000",
+        "LED": "RGB",
+        "maximumAcceleration": "50G",
+        "design": ""
+      }
+    },
+    {
+      "id": 8,
+      "title": "Chuột Razer Không dây Viper V3 Pro Trắng",
+      "sale": "10",
+      "price": "4.990.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/ci9f8k75_e9e8bebbbb164f648e7bf94d561919f7_medium.png",
+        "image_2": "https://product.hstatic.net/200000722513/product/ci9f8k75_e9e8bebbbb164f648e7bf94d561919f7_grande.png",
+        "image_3": "https://product.hstatic.net/200000722513/product/32q6ue9b_dd64156f5869455da6d4172f9faa0fa0_grande.png",
+        "image_4": "https://product.hstatic.net/200000722513/product/d3awpu8q_57e067c744cb404180328a927afb6dbc_grande.png",
+        "image_5": "https://product.hstatic.net/200000722513/product/i56gu2q2_c08bcc730eb04dcd8b795722757d1f1c_grande.png"
+      },
+      "detail": {
+        "warranty": "24 tháng",
+        "FEET": "100% PTFE",
+        "batteryTime": "Lên đến 95 giờ khi dùng 1000 Hz;\n Lên đến 62 giờ khi dùng 2000 Hz;\n Lên đến 40 giờ khi dùng 4000 Hz;\n Lên đến 17 giờ khi dùng 8000 Hz",
+        "maxIPS": "750",
+        "color": "Trắng",
+        "weight": "54gr",
+        "brand": "Razer",
+        "connect": "Razer™ HyperSpeed Wireless; Có dây - Cáp Speedflex",
+        "cable": "Cáp Razer ™ Speedflex USB Type-C (USB-A to TYPE-C)",
+        "programmingButtons": "6 nút",
+        "size": "127.1 mm x 63.9 mm x 39.9 mm",
+        "sensor": "Razer Focus Pro 35K Optical Sensor Gen-2",
+        "switch": "Razer ™ thế hệ thứ 3 (lên đến 90 triệu lần nhấp)",
+        "maxDPI": "35000",
+        "LED": "không",
+        "maximumAcceleration": "70",
+        "design": "Đối xứng"
+      }
+    },
+    {
+      "id": 9,
+      "title": "Chuột Razer Cobra Pro Trắng",
+      "sale": "25",
+      "price": "3.990.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/42rc3efe_13d1959281ec44749394fad1ceebece4_medium.png",
+        "image_2": "https://product.hstatic.net/200000722513/product/42rc3efe_13d1959281ec44749394fad1ceebece4_grande.png",
+        "image_3": "https://product.hstatic.net/200000722513/product/bfo6ep9j_37d6891e25d94d7fa37cd147bc3464e8_grande.png",
+        "image_4": "https://product.hstatic.net/200000722513/product/9ktbn43h_c8d1e233aee24077ae3ccb8061b5c7bc_grande.png"
+      },
+      "detail": {
+        "warranty": "24 tháng",
+        "FEET": "",
+        "batteryTime": "Lên đến 100 giờ với Razer HyperSpeed Wireless (1000Hz)\nLên đến 33 giờ với Razer HyperPolling Wireless Dongle và Mouse Dock Pro* (4000Hz)\nLên đến 170 giờ với Bluetooth",
+        "maxIPS": "750 IPS",
+        "color": "",
+        "weight": "77g",
+        "brand": "Razer",
+        "connect": "",
+        "cable": "",
+        "programmingButtons": "8 nút có thể lập trình",
+        "size": "127.0 x 61.7  x 42.7 mm",
+        "sensor": "",
+        "switch": "",
+        "maxDPI": "30.000 DPI",
+        "LED": "Razer Chroma™ RGB (Con lăn, Logo, nhiều vùng bên dưới chuột)",
+        "maximumAcceleration": "70G",
+        "design": "Đối xứng - cho người thuận tay phải"
+      }
+    },
+    {
+      "id": 10,
+      "title": "Chuột E-DRA Không dây EM625X Superlight Black",
+      "sale": "55",
+      "price": "990.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/512_625x_7_530dd67ad0864f19a1446ffe52b4a469_medium.jpg",
+        "image_2": "https://product.hstatic.net/200000722513/product/512_625x_7_530dd67ad0864f19a1446ffe52b4a469_grande.jpg",
+        "image_3": "https://product.hstatic.net/200000722513/product/512_625x_1_622002aed03043f7b42c879f556efce5_grande.jpg",
+        "image_4": "https://product.hstatic.net/200000722513/product/512_625x_2_9a4d1a4a0f12497e8e7a94879a5e0606_grande.jpg",
+        "image_5": "https://product.hstatic.net/200000722513/product/512_625x_8_48224fd3b1b44182b77937141c54fd13_grande.jpg"
+      },
+      "detail": {
+        "warranty": "24 tháng",
+        "FEET": "",
+        "batteryTime": "",
+        "maxIPS": "",
+        "color": "Đen",
+        "weight": "",
+        "brand": "E-DRA",
+        "connect": "USB Type-C / Wireless 2.4 / Bluetooth 5.0",
+        "cable": "",
+        "programmingButtons": "7D + 1 Scroll",
+        "size": "",
+        "sensor": "",
+        "switch": "Kailh switch 80 triệu lần nhấn",
+        "maxDPI": "800/1600/2400/3200/6400/10000 DPI",
+        "LED": "RGB",
+        "maximumAcceleration": "",
+        "design": "Đối xứng"
+      }
     }
   ],
   "chair": [
@@ -4422,6 +5302,212 @@
         "frameMaterial": "Khung, chân nhựa",
         "hydraulicLiftMechanism": "Class 2",
         "accessory": "Giấy HDSD / Kê chân"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Ghế Gaming E-Dra Dignity EGC234 Black",
+      "sale": "12",
+      "price": "8.990.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/rangerpro-05_f5a2577aaaf24be1b9cf44f6443b8cc2_medium.jpg",
+        "image_2": "https://product.hstatic.net/200000722513/product/rangerpro-06_a3bc713b7ff34a1ab426c46ff015ac65_grande.jpg",
+        "image_3": "https://product.hstatic.net/200000722513/product/rangerpro-01_c8319be810ce47e383bab505e928c77d_grande.jpg",
+        "image_4": "https://product.hstatic.net/200000722513/product/rangerpro-03_88a129bb875e41f494101214bda004b4_grande.jpg",
+        "image_5": "https://product.hstatic.net/200000722513/product/rangerpro-08_fa8ba6959a2b4a96948327698c3cca4a_grande.jpg",
+        "image_6": "https://product.hstatic.net/200000722513/product/rangerpro-10_7cc4c7d9fd834c97aa25848f39bec1ea_grande.jpg"
+      },
+      "detail": {
+        "brand": "Cougar",
+        "material": "Da PVC cao cấp thoáng khí",
+        "armrest": "",
+        "maximumRecliningAngle": "Góc ngã lưng 95° - 160°",
+        "frameMaterial": "",
+        "hydraulicLiftMechanism": "",
+        "accessory": "Ghế; Lục giác; Ốc vít; Tài liệu hướng dẫn"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Ghế Cougar NxSys Aero Đen",
+      "sale": "13",
+      "price": "11.990.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/nxsysaero-02-b_25dec82c8007498c84d5a40e1144ad63_medium.jpg",
+        "image_2": "https://product.hstatic.net/200000722513/product/nxsysaero-04-b_9d96e19295a34e949f452e0665d5f5e3_grande.jpg",
+        "image_3": "https://product.hstatic.net/200000722513/product/nxsysaero-07-b_d516485828bf4e17a16d793aa1131ea8_grande.jpg",
+        "image_4": "https://product.hstatic.net/200000722513/product/nxsysaero-08-b_62556158e9ea46da872821491b7635c6_grande.jpg",
+        "image_5": "https://product.hstatic.net/200000722513/product/nxsysaero-09-b_0b78f619efa341a887b15b02f6f845a2_grande.jpg",
+        "image_6": "https://product.hstatic.net/200000722513/product/nxsysaero-10-b_f145e68a98e247bea3e40f9e75665e9a_grande.jpg"
+      },
+      "detail": {
+        "brand": "Cougar",
+        "material": "Da PVC thoáng khí, tựa lưng phối khí",
+        "armrest": "3D",
+        "maximumRecliningAngle": "150 độ",
+        "frameMaterial": "Thép",
+        "hydraulicLiftMechanism": "",
+        "accessory": ""
+      }
+    },
+    {
+      "id": 4,
+      "title": "Ghế Cougar NxSys Aero",
+      "sale": "13",
+      "price": "11.990.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/nxsysaero-01_935fdb31700741718316efba45c13ee3_medium.jpg",
+        "image_2": "https://product.hstatic.net/200000722513/product/nxsysaero-03_016f2195cb734fafbfa24015e4262b9a_grande.jpg",
+        "image_3": "https://product.hstatic.net/200000722513/product/nxsysaero-04_74158b95d3234b0cad488d4fe4ba1b99_grande.jpg",
+        "image_4": "https://product.hstatic.net/200000722513/product/nxsysaero-07_ff77355ad65c4f6c8ef817f02f158eb4_grande.jpg",
+        "image_5": "https://product.hstatic.net/200000722513/product/nxsysaero-08_f201dba8ea99427b93af801c3646950f_grande.jpg",
+        "image_6": "https://product.hstatic.net/200000722513/product/nxsysaero-09_ede938a650394da38fbbb07bb4bf51e0_grande.jpg"
+      },
+      "detail": {
+        "brand": "Cougar",
+        "material": "Da PVC thoáng khí, tựa lưng phối khí",
+        "armrest": "3D",
+        "maximumRecliningAngle": "150 độ",
+        "frameMaterial": "Thép",
+        "hydraulicLiftMechanism": "",
+        "accessory": ""
+      }
+    },
+    {
+      "id": 5,
+      "title": "Ghế Corsair T3 RUSH Charcoal 2023 (CF-9010057-WW)",
+      "sale": "11",
+      "price": "7.590.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/t3_rush_charcoal_black_render_02_003bb0f8517c47fda2f8417390bcbb13_medium.png",
+        "image_2": "https://product.hstatic.net/200000722513/product/t3_rush_charcoal_black_render_02_003bb0f8517c47fda2f8417390bcbb13_grande.png",
+        "image_3": "https://product.hstatic.net/200000722513/product/wx2toafk_3e7f2eae5c0244b1b22f33f2857b695e_grande.png",
+        "image_4": "https://product.hstatic.net/200000722513/product/ejah3eul_b6ee121819434039930ce93912a511c3_grande.png",
+        "image_5": "https://product.hstatic.net/200000722513/product/z5vaqdmi_01bebf58a99d418c88c5de84f9c5423d_grande.png",
+        "image_6": "https://product.hstatic.net/200000722513/product/jbtd8u1t_c3e69d0a27914f9ebdddc98df5558efb_grande.png"
+      },
+      "detail": {
+        "brand": "Corsair",
+        "material": "Vải mềm cao cấp (bọt đệm ghế Polyurethane)",
+        "armrest": "4D (Up/Down; Left/Right; Front/Back; Swivel)",
+        "maximumRecliningAngle": "90°-160°",
+        "frameMaterial": "kim loại",
+        "hydraulicLiftMechanism": "",
+        "accessory": ""
+      }
+    },
+    {
+      "id": 6,
+      "title": "Ghế Corsair T3 RUSH Gray/Charcoal 2023 (CF-9010056-WW)",
+      "sale": "11",
+      "price": "7.590.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/t3_rush_charcoal_gray_render_02_fecb51ab0f4244da923d4af1a4e28177_medium.png",
+        "image_2": "https://product.hstatic.net/200000722513/product/t3_rush_charcoal_gray_render_02_fecb51ab0f4244da923d4af1a4e28177_grande.png",
+        "image_3": "https://product.hstatic.net/200000722513/product/wx2toafk_340163d61ba7460ba85b4fdb78a3dffd_grande.png",
+        "image_4": "https://product.hstatic.net/200000722513/product/jbtd8u1t_d7142a23ac394474a51753b2b991caca_grande.png",
+        "image_5": "https://product.hstatic.net/200000722513/product/z5vaqdmi_4a784524ec2243a18a98db13a572d633_grande.png",
+        "image_6": "https://product.hstatic.net/200000722513/product/ejah3eul_ede100a76292402f99c795afd11639e3_grande.png"
+      },
+      "detail": {
+        "brand": "Corsair",
+        "material": "Vải mềm cao cấp (bọt đệm ghế Polyurethane)",
+        "armrest": "4D (Up/Down; Left/Right; Front/Back; Swivel)",
+        "maximumRecliningAngle": "90°-180°",
+        "frameMaterial": "kim loại",
+        "hydraulicLiftMechanism": "",
+        "accessory": ""
+      }
+    },
+    {
+      "id": 7,
+      "title": "Ghế Gaming E-Dra Yummy EGC232 V2 Black",
+      "sale": "24",
+      "price": "2.090.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/ghe-gaming-e-dra-yummy-egc232-v2-black_fbec0d997e254cef874fe047d469cbae_medium.jpg",
+        "image_2": "https://product.hstatic.net/200000722513/product/ghe-gaming-e-dra-yummy-egc232-v2-black_fbec0d997e254cef874fe047d469cbae_grande.jpg",
+        "image_3": "https://product.hstatic.net/200000722513/product/ghe-gaming-e-dra-yummy-egc232-v2-black-1_103dc6a621d443d684dd11ff27431ee7_grande.jpg",
+        "image_4": "https://product.hstatic.net/200000722513/product/ghe-gaming-e-dra-yummy-egc232-v2-black-2_20135792f2b9426dbe416b79637d6c27_grande.jpg",
+        "image_5": "https://product.hstatic.net/200000722513/product/ghe-gaming-e-dra-yummy-egc232-v2-black-3_d8dd747892e84641a186adcbe58e5c90_grande.jpg"
+      },
+      "detail": {
+        "brand": "E-Dra",
+        "material": "da PU",
+        "armrest": "gắn liền",
+        "maximumRecliningAngle": "150 độ",
+        "frameMaterial": "Khung, chân nhựa",
+        "hydraulicLiftMechanism": "Class 2",
+        "accessory": "Giấy HDSD"
+      }
+    },
+    {
+      "id": 8,
+      "title": "Ghế công thái học E-Dra EEC218",
+      "sale": "14",
+      "price": "1.499.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/1_9db0dfdae3dd4c2688485116d8f85aa7_medium.jpg",
+        "image_2": "https://product.hstatic.net/200000722513/product/1_9db0dfdae3dd4c2688485116d8f85aa7_grande.jpg",
+        "image_3": "https://product.hstatic.net/200000722513/product/2_c5c05390958f4bdfa49f9f82e6c7f26f_grande.jpg",
+        "image_4": "https://product.hstatic.net/200000722513/product/3_95a25c2d49774a54b35ee6529f593552_grande.jpg",
+        "image_5": "https://product.hstatic.net/200000722513/product/4_3d18e19f17354ec28ac28366d4eeb556_grande.jpg",
+        "image_6": "https://product.hstatic.net/200000722513/product/5_aed432bec56a433a9c9ce2db7c944bc5_grande.jpg"
+      },
+      "detail": {
+        "brand": "E-Dra",
+        "material": "Lưới chất lượng cao thông thoáng",
+        "armrest": "Tựa đầu 2D điều chỉnh độ cao và góc, nâng hạ gắn liền",
+        "maximumRecliningAngle": "",
+        "frameMaterial": "",
+        "hydraulicLiftMechanism": "Class-3 Bifma",
+        "accessory": ""
+      }
+    },
+    {
+      "id": 9,
+      "title": "Ghế Corsair T3 RUSH Gray/White 2023 (CF-9010058-WW)",
+      "sale": "11",
+      "price": "7.590.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/t3_rush_white_gray_render_02_e4b06fe54e0342f189c4c421631753d4_medium.png",
+        "image_2": "https://product.hstatic.net/200000722513/product/t3_rush_white_gray_render_02_e4b06fe54e0342f189c4c421631753d4_grande.png",
+        "image_3": "https://product.hstatic.net/200000722513/product/wx2toafk_340163d61ba7460ba85b4fdb78a3dffd_grande.png",
+        "image_4": "https://product.hstatic.net/200000722513/product/jbtd8u1t_d7142a23ac394474a51753b2b991caca_grande.png",
+        "image_5": "https://product.hstatic.net/200000722513/product/z5vaqdmi_4a784524ec2243a18a98db13a572d633_grande.png",
+        "image_6": "https://product.hstatic.net/200000722513/product/ejah3eul_ede100a76292402f99c795afd11639e3_grande.png"
+      },
+      "detail": {
+        "brand": "Corsair",
+        "material": "Vải mềm cao cấp (bọt đệm ghế Polyurethane)",
+        "armrest": "4D (Up/Down; Left/Right; Front/Back; Swivel)",
+        "maximumRecliningAngle": "90°-180°",
+        "frameMaterial": "kim loại",
+        "hydraulicLiftMechanism": "",
+        "accessory": ""
+      }
+    },
+    {
+      "id": 10,
+      "title": "Ghế công thái học Ergonomic Warrior Pawn Series WEC105 Black",
+      "sale": "20",
+      "price": "1.990.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/1_e3e00b5da7ba465b8f4834fe8c39768c_medium.jpg",
+        "image_2": "https://product.hstatic.net/200000722513/product/2_1afe426989a943d185613db96fcfe7d5_grande.jpg",
+        "image_3": "https://product.hstatic.net/200000722513/product/3_affaec0340524a83ab3862c6f23b0fd8_grande.jpg",
+        "image_4": "https://product.hstatic.net/200000722513/product/4_a60a4039e45e43f3ba331fe1ffbdc87b_grande.jpg",
+        "image_5": "https://product.hstatic.net/200000722513/product/5_9d07be45b464486f910f2b9681d33003_grande.jpg",
+        "image_6": "https://product.hstatic.net/200000722513/product/6_d94816f882bd45ff8b2b349b73711b5e_grande.jpg"
+      },
+      "detail": {
+        "brand": "Ergonomic",
+        "material": "Lưng lưới – Mâm ngồi Foam nguyên chất\nChân kim loại thiết kế chịu lực",
+        "armrest": "Tựa đầu 2D, Kê tay tùy chỉnh",
+        "maximumRecliningAngle": "",
+        "frameMaterial": "",
+        "hydraulicLiftMechanism": "Trục thủy lực Class 4 bền bỉ",
+        "accessory": "HDSD"
       }
     }
   ],
@@ -4458,6 +5544,253 @@
         "noiseIsolation": "Có",
         "headphoneDriver": ""
       }
+    },
+    {
+      "id": 2,
+      "title": "Tai nghe SteelSeries Xbox Arctis Nova 5 Black",
+      "sale": "",
+      "price": "4.290.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/tai-nghe-steelseries-arctis-nova_976a87d72f954b62ae7b17bfc0f62a9e_medium.png",
+        "image_2": "https://product.hstatic.net/200000722513/product/tai-nghe-steelseries-arctis-nova_976a87d72f954b62ae7b17bfc0f62a9e_grande.png",
+        "image_3": "https://product.hstatic.net/200000722513/product/tai-nghe-steelseries-arctis-nova__1__745b679f230c49f5a696f8aa374ed8cb_grande.png",
+        "image_4": "https://product.hstatic.net/200000722513/product/resizer.php_644465387fde4b3e9472f8ecfe2a2d28_grande.png",
+        "image_5": "https://product.hstatic.net/200000722513/product/resizer.php__1__fb9af0a351c442398e04653b01429c1c_grande.png",
+        "image_6": "https://product.hstatic.net/200000722513/product/resizer.php__2__00b4799d381b4b1baa42963db3c33009_grande.png"
+      },
+      "detail": ""
+    },
+    {
+      "id": 3,
+      "title": "Tai nghe SteelSeries Arctis Nova 5 Black",
+      "sale": "9",
+      "price": "4.290.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/84676_tai_nghe_gaming_khong_day_d4b9ac7d7c854fe9bfb7b7d9707da44d_medium.png",
+        "image_2": "https://product.hstatic.net/200000722513/product/84676_tai_nghe_gaming_khong_day_d4b9ac7d7c854fe9bfb7b7d9707da44d_grande.png",
+        "image_3": "https://product.hstatic.net/200000722513/product/84676_tai_nghe_gaming_khong_day__1__5408618f45b54975b9cdfec5df618965_grande.png",
+        "image_4": "https://product.hstatic.net/200000722513/product/84676_tai_nghe_gaming_khong_day__3__790affa9683045d2b641183d0ee7f345_grande.png",
+        "image_5": "https://product.hstatic.net/200000722513/product/84676_tai_nghe_gaming_khong_day__2__1bc25b806817467ea28c4add7a16aafe_grande.png"
+      },
+      "detail": ""
+    },
+    {
+      "id": 4,
+      "title": "Tai nghe Edifier Không dây W820NB Xanh Dương",
+      "sale": "24",
+      "price": "1.390.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/d14a80cafe9eb5c44dd5e1f826dd9bf_32a5b028d5034e1e8340d24b27aca92b_large_7707b842735d493b859483923c7501b2_medium.png",
+        "image_2": "https://product.hstatic.net/200000722513/product/d14a80cafe9eb5c44dd5e1f826dd9bf_32a5b028d5034e1e8340d24b27aca92b_large_7707b842735d493b859483923c7501b2_grande.png"
+      },
+      "detail": {
+        "brand": "Edifier",
+        "warranty": "12 tháng",
+        "color": "White",
+        "headphoneType": "Over-ear",
+        "connect": "USB Type-C, Bluetooth 5.0",
+        "batteryTime": "49 giờ",
+        "wirelessRange": "10m",
+        "microphone": "Có",
+        "frameMaterial": "",
+        "compatibility": "",
+        "impedance": "",
+        "frequency": "",
+        "sensitivity": "",
+        "soundQuality": "",
+        "surroundSound": "",
+        "noiseIsolation": "Chống ồn chủ động ANC",
+        "headphoneDriver": ""
+      }
+    },
+    {
+      "id": 5,
+      "title": "Tai nghe Edifier Không dây W820NB Trắng Ngà",
+      "sale": "24",
+      "price": "1.390.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/fb4d7148326dbafe6c7949eeea20d43_10f0e89552c74fcfbaf376e82ab53397_large_7706945df66449f58fdce0f538651e29_medium.png",
+        "image_2": "https://product.hstatic.net/200000722513/product/fb4d7148326dbafe6c7949eeea20d43_10f0e89552c74fcfbaf376e82ab53397_large_7706945df66449f58fdce0f538651e29_grande.png"
+      },
+      "detail": {
+        "brand": "Edifier",
+        "warranty": "12 tháng",
+        "color": "White",
+        "headphoneType": "Over-ear",
+        "connect": "USB Type-C, Bluetooth 5.0",
+        "batteryTime": "49 giờ",
+        "wirelessRange": "10m",
+        "microphone": "Có",
+        "frameMaterial": "",
+        "compatibility": "",
+        "impedance": "",
+        "frequency": "",
+        "sensitivity": "",
+        "soundQuality": "",
+        "surroundSound": "",
+        "noiseIsolation": "Chống ồn chủ động ANC",
+        "headphoneDriver": ""
+      }
+    },
+    {
+      "id": 6,
+      "title": "Tai nghe ASUS TUF GAMING H1 Wireless Black(90YH0391-B3UA00)",
+      "sale": "",
+      "price": "1.490.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/w692_6f9f5f8ddac84d3593c8e5fa17926a3f_medium.png",
+        "image_2": "https://product.hstatic.net/200000722513/product/w692_6f9f5f8ddac84d3593c8e5fa17926a3f_grande.png"
+      },
+      "detail": {
+        "brand": "ASUS",
+        "warranty": "24 tháng",
+        "color": "Black",
+        "headphoneType": "Over-ear",
+        "connect": "2.4Ghz / USB-A / USB-C",
+        "batteryTime": "",
+        "wirelessRange": "",
+        "microphone": "Định hướng",
+        "frameMaterial": "",
+        "compatibility": "PC / MAC / Nintendo Switch",
+        "impedance": "60 Ohmm",
+        "frequency": "20 Hz ~ 20kHz",
+        "sensitivity": "",
+        "soundQuality": "Nam châm neođim",
+        "surroundSound": "",
+        "noiseIsolation": "Có",
+        "headphoneDriver": ""
+      }
+    },
+    {
+      "id": 7,
+      "title": "Tai nghe Razer Hammerhead True Wireless HyperSpeed (Playstation)",
+      "sale": "24",
+      "price": "4.990.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/hammerhead_hyperspeed_playstation__2022__render_03_917eb422b45241e28161be182ecc5953_medium.png",
+        "image_2": "https://product.hstatic.net/200000722513/product/hammerhead_hyperspeed_playstation__2022__render_03_917eb422b45241e28161be182ecc5953_grande.png",
+        "image_3": "https://product.hstatic.net/200000722513/product/hammerhead_hyperspeed_playstation__2022__render_01_12dca4b75e99423ebc6a62a53b0f242e_grande.png",
+        "image_4": "https://product.hstatic.net/200000722513/product/hammerhead_hyperspeed_playstation__2022__render_02_840b416cfb2f48588c0be3daf9e9c98e_grande.png",
+        "image_5": "https://product.hstatic.net/200000722513/product/hammerhead_hyperspeed_playstation__2022__render_05_0676f19a06c44379a33f5111194667b0_grande.png",
+        "image_6": "https://product.hstatic.net/200000722513/product/r_hce_hc8_9447197114398_221015-hammerhead-hyperspeed-ps-v2-1500x1000-1_f23bb3efbfb94d2c9e4e2f1f8ee5244e_grande.jpg"
+      },
+      "detail": {
+        "brand": "Razer",
+        "warranty": "24 tháng",
+        "color": "Trắng",
+        "headphoneType": "In-ear",
+        "connect": "True wireless (không dây hoàn toàn)",
+        "batteryTime": "Lên đến 32.5 giờ: 6.5 giờ tai nghe + 26 giờ sạc từ case\nLên đến 27.5 giờ: 5.5 giờ tai nghe + 22 giờ sạc từ case\nLên đến 22.5 giờ: 4.5 giờ tai nghe + 18 giờ sạc từ case\nLên đến 20 giờ: 4 giờ tai nghe + 16 giờ từ case",
+        "wirelessRange": "10m",
+        "microphone": "Có",
+        "frameMaterial": "",
+        "compatibility": "PC, MAC,PS5",
+        "impedance": "16 Ohm",
+        "frequency": "20 Hz ~ 20kHz",
+        "sensitivity": "Microphone: -26 dBFS",
+        "soundQuality": "Nam châm neođim",
+        "surroundSound": "",
+        "noiseIsolation": "Có",
+        "headphoneDriver": "10 mm"
+      }
+    },
+    {
+      "id": 8,
+      "title": "Tai nghe Corsair HS35 V2 Carbon",
+      "sale": "23",
+      "price": "1.290.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/hs35_v2_artboard01_aa_80b3106cd5654c1e89d113d784994e3c_medium.jpg",
+        "image_2": "https://product.hstatic.net/200000722513/product/hs35_v2_artboard01_aa_80b3106cd5654c1e89d113d784994e3c_grande.jpg",
+        "image_3": "https://product.hstatic.net/200000722513/product/hs35_v2_black_render_06_5c962dc7a40449aa856b8990da541505_grande.png",
+        "image_4": "https://product.hstatic.net/200000722513/product/hs35_v2_black_render_07_71a0ec1c09b14101a77d8f541092a38e_grande.png",
+        "image_5": "https://product.hstatic.net/200000722513/product/hs35_v2_black_render_08_334f3bb826ff4c5c9f18b3a85ebc0f03_grande.png"
+      },
+      "detail": {
+        "brand": "Corsair",
+        "warranty": "24 tháng",
+        "color": "Đen",
+        "headphoneType": "Over-ear",
+        "connect": "Có dây",
+        "batteryTime": "",
+        "wirelessRange": "",
+        "microphone": "Có",
+        "frameMaterial": "",
+        "compatibility": "PC, Mac, PlayStation 4/5, Xbox One / Series XS, Nintendo Switch, Mobile devices",
+        "impedance": "",
+        "frequency": "",
+        "sensitivity": "",
+        "soundQuality": "",
+        "surroundSound": "",
+        "noiseIsolation": "Có",
+        "headphoneDriver": "50mm"
+      }
+    },
+    {
+      "id": 9,
+      "title": "Tai nghe Không dây Logitech Zone 300 Đen",
+      "sale": "19",
+      "price": "1.790.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/icz2qubb_56b4a8177f6f489e91fa2c41e28bf963_medium.png",
+        "image_2": "https://product.hstatic.net/200000722513/product/icz2qubb_56b4a8177f6f489e91fa2c41e28bf963_grande.png",
+        "image_3": "https://product.hstatic.net/200000722513/product/u9y6sy2h_4245a0f653ba40f2bf8dfae68507f558_grande.png",
+        "image_4": "https://product.hstatic.net/200000722513/product/yotvtd4m_15e241be0cc247e5833997fdac49d4f0_grande.png",
+        "image_5": "https://product.hstatic.net/200000722513/product/b9ndhajk_a660413d2d6047aaa965de31e11c2369_grande.png",
+        "image_6": "https://product.hstatic.net/200000722513/product/m3o5wy53_38c2178818c94bd09306fc525242a291_grande.png"
+      },
+      "detail": {
+        "brand": "Logitech",
+        "warranty": "24 tháng",
+        "color": "Đen",
+        "headphoneType": "Over-ear",
+        "connect": "Bluetooth",
+        "batteryTime": "20 giờ",
+        "wirelessRange": " 30 m",
+        "microphone": "Có",
+        "frameMaterial": "",
+        "compatibility": "",
+        "impedance": "",
+        "frequency": "50-20KHz",
+        "sensitivity": "96dB ±3dB @1kHz",
+        "soundQuality": "",
+        "surroundSound": "",
+        "noiseIsolation": "Có",
+        "headphoneDriver": ""
+      }
+    },
+    {
+      "id": 10,
+      "title": "Tai nghe Không dây Logitech Zone 300 Đen",
+      "sale": "21",
+      "price": "2.390.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/obdp1pwt_33d3bbb08fe043aeafec7408dfff5abc_medium.png",
+        "image_2": "https://product.hstatic.net/200000722513/product/obdp1pwt_33d3bbb08fe043aeafec7408dfff5abc_grande.png",
+        "image_3": "https://product.hstatic.net/200000722513/product/3avj4xtv_96cca0d150a740dcb21dc3ccaf71eefc_grande.png",
+        "image_4": "https://product.hstatic.net/200000722513/product/1jshzjr8_d7c0383e1a18404d83b3d23cc6880bb5_grande.png",
+        "image_5": "https://product.hstatic.net/200000722513/product/7dyzl6xc_0367034abf8941cc9ff70f82ccde08e6_grande.png",
+        "image_6": "https://product.hstatic.net/200000722513/product/djsheq0g_d35c2cc39df84b9cb8c97e57e928c931_grande.png"
+      },
+      "detail": {
+        "brand": "Logitech",
+        "warranty": "12 Tháng",
+        "color": "Hồng",
+        "headphoneType": "Over-ear",
+        "connect": "Dây cáp sạc USB-C: 1,5m\nPhiên bản Bluetooth: 5.2",
+        "batteryTime": "20 giờ",
+        "wirelessRange": "30 m",
+        "microphone": "Mic MEMS mọi hướng kép với chùm tia có định hướng và DSP",
+        "frameMaterial": "",
+        "compatibility": "",
+        "impedance": "",
+        "frequency": "100 ~ 8 KHz",
+        "sensitivity": "118,0±3 dB ở 1mW @1kHz",
+        "soundQuality": "",
+        "surroundSound": "",
+        "noiseIsolation": "Có",
+        "headphoneDriver": ""
+      }
     }
   ],
   "speaker": [
@@ -4484,6 +5817,181 @@
         "input": "",
         "size": "52mm × 63mm × 28.5mm",
         "weight": "0.7kg"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Loa di động kháng nước IPX6 SOUNARC R2 Portable Speaker - Black",
+      "sale": "",
+      "price": "1.790.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/r2_1f4db38daf1743398b669e751191354e_medium.jpg",
+        "image_2": "https://product.hstatic.net/200000722513/product/r2_1f4db38daf1743398b669e751191354e_grande.jpg",
+        "image_3": "https://product.hstatic.net/200000722513/product/1_38a1ef7a-30ba-4631-883c-52dcfc2c076a_d84765f3282c461d845d3da0527b4f12_grande.jpg",
+        "image_4": "https://product.hstatic.net/200000722513/product/4.2_ec3e404f-506a-41b0-891e-f3a52cb78027_20e905f39510432e96d10b953776d9a5_grande.jpg",
+        "image_5": "https://product.hstatic.net/200000722513/product/r2-1_b9fa70bfd56e4b78a6ca1e5e2f754fd1_grande.jpg",
+        "image_6": "https://product.hstatic.net/200000722513/product/r2-2_184ef24e48dd4183b948d2d974fda468_grande.jpg"
+      },
+      "detail": {
+        "power": "60W",
+        "configuration": "V5.3",
+        "frequencyResponse": "100Hz – 20kHz",
+        "signalToNoiseRatio": "",
+        "distortion": "",
+        "signalSensitivity": "",
+        "input": "DC 5V/2A, via Type-C Port",
+        "size": "29 x 11.5 x 11.5cm",
+        "weight": "1.51kg"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Loa di động kháng nước IPX6 SOUNARC R1 Portable Speaker - Black",
+      "sale": "",
+      "price": "1.790.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/r1-1_8abc0d0a77934129972e8c231408c620_medium.jpg",
+        "image_2": "https://product.hstatic.net/200000722513/product/r1-1_8abc0d0a77934129972e8c231408c620_grande.jpg",
+        "image_3": "https://product.hstatic.net/200000722513/product/waterproof_588233ab-c2f0-4ae4-b71b-e4ae2fa7c35f_f8429da04f1c400e9e7d17881b15bc4a_grande.jpg",
+        "image_4": "https://product.hstatic.net/200000722513/product/7_dbef3854-c8f6-4866-a3c3-18a0a6f61424_0dda3dbde81746138c9408be1280b148_grande.jpg",
+        "image_5": "https://product.hstatic.net/200000722513/product/9_b5ded9c4-6571-4bc5-b3fd-45093bdaccd9_5c326b02d5834437b16a326de2e4c966_grande.jpg",
+        "image_6": "https://product.hstatic.net/200000722513/product/11_9b73d819-2ed9-46b6-8e80-4a7ca3435343_ef4228224a10457490bb41d1f4c16d6c_grande.jpg"
+      },
+      "detail": {
+        "power": "40W",
+        "configuration": "V5.3",
+        "frequencyResponse": "100Hz – 20kHz",
+        "signalToNoiseRatio": "",
+        "distortion": "",
+        "signalSensitivity": "",
+        "input": "DC 5V/2A, via Type-C Port",
+        "size": "23.5 x 9 x 9cm",
+        "weight": "0.94kg"
+      }
+    },
+    {
+      "id": 4,
+      "title": "Loa di động kháng nước IPX6 SOUNARC P4 Portable Speaker - Black",
+      "sale": "",
+      "price": "990.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/p4-2_2522060ec81e422d9aee65ef70a509ae_medium.jpg",
+        "image_2": "https://product.hstatic.net/200000722513/product/p4-2_2522060ec81e422d9aee65ef70a509ae_grande.jpg",
+        "image_3": "https://product.hstatic.net/200000722513/product/p4-4_176737e3bbd344cf92d3bff7db75a412_grande.jpg",
+        "image_4": "https://product.hstatic.net/200000722513/product/p4-1_cb55b248-c402-42c1-b8a0-201f255cdb05_5d9f75f0d5554984aeb2d07a7b36601c_grande.jpg",
+        "image_5": "https://product.hstatic.net/200000722513/product/10_90f977ad-4ed8-4adf-9f38-d828dcb59a00_24d60d41dd0a4728af8b06d422ab01d2_grande.jpg",
+        "image_6": "https://product.hstatic.net/200000722513/product/5_e258c851-eb2c-4089-91ea-363b86e9284a_904a1b30600e44e2baeea7bfc22c60e3_grande.jpg"
+      },
+      "detail": {
+        "power": "20W",
+        "configuration": "V5.3",
+        "frequencyResponse": "80Hz – 18kHz",
+        "signalToNoiseRatio": "",
+        "distortion": "",
+        "signalSensitivity": "",
+        "input": "5V/1A, via Type-C Port",
+        "size": "7.4 x 7.4 x 18.8cm",
+        "weight": "580g"
+      }
+    },
+    {
+      "id": 5,
+      "title": "Loa di động kháng nước IPX6 SOUNARC P4 Portable Speaker - Black",
+      "sale": "6",
+      "price": "690.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/1.1_fa8622bbe2b6419fac802c03e65149c6_medium.jpg",
+        "image_2": "https://product.hstatic.net/200000722513/product/1.1_fa8622bbe2b6419fac802c03e65149c6_grande.jpg",
+        "image_3": "https://product.hstatic.net/200000722513/product/2.1_e9398532fbb1434e9221e5db281afbc6_grande.jpg",
+        "image_4": "https://product.hstatic.net/200000722513/product/3.1_c78fdea204a146b8ba76df4c8db804d0_grande.jpg",
+        "image_5": "https://product.hstatic.net/200000722513/product/driverunits_157600e8-9bbd-4f48-a83c-b44df1f38cfc_b739415fba524d049f0f8468359d6c36_grande.jpg",
+        "image_6": "https://product.hstatic.net/200000722513/product/lights_7ecbdd2d64c6403b988afd74282aa3cd_grande.jpg"
+      },
+      "detail": {
+        "power": "16W",
+        "configuration": "V5.1",
+        "frequencyResponse": "80Hz-20kHz",
+        "signalToNoiseRatio": "",
+        "distortion": "",
+        "signalSensitivity": "",
+        "input": "",
+        "size": "25.5 x 11 x 8.7cm",
+        "weight": "0.74kg"
+      }
+    },
+    {
+      "id": 6,
+      "title": "Loa di động kháng nước IPX5 SOUNARC P2 Portable Speaker - Black",
+      "sale": "6",
+      "price": "450.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/2_58b8f581-e022-4ab2-b4d1-5bb0d08f27d7_0ee22ee6e0494b128049d75c07e55f4c_medium.jpg",
+        "image_2": "https://product.hstatic.net/200000722513/product/2_58b8f581-e022-4ab2-b4d1-5bb0d08f27d7_0ee22ee6e0494b128049d75c07e55f4c_grande.jpg",
+        "image_3": "https://product.hstatic.net/200000722513/product/3_949932df-732d-4c36-92c6-8c263f59ff56_02dd355d3ffc488db8e618df52049c3e_grande.jpg",
+        "image_4": "https://product.hstatic.net/200000722513/product/11_ca2596cc-d013-44b0-97dd-0df86c8a0574_e280084ce11a4827992808bd84c026f3_grande.jpg",
+        "image_5": "https://product.hstatic.net/200000722513/product/9_64ba5c9a-35ff-4cc9-b959-9caab031d7ab_d98f11eeafc240f8bd70de0fcab6a137_grande.jpg",
+        "image_6": "https://product.hstatic.net/200000722513/product/10_78299891-2611-4a65-8a24-314b1c06fc55_516b952e94f84836938f39d6d385eabb_grande.jpg"
+      },
+      "detail": {
+        "power": "10W",
+        "configuration": "V5.3",
+        "frequencyResponse": "80Hz-20kHz",
+        "signalToNoiseRatio": "",
+        "distortion": "",
+        "signalSensitivity": "",
+        "input": "5V/1A, via Type-C Port",
+        "size": "",
+        "weight": "470g"
+      }
+    },
+    {
+      "id": 7,
+      "title": "Loa di động kháng nước IPX5 SOUNARC P2 Portable Speaker - Black",
+      "sale": "",
+      "price": "350.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/1_ef67d9ff-28a7-4bc7-b9f3-cecc395c54ad_93da1879d99843aa894d9e0ef839c1d4_medium.jpg",
+        "image_2": "https://product.hstatic.net/200000722513/product/1_ef67d9ff-28a7-4bc7-b9f3-cecc395c54ad_93da1879d99843aa894d9e0ef839c1d4_grande.jpg",
+        "image_3": "https://product.hstatic.net/200000722513/product/e0589ac10a2e2968f00ae4315ad82f2b_22946d19-a143-492a-a1ca-0ff64d52c35e_e011dee1840e43ea9eac71cf645fa374_grande.jpg",
+        "image_4": "https://product.hstatic.net/200000722513/product/15a6c5670e2536e3228775c342f7429c_ca312bc3-751a-4f38-ae0d-b5040264838a_8ec3f89604c24b6ba043f57904186f73_grande.jpg",
+        "image_5": "https://product.hstatic.net/200000722513/product/097b106e50a0320c2a394fb6d0c90070_47ef1640-aea7-4f0d-a285-499a1d7a284a_9cbf4b20f1744d5e8a95b4f1911422ca_grande.jpg",
+        "image_6": "https://product.hstatic.net/200000722513/product/83391da716f74a4ae6d1bd2edf808e47_9c459b60-df94-45be-ad72-bfdbc9a9e665_17f3a39533b94b3ebec9bb682e90bf34_grande.jpg"
+      },
+      "detail": {
+        "power": "5W",
+        "configuration": "V5.3",
+        "frequencyResponse": "90Hz-19kHz",
+        "signalToNoiseRatio": "",
+        "distortion": "",
+        "signalSensitivity": "",
+        "input": "5V/900mAh，via Type-C Port",
+        "size": "",
+        "weight": "245g"
+      }
+    },
+    {
+      "id": 8,
+      "title": "Loa di động kháng nước IPX5 SOUNARC P2 Portable Speaker - Black",
+      "sale": "",
+      "price": "350.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/3_fd6f2505-fc77-49a1-8d18-d74c4b73e500_1a7915adda254a489370e633da92f0d3_medium.jpg",
+        "image_2": "https://product.hstatic.net/200000722513/product/83391da716f74a4ae6d1bd2edf808e47_bc4161b5-349b-41a7-a060-39e4f32caa29_2597a74b16be45508aa4742ca805fd12_grande.jpg",
+        "image_3": "https://product.hstatic.net/200000722513/product/3_fd6f2505-fc77-49a1-8d18-d74c4b73e500_1a7915adda254a489370e633da92f0d3_grande.jpg",
+        "image_4": "https://product.hstatic.net/200000722513/product/e0589ac10a2e2968f00ae4315ad82f2b_42061282-7995-4e70-807d-0a56e33d5623_28f250f906f2403f9ee497e0e9347fee_grande.jpg",
+        "image_5": "https://product.hstatic.net/200000722513/product/ddf8c5101618e6f5eabca9ed22c0106b_dc82d7c4-d5be-41e0-8eff-609c1dd3f6e7_899655613f394e2087bdc78f8b7c74ea_grande.jpg",
+        "image_6": "https://product.hstatic.net/200000722513/product/097b106e50a0320c2a394fb6d0c90070_5584cc67-d5f5-4ca7-9383-66c40925d435_05e3ec99b3cc4ac5803114559682dd1f_grande.jpg"
+      },
+      "detail": {
+        "power": "5W",
+        "configuration": "V5.3",
+        "frequencyResponse": "90Hz-19kHz",
+        "signalToNoiseRatio": "",
+        "distortion": "",
+        "signalSensitivity": "",
+        "input": "5V/900mAh，via Type-C Port",
+        "size": "",
+        "weight": "245g"
       }
     }
   ],
