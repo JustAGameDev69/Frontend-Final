@@ -6397,8 +6397,476 @@
         "frequency": "20 Hz - 20 kHz",
         "maximumSPL": "110 dB"
       }
+    },
+    {
+      "id": 6,
+      "title": "Phụ kiện giá đỡ Laptop N3",
+      "sale": "43",
+      "price": "349.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/laptop_stand_n3_e3de80daf5804bf798be1ea741292cab_medium.jpg",
+        "image_2": "https://product.hstatic.net/200000722513/product/laptop_stand_n3_e3de80daf5804bf798be1ea741292cab_grande.jpg",
+        "image_3": "https://product.hstatic.net/200000722513/product/n3_e717840444834f9eb3e9c2ac9000f908_grande.png",
+        "image_4": "https://product.hstatic.net/200000722513/product/n3_2_d90a26c1f6644a82be2cfde058589f7c_grande.png",
+        "image_5": "https://product.hstatic.net/200000722513/product/n3_laptop_stand_aluminium_allo_1673098427_6e7bad02_progressive_22ec74fbd00b451dbea68bc979c98080_grande.jpg",
+        "image_6": "https://product.hstatic.net/200000722513/product/n3_laptop_stand_aluminium_allo_1673098427_44ab0a8f_progressive_5b1be400ed4540f1812f2bfd348a8ded_grande.jpg"
+      },
+      "detail": {}
+    },
+    {
+      "id": 7,
+      "title": "Cổng chuyển đổi USB C Ugreen 4 in 1 CM219 70336",
+      "sale": "23",
+      "price": "390.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/hub_3in1_70336_cf84025cf1884ea4ac30c92c7506540d_medium.jpg"
+      },
+      "detail": {
+        "power": "60W",
+        "length": "15cm",
+        "input": "type-C",
+        "Outputs": "4 x USB3.0",
+        "color": "Xám",
+        "size": "108 x 39.5 x 11.5 mm"
+      }
+    },
+    {
+      "id": 8,
+      "title": "Cổng chuyển đổi USB C Ugreen 5 in 1 CM478 15495",
+      "sale": "47",
+      "price": "600.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/z5525342113717_207d3f4dd5d6c0524369c76700630f42_355e250573f74014ac9fb074a47e6085_medium.jpg",
+        "image_2": "https://product.hstatic.net/200000722513/product/z5525342113717_207d3f4dd5d6c0524369c76700630f42_355e250573f74014ac9fb074a47e6085_grande.jpg",
+        "image_3": "https://product.hstatic.net/200000722513/product/gearvn-cong-chuyen-doi-usb-c-ugreen-5-in-1-cm478-15495-1_90447cd735b64935a7a0655ce0f94a4a_grande.jpg",
+        "image_4": "https://product.hstatic.net/200000722513/product/gearvn-cong-chuyen-doi-usb-c-ugreen-5-in-1-cm478-15495-2_6b0d81528f8142c481a3589e6a79af2d_grande.jpg",
+        "image_5": "https://product.hstatic.net/200000722513/product/gearvn-cong-chuyen-doi-usb-c-ugreen-5-in-1-cm478-15495-3_0e2499cde5b3492997c41675185ceb09_grande.jpg",
+        "image_6": "https://product.hstatic.net/200000722513/product/gearvn-cong-chuyen-doi-usb-c-ugreen-5-in-1-cm478-15495-4_a912dd3f4d6f4665add49967a08ea21e_grande.jpg"
+      },
+      "detail": {
+        "power": "60W",
+        "length": "20cm",
+        "input": "type-C",
+        "Outputs": "1 × USB 3.0 \n2 × USB 2.0\n1 x USB-C 5 Gbps (DP 1.2 / HDCP 1.4)\n1 × HDMI (HDMI 1.4 / HDCP 1.4",
+        "color": "Xám",
+        "size": "25 x 12 x 4 cm"
+      }
+    },
+    {
+      "id": 9,
+      "title": "Cổng chuyển đổi USB C Ugreen 4 in 1 CM219 50985",
+      "sale": "23",
+      "price": "390.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/ugreen-50985-jpg-v-1604290582437_dd4d93d98b0a423c837dedcb5c20d12f_medium.jpg"
+      },
+      "detail": {
+        "power": "",
+        "length": "",
+        "input": "USB A",
+        "Outputs": "4 x USB3.0",
+        "color": "Xám",
+        "size": "108 x 39.5 x 11.5 mm"
+      }
+    },
+    {
+      "id": 10,
+      "title": "Cổng chuyển đổi USB C Ugreen 5 in 1 CM511 15596",
+      "sale": "40",
+      "price": "880.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/5996_cbbe37545e744c74944f4dd785c53a68_medium.jpg"
+      },
+      "detail": {
+        "power": "",
+        "length": "",
+        "input": "USB C",
+        "Outputs": "3xUSB 3.0, 1xHDMI, 1x PD USB-C",
+        "color": "Xám",
+        "size": "115 x 35 x 12.5mm"
+      }
     }
   ],
-  "officedevice": [{}],
-  "apple": [{}]
+  "officedevice": [
+    {
+      "id": 1,
+      "title": "Phần mềm Windows 11 Pro Online DwnLd NR FQC-10572",
+      "sale": "20",
+      "price": "5.590.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/_pro_online_dwnld_nr_fqc-10572_gearvn_dc5a004e0330424c816d20c0a5a31870_6f1e5c53e966459181ef80ade54457aa_medium.jpg"
+      },
+      "detail": {
+        "manufacturer": "Mircosoft",
+        "model": "FQC-10572",
+        "name": "Phần mềm Windows 11 Pro Online DwnLd NR FQC-10572",
+        "feature": "Thích hợp cho kinh doanh\nĐa nhiệm\nMicrosoft Edge - Cortana\nChế độ Máy tính bảng- Máy tính từ xa",
+        "device": "1",
+        "period": "Vĩnh viễn"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Phần mềm Windows 11 Home Online DwnLd NR KW9-00664",
+      "sale": "16",
+      "price": "3.690.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/home_online_dwnld_nr_kw9-00664_gearvn_1af7af131f934c3f9b0b98de4cbea282_6ed5acc9d8bd4266806a53d43ba2863a_medium.jpg"
+      },
+      "detail": {
+        "manufacturer": "Mircosoft",
+        "model": "KW9-00664",
+        "name": "Phần mềm Windows 11 Pro Online DwnLd NR FQC-10572",
+        "feature": "Thích hợp cho kinh doanh\nĐa nhiệm\nMicrosoft Edge - Cortana\nChế độ Máy tính bảng- Máy tính từ xa",
+        "device": "1",
+        "period": "Thời gian sử dụng phần cứng "
+      }
+    },
+    {
+      "id": 3,
+      "title": "Phần mềm Office Home & Student 2021 79G-05337",
+      "sale": "35",
+      "price": "2.990.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/office-home-student-2021-gearvn_2b58e2b89cb144c8af1a53cd0f50b138_3b6ac54980b343a4b7b0019c7bde1944_medium.jpg"
+      },
+      "detail": {
+        "manufacturer": "Mircosoft",
+        "model": "79G-05337",
+        "name": "Phần mềm Windows 11 Pro Online DwnLd NR FQC-10572",
+        "feature": "Mua 01 lần - dùng trọn đời bộ ứng dụng Office cơ bản 2021, dành cho 1 người, cài đặt trên 1 thiết bị Máy tính hoặc máy Mac\nBộ ứng dụng cơ bản 2021: Word, Excel, PowerPoint, cùng tính năng cộng thêm OneNote",
+        "device": "1",
+        "period": "Vĩnh viễn"
+      }
+    },
+    {
+      "id": 4,
+      "title": "Phần mềm Microsoft 365 Family 6GQ-00083",
+      "sale": "37",
+      "price": "1.990.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/family_5dfdd704879d48879ed9b008e82766f3_medium.jpg"
+      },
+      "detail": {
+        "manufacturer": "Mircosoft",
+        "model": "6GQ-00083",
+        "name": "Phần mềm Windows 11 Pro Online DwnLd NR FQC-10572",
+        "feature": "Mua 01 lần - dùng trọn đời bộ ứng dụng Office cơ bản 2021, dành cho 1 người, cài đặt trên 1 thiết bị Máy tính hoặc máy Mac\nBộ ứng dụng cơ bản 2021: Word, Excel, PowerPoint, cùng tính năng cộng thêm OneNote",
+        "device": "6 tài khoản (6 người dùng)",
+        "period": "12 tháng"
+      }
+    },
+    {
+      "id": 5,
+      "title": "Phần mềm Microsoft 365 Personal QQ2-00003",
+      "sale": "5",
+      "price": "990.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/_en_m365_personal_holidayfy24_posa_fob_rgb_1157_7b8ab684ef27489a98fc553c36bbd52a_medium.jpg"
+      },
+      "detail": {
+        "manufacturer": "Mircosoft",
+        "model": "6GQ-00083",
+        "name": "Phần mềm Windows 11 Pro Online DwnLd NR FQC-10572",
+        "feature": "Outlook hỗ trợ sắp xếp email, lịch biểu, danh bạ, không có quảng cáo\nTrình chỉnh sửa video Clipchamp với các bộ lọc và hiệu ứng cao cấp\nBảo vệ thiết bị và tài liệu quan trọng với khả năng tự động phát hiện virus và bảo mật hai lớp nâng cao",
+        "device": "5 thiết bị",
+        "period": "12 tháng"
+      }
+    }
+  ],
+  "apple": [
+    {
+      "id": 1,
+      "title": "Macbook Air M2 8GPU 16GB 256GB - Midnight",
+      "sale": "23",
+      "price": "39.990.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/ook_air_m2_8gpu_16gb_256gb_-_midnight_8ead913e1d624d79be608bbbc7f46f94_f825a6934627488b965e487885ce51dd_medium.jpg",
+        "image_2": "https://product.hstatic.net/200000722513/product/ook_air_m2_8gpu_16gb_256gb_-_midnight_8ead913e1d624d79be608bbbc7f46f94_f825a6934627488b965e487885ce51dd_grande.jpg",
+        "image_3": "https://product.hstatic.net/200000722513/product/5eb9028e34490c89162d6d872536cd_master_2676e4409fe04b2f889b09c00dcbbb2b_8303bf3e725942458580642f2ceffddd_grande.jpg",
+        "image_4": "https://product.hstatic.net/200000722513/product/0fa38a0c9847adab4e2061628d90fe_master_24a9e26e75724bc78c0003cb837e6ca9_10271ed55a6b48d4a938fc43e7c7f4ef_grande.jpg",
+        "image_5": "https://product.hstatic.net/200000722513/product/07ecd021fe4ef69330be0ccd277095_master_3bcff5f38b8f47b391fcf27f4455e497_44a3a836717543a3a14e8ffab560fcfe_grande.jpg",
+        "image_6": "https://product.hstatic.net/200000722513/product/b90d31019f48e0a30fddc380f44083_master_187e81b90e24480b8572c35543099c6f_b0eb6645a58444aa910375937a4c570a_grande.jpg"
+      },
+      "detail": {
+        "CPU": "M2 8CPU 8GPU",
+        "RAM": "16GB",
+        "SSD": "256GB",
+        "VGA": "M2 8CPU 8GPU",
+        "monitor": "13.6 inch (2560x1664) IPS, Led Backlit, True Tone",
+        "keyboard": "Touch ID\nMagic Keyboard, có LED",
+        "audio": "Stereo speakers",
+        "LAN": "None",
+        "connect": "Wifi 802.11ac - Bluetooth 5.0",
+        "port": "2 x Thunderbolt 3 (USB-C)Jack tai nghe 3.5 mm\n3 microphones\nHeadphones\nLoa kép (2 kênh)",
+        "system": "Mac OS",
+        "battery": "52,6 Wh",
+        "weight": "1.27 kg",
+        "size": "30.41 x 21.5 x 1.13 cm",
+        "color": "Midnight",
+        "partNumber": "LAP-APPLE-MBA-M2-MN"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Macbook Air M2 10GPU 8GB 512GB - Silver",
+      "sale": "23",
+      "price": "41.990.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/cbook-air-m2-10gpu-8gb-512gb-silver-2_9996b049f85648169fad6e9f71ed1bc1_6c61a5a4d2a44212af3826b301a4af43_medium.jpg",
+        "image_2": "https://product.hstatic.net/200000722513/product/cbook-air-m2-10gpu-8gb-512gb-silver-2_9996b049f85648169fad6e9f71ed1bc1_6c61a5a4d2a44212af3826b301a4af43_grande.jpg",
+        "image_3": "https://product.hstatic.net/200000722513/product/cbook-air-m2-10gpu-8gb-512gb-silver-3_47328feada4a4a7690b5d5e4a143760a_04a2bba5621544c2a0132c91db74e8a8_grande.jpg",
+        "image_4": "https://product.hstatic.net/200000722513/product/cbook-air-m2-10gpu-8gb-512gb-silver-4_7129d4594abe44bcbf7caf46c101b538_609b26a2d07e41c697e3ed76f5684f0a_grande.jpg",
+        "image_5": "https://product.hstatic.net/200000722513/product/cbook-air-m2-10gpu-8gb-512gb-silver-5_91c89c75938e4d6195d2dfbf1b639c1d_414f9fb5eba341fb8e337365d80001a2_grande.jpg",
+        "image_6": "https://product.hstatic.net/200000722513/product/cbook-air-m2-10gpu-8gb-512gb-silver-6_1f08a89eb5004f92a81f72c678f57e94_02ef292f76434752a31fe0d8182fd9c7_grande.jpg"
+      },
+      "detail": {
+        "CPU": "M2 8CPU 10GPU",
+        "RAM": "8GB",
+        "SSD": "512GB",
+        "VGA": "M2 8CPU 10GPU",
+        "monitor": "13.6 inch (2560x1664) IPS, Led Backlit, True Tone",
+        "keyboard": "Touch ID\nMagic Keyboard, có LED",
+        "audio": "Stereo speakers",
+        "LAN": "None",
+        "connect": "Wifi 802.11ac - Bluetooth 5.0",
+        "port": "2 x Thunderbolt 3 (USB-C)Jack tai nghe 3.5 mm\n3 microphones\nHeadphones\nLoa kép (2 kênh)",
+        "system": "Mac OS",
+        "battery": "52.6-watt‑hour lithium‑polymer battery",
+        "weight": "1.24 kg",
+        "size": "30.41 x 21.5 x 1.13 cm",
+        "color": "Silver",
+        "partNumber": "LAP-APPLE-MBA-13-SV-MLY03SA/A"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Bàn phím APPLE Magic Keyboard - US English Silver (MK2A3ZA/A)",
+      "sale": "15",
+      "price": "2.800.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/211027011618-mk2a3za-a_c2dbcf7f3cdd4a96ace549a0bb0dcfb4_85f5a96d45b242f49524b67026980f85_medium.jpg",
+        "image_2": "https://product.hstatic.net/200000722513/product/211027011618-mk2a3za-a_c2dbcf7f3cdd4a96ace549a0bb0dcfb4_85f5a96d45b242f49524b67026980f85_grande.jpg",
+        "image_3": "https://product.hstatic.net/200000722513/product/211027011618-mk2a3za-a1_c49d139d3e7740e1a3158a5d85124a74_2e191cf637154b2d8ee4384394b57e7a_grande.jpg",
+        "image_4": "https://product.hstatic.net/200000722513/product/211027011618-mk2a3za-a2_a24d4327f9144e16acbe7ea756c965d6_9a6fca9e594d4e15bf8d4272dc31ff13_grande.jpg",
+        "image_5": "https://product.hstatic.net/200000722513/product/211027011618-mk2a3za-a3_4aa02527eae3457d9d8c8c5ba5b5b6a1_c8f23af03888401fae71e4955175d017_grande.jpg",
+        "image_6": "https://product.hstatic.net/200000722513/product/211027011618-mk2a3za-a4_d2f1214738a848838defccd69b05d64d_e97ec39f23c84d33be87aeb4bfd2c584_grande.jpg"
+      },
+      "detail": {
+        "connect": "Kết nối: Bluetooth, Lightning port, Wireless",
+        "size": "0,41–1,09, rộng: 27,89, sâu: 11,49 cm",
+        "color": "Silver"
+      }
+    },
+    {
+      "id": 4,
+      "title": "MacBook Pro 13 M2 10GPU 16GB 256GB Silver",
+      "sale": "8",
+      "price": "41.990.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/k-pro-13-m2-10gpu-16gb-256gb-silver-1_4d290b6712d84766bf2efa685de084bf_1a9e50e8e91148aeaeae491dd102d722_medium.png",
+        "image_2": "https://product.hstatic.net/200000722513/product/k-pro-13-m2-10gpu-16gb-256gb-silver-1_4d290b6712d84766bf2efa685de084bf_1a9e50e8e91148aeaeae491dd102d722_grande.png",
+        "image_3": "https://product.hstatic.net/200000722513/product/k-pro-13-m2-10gpu-16gb-256gb-silver-2_f5e83d400d7f4f0ca5d2846449c30d83_d5f4c750f4cc415da7967a26cfdd6870_grande.png",
+        "image_4": "https://product.hstatic.net/200000722513/product/k-pro-13-m2-10gpu-16gb-256gb-silver-3_5ed83811afe64f1da1ee66117031137c_98e0692573624c79a756cf4c49f73b43_grande.png",
+        "image_5": "https://product.hstatic.net/200000722513/product/k-pro-13-m2-10gpu-16gb-256gb-silver-4_aeed0f99fc6144b2a0443871676f12a1_d7f78061d199476e94979893c97ad3b3_grande.png",
+        "image_6": "https://product.hstatic.net/200000722513/product/k-pro-13-m2-10gpu-16gb-256gb-silver-5_5964a5784a5248de91c996d61f741e09_9ef190799d4f420fa7ec02c5fe1fe810_grande.png"
+      },
+      "detail": {
+        "CPU": "M2 8CPU 10GPU",
+        "RAM": "16GB",
+        "SSD": "256GB",
+        "VGA": "M2 8CPU 10GPU",
+        "monitor": "13.3 inch (2560x1600) IPS, Led Backlit, True Tone",
+        "keyboard": "Touch ID\nMagic Keyboard, có LED",
+        "audio": "Stereo speakers",
+        "LAN": "None",
+        "connect": "Wifi 802.11ac - Bluetooth 5.0",
+        "port": "2 x Thunderbolt 3 (USB-C)Jack tai nghe 3.5 mm\n3 microphones\nHeadphones\nLoa kép (2 kênh)",
+        "system": "Mac OS",
+        "battery": "58.2-watt-hour lithium-polymer battery",
+        "weight": "1.4 kg",
+        "size": "30.41 x 21.5 x 1.13 cm",
+        "color": "Silver",
+        "partNumber": "LAP-APPLE-MBP-M2-16GB-SL"
+      }
+    },
+    {
+      "id": 5,
+      "title": "Macbook Air M2 10GPU 16GB 512GB - Space Grey",
+      "sale": "17",
+      "price": "45.990.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/_air_m2_10gpu_16gb_512gb_-_space_gray_3fe5b076416a499ea0588534a6c9f3a3_c3f333635f0c4f68b41312bd399ac5d4_medium.png",
+        "image_2": "https://product.hstatic.net/200000722513/product/_air_m2_10gpu_16gb_512gb_-_space_gray_3fe5b076416a499ea0588534a6c9f3a3_c3f333635f0c4f68b41312bd399ac5d4_grande.png",
+        "image_3": "https://product.hstatic.net/200000722513/product/89d7c9b2944a0aadb2a30929c7f9a8_master_87e2ad85305b48ca8ed7e259c80cceee_841ea4dfc3044d8f9dfc8222b7b70fca_grande.png",
+        "image_4": "https://product.hstatic.net/200000722513/product/885e53a93441789102bfb8f5c00057_master_c06fb2b8f49741ef94011f502094dc67_45a30add69c34f06bfca896081fac599_grande.jpg",
+        "image_5": "https://product.hstatic.net/200000722513/product/ddf72d18b24ddb9af9c12f7c61ea11_master_5c59ffcc167b474193a2483ec6bc3c8a_2d5de082cff04763827ad0afbf92e406_grande.jpg",
+        "image_6": "https://product.hstatic.net/200000722513/product/761e021c08492b90a341199d820a96_master_8696b04da206497da8370bcdaed810d0_0b42794b07db402d86fbe9812a4be6c5_grande.jpg"
+      },
+      "detail": {
+        "CPU": "M2 8CPU 10GPU",
+        "RAM": "16GB",
+        "SSD": "256GB",
+        "VGA": "M2 8CPU 10GPU",
+        "monitor": "13.6 inch (2560x1664) IPS, Led Backlit, True Tone",
+        "keyboard": "Touch ID\nMagic Keyboard, có LED",
+        "audio": "Stereo speakers",
+        "LAN": "None",
+        "connect": "Wifi 802.11ac - Bluetooth 5.0",
+        "port": "2 x Thunderbolt 3 (USB-C)Jack tai nghe 3.5 mm\n3 microphones\nHeadphones\nLoa kép (2 kênh)",
+        "system": "Mac OS",
+        "battery": "52,6 Wh",
+        "weight": "1.27 kg",
+        "size": "30.41 x 21.5 x 1.13 cm",
+        "color": "Space Gray",
+        "partNumber": "LAP-APPLE-MBA-M2-16GB-SG"
+      }
+    },
+    {
+      "id": 6,
+      "title": "MacBook Pro 13 M2 10GPU 16GB 512GB Space Gray",
+      "sale": "17",
+      "price": "45.990.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/o-13-m2-10gpu-16gb-512gb-space-gray-1_96f2eff0bd9c4da788b8e7fd9c299ae2_46f7c51b44144836a47747b2877679cf_medium.png",
+        "image_2": "https://product.hstatic.net/200000722513/product/o-13-m2-10gpu-16gb-512gb-space-gray-1_96f2eff0bd9c4da788b8e7fd9c299ae2_46f7c51b44144836a47747b2877679cf_grande.png",
+        "image_3": "https://product.hstatic.net/200000722513/product/o-13-m2-10gpu-16gb-512gb-space-gray-2_b0bb9c5d8d264fd7a6e60646b82559b0_0f36628cade7488593c66547e13966bb_grande.png",
+        "image_4": "https://product.hstatic.net/200000722513/product/o-13-m2-10gpu-16gb-512gb-space-gray-3_66d1be1b1f224c28929a71f92b77fb28_20b0d53344cb4828b7cb477257e6a31a_grande.png"
+      },
+      "detail": {
+        "CPU": "M2 8CPU 10GPU",
+        "RAM": "16GB",
+        "SSD": "512GB",
+        "VGA": "M2 8CPU 10GPU",
+        "monitor": "13.6 inch (2560x1664) IPS, Led Backlit, True Tone",
+        "keyboard": "Touch ID\nMagic Keyboard, có LED",
+        "audio": "Stereo speakers",
+        "LAN": "None",
+        "connect": "Wifi 802.11ac - Bluetooth 5.0",
+        "port": "2 x Thunderbolt 3 (USB-C)Jack tai nghe 3.5 mm\n3 microphones\nHeadphones\nLoa kép (2 kênh)",
+        "system": "Mac OS",
+        "battery": "58.2-watt-hour lithium-polymer battery",
+        "weight": "1.4 kg",
+        "size": "30.41 x 21.5 x 1.13 cm",
+        "color": "Space Gray",
+        "partNumber": "LAP-APPLE-MBP-M2-16GB-512-SG"
+      }
+    },
+    {
+      "id": 7,
+      "title": "Macbook Air M2 10GPU 16GB 512GB - Space Grey",
+      "sale": "6",
+      "price": "46.990.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/k-pro-13-m2-10gpu-16gb-512gb-silver-2_b9322cd38b244032bfbae665db01d586_0334bca49ca246aeac2fc80ed6edc7c2_medium.png",
+        "image_2": "https://product.hstatic.net/200000722513/product/k-pro-13-m2-10gpu-16gb-512gb-silver-2_b9322cd38b244032bfbae665db01d586_0334bca49ca246aeac2fc80ed6edc7c2_grande.png",
+        "image_3": "https://product.hstatic.net/200000722513/product/k-pro-13-m2-10gpu-16gb-512gb-silver-3_d18bbca19729410d92463078d71c4f7f_9e7649eaa98347a3ac6816e36f4f1aaf_grande.png",
+        "image_4": "https://product.hstatic.net/200000722513/product/k-pro-13-m2-10gpu-16gb-512gb-silver-4_672e1d9ffb2946609cfe70cc7b89c04c_46e1dafbbaa7456da31c9878c2cd1fad_grande.png"
+      },
+      "detail": {
+        "CPU": "M2 8CPU 10GPU",
+        "RAM": "16GB",
+        "SSD": "256GB",
+        "VGA": "M2 8CPU 10GPU",
+        "monitor": "13.6 inch (2560x1664) IPS, Led Backlit, True Tone",
+        "keyboard": "Touch ID\nMagic Keyboard, có LED",
+        "audio": "Stereo speakers",
+        "LAN": "None",
+        "connect": "Wifi 802.11ac - Bluetooth 5.0",
+        "port": "Thunderbolt 3 (up to 40Gb/s)\nUSB 4 (up to 40Gb/s)\nUSB 3.1 Gen 2 (up to 10Gb/s)\nDisplayPort",
+        "system": "Mac OS",
+        "battery": "58.2-watt-hour lithium-polymer battery",
+        "weight": "1.4 kg",
+        "size": "30.41 x 21.24 x 1.56 cm",
+        "color": "Space Gray",
+        "partNumber": "LAP-APPLE-MBP-M2-16GB-512-SLV"
+      }
+    },
+    {
+      "id": 8,
+      "title": "MacBook Pro 13 M2 10GPU 8GB 256GB Silver",
+      "sale": "11",
+      "price": "34.990.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/book_pro_13_m2_10gpu_8gb_256gb_silver_e180342f0b514df4ae8bc6a04c428ec1_c827d55aa0cc4003a8794488dbc4e0eb_medium.jpg",
+        "image_2": "https://product.hstatic.net/200000722513/product/book_pro_13_m2_10gpu_8gb_256gb_silver_e180342f0b514df4ae8bc6a04c428ec1_c827d55aa0cc4003a8794488dbc4e0eb_grande.jpg",
+        "image_3": "https://product.hstatic.net/200000722513/product/ezgif-1-022a341f1b_d93cdb5160a343f09692d1cd2e9ba4e1_7813181b110840c69c21ee737435a1bd_grande.png"
+      },
+      "detail": {
+        "CPU": "M2 8CPU 10GPU",
+        "RAM": "8GB",
+        "SSD": "256GB",
+        "VGA": "M2 8CPU 10GPU",
+        "monitor": "13.3 inch (2560x1600) IPS, Led Backlit, True Tone",
+        "keyboard": "Touch ID\nMagic Keyboard, có LED",
+        "audio": "Stereo speakers",
+        "LAN": "None",
+        "connect": "Wifi 802.11ac - Bluetooth 5.0",
+        "port": "Thunderbolt 3 (up to 40Gb/s)\nUSB 4 (up to 40Gb/s)\nUSB 3.1 Gen 2 (up to 10Gb/s)\nDisplayPort",
+        "system": "Mac OS",
+        "battery": "58.2-watt-hour lithium-polymer battery",
+        "weight": "1.4 kg",
+        "size": "30.41 x 21.24 x 1.56 cm",
+        "color": "Siver",
+        "partNumber": "LAP-APPLE-MBP-13-SLV-MNEP3SA/A"
+      }
+    },
+    {
+      "id": 9,
+      "title": "MacBook Pro 13 M2 10GPU 8GB 256GB Silver",
+      "sale": "11",
+      "price": "34.990.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/_pro_13_m2_10gpu_8gb_256gb_space_gray_5121587000e84619abebc5ce6d543cdc_347fe899dc474bdc9889c033f46743d8_medium.jpg",
+        "image_2": "https://product.hstatic.net/200000722513/product/_pro_13_m2_10gpu_8gb_256gb_space_gray_5121587000e84619abebc5ce6d543cdc_347fe899dc474bdc9889c033f46743d8_grande.jpg",
+        "image_3": "https://product.hstatic.net/200000722513/product/220607113922-macbook-air-m2-512gb_930f85d20f6848f98452e364c9285d4c_6c88129bdac44682abbe04fda5d21e5e_grande.jpeg",
+        "image_4": "https://product.hstatic.net/200000722513/product/ezgif-1-022a341f1b_91cf40a8190c49b4be3af3c1e55cdc7b_8d9afa26c6004f73a6c09f54a0fa1e95_grande.png"
+      },
+      "detail": {
+        "CPU": "M2 8CPU 10GPU",
+        "RAM": "8GB",
+        "SSD": "256GB",
+        "VGA": "M2 8CPU 10GPU",
+        "monitor": "13.3 inch (2560x1600) IPS, Led Backlit, True Tone",
+        "keyboard": "Touch ID\nMagic Keyboard, có LED",
+        "audio": "Stereo speakers",
+        "LAN": "None",
+        "connect": "Wifi 802.11ac - Bluetooth 5.0",
+        "port": "Thunderbolt 3 (up to 40Gb/s)\nUSB 4 (up to 40Gb/s)\nUSB 3.1 Gen 2 (up to 10Gb/s)\nDisplayPort",
+        "system": "Mac OS",
+        "battery": "58.2-watt-hour lithium-polymer battery",
+        "weight": "1.4 kg",
+        "size": "30.41 x 21.24 x 1.56 cm",
+        "color": "Space Gray",
+        "partNumber": "LAP-APPLE-MBP-13-SG-MNEH3SA/A"
+      }
+    },
+    {
+      "id": 10,
+      "title": "MacBook Pro 13 M2 10GPU 8GB 512GB Space Gray",
+      "sale": "11",
+      "price": "34.990.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/ezgif-1-022a341f1b_ebdd90220119408faadfd3c0d6808aee_0997e6994f914ffeaa573c2a91acccfd_medium.png"
+      },
+      "detail": {
+        "CPU": "M2 8CPU 10GPU",
+        "RAM": "8GB",
+        "SSD": "512GB",
+        "VGA": "M2 8CPU 10GPU",
+        "monitor": "13.3 inch (2560x1600) IPS, Led Backlit, True Tone",
+        "keyboard": "Touch ID\nMagic Keyboard, có LED",
+        "audio": "Stereo speakers",
+        "LAN": "None",
+        "connect": "Wifi 802.11ac - Bluetooth 5.0",
+        "port": "Thunderbolt 3 (up to 40Gb/s)\nUSB 4 (up to 40Gb/s)\nUSB 3.1 Gen 2 (up to 10Gb/s)\nDisplayPort",
+        "system": "Mac OS",
+        "battery": "58.2-watt-hour lithium-polymer battery",
+        "weight": "1.4 kg",
+        "size": "30.41 x 21.24 x 1.56 cm",
+        "color": "Space Gray",
+        "partNumber": "LAP-APPLE-MBP-13-SG-MNEJ3SA/A"
+      }
+    }
+  ]
 }
