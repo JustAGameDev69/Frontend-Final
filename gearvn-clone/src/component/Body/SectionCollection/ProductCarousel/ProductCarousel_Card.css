@@ -5,6 +5,7 @@
   border-radius: 4px;
   box-shadow: inset 1px 0px 0px #ededed, inset -1px 0px 0px #ededed,
     inset 0px 1px 0px #ededed, inset 0px -1px 0px #ededed;
+  margin-bottom: 0.6rem;
 }
 
 .product-carousel-card-img {
@@ -28,6 +29,7 @@
   color: #333333;
   line-height: 20px;
   height: 40px;
+  margin-bottom: 0.3rem;
 }
 
 .product-carousel-card-content-detail {
@@ -57,6 +59,8 @@
   color: #6d6e72;
   font-weight: 400;
   text-decoration: line-through;
+  padding-top: 0.2rem;
+  padding-bottom: 0.2rem;
 }
 
 .product-carousel-card-content-detail-current-price {
@@ -67,6 +71,7 @@
   gap: 10px;
   display: flex;
   align-items: center;
+  margin-bottom: 0.3rem;
 }
 
 .product-carousel-card-content-detail-current-price span {
@@ -85,6 +90,7 @@
   display: flex;
   align-items: center;
   gap: 0.1rem;
+  margin-bottom: 0.3rem;
 }
 
 .product-carousel-card-content-detail-rating svg {
