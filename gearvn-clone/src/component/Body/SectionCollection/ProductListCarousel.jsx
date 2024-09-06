@@ -3,7 +3,7 @@ import "react-multi-carousel/lib/styles.css";
 import "./ProductListStyle.css";
 import { ProductCarousel_Card } from "./ProductCarousel/ProductCarousel_Card";
 
-export default function ProductListCarousel() {
+export default function ProductListCarousel({ data }) {
   const responsive = {
     superLargeDesktop: {
       breakpoint: { max: 4000, min: 3000 },
@@ -23,94 +23,11 @@ export default function ProductListCarousel() {
     },
   };
 
-  const data = [
-    {
-      image:
-        "https://product.hstatic.net/200000722513/product/pc_gvn_i3_1650_-_25_49bfa7eacaf842b5b2569b0d041c2b23_medium.jpg",
-      name: "PC GVN Intel i3-12100F/ VGA GTX 1650",
-      detail: {
-        CPU: "I3 12100F",
-        GPU: "GTX 1650",
-        mainboard: "H610",
-        ram: "8GB",
-        disk: "250GB",
-      },
-      price: 11590000,
-      currentSale: "7%",
-      rating: 0,
-      reviews: 0,
-    },
-    {
-      image:
-        "https://product.hstatic.net/200000722513/product/pc_gvn_i3_1650_-_25_49bfa7eacaf842b5b2569b0d041c2b23_medium.jpg",
-      name: "PC GVN Intel i3-12100F/ VGA GTX 1650",
-      detail: {
-        CPU: "I3 12100F",
-        GPU: "GTX 1650",
-        mainboard: "H610",
-        ram: "8GB",
-        disk: "250GB",
-      },
-      price: 11590000,
-      currentSale: "7%",
-      rating: 0,
-      reviews: 0,
-    },
-    {
-      image:
-        "https://product.hstatic.net/200000722513/product/pc_gvn_i3_1650_-_25_49bfa7eacaf842b5b2569b0d041c2b23_medium.jpg",
-      name: "PC GVN Intel i3-12100F/ VGA GTX 1650",
-      detail: {
-        CPU: "I3 12100F",
-        GPU: "GTX 1650",
-        mainboard: "H610",
-        ram: "8GB",
-        disk: "250GB",
-      },
-      price: 11590000,
-      currentSale: "7%",
-      rating: 0,
-      reviews: 0,
-    },
-    {
-      image:
-        "https://product.hstatic.net/200000722513/product/pc_gvn_i3_1650_-_25_49bfa7eacaf842b5b2569b0d041c2b23_medium.jpg",
-      name: "PC GVN Intel i3-12100F/ VGA GTX 1650",
-      detail: {
-        CPU: "I3 12100F",
-        GPU: "GTX 1650",
-        mainboard: "H610",
-        ram: "8GB",
-        disk: "250GB",
-      },
-      price: 11590000,
-      currentSale: "7%",
-      rating: 0,
-      reviews: 0,
-    },
-    {
-      image:
-        "https://product.hstatic.net/200000722513/product/pc_gvn_i3_1650_-_25_49bfa7eacaf842b5b2569b0d041c2b23_medium.jpg",
-      name: "PC GVN Intel i3-12100F/ VGA GTX 1650",
-      detail: {
-        CPU: "I3 12100F",
-        GPU: "GTX 1650",
-        mainboard: "H610",
-        ram: "8GB",
-        disk: "250GB",
-      },
-      price: 11590000,
-      currentSale: "7%",
-      rating: 0,
-      reviews: 0,
-    },
-  ];
-
   return (
     <div className="bg-white">
       <Carousel responsive={responsive} infinite={true} autoPlay={true}>
         {data.map((product) => (
-          <ProductCarousel_Card product={product} key={product.name} />
+          <ProductCarousel_Card product={product} key={product.id} />
         ))}
       </Carousel>
     </div>

@@ -5,6 +5,7 @@ export default function SectionCollection({
   title = "Sản phẩm",
   subTitle = "Mua bán",
   categories = [],
+  data = [],
 }) {
   return (
     <div className="w-full mt-3 mb-3">
@@ -14,7 +15,7 @@ export default function SectionCollection({
           subTitle={subTitle}
           categories={categories}
         />
-        <ProductListCarousel />
+        <ProductListCarousel data={data} />
       </div>
     </div>
   );
