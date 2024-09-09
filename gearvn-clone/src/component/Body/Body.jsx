@@ -76,6 +76,12 @@ export default function Body() {
         categories={mouseCategories}
         data={mouse}
       />
+      <SectionCollection
+        title="Bàn phím bán chạy"
+        subTitle="Giao hàng toàn quốc"
+        categories={keyboardCategories}
+        data={keyboard}
+      />
     </div>
   );
 }

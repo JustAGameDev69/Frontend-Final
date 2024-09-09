@@ -526,7 +526,9 @@
           "RAM": "16GB",
           "SSD": "512GB",
           "HDD": "",
-          "VGA": "RTX™ 4060"
+          "VGA": "RTX™ 4060",
+          "monitor": "16.1\" FHD (1920 x 1080)",
+          "refreshRate": "144Hz"
         },
         "detail": {
           "CPU": "Intel Core i7-13700H 2.4GHz up to 5.0GHz 24MB",
@@ -566,7 +568,9 @@
           "RAM": "12GB",
           "SSD": "512GB",
           "HDD": "",
-          "VGA": "RTX™ 2050"
+          "VGA": "RTX™ 2050",
+          "monitor": "15.6\" FHD (1920 x 1080)",
+          "refreshRate": "144Hz"
         },
         "detail": {
           "CPU": "Intel® Core™ i5-12450HX, 8C (4P + 4E) / 12T, P-core up to 4.4GHz, E-core up to 3.1GHz, 12MB",
@@ -606,7 +610,9 @@
           "RAM": "8GB",
           "SSD": "512GB",
           "HDD": "",
-          "VGA": "RTX 4050"
+          "VGA": "RTX 4050",
+          "monitor": "15.6\" FHD (1920 x 1080)",
+          "refreshRate": "144Hz"
         },
         "detail": {
           "CPU": "Intel Core i7-13620H (3.6GHz~4.9GHz) 10 Cores 16 Threads",
@@ -646,7 +652,9 @@
           "RAM": "16GB",
           "SSD": "1TB",
           "HDD": "",
-          "VGA": "RTX 4060"
+          "VGA": "RTX 4060",
+          "monitor": "15.6\" FHD (1920 x 1080)",
+          "refreshRate": "144Hz"
         },
         "detail": {
           "CPU": "Intel Core i7-13620H (3.6GHz~4.9GHz) 10 Cores 16 Threads",
@@ -686,7 +694,9 @@
           "RAM": "16GB",
           "SSD": "1TB",
           "HDD": "",
-          "VGA": "RTX™ 4050"
+          "VGA": "RTX™ 4050",
+          "monitor": "15.6\" FHD (1920 x 1080)",
+          "refreshRate": "144Hz"
         },
         "detail": {
           "CPU": "Intel® Core™ i7-13650HX, 14C (6P + 8E) / 20T, P-core 2.6 / 4.9GHz, E-core 1.9 / 3.6GHz, 24MB",
@@ -726,7 +736,9 @@
           "RAM": "8GB",
           "SSD": "512GB",
           "HDD": "",
-          "VGA": "RTX 3050"
+          "VGA": "RTX 3050",
+          "monitor": "15.6\" FHD (1920 x 1080)",
+          "refreshRate": "144Hz"
         },
         "detail": {
           "CPU": "Intel® Core™ i5-12500H Processor 2.5 GHz (18M Cache, up to 4.5 GHz, 12 cores: 4 P-cores and 8 E-cores)",
@@ -766,7 +778,9 @@
           "RAM": "16GB",
           "SSD": "512GB",
           "HDD": "",
-          "VGA": "RTX 3050"
+          "VGA": "RTX 3050",
+          "monitor": "15.6\" FHD (1920 x 1080)",
+          "refreshRate": "144Hz"
         },
         "detail": {
           "CPU": "Intel Core i7-13620H (3.6GHz~4.9GHz) 10 Nhân 16 Luồng",
@@ -806,7 +820,9 @@
           "RAM": "12GB",
           "SSD": "512GB",
           "HDD": "",
-          "VGA": "RTX 3050"
+          "VGA": "RTX 3050",
+          "monitor": "15.6\" FHD (1920 x 1080)",
+          "refreshRate": "144Hz"
         },
         "detail": {
           "CPU": "Intel® Core™ i5-12450HX, 8C (4P + 4E) / 12T, P-core up to 4.4GHz, E-core up to 3.1GHz, 12MB",
@@ -846,7 +862,9 @@
           "RAM": "8GB",
           "SSD": "512GB",
           "HDD": "",
-          "VGA": "RTX™2050"
+          "VGA": "RTX™2050",
+          "monitor": "15.6\" FHD (1920 x 1080)",
+          "refreshRate": "60Hz"
         },
         "detail": {
           "CPU": "Intel® Core™ i5-13420H (3.40GHz Up to 4.60Ghz ,8 Cores 12 Threads, 12 MB Intel® Smart Cache)",
@@ -886,7 +904,9 @@
           "RAM": "8GB",
           "SSD": "512GB",
           "HDD": "",
-          "VGA": "RTX™2050"
+          "VGA": "RTX™2050",
+          "monitor": "15.6\" FHD (1920 x 1080)",
+          "refreshRate": "144Hz"
         },
         "detail": {
           "CPU": "Intel Core i5-12450H (3.3GHz~4.4GHz) 8 Cores 12 Threads",
@@ -926,7 +946,9 @@
           "RAM": "16GB",
           "SSD": "1TB",
           "HDD": "",
-          "VGA": "RTX™ 4050"
+          "VGA": "RTX™ 4050",
+          "monitor": "15.6\" FHD (1920 x 1080)",
+          "refreshRate": "144Hz"
         },
         "detail": {
           "CPU": "Intel® Core™ i7-14700HX (1.5GHz upto 5.5GHz, 20 cores 28 threads, 33 MB Intel® Smart Cache)",
@@ -966,7 +988,9 @@
           "RAM": "24GB",
           "SSD": "512GB",
           "HDD": "",
-          "VGA": "RTX™ 4060"
+          "VGA": "RTX™ 4060",
+          "monitor": "15.6\" FHD (1920 x 1080)",
+          "refreshRate": "144Hz"
         },
         "detail": {
           "CPU": "Intel® Core™ i7-13650HX, 14C (6P + 8E) / 20T, P-core 2.6 / 4.9GHz, E-core 1.9 / 3.6GHz, 24MB",
@@ -1006,7 +1030,9 @@
           "RAM": "16GB",
           "SSD": "512GB",
           "HDD": "",
-          "VGA": "RTX™ 2050"
+          "VGA": "RTX™ 2050",
+          "monitor": "16.0\" WUXGA (1920 x 1200)",
+          "refreshRate": "144Hz"
         },
         "detail": {
           "CPU": "Intel® Core™ i5-12500H Processor 2.5 GHz (18M Cache, up to 4.5 GHz, 4P+8E cores)",
@@ -1046,7 +1072,9 @@
           "RAM": "8GB",
           "SSD": "512GB",
           "HDD": "",
-          "VGA": "RTX™ 3050"
+          "VGA": "RTX™ 3050",
+          "monitor": "15.6\" FHD (1920 x 1080)",
+          "refreshRate": "144Hz"
         },
         "detail": {
           "CPU": "Intel Core i5-12450H (3.3GHz~4.4GHz) 8 Cores 12 Threads",
@@ -1086,7 +1114,9 @@
           "RAM": "16GB",
           "SSD": "1TB",
           "HDD": "",
-          "VGA": "RTX™ 4080"
+          "VGA": "RTX™ 4080",
+          "monitor": "16\" FHD+ (1920 x 1200)",
+          "refreshRate": "144Hz"
         },
         "detail": {
           "CPU": "Intel Core i9-13950HX (Up to 5.5GHz) 24 Cores 32 Threads",
@@ -1126,7 +1156,9 @@
           "RAM": "16GB",
           "SSD": "512GB",
           "HDD": "",
-          "VGA": "Onboard"
+          "VGA": "Onboard",
+          "monitor": "14\" 2.8K (2880 x 1800)",
+          "refreshRate": "90Hz"
         },
         "detail": {
           "CPU": "Intel® Core™ i5-12500H Processor 2.5 GHz (18M Cache, up to 4.5 GHz, 4P+8E cores)",
@@ -1166,7 +1198,9 @@
           "RAM": "16GB",
           "SSD": "512GB",
           "HDD": "",
-          "VGA": "Onboard"
+          "VGA": "Onboard",
+          "monitor": "16\" WUXGA (1920 x 1200)",
+          "refreshRate": "60Hz"
         },
         "detail": {
           "CPU": "AMD Ryzen™ 7 7730U Mobile Processor 2.0GHz (8-core/16-thread, 16MB cache, up to 4.5 GHz max boost)",
@@ -1206,7 +1240,9 @@
           "RAM": "16GB",
           "SSD": "512GB",
           "HDD": "",
-          "VGA": "Onboard"
+          "VGA": "Onboard",
+          "monitor": "14\" FHD (1920x1080)",
+          "refreshRate": "60Hz"
         },
         "detail": {
           "CPU": "Intel® Core™ i5-13420H, 8C (4P + 4E) / 12T, P-core 2.1 / 4.6GHz, E-core 1.5 / 3.4GHz, 12MB",
@@ -1246,7 +1282,9 @@
           "RAM": "16GB",
           "SSD": "512GB",
           "HDD": "",
-          "VGA": "Onboard"
+          "VGA": "Onboard",
+          "monitor": "14\" 2.8K (2880 x 1800)",
+          "refreshRate": "90Hz"
         },
         "detail": {
           "CPU": "Intel® Core™ i5-13500H Processor 2.6 GHz (18MB Cache, up to 4.7 GHz, 12 cores, 16 Threads)",
@@ -1286,7 +1324,9 @@
           "RAM": "8GB",
           "SSD": "512GB",
           "HDD": "",
-          "VGA": "Onboard"
+          "VGA": "Onboard",
+          "monitor": "14\" FHD (1920x1080)",
+          "refreshRate": "90Hz"
         },
         "detail": {
           "CPU": "Intel® Core™ i3-1315U, 6C (2P + 4E) / 8T, P-core 1.2 / 4.5GHz, E-core 0.9 / 3.3GHz, 10MB",
@@ -1326,7 +1366,9 @@
           "RAM": "8GB",
           "SSD": "512GB",
           "HDD": "",
-          "VGA": "Onboard"
+          "VGA": "Onboard",
+          "monitor": "15.6\" FHD (1920x1080)",
+          "refreshRate": "60Hz"
         },
         "detail": {
           "CPU": "Intel® Core™ i5-13420H, 8C (4P + 4E) / 12T, P-core 2.1 / 4.6GHz, E-core 1.5 / 3.4GHz, 12MB",
@@ -1366,7 +1408,9 @@
           "RAM": "16GB",
           "SSD": "512GB",
           "HDD": "",
-          "VGA": "Onboard"
+          "VGA": "Onboard",
+          "monitor": "16\" 3.2K (3200 x 2000)",
+          "refreshRate": "120Hz"
         },
         "detail": {
           "CPU": "Intel® Core™ Ultra 7 Processor 155H 1.4 GHz (24MB Cache, up to 4.8 GHz, 16 cores, 22 Threads); Intel® AI Boost NPU",
@@ -1406,7 +1450,9 @@
           "RAM": "16GB",
           "SSD": "1TB",
           "HDD": "",
-          "VGA": "Onboard"
+          "VGA": "Onboard",
+          "monitor": "14\" 3K (2880 x 1800)",
+          "refreshRate": "120Hz"
         },
         "detail": {
           "CPU": "Intel® Core™ Ultra 5 Processor 125H 1.2 GHz (18MB Cache, up to 4.5 GHz, 14 cores, 18 Threads); Intel® AI Boost NPU",
@@ -1446,7 +1492,9 @@
           "RAM": "8GB",
           "SSD": "512GB",
           "HDD": "",
-          "VGA": "Onboard"
+          "VGA": "Onboard",
+          "monitor": "15.6 Inch FHD (1920 x 1080)",
+          "refreshRate": "120Hz"
         },
         "detail": {
           "CPU": "Intel Core i3-1305U up to 5.0 GHz, 5 Cores 6 Threads, 10MB Cache",
@@ -1486,7 +1534,9 @@
           "RAM": "16GB",
           "SSD": "512GB",
           "HDD": "",
-          "VGA": "Onboard"
+          "VGA": "Onboard",
+          "monitor": "14.0-inch 3K (2880 x 1800)",
+          "refreshRate": "120Hz"
         },
         "detail": {
           "CPU": "Intel® Core™ Ultra 5 Processor 125H 1.2 GHz (18MB Cache, up to 4.5 GHz, 14 cores, 18 Threads)",
@@ -1526,7 +1576,9 @@
           "RAM": "16GB",
           "SSD": "512GB",
           "HDD": "",
-          "VGA": "Onboard"
+          "VGA": "Onboard",
+          "monitor": "14.0-inch 3K (2880 x 1800)",
+          "refreshRate": "120Hz"
         },
         "detail": {
           "CPU": "Intel® Core™ Ultra 5 Processor 125H 1.2 GHz (18MB Cache, up to 4.5 GHz, 14 cores, 18 Threads)",
@@ -1566,7 +1618,9 @@
           "RAM": "32GB",
           "SSD": "1TB",
           "HDD": "",
-          "VGA": "Onboard"
+          "VGA": "Onboard",
+          "monitor": "14.0\" 3K (2880 x 1800)",
+          "refreshRate": "120Hz"
         },
         "detail": {
           "CPU": "Intel® Core™ Ultra 9 Processor 185H 2.3 GHz (24MB Cache, up to 5.1 GHz, 16 cores, 22 Threads); Intel® AI Boost NPU",
@@ -1606,7 +1660,9 @@
           "RAM": "16GB",
           "SSD": "512GB",
           "HDD": "",
-          "VGA": "Onboard"
+          "VGA": "Onboard",
+          "monitor": "15.6\" FHD (1920 x 1080)",
+          "refreshRate": "60Hz"
         },
         "detail": {
           "CPU": "Intel® Core™ i5-13500H Processor 2.6 GHz (18MB Cache, up to 4.7 GHz, 12 cores, 16 Threads)",
@@ -1646,7 +1702,9 @@
           "RAM": "16GB",
           "SSD": "256GB",
           "HDD": "",
-          "VGA": "Onboard"
+          "VGA": "Onboard",
+          "monitor": "14 inch WUXGA (1920x1200)",
+          "refreshRate": "60Hz"
         },
         "detail": {
           "CPU": "Intel Core i5-1340P (12 Cores: 4P + 8E, P: 1.9 up to 4.6 GHz / E: 1.4 up to 3.4 GHz) 12 MB Cache",
@@ -1686,7 +1744,9 @@
           "RAM": "32GB",
           "SSD": "1TB",
           "HDD": "",
-          "VGA": "Onboard"
+          "VGA": "Onboard",
+          "monitor": "14\" WUXGA (1920x1200)",
+          "refreshRate": "60Hz"
         },
         "detail": {
           "CPU": "Intel® Core™ Ultra 7 155H, 16C (6P + 8E + 2LPE) / 22T, Max Turbo up to 4.8GHz, 24MB",
@@ -5097,43 +5157,6 @@
           "keySwitch": "CHERRY® MX RED/ SPEED",
           "keys": "61 phím",
           "processor": "8MB"
-        }
-      },
-      {
-        "id": 3,
-        "title": "Bàn phím Corsair K70 PRO MINI WIRELESS RGB MX Red - Black",
-        "sale": "",
-        "price": "3.690.000",
-        "image": {
-          "image_1": "https://product.hstatic.net/200000722513/product/mu01_________.1-1-510x510_09e73886fb8b4c7da6ae0a4e804f0dcf_medium.png",
-          "image_2": "https://product.hstatic.net/200000722513/product/mu01_________.6-510x510_fa92893eda954a8793d79ae44fcd8c31_grande.png",
-          "image_3": "https://product.hstatic.net/200000722513/product/mu01_________.3-1-510x510_5c2c0cb550be4297bd98ba7ba72dc6f4_grande.png",
-          "image_4": "https://product.hstatic.net/200000722513/product/mu01_________.2-1-510x510_4d82cd5ef7da4311a6e13375a50e74f4_grande.png",
-          "image_5": "https://product.hstatic.net/200000722513/product/5-510x510_b5a3a1f696ac463e8fa37dc32aca198d_grande.png",
-          "image_6": "https://product.hstatic.net/200000722513/product/8-510x510_7cd2aac8412b4e55acf8314d31321968_grande.png"
-        },
-        "components": {
-          "connect": "Không dây",
-          "layout": "",
-          "keycap": "PBT"
-        },
-        "detail": {
-          "size": "327*125.3*46.7mm",
-          "keycap": "Mountain Seclusion (PBT Dye-Sub; MOA profile)",
-          "battery": "",
-          "connect": "Multi-Modes",
-          "brand": "AKKO",
-          "maximumProfile": "",
-          "CUE": "",
-          "keyboardRollover": "",
-          "supportFeature": "",
-          "warranty": "12 tháng",
-          "port": "",
-          "LED": "RGB",
-          "weight": "",
-          "keySwitch": "Akko V3 Piano Pro",
-          "keys": "",
-          "processor": ""
         }
       },
       {

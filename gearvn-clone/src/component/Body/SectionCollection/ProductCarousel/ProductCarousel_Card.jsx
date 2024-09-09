@@ -20,6 +20,13 @@ export function ProductCarousel_Card({ product }) {
     RAM: ram,
     SSD: ssd,
     HDD: hdd,
+    monitor,
+    refreshRate,
+    battery,
+    connect,
+    led,
+    layout,
+    keycap,
   } = product.components;
   const { image_1: cardImage } = product.image;
   const price = product.price;
@@ -42,6 +49,21 @@ export function ProductCarousel_Card({ product }) {
               {ram && <ProductCardDetail name="ram" content={ram} />}
               {ssd && <ProductCardDetail name="ssd" content={ssd} />}
               {hdd && <ProductCardDetail name="hdd" content={hdd} />}
+              {monitor && (
+                <ProductCardDetail name="monitor" content={monitor} />
+              )}
+              {refreshRate && (
+                <ProductCardDetail name="refreshRate" content={refreshRate} />
+              )}
+              {battery && (
+                <ProductCardDetail name="battery" content={battery} />
+              )}
+              {connect && (
+                <ProductCardDetail name="connect" content={connect} />
+              )}
+              {led && <ProductCardDetail name="led" content={led} />}
+              {layout && <ProductCardDetail name="layout" content={layout} />}
+              {keycap && <ProductCardDetail name="keycap" content={keycap} />}
             </div>
           </>
         )}
