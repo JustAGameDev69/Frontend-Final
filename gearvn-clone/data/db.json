@@ -522,6 +522,13 @@
         "sale": 17,
         "price": "38.390.000",
         "components": {
+          "CPU": "i7-13700H",
+          "RAM": "16GB",
+          "SSD": "512GB",
+          "HDD": "",
+          "VGA": "RTX™ 4060"
+        },
+        "detail": {
           "CPU": "Intel Core i7-13700H 2.4GHz up to 5.0GHz 24MB",
           "RAM": "16GB (2x8GB) DDR5 5200MHz (2x SO-DIMM socket, up to 32GB SDRAM)",
           "VGA": "NVIDIA® GeForce RTX™ 4060 8GB GDDR6",
@@ -555,6 +562,13 @@
         "sale": 12,
         "price": "20.490.000",
         "components": {
+          "CPU": "i5-12450HX",
+          "RAM": "12GB",
+          "SSD": "512GB",
+          "HDD": "",
+          "VGA": "RTX™ 2050"
+        },
+        "detail": {
           "CPU": "Intel® Core™ i5-12450HX, 8C (4P + 4E) / 12T, P-core up to 4.4GHz, E-core up to 3.1GHz, 12MB",
           "RAM": "12GB (1x12GB) DDR5-4800 SO-DIMM (2x SO-DIMM socket, up to 32GB SDRAM)",
           "VGA": "NVIDIA® GeForce RTX™ 2050 4GB GDDR6, Boost Clock 1575MHz, TGP 65W",
@@ -588,6 +602,13 @@
         "sale": 29,
         "price": "33.990.000",
         "components": {
+          "CPU": "i7-13620H",
+          "RAM": "8GB",
+          "SSD": "512GB",
+          "HDD": "",
+          "VGA": "RTX 4050"
+        },
+        "detail": {
           "CPU": "Intel Core i7-13620H (3.6GHz~4.9GHz) 10 Cores 16 Threads",
           "RAM": "8GB (1 x 8GB) DDR5 5200MHz (2x SO-DIMM socket, up to 64GB SDRAM)",
           "VGA": "NVIDIA GeForce RTX 4050 Laptop GPU 6GB GDDR6 ",
@@ -621,6 +642,13 @@
         "sale": 26,
         "price": "37.990.000",
         "components": {
+          "CPU": "i7-13620H",
+          "RAM": "16GB",
+          "SSD": "1TB",
+          "HDD": "",
+          "VGA": "RTX 4060"
+        },
+        "detail": {
           "CPU": "Intel Core i7-13620H (3.6GHz~4.9GHz) 10 Cores 16 Threads",
           "RAM": "16GB (2 x 8GB) DDR5 5200MHz (2x SO-DIMM socket, up to 64GB SDRAM)",
           "VGA": "NVIDIA GeForce RTX 4060, GDDR6 8GB",
@@ -654,6 +682,13 @@
         "sale": 8,
         "price": "31.990.000",
         "components": {
+          "CPU": "i7-13650HX",
+          "RAM": "16GB",
+          "SSD": "1TB",
+          "HDD": "",
+          "VGA": "RTX™ 4050"
+        },
+        "detail": {
           "CPU": "Intel® Core™ i7-13650HX, 14C (6P + 8E) / 20T, P-core 2.6 / 4.9GHz, E-core 1.9 / 3.6GHz, 24MB",
           "RAM": "16GB (1x16GB) DDR5-4800 SO-DIMM (2x SO-DIMM socket, up to 32GB SDRAM)",
           "VGA": "NVIDIA® GeForce RTX™ 4050 6GB GDDR6, Boost Clock 2370MHz, TGP 105W",
@@ -687,6 +722,13 @@
         "sale": 25,
         "price": "25.990.000",
         "components": {
+          "CPU": "i5-12500H",
+          "RAM": "8GB",
+          "SSD": "512GB",
+          "HDD": "",
+          "VGA": "RTX 3050"
+        },
+        "detail": {
           "CPU": "Intel® Core™ i5-12500H Processor 2.5 GHz (18M Cache, up to 4.5 GHz, 12 cores: 4 P-cores and 8 E-cores)",
           "RAM": "8GB DDR4 3200MHz (2x SO-DIMM socket, up to 32GB RAM)",
           "VGA": "NVIDIA GeForce RTX 3050 4GB GDDR6, Up to 1790MHz* at 95W (1740MHz Boost Clock+50MHz OC, 80W+15W Dynamic Boost) + MUX Switch + Optimus",
@@ -720,6 +762,13 @@
         "sale": 11,
         "price": "22.990.000",
         "components": {
+          "CPU": "i7-13620H",
+          "RAM": "16GB",
+          "SSD": "512GB",
+          "HDD": "",
+          "VGA": "RTX 3050"
+        },
+        "detail": {
           "CPU": "Intel Core i7-13620H (3.6GHz~4.9GHz) 10 Nhân 16 Luồng",
           "RAM": "16GB (2 x 8GB) DDR4 3200MHz (2x SO-DIMM socket, up to 64GB SDRAM)",
           "VGA": "NVIDIA® GeForce RTX™ 3050 Laptop GPU Up to 1172.5MHz Boost Clock 45W Maximum Graphics Power with Dynamic Boost.",
@@ -753,6 +802,13 @@
         "sale": 8,
         "price": "22.490.000",
         "components": {
+          "CPU": "i5-12450HX",
+          "RAM": "12GB",
+          "SSD": "512GB",
+          "HDD": "",
+          "VGA": "RTX 3050"
+        },
+        "detail": {
           "CPU": "Intel® Core™ i5-12450HX, 8C (4P + 4E) / 12T, P-core up to 4.4GHz, E-core up to 3.1GHz, 12MB",
           "RAM": "12GB (1 x 12GB) DDR5-4800 SO-DIMM (2x SO-DIMM socket, up to 32GB SDRAM)",
           "VGA": "NVIDIA® GeForce RTX™ 3050 6GB GDDR6, Boost Clock 1732MHz, TGP 95W",
@@ -786,6 +842,13 @@
         "sale": 18,
         "price": "20.490.000",
         "components": {
+          "CPU": "i5-13420H",
+          "RAM": "8GB",
+          "SSD": "512GB",
+          "HDD": "",
+          "VGA": "RTX™2050"
+        },
+        "detail": {
           "CPU": "Intel® Core™ i5-13420H (3.40GHz Up to 4.60Ghz ,8 Cores 12 Threads, 12 MB Intel® Smart Cache)",
           "RAM": "8GB DDR4 3200MHz (2 khe, nâng cấp tối đa 32GB)",
           "VGA": "NVIDIA® GeForce® RTX™2050 4GB GDDR6",
@@ -819,6 +882,13 @@
         "sale": 14,
         "price": "17.990.000",
         "components": {
+          "CPU": "i5-12450H",
+          "RAM": "8GB",
+          "SSD": "512GB",
+          "HDD": "",
+          "VGA": "RTX™2050"
+        },
+        "detail": {
           "CPU": "Intel Core i5-12450H (3.3GHz~4.4GHz) 8 Cores 12 Threads",
           "RAM": "8GB (1 x 8GB) DDR4 3200MHz (2x SO-DIMM socket, up to 64GB SDRAM)",
           "VGA": "NVIDIA® GeForce RTX™ 2050 Laptop GPU 4GB GDDR6 Up to 1170MHz Boost Clock 45W Maximum Graphics Power with Dynamic Boost",
@@ -852,6 +922,13 @@
         "sale": 9,
         "price": "34.990.000",
         "components": {
+          "CPU": "i7-14700HX",
+          "RAM": "16GB",
+          "SSD": "1TB",
+          "HDD": "",
+          "VGA": "RTX™ 4050"
+        },
+        "detail": {
           "CPU": "Intel® Core™ i7-14700HX (1.5GHz upto 5.5GHz, 20 cores 28 threads, 33 MB Intel® Smart Cache)",
           "RAM": "16GB (2 x 8GB) DDR5 5600MHz (2x SO-DIMM socket, up to 96GB SDRAM)",
           "VGA": "NVIDIA® GeForce RTX™ 4050 Laptop GPU 6GB GDDR6 Up to 2355MHz Boost Clock 105W Maximum Graphics Power with Dynamic Boost.",
@@ -885,6 +962,13 @@
         "sale": 10,
         "price": "35.990.000",
         "components": {
+          "CPU": "i7-13650HX",
+          "RAM": "24GB",
+          "SSD": "512GB",
+          "HDD": "",
+          "VGA": "RTX™ 4060"
+        },
+        "detail": {
           "CPU": "Intel® Core™ i7-13650HX, 14C (6P + 8E) / 20T, P-core 2.6 / 4.9GHz, E-core 1.9 / 3.6GHz, 24MB",
           "RAM": "24GB (2 x 12GB) DDR5-4800 SO-DIMM (2x SO-DIMM socket, up to 32GB SDRAM)",
           "VGA": "NVIDIA® GeForce RTX™ 4060 8GB GDDR6, Boost Clock 2370MHz, TGP 115W",
@@ -918,6 +1002,13 @@
         "sale": 14,
         "price": "20.990.000",
         "components": {
+          "CPU": "i5-12500H",
+          "RAM": "16GB",
+          "SSD": "512GB",
+          "HDD": "",
+          "VGA": "RTX™ 2050"
+        },
+        "detail": {
           "CPU": "Intel® Core™ i5-12500H Processor 2.5 GHz (18M Cache, up to 4.5 GHz, 4P+8E cores)",
           "RAM": "16GB (8GB Onboard + 8GB Sodimm) DDR4 3200MHz",
           "VGA": "NVIDIA® GeForce® RTX™ 2050 4GB GDDR6",
@@ -951,6 +1042,13 @@
         "sale": 15,
         "price": "19.990.000",
         "components": {
+          "CPU": "i5-12450H",
+          "RAM": "8GB",
+          "SSD": "512GB",
+          "HDD": "",
+          "VGA": "RTX™ 3050"
+        },
+        "detail": {
           "CPU": "Intel Core i5-12450H (3.3GHz~4.4GHz) 8 Cores 12 Threads",
           "RAM": "8GB (1 x 8GB) DDR5 5200MHz (2x SO-DIMM socket, up to 64GB SDRAM)",
           "VGA": "NVIDIA® GeForce RTX™ 3050 GDDR6 4GB",
@@ -984,6 +1082,13 @@
         "sale": 24,
         "price": "61.990.000",
         "components": {
+          "CPU": "i9-13950HX",
+          "RAM": "16GB",
+          "SSD": "1TB",
+          "HDD": "",
+          "VGA": "RTX™ 4080"
+        },
+        "detail": {
           "CPU": "Intel Core i9-13950HX (Up to 5.5GHz) 24 Cores 32 Threads",
           "RAM": "16GB (2x8GB) DDR5 5600MHz (2x SO-DIMM socket, up to 64GB SDRAM)",
           "VGA": "NVIDIA® GeForce RTX™ 4080 Laptop GPU 12GB GDDR6 Up to 2280MHz Boost Clock 175W Maximum Graphics Power with Dynamic Boost. Max. 230W CPU-GPU Power with MSI OverBoost Technology",
@@ -1017,6 +1122,13 @@
         "sale": 16,
         "price": "18.990.000",
         "components": {
+          "CPU": "i5-12500H",
+          "RAM": "16GB",
+          "SSD": "512GB",
+          "HDD": "",
+          "VGA": "Onboard"
+        },
+        "detail": {
           "CPU": "Intel® Core™ i5-12500H Processor 2.5 GHz (18M Cache, up to 4.5 GHz, 4P+8E cores)",
           "RAM": "16GB (8GB Onboard + 8GB Sodimm) DDR4 3200MHz",
           "VGA": "Intel Iris Xe Graphics (with dual channel memory)",
@@ -1050,6 +1162,13 @@
         "sale": 24,
         "price": "18.490.000",
         "components": {
+          "CPU": "Ryzen™ 7 7730U",
+          "RAM": "16GB",
+          "SSD": "512GB",
+          "HDD": "",
+          "VGA": "Onboard"
+        },
+        "detail": {
           "CPU": "AMD Ryzen™ 7 7730U Mobile Processor 2.0GHz (8-core/16-thread, 16MB cache, up to 4.5 GHz max boost)",
           "RAM": "16GB DDR4 3200Mhz (8GB Onboard + 8GB Sodimm)",
           "VGA": "AMD Radeon Graphics",
@@ -1083,6 +1202,13 @@
         "sale": 14,
         "price": "15.990.000",
         "components": {
+          "CPU": "i5-13420H",
+          "RAM": "16GB",
+          "SSD": "512GB",
+          "HDD": "",
+          "VGA": "Onboard"
+        },
+        "detail": {
           "CPU": "Intel® Core™ i5-13420H, 8C (4P + 4E) / 12T, P-core 2.1 / 4.6GHz, E-core 1.5 / 3.4GHz, 12MB",
           "RAM": "16GB (2x8GB) DDR4 3200MHz onboard (Không nâng cấp)",
           "VGA": "Intel® UHD Graphics",
@@ -1116,6 +1242,13 @@
         "sale": 17,
         "price": "20.990.000",
         "components": {
+          "CPU": "i5-13500H",
+          "RAM": "16GB",
+          "SSD": "512GB",
+          "HDD": "",
+          "VGA": "Onboard"
+        },
+        "detail": {
           "CPU": "Intel® Core™ i5-13500H Processor 2.6 GHz (18MB Cache, up to 4.7 GHz, 12 cores, 16 Threads)",
           "RAM": "16GB (8GB Onboard + 8GB Sodimm) DDR4 3200MHz",
           "VGA": "Intel Iris Xe Graphics (with dual channel memory)",
@@ -1149,6 +1282,13 @@
         "sale": 13,
         "price": "11.990.000",
         "components": {
+          "CPU": "i3-1315U",
+          "RAM": "8GB",
+          "SSD": "512GB",
+          "HDD": "",
+          "VGA": "Onboard"
+        },
+        "detail": {
           "CPU": "Intel® Core™ i3-1315U, 6C (2P + 4E) / 8T, P-core 1.2 / 4.5GHz, E-core 0.9 / 3.3GHz, 10MB",
           "RAM": "8GB (1x8GB) DDR4 3200MHz onboard (còn 1 slot, nâng cấp tối đa 16GB)",
           "VGA": "Intel® UHD Graphics",
@@ -1182,6 +1322,13 @@
         "sale": 11,
         "price": "15.490.000",
         "components": {
+          "CPU": "i5-13420H",
+          "RAM": "8GB",
+          "SSD": "512GB",
+          "HDD": "",
+          "VGA": "Onboard"
+        },
+        "detail": {
           "CPU": "Intel® Core™ i5-13420H, 8C (4P + 4E) / 12T, P-core 2.1 / 4.6GHz, E-core 1.5 / 3.4GHz, 12MB",
           "RAM": "8GB (1x8GB) DDR4 3200MHz onboard (còn 1 slot trống, nâng cấp tối đa 16GB)",
           "VGA": "Intel® UHD Graphics",
@@ -1215,6 +1362,13 @@
         "sale": 7,
         "price": "29.990.000",
         "components": {
+          "CPU": "Ultra 7",
+          "RAM": "16GB",
+          "SSD": "512GB",
+          "HDD": "",
+          "VGA": "Onboard"
+        },
+        "detail": {
           "CPU": "Intel® Core™ Ultra 7 Processor 155H 1.4 GHz (24MB Cache, up to 4.8 GHz, 16 cores, 22 Threads); Intel® AI Boost NPU",
           "RAM": "16GB LPDDR5X Onboard 7467Mhz",
           "VGA": "Intel® Arc™ Graphics",
@@ -1248,6 +1402,13 @@
         "sale": 7,
         "price": "26.990.000",
         "components": {
+          "CPU": "Ultra 5",
+          "RAM": "16GB",
+          "SSD": "1TB",
+          "HDD": "",
+          "VGA": "Onboard"
+        },
+        "detail": {
           "CPU": "Intel® Core™ Ultra 5 Processor 125H 1.2 GHz (18MB Cache, up to 4.5 GHz, 14 cores, 18 Threads); Intel® AI Boost NPU",
           "RAM": "16GB LPDDR5X Onboard 7467Mhz",
           "VGA": "Intel® Arc™ Graphics",
@@ -1281,6 +1442,13 @@
         "sale": 18,
         "price": "14.690.000",
         "components": {
+          "CPU": "i3-1305U",
+          "RAM": "8GB",
+          "SSD": "512GB",
+          "HDD": "",
+          "VGA": "Onboard"
+        },
+        "detail": {
           "CPU": "Intel Core i3-1305U up to 5.0 GHz, 5 Cores 6 Threads, 10MB Cache",
           "RAM": "8GB (1 x 8GB) DDR4 2666MHz (2x SO-DIMM socket, up to 16GB SDRAM)",
           "VGA": "Intel UHD Graphics",
@@ -1314,6 +1482,13 @@
         "sale": 7,
         "price": "28.990.000",
         "components": {
+          "CPU": "Ultra 5",
+          "RAM": "16GB",
+          "SSD": "512GB",
+          "HDD": "",
+          "VGA": "Onboard"
+        },
+        "detail": {
           "CPU": "Intel® Core™ Ultra 5 Processor 125H 1.2 GHz (18MB Cache, up to 4.5 GHz, 14 cores, 18 Threads)",
           "RAM": "16GB LPDDR5X on board Dual-channel (Không nâng cấp)",
           "VGA": "Intel® Arc™ Graphics",
@@ -1347,6 +1522,13 @@
         "sale": 9,
         "price": "28.990.000",
         "components": {
+          "CPU": "Ultra 5",
+          "RAM": "16GB",
+          "SSD": "512GB",
+          "HDD": "",
+          "VGA": "Onboard"
+        },
+        "detail": {
           "CPU": "Intel® Core™ Ultra 5 Processor 125H 1.2 GHz (18MB Cache, up to 4.5 GHz, 14 cores, 18 Threads)",
           "RAM": "16GB LPDDR5X on board Dual-channel (Không nâng cấp)",
           "VGA": "Intel® Arc™ Graphics",
@@ -1380,6 +1562,13 @@
         "sale": 2,
         "price": "59.990.000",
         "components": {
+          "CPU": "Ultra 9",
+          "RAM": "32GB",
+          "SSD": "1TB",
+          "HDD": "",
+          "VGA": "Onboard"
+        },
+        "detail": {
           "CPU": "Intel® Core™ Ultra 9 Processor 185H 2.3 GHz (24MB Cache, up to 5.1 GHz, 16 cores, 22 Threads); Intel® AI Boost NPU",
           "RAM": "32GB LPDDR5X Onboard (Không nâng cấp)",
           "VGA": "Intel® Arc™ Graphics",
@@ -1413,6 +1602,13 @@
         "sale": 17,
         "price": "20.990.000",
         "components": {
+          "CPU": "i5-13500H",
+          "RAM": "16GB",
+          "SSD": "512GB",
+          "HDD": "",
+          "VGA": "Onboard"
+        },
+        "detail": {
           "CPU": "Intel® Core™ i5-13500H Processor 2.6 GHz (18MB Cache, up to 4.7 GHz, 12 cores, 16 Threads)",
           "RAM": "16GB (8GB Onboard + 8GB Sodimm) DDR4 3200MHz",
           "VGA": "Intel Iris Xe Graphics (with dual channel memory)",
@@ -1446,6 +1642,13 @@
         "sale": 26,
         "price": "32.490.000",
         "components": {
+          "CPU": "i5-1340P",
+          "RAM": "16GB",
+          "SSD": "256GB",
+          "HDD": "",
+          "VGA": "Onboard"
+        },
+        "detail": {
           "CPU": "Intel Core i5-1340P (12 Cores: 4P + 8E, P: 1.9 up to 4.6 GHz / E: 1.4 up to 3.4 GHz) 12 MB Cache",
           "RAM": "16GB LPDDR5 6000MHz (Dual Channel, Onboard, không nâng cấp)",
           "VGA": "Intel Iris Xe Graphics",
@@ -1479,6 +1682,13 @@
         "sale": 5,
         "price": "27.990.000",
         "components": {
+          "CPU": "Ultra 7",
+          "RAM": "32GB",
+          "SSD": "1TB",
+          "HDD": "",
+          "VGA": "Onboard"
+        },
+        "detail": {
           "CPU": "Intel® Core™ Ultra 7 155H, 16C (6P + 8E + 2LPE) / 22T, Max Turbo up to 4.8GHz, 24MB",
           "RAM": "32GB Soldered LPDDR5x-7467 (Dual channel, Không nâng cấp)",
           "VGA": "Integrated Intel® Arc™ Graphics",
@@ -1514,6 +1724,12 @@
         },
         "sale": 10,
         "price": "5.190.000",
+        "components": {
+          "size": "24 inch",
+          "refreshRate": "180 Hz",
+          "resolution": "Full HD (1920 x 1080)",
+          "panel": "IPS"
+        },
         "detail": {
           "reponsetime": "1ms",
           "colorgamut": "sRGB 99%",
@@ -1544,6 +1760,12 @@
         },
         "sale": 16,
         "price": "4.990.000",
+        "components": {
+          "size": "27 inch",
+          "refreshRate": "180 Hz",
+          "resolution": "Full HD (1920 x 1080)",
+          "panel": "IPS"
+        },
         "detail": {
           "reponsetime": "1ms",
           "colorgamut": "105% sRGB",
@@ -1574,6 +1796,12 @@
         },
         "sale": 9,
         "price": "5.490.000",
+        "components": {
+          "size": "27 inch",
+          "refreshRate": "180 Hz",
+          "resolution": "2K (2560 x 1440)",
+          "panel": "IPS"
+        },
         "detail": {
           "reponsetime": "1ms",
           "colorgamut": "100% sRGB; 95% DCI-P3",
@@ -1604,6 +1832,12 @@
         },
         "sale": 2,
         "price": "2.290.000",
+        "components": {
+          "size": "24 inch",
+          "refreshRate": "100 Hz",
+          "resolution": "2K (2560 x 1440)",
+          "panel": "IPS"
+        },
         "detail": {
           "reponsetime": "1ms",
           "colorgamut": "16.7M",
@@ -1634,6 +1868,12 @@
         },
         "sale": 14,
         "price": "4.190.000",
+        "components": {
+          "size": "24 inch",
+          "refreshRate": "180 Hz",
+          "resolution": "Full HD (1920 x 1080)",
+          "panel": "IPS"
+        },
         "detail": {
           "reponsetime": "1ms",
           "colorgamut": "sRGB 99%",
@@ -1664,6 +1904,12 @@
         },
         "sale": 3,
         "price": "3.090.000",
+        "components": {
+          "size": "25 inch",
+          "refreshRate": "100 Hz",
+          "resolution": "Full HD (1920 x 1080)",
+          "panel": "IPS"
+        },
         "detail": {
           "reponsetime": "5ms",
           "colorgamut": "NTCS 72%",
@@ -1694,6 +1940,12 @@
         },
         "sale": 4,
         "price": "2.590.000",
+        "components": {
+          "size": "25 inch",
+          "refreshRate": "100 Hz",
+          "resolution": "Full HD (1920 x 1080)",
+          "panel": "IPS"
+        },
         "detail": {
           "reponsetime": "5ms",
           "colorgamut": "NTCS 72%",
@@ -1724,6 +1976,12 @@
         },
         "sale": 24,
         "price": "2.490.000",
+        "components": {
+          "size": "24 inch",
+          "refreshRate": "100 Hz",
+          "resolution": "Full HD (1920 x 1080)",
+          "panel": "IPS"
+        },
         "detail": {
           "reponsetime": "1ms (MPRT)",
           "colorgamut": "97%",
@@ -1754,6 +2012,12 @@
         },
         "sale": 17,
         "price": "2.390.000",
+        "components": {
+          "size": "25 inch",
+          "refreshRate": "100 Hz",
+          "resolution": "Full HD (1920 x 1080)",
+          "panel": "IPS"
+        },
         "detail": {
           "reponsetime": "5ms",
           "colorgamut": "NTCS 72%",
@@ -1784,6 +2048,12 @@
         },
         "sale": 10,
         "price": "4.990.000",
+        "components": {
+          "size": "27 inch",
+          "refreshRate": "100 Hz",
+          "resolution": "2K (2560 x 1440)",
+          "panel": "IPS"
+        },
         "detail": {
           "reponsetime": "1ms",
           "colorgamut": "sRGB 117%; DCI-P3 96%",
@@ -1811,6 +2081,12 @@
           "image_4": "https://product.hstatic.net/200000722513/product/27b36h_f_e0b0826559794ab89a0a8f72a7dbc859_grande.png",
           "image_5": "https://product.hstatic.net/200000722513/product/27b36h_ftl_7534d97706d44456a4b470ef2bf0368f_grande.png",
           "image_6": "https://product.hstatic.net/200000722513/product/27b36h_ftr_9508b4c87bf0466292716e194ad63ff4_grande.png"
+        },
+        "components": {
+          "size": "27 inch",
+          "refreshRate": "100 Hz",
+          "resolution": "Full HD (1920 x 1080)",
+          "panel": "IPS"
         },
         "sale": 13,
         "price": "2.990.000",
@@ -1844,6 +2120,12 @@
         },
         "sale": 13,
         "price": "2.990.000",
+        "components": {
+          "size": "24 inch",
+          "refreshRate": "100 Hz",
+          "resolution": "Full HD (1920 x 1080)",
+          "panel": "IPS"
+        },
         "detail": {
           "reponsetime": "1ms",
           "colorgamut": "sRGB 105%",
@@ -1874,6 +2156,12 @@
         },
         "sale": 13,
         "price": "2.990.000",
+        "components": {
+          "size": "25 inch",
+          "refreshRate": "120 Hz",
+          "resolution": "Full HD (1920 x 1080)",
+          "panel": "IPS"
+        },
         "detail": {
           "reponsetime": "1ms",
           "colorgamut": "sRGB 99%",
@@ -1904,6 +2192,12 @@
         },
         "sale": 27,
         "price": "2.990.000",
+        "components": {
+          "size": "25 inch",
+          "refreshRate": "100 Hz",
+          "resolution": "Full HD (1920 x 1080)",
+          "panel": "IPS"
+        },
         "detail": {
           "reponsetime": "1ms",
           "colorgamut": "sRGB 100%",
@@ -1934,6 +2228,12 @@
         },
         "sale": 10,
         "price": "3.990.000",
+        "components": {
+          "size": "25 inch",
+          "refreshRate": "180 Hz",
+          "resolution": "Full HD (1920 x 1080)",
+          "panel": "VA"
+        },
         "detail": {
           "reponsetime": "1ms",
           "colorgamut": "sRGB 102%",
@@ -4738,6 +5038,11 @@
           "image_5": "https://product.hstatic.net/200000722513/product/ban-phim-co-khong-day-corsair-k7__8__1dfe1226f60e4a42848b45a242c37bfb_grande.png",
           "image_6": "https://product.hstatic.net/200000722513/product/keyboard-k70-pro-mini-white-2-16_fdd4640cc5344da88f8f381ef559c2cf_grande.png"
         },
+        "components": {
+          "connect": "Không dây",
+          "layout": "TKL",
+          "keycap": "PBT"
+        },
         "detail": {
           "size": "293 x 109 x 40mm",
           "keycap": "PBT Double-shot",
@@ -4770,6 +5075,11 @@
           "image_5": "https://product.hstatic.net/200000722513/product/ban-phim-co-khong-day-corsair-k7__4__0dd4670880de4f30984b83f9de6dc38d_grande.png",
           "image_6": "https://product.hstatic.net/200000722513/product/ban-phim-co-khong-day-corsair-k7__1__c04dfe706d874701ad8635c6369592da_grande.png"
         },
+        "components": {
+          "connect": "Không dây",
+          "layout": "TKL",
+          "keycap": "PBT"
+        },
         "detail": {
           "size": "293 x 109 x 40mm",
           "keycap": "PBT Double-shot",
@@ -4801,6 +5111,11 @@
           "image_4": "https://product.hstatic.net/200000722513/product/mu01_________.2-1-510x510_4d82cd5ef7da4311a6e13375a50e74f4_grande.png",
           "image_5": "https://product.hstatic.net/200000722513/product/5-510x510_b5a3a1f696ac463e8fa37dc32aca198d_grande.png",
           "image_6": "https://product.hstatic.net/200000722513/product/8-510x510_7cd2aac8412b4e55acf8314d31321968_grande.png"
+        },
+        "components": {
+          "connect": "Không dây",
+          "layout": "",
+          "keycap": "PBT"
         },
         "detail": {
           "size": "327*125.3*46.7mm",
@@ -4834,6 +5149,11 @@
           "image_5": "https://product.hstatic.net/200000722513/product/5-510x510_b5a3a1f696ac463e8fa37dc32aca198d_grande.png",
           "image_6": "https://product.hstatic.net/200000722513/product/8-510x510_7cd2aac8412b4e55acf8314d31321968_grande.png"
         },
+        "components": {
+          "connect": "Không dây",
+          "layout": "",
+          "keycap": "PBT"
+        },
         "detail": {
           "size": "327*125.3*46.7mm",
           "keycap": "Mountain Seclusion (PBT Dye-Sub; MOA profile)",
@@ -4865,6 +5185,11 @@
           "image_4": "https://product.hstatic.net/200000722513/product/007pc-he-______-1-510x510_c0624e992bfe4d01b3768bed41bc5ca7_grande.png",
           "image_5": "https://product.hstatic.net/200000722513/product/007pc-he-______-510x510_5556da889a944c6ea524d49a5809cb55_grande.png",
           "image_6": "https://product.hstatic.net/200000722513/product/mod-007b-he-pc-joy-of-life-cz-xq1-510x323_039d81135d2540b282607d1b266f9c63_grande.jpg"
+        },
+        "components": {
+          "connect": "Có dây",
+          "layout": "TKL",
+          "keycap": "PBT"
         },
         "detail": {
           "size": "335*147*32mm | Nặng ~ 1.0KG",
@@ -4898,6 +5223,11 @@
           "image_5": "https://product.hstatic.net/200000722513/product/mod-007b-he-pc-joy-of-life-detachable-usb-510x345_7c65df34742345f5bbfa7c58e1dc5fe0_grande.jpg",
           "image_6": "https://product.hstatic.net/200000722513/product/5108-__-___-______08ba7c55653949f38f103cf9cf68b353_grande.png"
         },
+        "components": {
+          "connect": "Không dây",
+          "layout": "TKL",
+          "keycap": "PBT"
+        },
         "detail": {
           "size": "440*132*41mm",
           "keycap": "PBT",
@@ -4929,6 +5259,11 @@
           "image_4": "https://product.hstatic.net/200000722513/product/black__4__4c8ea2b615e847afa4d3c2020eeffa3b_grande.png",
           "image_5": "https://product.hstatic.net/200000722513/product/black__6__b5b4e076ff15454e978dd3ace94dcba2_grande.png",
           "image_6": "https://product.hstatic.net/200000722513/product/black__7__f64153e07adb4a4fb4340c7297f6bf80_grande.png"
+        },
+        "components": {
+          "connect": "Không dây",
+          "layout": "TKL",
+          "keycap": "PBT"
         },
         "detail": {
           "size": "333 x 140 x 40mm | Trọng lượng: 740g",
@@ -4962,6 +5297,11 @@
           "image_5": "https://product.hstatic.net/200000722513/product/5075b-plus-sp___-___14480575effb488a8cae3ee81d0fbab6_grande.png",
           "image_6": "https://product.hstatic.net/200000722513/product/5075b-plus-sp___-___2b2227c892af42ad96e14882f6e4bb39_grande.png"
         },
+        "components": {
+          "connect": "Không dây",
+          "layout": "",
+          "keycap": "PBT"
+        },
         "detail": {
           "size": "",
           "keycap": "PBT Doubleshot / ASA profile với khả năng xuyên LED",
@@ -4993,6 +5333,7 @@
           "image_4": "https://product.hstatic.net/200000722513/product/mu-2.2-1_b933defdc1df4f00acf3dc5b8b0606b2_grande.png",
           "image_5": "https://product.hstatic.net/200000722513/product/mu-2.3-1_d1e2a04b67b8447fb2cf24ecfc992d75_grande.png"
         },
+        "components": "",
         "detail": {
           "size": "",
           "keycap": "Autumn Seclusion (PBT Dye-Sub; MOA profile)",
@@ -5025,6 +5366,11 @@
           "image_5": "https://product.hstatic.net/200000722513/product/47488_dareu_ek75_white__4__9728bfb92f174b7799f00eaafce60588_grande.jpg",
           "image_6": "https://product.hstatic.net/200000722513/product/47488_dareu_ek75_white__5__73c1a1e6f6254dcfaf9d07d4814e934e_grande.jpg"
         },
+        "components": {
+          "connect": "Có dây",
+          "layout": "Full size",
+          "keycap": "ABS"
+        },
         "detail": {
           "size": "30.2 x 333.2 x 140.4mm",
           "keycap": "ABS double injection",
@@ -5055,6 +5401,11 @@
           "image_3": "https://product.hstatic.net/200000722513/product/ban-phim-dareu-ek75-rgb-02_07543a726a9f4958911b38767c9226e9_grande.png",
           "image_4": "https://product.hstatic.net/200000722513/product/ban-phim-dareu-ek75-rgb-03_58a2545c75f84d13b8b0cc18ff514159_grande.png",
           "image_5": "https://product.hstatic.net/200000722513/product/ban-phim-dareu-ek75-rgb-04_42ced97a55854ef28db89b83837ae7db_grande.png"
+        },
+        "components": {
+          "connect": "Có dây",
+          "layout": "Full size",
+          "keycap": "ABS"
         },
         "detail": {
           "size": "30.2 x 333.2 x 140.4mm",
@@ -5090,6 +5441,11 @@
           "image_5": "https://product.hstatic.net/200000722513/product/5_0b8352fbb1b749d595120984e2f254ad_grande.png",
           "image_6": "https://product.hstatic.net/200000722513/product/6_fdf7911e6f5b4da0ba93f0c92572def3_grande.png"
         },
+        "components": {
+          "battery": "pin sạc",
+          "connect": "Không dây",
+          "led": "RGB"
+        },
         "detail": {
           "warranty": "24 tháng",
           "FEET": "PTFE Feet",
@@ -5122,6 +5478,11 @@
           "image_4": "https://product.hstatic.net/200000722513/product/6_4e3c52d079ae48f3a5721cdbc4345a33_grande.png",
           "image_5": "https://product.hstatic.net/200000722513/product/7_43ae2533e22a4b09a8ba8c5e3f781298_grande.png",
           "image_6": "https://product.hstatic.net/200000722513/product/9_fbcf80c142e0489382c1ae23c91d20f1_grande.png"
+        },
+        "components": {
+          "battery": "pin sạc",
+          "connect": "Không dây",
+          "led": ""
         },
         "detail": {
           "warranty": "24 tháng",
@@ -5156,6 +5517,11 @@
           "image_5": "https://product.hstatic.net/200000722513/product/5277-vt760-mini-pink-4_3131d82730ea4d758c7b6063f79b78a6_grande.jpg",
           "image_6": "https://product.hstatic.net/200000722513/product/5277-vt760-mini-pink-5_56773936dcd74369ac3333a5ce714ea9_grande.jpg"
         },
+        "components": {
+          "battery": "pin sạc",
+          "connect": "Không dây",
+          "led": ""
+        },
         "detail": {
           "warranty": "24 tháng",
           "FEET": "",
@@ -5189,6 +5555,11 @@
           "image_5": "https://product.hstatic.net/200000722513/product/iner_h9a_h77_9785428344862_240620-deathadder-v3-hyperspeed-1500x1000-2_abf290567c4b461ba7fda4dd62e7fdcd_grande.jpg",
           "image_6": "https://product.hstatic.net/200000722513/product/iner_h00_h7e_9785428508702_240620-deathadder-v3-hyperspeed-1500x1000-3_996b24e9bda246169fc6385ba4c2d8e2_grande.jpg"
         },
+        "components": {
+          "battery": "pin sạc",
+          "connect": "Không dây",
+          "led": "RGB"
+        },
         "detail": {
           "warranty": "24 tháng",
           "FEET": "100% PTFE",
@@ -5218,6 +5589,11 @@
           "image_1": "https://product.hstatic.net/200000722513/product/thumbchuot_d48b1fc55115417cae8e12993f1103b0_eff100e94b52425c8788727470ecabae_medium.gif",
           "image_2": "https://product.hstatic.net/200000722513/product/thumbchuot_d48b1fc55115417cae8e12993f1103b0_eff100e94b52425c8788727470ecabae_grande.gif",
           "image_3": "https://product.hstatic.net/200000722513/product/wireless-faker-edition-38883096559861_55d27411196e498f9fd3ca7cb575283c_0dcc1a40ad574dcabb100293e54192da_grande.jpg"
+        },
+        "components": {
+          "battery": "pin sạc",
+          "connect": "Không dây",
+          "led": ""
         },
         "detail": {
           "warranty": "24 tháng",
@@ -5252,6 +5628,11 @@
           "image_5": "https://product.hstatic.net/200000722513/product/1562833597-8680_compressed_a7527e25712e45208c467d118299fa63_355b41f6baa145a897971f1f8cda135e_grande.jpg",
           "image_6": "https://product.hstatic.net/200000722513/product/1562833601-5707_compressed_0fe37ac6ed2d44e49a78318b15d6fded_2af242180a4f4dabb7bb131a0714bc3b_grande.jpg"
         },
+        "components": {
+          "battery": "pin sạc",
+          "connect": "Không dây",
+          "led": "RGB"
+        },
         "detail": {
           "warranty": "24 tháng",
           "FEET": "",
@@ -5285,6 +5666,11 @@
           "image_5": "https://product.hstatic.net/200000722513/product/gearvn-chuot-rapoo-vt9-air-gaming-khong-day-trang-tim-4_6530bcb5372a4e0dad691383bbaab452_grande.png",
           "image_6": "https://product.hstatic.net/200000722513/product/gearvn-chuot-rapoo-vt9-air-gaming-khong-day-trang-tim-5_03949b45887f4e918d439417ac005363_grande.png"
         },
+        "components": {
+          "battery": "pin sạc",
+          "connect": "Không dây",
+          "led": "RGB"
+        },
         "detail": {
           "warranty": "24 tháng",
           "FEET": "",
@@ -5317,6 +5703,11 @@
           "image_4": "https://product.hstatic.net/200000722513/product/d3awpu8q_57e067c744cb404180328a927afb6dbc_grande.png",
           "image_5": "https://product.hstatic.net/200000722513/product/i56gu2q2_c08bcc730eb04dcd8b795722757d1f1c_grande.png"
         },
+        "components": {
+          "battery": "pin sạc",
+          "connect": "Không dây",
+          "led": ""
+        },
         "detail": {
           "warranty": "24 tháng",
           "FEET": "100% PTFE",
@@ -5347,6 +5738,11 @@
           "image_2": "https://product.hstatic.net/200000722513/product/42rc3efe_13d1959281ec44749394fad1ceebece4_grande.png",
           "image_3": "https://product.hstatic.net/200000722513/product/bfo6ep9j_37d6891e25d94d7fa37cd147bc3464e8_grande.png",
           "image_4": "https://product.hstatic.net/200000722513/product/9ktbn43h_c8d1e233aee24077ae3ccb8061b5c7bc_grande.png"
+        },
+        "components": {
+          "battery": "pin sạc",
+          "connect": "Không dây",
+          "led": "RGB"
         },
         "detail": {
           "warranty": "24 tháng",
@@ -5379,6 +5775,11 @@
           "image_3": "https://product.hstatic.net/200000722513/product/512_625x_1_622002aed03043f7b42c879f556efce5_grande.jpg",
           "image_4": "https://product.hstatic.net/200000722513/product/512_625x_2_9a4d1a4a0f12497e8e7a94879a5e0606_grande.jpg",
           "image_5": "https://product.hstatic.net/200000722513/product/512_625x_8_48224fd3b1b44182b77937141c54fd13_grande.jpg"
+        },
+        "components": {
+          "battery": "pin sạc",
+          "connect": "Không dây",
+          "led": "RGB"
         },
         "detail": {
           "warranty": "24 tháng",

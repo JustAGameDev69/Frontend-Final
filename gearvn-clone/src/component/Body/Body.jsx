@@ -34,7 +34,19 @@ const keyboardCategories = [
 export default function Body() {
   const { data } = useData();
   const { pc, laptop, mouse, keyboard } = data;
-  console.log(pc);
+
+  console.log(laptop);
+
+  const gamingArray = [];
+  const otherArray = [];
+
+  laptop?.forEach((obj) => {
+    if (obj.title.toLowerCase().includes("gaming")) {
+      gamingArray.push(obj);
+    } else {
+      otherArray.push(obj);
+    }
+  });
 
   return (
     <div className="w-full">
@@ -45,6 +57,24 @@ export default function Body() {
         subTitle="Trả góp 0%"
         categories={pcCategories}
         data={pc}
+      />
+      <SectionCollection
+        title="Laptop gaming bán chạy"
+        subTitle="Miễn phí giao hàng"
+        categories={laptopCategories}
+        data={gamingArray}
+      />
+      <SectionCollection
+        title="Laptop văn phòng bán chạy"
+        subTitle="Miễn phí giao hàng"
+        categories={laptopCategories}
+        data={otherArray}
+      />
+      <SectionCollection
+        title="Chuột bán chạy"
+        subTitle="Giao hàng toàn quốc"
+        categories={mouseCategories}
+        data={mouse}
       />
     </div>
   );

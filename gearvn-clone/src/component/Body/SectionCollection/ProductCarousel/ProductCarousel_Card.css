@@ -1,6 +1,7 @@
 .product-carousel-card {
   border: 1px solid rgb(220, 218, 218);
   width: 220px;
+  height: 500px;
   font-family: "SF Pro Display", sans-serif;
   border-radius: 4px;
   box-shadow: inset 1px 0px 0px #ededed, inset -1px 0px 0px #ededed,
@@ -10,13 +11,14 @@
 
 .product-carousel-card-img {
   width: 100%;
-  height: 100%;
-  padding-top: 2rem;
-  padding-bottom: 1rem;
+  height: 200px;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
 }
 
 .product-carousel-card-img img {
   width: 100%;
+  object-fit: cover;
 }
 
 .product-carousel-card-content {
@@ -28,8 +30,7 @@
 .product-carousel-card-content-title {
   color: #333333;
   line-height: 20px;
-  height: 40px;
-  margin-bottom: 0.3rem;
+  height: 64px;
 }
 
 .product-carousel-card-content-detail {
