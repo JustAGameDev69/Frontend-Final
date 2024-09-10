@@ -4,7 +4,11 @@ const DataContext = createContext();
 
 const BASE_URL = "http://localhost:3000";
 const initialState = {
-  data: {},
+  pc: [],
+  laptop: [],
+  monitor: [],
+  keyboard: [],
+  mouse: [],
   isLoading: false,
   error: "",
 };
@@ -16,11 +20,35 @@ function reducer(state, action) {
         ...state,
         isLoading: true,
       };
-    case "data/loaded":
+    case "pc/loaded":
       return {
         ...state,
         isLoading: false,
-        data: action.payload,
+        pc: action.payload,
+      };
+    case "laptop/loaded":
+      return {
+        ...state,
+        isLoading: false,
+        laptop: action.payload,
+      };
+    case "monitor/loaded":
+      return {
+        ...state,
+        isLoading: false,
+        monitor: action.payload,
+      };
+    case "keyboard/loaded":
+      return {
+        ...state,
+        isLoading: false,
+        keyboard: action.payload,
+      };
+    case "mouse/loaded":
+      return {
+        ...state,
+        isLoading: false,
+        mouse: action.payload,
       };
     case "rejected":
       return {
@@ -33,16 +61,19 @@ function reducer(state, action) {
   }
 }
 
+const categories = ["pc", "laptop", "mouse", "keyboard", "monitor"];
+
 function DataProvider({ children }) {
-  const [{ data, isLoading }, dispatch] = useReducer(reducer, initialState);
+  const [{ pc, laptop, mouse, keyboard, monitor, isLoading }, dispatch] =
+    useReducer(reducer, initialState);
 
   useEffect(function () {
-    async function fetchData() {
+    async function fetchData(item) {
       dispatch({ type: "loading" });
       try {
-        const res = await fetch(`${BASE_URL}/data`);
+        const res = await fetch(`${BASE_URL}/${item}`);
         const data = await res.json();
-        dispatch({ type: "data/loaded", payload: data });
+        dispatch({ type: `${item}/loaded`, payload: data });
         console.log(data);
       } catch {
         dispatch({
@@ -51,11 +82,13 @@ function DataProvider({ children }) {
         });
       }
     }
-    fetchData();
+    categories.map((item) => fetchData(item));
   }, []);
 
   return (
-    <DataContext.Provider value={{ data, isLoading }}>
+    <DataContext.Provider
+      value={{ pc, laptop, mouse, keyboard, monitor, isLoading }}
+    >
       {children}
     </DataContext.Provider>
   );

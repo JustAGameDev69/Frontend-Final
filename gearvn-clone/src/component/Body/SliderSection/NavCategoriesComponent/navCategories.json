@@ -1,0 +1,236 @@
+{
+  "laptop": [
+    {
+      "title": "Thương hiệu",
+      "contents": [
+        "ASUS",
+        "ACER",
+        "MSI",
+        "LENOVO",
+        "DELL",
+        "HP - Pavillion",
+        "LG-Gram"
+      ]
+    },
+    {
+      "title": "Giá bán",
+      "contents": ["Dưới 15 triệu", "Từ 15 đến 20 triệu", "Trên 20 triệu"]
+    },
+    {
+      "title": "CPU Intel - AMD",
+      "contents": [
+        "Intel Core i3",
+        "Intel Core i5",
+        "Intel Core i7",
+        "AMD Ryzen"
+      ]
+    },
+    {
+      "title": "Nhu cầu sử dụng",
+      "contents": [
+        "Đồ họa - Studio",
+        "Học sinh - Sinh viên",
+        "Mỏng nhẹ cao cấp"
+      ]
+    },
+    {
+      "title": "Link kiện laptop",
+      "contents": ["Ram laptop", "SSD laptop", "Ổ cứng di động"]
+    },
+    {
+      "title": "Laptop ASUS",
+      "contents": [
+        "ASUS OLED Series",
+        "Vivobook Series",
+        "Zenbook Series",
+        "ProArt StudioBook",
+        "Series"
+      ]
+    },
+    { "title": "Laptop ACER", "contents": ["Aspire Series", "Swift Series"] },
+    {
+      "title": "Laptop MSI",
+      "contents": ["Modern Series", "Prestige Series", "Summit Series"]
+    },
+    {
+      "title": "Laptop LENOVO",
+      "contents": [
+        "ThinkBook Series",
+        "IdeaPad Series",
+        "IdeaPad Pro Series",
+        "ThinkPad Series",
+        "Yoga Series"
+      ]
+    },
+    {
+      "title": "Laptop DELL",
+      "contents": [
+        "Inspiron Series",
+        "Vostro Series",
+        "Latitude Series",
+        "XPS Series"
+      ]
+    },
+    { "title": "Laptop AI", "contents": [] }
+  ],
+  "laptopGaming": [
+    {
+      "title": "Thương hiệu",
+      "contents": [
+        "ACER/PREDATOR",
+        "ASUS/ROG",
+        "MSI",
+        "LENOVO",
+        "DELL",
+        "GIGABYTE/AORUS",
+        "HP"
+      ]
+    },
+    {
+      "title": "Giá bán",
+      "contents": [
+        "Dưới 20 triệu",
+        "Từ 20 đến 25 triệu",
+        "Từ 25 đến 30 triệu",
+        "Trên 30 triệu",
+        "Gaming cao cấp",
+        "Gaming RTX 40 Series"
+      ]
+    },
+    {
+      "title": "ACER/PREDATOR",
+      "contents": [
+        "Nitro Series",
+        "Aspire Series",
+        "Predator Series",
+        "ACER RTX 40 Series"
+      ]
+    },
+    {
+      "title": "ASUS | ROG GAMING",
+      "contents": [
+        "ROG Series",
+        "TUF Series",
+        "Zephyrus Series",
+        "ROG Strix G",
+        "ROG Flow Series",
+        "TUF RTX 40 Series",
+        "ROG RTX 40 Series",
+        "ROG Ally"
+      ]
+    },
+    {
+      "title": "MSI Gaming",
+      "contents": [
+        "Titan GT Series",
+        "Stealth GS Series",
+        "Raider GE Series",
+        "Vector GP Series"
+      ]
+    },
+    {
+      "title": "LENOVO Gaming",
+      "contents": [
+        "Legion Gaming",
+        "Ideapad Gaming",
+        "Lenovo RTX 40 Series",
+        "LOQ series"
+      ]
+    },
+    {
+      "title": "DELL Gaming",
+      "contents": [
+        "Dell Gaming G series",
+        "Alienware Series",
+        "Dell RTX 40 Series"
+      ]
+    },
+    {
+      "title": "GIGABYTE Gaming",
+      "contents": [
+        "GIGABYTE G5 | G7",
+        "GIGABYTE AORUS",
+        "GIGABYTE AERO",
+        "GIGABYTE RTX 40 Series"
+      ]
+    }
+  ],
+  "PC GVN": [
+    {
+      "title": "KHUYẾN MÃI HOT",
+      "contents": ["Pc RX6600 tặng 8GB RAM", "Pc GTX1650 tặng 8GB RAM"]
+    },
+    {
+      "title": "PC KHUYẾN MÃI",
+      "contents": [
+        "Dragon ACE 4080 Super",
+        "Dragon X 4070 Super",
+        "Project Vertical",
+        "Project Zero White"
+      ]
+    },
+    {
+      "title": "PC KHUYẾN MÃI",
+      "contents": [
+        "BTF i9-4090",
+        "BTF i7-4070Ti Super",
+        "BTF i5-4070 Super",
+        "i5-4060",
+        "i5-4060Ti"
+      ]
+    },
+    {
+      "title": "PC theo cấu hình(Intel)",
+      "contents": [
+        "PC I3(Giá từ 7 triệu)",
+        "PC I5(Giá từ 10 triệu)",
+        "PC I7(Giá từ 27 triệu)",
+        "PC I9(Giá từ 40 triệu)",
+        "Xem tất cả PC"
+      ]
+    },
+    {
+      "title": "PC theo cấu hình(AMD)",
+      "contents": [
+        "PC R3(Giá từ 5 triệu)",
+        "PC R5(Giá từ 7 triệu)",
+        "PC R7(Giá từ 37 triệu)",
+        "PC R9(Giá từ 40 triệu)",
+        "Xem tất cả PC"
+      ]
+    },
+    {
+      "title": "PC Văn phòng",
+      "contents": [
+        "Homework Athlon",
+        "Homework R3",
+        "Homework R5",
+        "Homework I5"
+      ]
+    },
+    {
+      "title": "PC theo cấu hình VGA",
+      "contents": [
+        "PC sử dụng VGA 1650",
+        "PC sử dụng VGA 3060",
+        "PC sử dụng VGA 3060",
+        "PC sử dụng VGA RX6600",
+        "Xem tất cả PC GVN"
+      ]
+    },
+    {
+      "title": "PC theo cấu hình VGA",
+      "contents": [
+        "PC sử dụng 4060",
+        "PC sử dụng 4070",
+        "PC sử dụng 4080",
+        "PC sử dụng 4090",
+        "Xem tất cả PC GVN"
+      ]
+    },
+    {
+      "title": "Phần mềm bản quyền",
+      "contents": ["Windows bản quyền", "Office 365 bản quyền"]
+    }
+  ]
+}

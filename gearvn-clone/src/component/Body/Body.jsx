@@ -1,4 +1,4 @@
-import { useData } from "../../context/dataContext";
+import { useData } from "../../context/DataContext";
 import SectionCategories from "./CategoriesSection/SectionCategories";
 import SectionCollection from "./SectionCollection/SectionCollection";
 import SliderSection from "./SliderSection/SliderSection";
@@ -34,8 +34,7 @@ const keyboardCategories = [
 ];
 
 export default function Body() {
-  const { data } = useData();
-  const { pc, laptop, mouse, keyboard, monitor } = data;
+  const { pc, laptop, mouse, keyboard, monitor } = useData();
 
   console.log(laptop);
 
