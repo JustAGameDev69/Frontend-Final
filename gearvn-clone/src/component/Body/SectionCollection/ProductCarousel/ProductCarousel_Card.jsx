@@ -27,6 +27,9 @@ export function ProductCarousel_Card({ product }) {
     led,
     layout,
     keycap,
+    size,
+    panel,
+    resolution,
   } = product.components;
   const { image_1: cardImage } = product.image;
   const price = product.price;
@@ -64,6 +67,11 @@ export function ProductCarousel_Card({ product }) {
               {led && <ProductCardDetail name="led" content={led} />}
               {layout && <ProductCardDetail name="layout" content={layout} />}
               {keycap && <ProductCardDetail name="keycap" content={keycap} />}
+              {size && <ProductCardDetail name="monitor" content={size} />}
+              {panel && <ProductCardDetail name="panel" content={panel} />}
+              {resolution && (
+                <ProductCardDetail name="resolution" content={resolution} />
+              )}
             </div>
           </>
         )}

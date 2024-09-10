@@ -2654,7 +2654,7 @@
         }
       }
     ],
-    "CPU": [
+    "cpu": [
       {
         "id": 1,
         "title": "Bộ vi xử lý Intel Core i5 12400 / 2.5GHz Turbo 4.4GHz / 6 Nhân 12 Luồng / 18MB / LGA 1700 (TRAY)",
@@ -3082,7 +3082,7 @@
         }
       }
     ],
-    "VGA": [
+    "vga": [
       {
         "id": 1,
         "title": "Card màn hình PNY GeForce RTX 4060 8GB XLR8 Gaming VERTO Overclocked Dual Fan",
@@ -3445,7 +3445,7 @@
         }
       }
     ],
-    "RAM": [
+    "ram": [
       {
         "id": 1,
         "title": "RAM Kingston FURY Renegade RGB 48GB (2x24GB) Limited Edition bus 8000 DDR5 (KF580C36RLAK2-48)",
@@ -4742,7 +4742,7 @@
         }
       }
     ],
-    "PSU": [
+    "psu": [
       {
         "id": 1,
         "title": "Nguồn máy tính GIGABYTE AORUS ELITE P1000W PCIe 5.0 - 80 Plus Platinum - Full Modular (1000W)",

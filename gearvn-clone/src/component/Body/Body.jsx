@@ -1,6 +1,8 @@
 import { useData } from "../../context/dataContext";
+import SectionCategories from "./CategoriesSection/SectionCategories";
 import SectionCollection from "./SectionCollection/SectionCollection";
 import SliderSection from "./SliderSection/SliderSection";
+import AdsSubBanner from "./SubBanner/AdsSubBanner";
 import SubBanner from "./SubBanner/SubBanner";
 
 const pcCategories = [
@@ -33,7 +35,7 @@ const keyboardCategories = [
 
 export default function Body() {
   const { data } = useData();
-  const { pc, laptop, mouse, keyboard } = data;
+  const { pc, laptop, mouse, keyboard, monitor } = data;
 
   console.log(laptop);
 
@@ -70,6 +72,7 @@ export default function Body() {
         categories={laptopCategories}
         data={otherArray}
       />
+      <AdsSubBanner />
       <SectionCollection
         title="Chuột bán chạy"
         subTitle="Giao hàng toàn quốc"
@@ -82,6 +85,13 @@ export default function Body() {
         categories={keyboardCategories}
         data={keyboard}
       />
+      <SectionCollection
+        title="Màn hình chính hãng"
+        subTitle="Bảo hành 1 đổi 1"
+        categories={keyboardCategories}
+        data={monitor}
+      />
+      <SectionCategories />
     </div>
   );
 }

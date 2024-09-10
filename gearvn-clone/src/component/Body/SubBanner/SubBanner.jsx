@@ -5,7 +5,7 @@ export default function SubBanner() {
   const imageStyle = "w-full h-full";
 
   return (
-    <div className="content-container w-full flex gap-3 mt-3">
+    <div className="content-container w-full flex gap-3 mt-3 pl-0 pr-0">
       <ImageTag containerStyle={containerStyle} imgStyle={imageStyle}>
         {"https://file.hstatic.net/200000722513/file/artboard_12_copy_12.png"}
       </ImageTag>

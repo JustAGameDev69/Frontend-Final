@@ -2,7 +2,7 @@ import SliderNavItems from "./SliderNavItems";
 
 export default function SliderSectionNav() {
   return (
-    <div className="w-1/5 bg-white">
+    <div className="w-1/5 bg-white rounded">
       <SliderNavItems content={"Laptop"}>
         <svg
           width="20"
