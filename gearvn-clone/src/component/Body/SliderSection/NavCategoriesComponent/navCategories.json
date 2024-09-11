@@ -155,7 +155,7 @@
       ]
     }
   ],
-  "PC GVN": [
+  "PCGVN": [
     {
       "title": "KHUYẾN MÃI HOT",
       "contents": ["Pc RX6600 tặng 8GB RAM", "Pc GTX1650 tặng 8GB RAM"]
@@ -231,6 +231,560 @@
     {
       "title": "Phần mềm bản quyền",
       "contents": ["Windows bản quyền", "Office 365 bản quyền"]
+    }
+  ],
+  "MainCPUVGA": [
+    {
+      "title": "VGA(Trên 12GB VRAM)",
+      "contents": [
+        "RTX 4070 SUPER",
+        "RTX 4070Ti Super",
+        "RTX 4080 SUPER",
+        "RTX 4090 SUPER"
+      ]
+    },
+    {
+      "title": "VGA(DƯỚI 12GB VRAM)",
+      "contents": [
+        "RTX 4060Ti",
+        "RTX 4060",
+        "RTX 3060",
+        "RTX 3050",
+        "GTX 1650",
+        "GT 710/GT 1030"
+      ]
+    },
+    {
+      "title": "VGA-Card Màn hình",
+      "contents": ["NVIDIA Quadro", "AMD Radeon"]
+    },
+    {
+      "title": "Bo mạch chủ intel",
+      "contents": [
+        "H510",
+        "H610",
+        "B660",
+        "B760",
+        "Z690",
+        "Z790",
+        "X299X",
+        "Xem tất cả"
+      ]
+    },
+    {
+      "title": "Bo mạch chủ AMD",
+      "contents": [
+        "AMD X670",
+        "AMD X570",
+        "AMD B650",
+        "AMD B550",
+        "AMD A320",
+        "AMD TRX40"
+      ]
+    },
+    {
+      "title": "CPU-Bộ vi xử lý Intel",
+      "contents": [
+        "CPU Intel 14th",
+        "CPU Intel I3",
+        "CPU Intel I5",
+        "CPU Intel I7",
+        "CPU Intel I9"
+      ]
+    },
+    {
+      "title": "CPU-Bộ vi xử lý AMD",
+      "contents": [
+        "CPU AMD Athlon",
+        "CPU AMD R3",
+        "CPU AMD R5",
+        "CPU AMD R7",
+        "CPU AMD R9"
+      ]
+    }
+  ],
+  "casePsuCooling": [
+    {
+      "title": "Case-Theo hãng",
+      "contents": [
+        "Case ASUS",
+        "Case Corsair",
+        "Case Lianli",
+        "Case NZXT",
+        "Case Inwin",
+        "Case Thermaltake",
+        "Xem tất cả"
+      ]
+    },
+    {
+      "title": "Case-Theo giá",
+      "contents": [
+        "Dưới 1 triệu",
+        "Từ 1 triệu đến 2 triệu",
+        "Trên 2 triệu",
+        "Xem tất cả"
+      ]
+    },
+    {
+      "title": "Nguồn-Theo hãng",
+      "contents": [
+        "Nguồn ASUS",
+        "Nguồn DeepCool",
+        "Nguồn Corsair",
+        "Nguồn NZXT",
+        "Nguồn MSI",
+        "Xem tất cả"
+      ]
+    },
+    {
+      "title": "Nguồn-Theo công suất",
+      "contents": [
+        "Từ 400w-500w",
+        "Từ 500w-600w",
+        "Từ 700w-800w",
+        "Trên 1000w",
+        "Xem tất cả"
+      ]
+    },
+    {
+      "title": "Phụ kiện PC",
+      "contents": [
+        "Dây LED",
+        "Dây rise-Dựng VGA",
+        "Giá đỡ VGA",
+        "Keo tản nhiệt",
+        "Xem tất cả"
+      ]
+    },
+    {
+      "title": "Loại tản nhiệt",
+      "contents": [
+        "Tản nhiệt AIO 240mm",
+        "Tản nhiệt AIO 280mm",
+        "Tản nhiệt AIO 360mm",
+        "Tản nhiệt AIO 420mm",
+        "Tản nhiệt khí",
+        "Fan RGB",
+        "Xem tất cả"
+      ]
+    }
+  ],
+  "diskRam": [
+    {
+      "title": "Dung lượng RAM",
+      "contents": ["8GB", "16GB", "32GB", "64GB", "Xem tất cả"]
+    },
+    {
+      "title": "Loại RAM",
+      "contents": ["DDR4", "DDR5", "Xem tất cả"]
+    },
+    {
+      "title": "Hãng RAM",
+      "contents": ["Corsair", "Kingston", "G.Skill", "PNY", "Xem tất cả"]
+    },
+    {
+      "title": "Dung lượng HDD",
+      "contents": [
+        "HDD 1 TB",
+        "HDD 2 TB",
+        "HDD 4 TB - 6 TB",
+        "HDD trên 8 TB",
+        "Xem tất cả"
+      ]
+    },
+    {
+      "title": "Hãng HDD",
+      "contents": ["WesterDigial", "Seagate", "Toshiba", "Xem tất cả"]
+    },
+    {
+      "title": "Dung lượng SSD",
+      "contents": [
+        "120GB-128GB",
+        "250GB-256GB",
+        "480GB-512GB",
+        "960GB-1TB",
+        "2TB",
+        "Trên 2TB",
+        "Xem tất cả"
+      ]
+    },
+    {
+      "title": "Hãng SSD",
+      "contents": [
+        "Samsung",
+        "WesterDigial",
+        "Kingston",
+        "Corsair",
+        "PNY",
+        "Xem tất cả"
+      ]
+    },
+    {
+      "title": "Thẻ nhớ/USB",
+      "contents": ["Sandisk"]
+    },
+    {
+      "title": "Ổ cứng di động",
+      "contents": []
+    }
+  ],
+  "speakerMicroWebcam": [
+    {
+      "title": "Thương hiệu loa",
+      "contents": ["Edifier", "Razer", "Logitech", "SoundMax"]
+    },
+    {
+      "title": "Kiểu Loa",
+      "contents": [
+        "Loa vi tính",
+        "Loa Bluetooth",
+        "Loa Soundbar",
+        "Loa mini",
+        "Sub phụ (Loa trầm)"
+      ]
+    },
+    {
+      "title": "Webcam",
+      "contents": [
+        "Độ phân giải 4K",
+        "Độ phân giải Full HD(1080p)",
+        "Độ phân giải 720p"
+      ]
+    },
+    {
+      "title": "Microphone",
+      "contents": ["Micro HyperX"]
+    }
+  ],
+  "monitor": [
+    {
+      "title": "Hãng sản xuất",
+      "contents": [
+        "LG",
+        "Asus",
+        "ViewSonic",
+        "Dell",
+        "Gigabyte",
+        "AOC",
+        "Acer",
+        "HKC"
+      ]
+    },
+    {
+      "title": "Hãng sản xuất",
+      "contents": [
+        "MSI",
+        "Lenovo",
+        "Samsung",
+        "Philips",
+        "LC-Power",
+        "E-Dra",
+        "Dahua"
+      ]
+    },
+    {
+      "title": "Giá tiền",
+      "contents": [
+        "Dưới 5 triệu",
+        "Từ 5 triệu đến 10 triệu",
+        "Từ 10 triệu đến 20 triệu",
+        "Từ 20 triệu đến 30 triệu",
+        "Trên 30 triệu"
+      ]
+    },
+    {
+      "title": "Độ phân giải",
+      "contents": [
+        "Màn hình Full HD",
+        "Màn hình 2K 1440p",
+        "Màn hình 4K UHD",
+        "Màn hình 6K"
+      ]
+    },
+    {
+      "title": "Tần số quét",
+      "contents": ["60Hz", "75Hz", "100Hz", "144Hz", "240Hz"]
+    },
+    {
+      "title": "Màn hình cong",
+      "contents": [
+        "24\" Curved",
+        "27\" Curved",
+        "32\" Curved",
+        "Trên 32\" Curved"
+      ]
+    },
+    {
+      "title": "Kích thước",
+      "contents": [
+        "Màn hình 22\"",
+        "Màn hình 24\"",
+        "Màn hình 27\"",
+        "Màn hình 32\""
+      ]
+    },
+    {
+      "title": "Màn hình đồ họa",
+      "contents": [
+        "Màn hình đồ họa 24\"",
+        "Màn hình đồ họa 27\"",
+        "Màn hình đồ họa 32\""
+      ]
+    },
+    {
+      "title": "Phụ kiện màn hình",
+      "contents": ["Giá treo màn hình", "Phụ kiện dây HDMI.DP.LAN"]
+    }
+  ],
+  "keyBoard": [
+    {
+      "title": "Thương hiệu",
+      "contents": [
+        "AKKO",
+        "Dare-U",
+        "Rapoo",
+        "FL-Esport",
+        "Corsair",
+        "E-Dra",
+        "Cidoo"
+      ]
+    },
+    {
+      "title": "Thương hiệu",
+      "contents": [
+        "ASUS",
+        "Logitech",
+        "Razer",
+        "Leopold",
+        "SteelSeries",
+        "Durgod",
+        "VGN"
+      ]
+    },
+    {
+      "title": "Giá tiền",
+      "contents": [
+        "Dưới 1 triệu",
+        "1 triệu - 2 triệu",
+        "2 triệu - 3 triệu",
+        "3 triệu - 4 triệu",
+        "Trên 4 triệu"
+      ]
+    },
+    {
+      "title": "Kết nối",
+      "contents": ["Bluetooth", "Wireless"]
+    },
+    {
+      "title": "Phụ kiện bàn phím cơ",
+      "contents": ["Keycaps", "Dwarf Factory", "Kê tay"]
+    }
+  ],
+  "mouse": [
+    {
+      "title": "Thương hiệu chuột",
+      "contents": ["Logitech", "Razer", "Corsair", "Pulsar", "Microsoft"]
+    },
+    {
+      "title": "Thương hiệu chuột",
+      "contents": ["ASUS", "SteelSeries", "Glorious", "Rapoo"]
+    },
+    {
+      "title": "Chuột theo giá tiền",
+      "contents": [
+        "Dưới 500 nghìn",
+        "Từ 500 nghìn - 1 triệu",
+        "Từ 1 triệu - 2 triệu",
+        "Trên 2 triệu - 3 triệu",
+        "Trên 3 triệu"
+      ]
+    },
+    {
+      "title": "Loại chuột",
+      "contents": ["Chuột chơi game", "Chuột văn phòng"]
+    },
+    {
+      "title": "Logitech",
+      "contents": ["Logitech Gaming", "Logitech Văn phòng"]
+    },
+    {
+      "title": "Thương hiệu lót chuột",
+      "contents": ["GEARVN", "ASUS", "SteelSeries", "Dare-U", "Razer"]
+    },
+    {
+      "title": "Các loại lót chuột",
+      "contents": ["Mềm", "Cứng", "Dày", "Mỏng", "Viền có led"]
+    },
+    {
+      "title": "Lót chuột theo size",
+      "contents": ["Nhỏ", "Vừa", "Lớn"]
+    }
+  ],
+  "headphone": [
+    {
+      "title": "Thương hiệu tai nghe",
+      "contents": ["ASUS", "HyperX", "Corsair", "Razer"]
+    },
+    {
+      "title": "Thương hiệu tai nghe",
+      "contents": ["SteelSeries", "Rapoo", "Logitech", "Edifier"]
+    },
+    {
+      "title": "Tai nghe theo giá",
+      "contents": [
+        "Tai nghe dưới 1 triệu",
+        "Tai nghe 1 triệu đến 2 triệu",
+        "Tai nghe 2 đến 3 triệu",
+        "Tai nghe 3 đến 4 triệu",
+        "Tai nghe trên 4 triệu"
+      ]
+    },
+    {
+      "title": "Kiểu kết nối",
+      "contents": ["Tai nghe Wireless", "Tai nghe bluetooth"]
+    },
+    {
+      "title": "Kiểu tai nghe",
+      "contents": ["Tai nghe Over-ear", "Tai nghe Gaming in-ear"]
+    }
+  ],
+  "chair": [
+    {
+      "title": "Thương hiệu ghế Gaming",
+      "contents": [
+        "Corsair",
+        "Warrior",
+        "E-Dra",
+        "DXRacer",
+        "Cougar",
+        "AKRaing"
+      ]
+    },
+    {
+      "title": "Thương hiệu ghế CTH",
+      "contents": ["Warrior", "Sihoo", "E-Dra"]
+    },
+    { "title": "Kiểu ghế", "contents": ["Ghế Công thái học", "Ghế Gaming"] },
+    {
+      "title": "Bàn Gaming",
+      "contents": [
+        "Bàn Gaming DXRacer",
+        "Bàn Gaming E-Dra",
+        "Bàn Gaming Warrior"
+      ]
+    },
+    {
+      "title": "Bàn công thái học",
+      "contents": ["Bàn CTH Warrior", "Phụ kiện bàn ghế"]
+    },
+    {
+      "title": "Giá tiền",
+      "contents": ["Dưới 5 triệu", "Từ 5 triệu đến 10 triệu", "Trên 10 triệu"]
+    }
+  ],
+  "softwareInternet": [
+    {
+      "title": "Hãng sản xuất",
+      "contents": ["Asus", "LinkSys", "TP-LINK", "Mercusys"]
+    },
+    {
+      "title": "Router Wi-Fi",
+      "contents": [
+        "Gaming",
+        "Phổ thông",
+        "Xuyên tường",
+        "Router Mesh Pack",
+        "Router WiFi 5",
+        "Router WiFi 6"
+      ]
+    },
+    {
+      "title": "USB Thu sóng - Card mạng",
+      "contents": ["Usb WiFi", "Card WiFi", "Dây cáp mạng"]
+    },
+    {
+      "title": "Microsoft Office",
+      "contents": ["Microsoft Office 365", "Office 2021"]
+    },
+    {
+      "title": "Microsoft Windows",
+      "contents": ["Windows 11 Home", "Windows 11 Pro"]
+    }
+  ],
+  "handheldConsole": [
+    {
+      "title": "Handheld PC",
+      "contents": ["Rog Ally", "MSI Claw", "Legion Go"]
+    },
+    {
+      "title": "Tay cầm",
+      "contents": [
+        "Tay cầm Microsoft Xbox",
+        "Tay cầm Playstation",
+        "Tay cầm Rapoo",
+        "Tay cầm DareU",
+        "Xem tất cả"
+      ]
+    },
+    {
+      "title": "Vô lăng lái xe, máy bay",
+      "contents": []
+    },
+    {
+      "title": "Sony Playstation",
+      "contents": ["Sony PS5 chính hãng", "Tay cầm chính hãng"]
+    }
+  ],
+  "accessory": [
+    {
+      "title": "Hub,sạc,cáp",
+      "contents": ["Hub chuyển đổi", "Dây cáp", "Củ sạc"]
+    },
+    {
+      "title": "Quạt cầm tay, Quạt mini",
+      "contents": []
+    }
+  ],
+  "trick": [
+    {
+      "title": "Review sản phẩm",
+      "contents": [
+        "Đánh giá Acer Nitro 5",
+        "Đánh giá laptop Asus TUF",
+        "Top PC 2024",
+        "Top tai nghe 2024",
+        "Top màn hình 2024",
+        "Top chuột chơi game 2024",
+        "Top bàn phím 2024",
+        "Top card đồ họa 2024"
+      ]
+    },
+    {
+      "title": "Thủ thuật-Hỏi đáp",
+      "contents": [
+        "Hướng dẫn mua laptop Gaming",
+        "Hướng dẫn mua PC",
+        "Cách cài lại Windows",
+        "Cách lưu ảnh trên máy tính",
+        "Cách giảm giật lag khi chơi game",
+        "Cách đổi IP máy tính",
+        "Xử lý màn hình bị sọc",
+        "Xử lý quên mật khẩu máy tính",
+        "Xử lý lỗi 100% CPU",
+        "Hướng dẫn vệ sinh laptop",
+        "Hướng dẫn kiểm tra tốc độ internet"
+      ]
+    },
+    {
+      "title": "Tin tức công nghệ mới",
+      "contents": [
+        "Windows 12 sắp ra mắt",
+        "Tin tức về chat GPT",
+        "Công nghệ mới của Nvidia",
+        "Top 5 phần mềm Benchmark",
+        "Phần mềm Blooket",
+        "GearUP Game Booster - Giảm pinh hiệu quả"
+      ]
     }
   ]
 }

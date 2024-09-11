@@ -1,4 +1,4 @@
-export default function LaptopCategories({ data }) {
+export default function NavCategoriesHover({ data }) {
   return (
     <>
       {data.map((item, index) => {

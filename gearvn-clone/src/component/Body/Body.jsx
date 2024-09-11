@@ -4,6 +4,7 @@ import SectionCollection from "./SectionCollection/SectionCollection";
 import SliderSection from "./SliderSection/SliderSection";
 import AdsSubBanner from "./SubBanner/AdsSubBanner";
 import SubBanner from "./SubBanner/SubBanner";
+import SubPage from "./SubPage";
 
 const pcCategories = [
   "PC I3",
@@ -34,9 +35,8 @@ const keyboardCategories = [
 ];
 
 export default function Body() {
-  const { pc, laptop, mouse, keyboard, monitor } = useData();
-
-  console.log(laptop);
+  const { pc, laptop, mouse, keyboard, monitor, saleNews, techNews } =
+    useData();
 
   const gamingArray = [];
   const otherArray = [];
@@ -91,6 +91,8 @@ export default function Body() {
         data={monitor}
       />
       <SectionCategories />
+      <SubPage title={"Chuyên trang khuyến mãi"} contents={saleNews} />
+      <SubPage title={"Tin tức công nghệ"} contents={techNews} />
     </div>
   );
 }

@@ -7412,5 +7412,41 @@
         "partNumber": "LAP-APPLE-MBP-13-SG-MNEJ3SA/A"
       }
     }
+  ],
+  "saleNews": [
+    {
+      "image": "https://file.hstatic.net/200000722513/file/uu_dai_soc_b6303389c3fb4f26b05bd368f3d61486.jpg"
+    },
+    {
+      "image": "https://file.hstatic.net/200000722513/file/gearvn-microsoft-365_2aa8dbe17b0941e180f6da14132d6a27.png"
+    },
+    {
+      "image": "https://file.hstatic.net/200000722513/file/web_slider_800x400_man_hinh.png"
+    },
+    {
+      "image": "https://file.hstatic.net/200000722513/file/gearvn-laptop-asus-vivobook-14-oled-m1405ya-km047w-slider_46dfc8f3a021418fb33af9be6052b315.png"
+    }
+  ],
+  "techNews": [
+    {
+      "id": 1,
+      "title": "Tiktok Seller là gì? Cách đăng nhập và bán hàng trên Tiktok",
+      "image": "https://file.hstatic.net/200000722513/article/tiktok-seller-thumbnail_cb3c8e8ff843405f8b800e2270095f97_grande.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Còn mấy ngày nữa đến tết 2025? Đếm ngược tới tết Nguyên đán",
+      "image": "https://file.hstatic.net/200000722513/article/con-may-ngay-nua-den-tet-2025-thumbnail_7519722e8edc47588c2a1653a9656b35_grande.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Tổng hợp code Play Together tháng 09/2024 mới được cập nhật",
+      "image": "https://file.hstatic.net/200000722513/article/code-play-together-thumbnail_b9f1f8ab67b140dba8e5c1c3fb55ce26_grande.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Cách dùng hàm Sumif trong Excel hiệu quả",
+      "image": "https://file.hstatic.net/200000722513/article/gearvn-cach-dung-ham-sumif-trong-excel-8_552945271fc641a08b5bdfa8e8540ff9_grande.jpg"
+    }
   ]
 }

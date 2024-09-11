@@ -9,6 +9,8 @@ const initialState = {
   monitor: [],
   keyboard: [],
   mouse: [],
+  saleNews: [],
+  techNews: [],
   isLoading: false,
   error: "",
 };
@@ -50,6 +52,18 @@ function reducer(state, action) {
         isLoading: false,
         mouse: action.payload,
       };
+    case "saleNews/loaded":
+      return {
+        ...state,
+        isLoading: false,
+        saleNews: action.payload,
+      };
+    case "techNews/loaded":
+      return {
+        ...state,
+        isLoading: false,
+        techNews: action.payload,
+      };
     case "rejected":
       return {
         ...state,
@@ -61,20 +75,29 @@ function reducer(state, action) {
   }
 }
 
-const categories = ["pc", "laptop", "mouse", "keyboard", "monitor"];
+const categories = [
+  "pc",
+  "laptop",
+  "mouse",
+  "keyboard",
+  "monitor",
+  "saleNews",
+  "techNews",
+];
 
 function DataProvider({ children }) {
-  const [{ pc, laptop, mouse, keyboard, monitor, isLoading }, dispatch] =
-    useReducer(reducer, initialState);
+  const [
+    { pc, laptop, mouse, keyboard, monitor, isLoading, saleNews, techNews },
+    dispatch,
+  ] = useReducer(reducer, initialState);
 
   useEffect(function () {
+    dispatch({ type: "loading" });
     async function fetchData(item) {
-      dispatch({ type: "loading" });
       try {
         const res = await fetch(`${BASE_URL}/${item}`);
         const data = await res.json();
         dispatch({ type: `${item}/loaded`, payload: data });
-        console.log(data);
       } catch {
         dispatch({
           type: "rejected",
@@ -87,7 +110,16 @@ function DataProvider({ children }) {
 
   return (
     <DataContext.Provider
-      value={{ pc, laptop, mouse, keyboard, monitor, isLoading }}
+      value={{
+        pc,
+        laptop,
+        mouse,
+        keyboard,
+        monitor,
+        saleNews,
+        techNews,
+        isLoading,
+      }}
     >
       {children}
     </DataContext.Provider>
