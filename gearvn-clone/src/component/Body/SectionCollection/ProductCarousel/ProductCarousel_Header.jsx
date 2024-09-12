@@ -1,6 +1,12 @@
+import { Link } from "react-router-dom";
 import "./ProductCarousel_Header.css";
 
-export function ProductCarousel_Header({ title, subTitle, categories }) {
+export function ProductCarousel_Header({
+  title,
+  subTitle,
+  categories,
+  linkTo,
+}) {
   return (
     <div className="product-carousel-header">
       <div className="product-carousel-header-left">
@@ -18,7 +24,9 @@ export function ProductCarousel_Header({ title, subTitle, categories }) {
         {categories.map((item) => (
           <p key={item}>{item}</p>
         ))}
-        <p className="show-all">Xem tất cả</p>
+        <Link to={`collections/${linkTo}`}>
+          <p className="show-all">Xem tất cả</p>
+        </Link>
       </div>
     </div>
   );

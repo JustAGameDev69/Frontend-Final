@@ -6,6 +6,7 @@ export default function SectionCollection({
   subTitle = "Mua bán",
   categories = [],
   data = [],
+  linkTo = "",
 }) {
   return (
     <div className="w-full mt-3 mb-3">
@@ -14,6 +15,7 @@ export default function SectionCollection({
           title={title}
           subTitle={subTitle}
           categories={categories}
+          linkTo={linkTo}
         />
         <ProductListCarousel data={data} />
       </div>

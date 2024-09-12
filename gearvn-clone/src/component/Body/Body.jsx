@@ -1,4 +1,4 @@
-import { useData } from "../../context/DataContext";
+import { useData } from "../../context/dataContext";
 import SectionCategories from "./CategoriesSection/SectionCategories";
 import SectionCollection from "./SectionCollection/SectionCollection";
 import SliderSection from "./SliderSection/SliderSection";
@@ -35,19 +35,16 @@ const keyboardCategories = [
 ];
 
 export default function Body() {
-  const { pc, laptop, mouse, keyboard, monitor, saleNews, techNews } =
-    useData();
-
-  const gamingArray = [];
-  const otherArray = [];
-
-  laptop?.forEach((obj) => {
-    if (obj.title.toLowerCase().includes("gaming")) {
-      gamingArray.push(obj);
-    } else {
-      otherArray.push(obj);
-    }
-  });
+  const {
+    pc,
+    gamingLaptop,
+    officeLaptop,
+    mouse,
+    keyboard,
+    monitor,
+    saleNews,
+    techNews,
+  } = useData();
 
   return (
     <div className="w-full">
@@ -58,18 +55,21 @@ export default function Body() {
         subTitle="Trả góp 0%"
         categories={pcCategories}
         data={pc}
+        linkTo="pc"
       />
       <SectionCollection
         title="Laptop gaming bán chạy"
         subTitle="Miễn phí giao hàng"
         categories={laptopCategories}
-        data={gamingArray}
+        data={gamingLaptop}
+        linkTo="laptop-gaming"
       />
       <SectionCollection
         title="Laptop văn phòng bán chạy"
         subTitle="Miễn phí giao hàng"
         categories={laptopCategories}
-        data={otherArray}
+        data={officeLaptop}
+        linkTo="laptop-vanphong"
       />
       <AdsSubBanner />
       <SectionCollection
@@ -77,18 +77,21 @@ export default function Body() {
         subTitle="Giao hàng toàn quốc"
         categories={mouseCategories}
         data={mouse}
+        linkTo="mouse"
       />
       <SectionCollection
         title="Bàn phím bán chạy"
         subTitle="Giao hàng toàn quốc"
         categories={keyboardCategories}
         data={keyboard}
+        linkTo="keyboard"
       />
       <SectionCollection
         title="Màn hình chính hãng"
         subTitle="Bảo hành 1 đổi 1"
         categories={keyboardCategories}
         data={monitor}
+        linkTo="monitor"
       />
       <SectionCategories />
       <SubPage title={"Chuyên trang khuyến mãi"} contents={saleNews} />

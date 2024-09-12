@@ -11,6 +11,7 @@ const initialState = {
   mouse: [],
   saleNews: [],
   techNews: [],
+  collections: [],
   isLoading: false,
   error: "",
 };
@@ -64,6 +65,12 @@ function reducer(state, action) {
         isLoading: false,
         techNews: action.payload,
       };
+    case "collections/loaded":
+      return {
+        ...state,
+        isLoading: false,
+        collections: action.payload,
+      };
     case "rejected":
       return {
         ...state,
@@ -87,9 +94,30 @@ const categories = [
 
 function DataProvider({ children }) {
   const [
-    { pc, laptop, mouse, keyboard, monitor, isLoading, saleNews, techNews },
+    {
+      pc,
+      laptop,
+      mouse,
+      keyboard,
+      monitor,
+      isLoading,
+      saleNews,
+      techNews,
+      collections,
+    },
     dispatch,
   ] = useReducer(reducer, initialState);
+
+  const gamingLaptop = [];
+  const officeLaptop = [];
+
+  laptop.forEach((obj) => {
+    if (obj.title.toLowerCase().includes("gaming")) {
+      gamingLaptop.push(obj);
+    } else {
+      officeLaptop.push(obj);
+    }
+  });
 
   useEffect(function () {
     dispatch({ type: "loading" });
@@ -108,17 +136,42 @@ function DataProvider({ children }) {
     categories.map((item) => fetchData(item));
   }, []);
 
+  async function getData(id) {
+    if (id === "laptop-gaming") {
+      dispatch({ type: "collections/loaded", payload: gamingLaptop });
+      return;
+    } else if (id === "laptop-vanphong") {
+      dispatch({ type: "collections/loaded", payload: officeLaptop });
+      return;
+    }
+
+    dispatch({ type: "loading" });
+    try {
+      const res = await fetch(`${BASE_URL}/${id}`);
+      const data = await res.json();
+      dispatch({ type: "collections/loaded", payload: data });
+    } catch {
+      dispatch({
+        type: "rejected",
+        payload: "There was an error loading data",
+      });
+    }
+  }
+
   return (
     <DataContext.Provider
       value={{
         pc,
-        laptop,
+        gamingLaptop,
+        officeLaptop,
         mouse,
         keyboard,
         monitor,
         saleNews,
         techNews,
+        collections,
         isLoading,
+        getData,
       }}
     >
       {children}
