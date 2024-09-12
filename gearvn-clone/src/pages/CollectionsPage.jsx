@@ -17,8 +17,6 @@ export default function CollectionsPage() {
     [id]
   );
 
-  console.log(collections);
-
   return (
     <>
       <Header />

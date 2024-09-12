@@ -1,3 +1,5 @@
+import { useData } from "../../../context/dataContext";
+import { Loading } from "../../Loading";
 import { ProductCarousel_Header } from "./ProductCarousel/ProductCarousel_Header";
 import ProductListCarousel from "./ProductListCarousel";
 
@@ -8,6 +10,8 @@ export default function SectionCollection({
   data = [],
   linkTo = "",
 }) {
+  const { isLoading } = useData();
+
   return (
     <div className="w-full mt-3 mb-3">
       <div className="bg-white content-container rounded pb-3">
@@ -17,7 +21,7 @@ export default function SectionCollection({
           categories={categories}
           linkTo={linkTo}
         />
-        <ProductListCarousel data={data} />
+        {isLoading ? <Loading /> : <ProductListCarousel data={data} />}
       </div>
     </div>
   );

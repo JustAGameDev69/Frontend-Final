@@ -4,7 +4,7 @@ import SearchBar from "./SearchBar";
 
 function MainHeader() {
   return (
-    <div className="w-full bg-[#E30019] h-auto">
+    <div className="w-full bg-[#E30019] h-auto sticky top-0 z-20">
       <div className="content-container justify-between flex items-center text-base text-white text-nowrap w-full font-medium">
         <div className="flex py-4 items-center gap-2 pr-2 w-3/12 hover:cursor-pointer">
           <Link to="/">

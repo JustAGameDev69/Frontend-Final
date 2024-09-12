@@ -7,6 +7,10 @@
   .content-container {
     @apply max-w-screen-xl ml-auto mr-auto px-2.5;
   }
+
+  .pageLink {
+    @apply text-[#1982F9] hover:text-[#E30019] cursor-pointer;
+  }
 }
 
 * {

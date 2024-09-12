@@ -1,6 +1,7 @@
 import { createContext, useContext, useEffect, useReducer } from "react";
 
 const DataContext = createContext();
+const delay = () => new Promise((resolve) => setTimeout(resolve, 2000));
 
 const BASE_URL = "http://localhost:3000";
 const initialState = {
@@ -123,6 +124,7 @@ function DataProvider({ children }) {
     dispatch({ type: "loading" });
     async function fetchData(item) {
       try {
+        await delay();
         const res = await fetch(`${BASE_URL}/${item}`);
         const data = await res.json();
         dispatch({ type: `${item}/loaded`, payload: data });
@@ -137,16 +139,19 @@ function DataProvider({ children }) {
   }, []);
 
   async function getData(id) {
+    dispatch({ type: "loading" });
     if (id === "laptop-gaming") {
+      await delay();
       dispatch({ type: "collections/loaded", payload: gamingLaptop });
       return;
     } else if (id === "laptop-vanphong") {
+      await delay();
       dispatch({ type: "collections/loaded", payload: officeLaptop });
       return;
     }
 
-    dispatch({ type: "loading" });
     try {
+      await delay();
       const res = await fetch(`${BASE_URL}/${id}`);
       const data = await res.json();
       dispatch({ type: "collections/loaded", payload: data });

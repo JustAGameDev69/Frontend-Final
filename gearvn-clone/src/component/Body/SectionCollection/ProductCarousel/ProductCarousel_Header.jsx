@@ -25,7 +25,7 @@ export function ProductCarousel_Header({
           <p key={item}>{item}</p>
         ))}
         <Link to={`collections/${linkTo}`}>
-          <p className="show-all">Xem tất cả</p>
+          <p className="pageLink">Xem tất cả</p>
         </Link>
       </div>
     </div>
