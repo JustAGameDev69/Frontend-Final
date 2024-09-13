@@ -13,6 +13,7 @@ const initialState = {
   saleNews: [],
   techNews: [],
   collections: [],
+  product: {},
   isLoading: false,
   error: "",
 };
@@ -72,6 +73,12 @@ function reducer(state, action) {
         isLoading: false,
         collections: action.payload,
       };
+    case "product/loaded":
+      return {
+        ...state,
+        isLoading: false,
+        product: action.payload,
+      };
     case "rejected":
       return {
         ...state,
@@ -105,6 +112,7 @@ function DataProvider({ children }) {
       saleNews,
       techNews,
       collections,
+      product,
     },
     dispatch,
   ] = useReducer(reducer, initialState);
@@ -163,6 +171,23 @@ function DataProvider({ children }) {
     }
   }
 
+  async function getProductDetail(type, id) {
+    dispatch({ type: "loading" });
+    if (type === "laptop-gaming" || type === "laptop-vanphong") type = "laptop";
+
+    try {
+      await delay();
+      const res = await fetch(`${BASE_URL}/${type}/${id}`);
+      const data = await res.json();
+      dispatch({ type: "product/loaded", payload: data });
+    } catch {
+      dispatch({
+        type: "rejected",
+        payload: "There was an error loading data",
+      });
+    }
+  }
+
   return (
     <DataContext.Provider
       value={{
@@ -176,7 +201,9 @@ function DataProvider({ children }) {
         techNews,
         collections,
         isLoading,
+        product,
         getData,
+        getProductDetail,
       }}
     >
       {children}

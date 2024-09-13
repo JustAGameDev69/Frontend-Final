@@ -3,7 +3,7 @@ import "react-multi-carousel/lib/styles.css";
 import "./ProductListStyle.css";
 import { ProductCarousel_Card } from "./ProductCarousel/ProductCarousel_Card";
 
-export default function ProductListCarousel({ data }) {
+export default function ProductListCarousel({ data, categories }) {
   const responsive = {
     superLargeDesktop: {
       breakpoint: { max: 4000, min: 3000 },
@@ -27,7 +27,11 @@ export default function ProductListCarousel({ data }) {
     <div className="bg-white">
       <Carousel responsive={responsive} infinite={true} autoPlay={true}>
         {data.map((product) => (
-          <ProductCarousel_Card product={product} key={product.id} />
+          <ProductCarousel_Card
+            product={product}
+            key={product.id}
+            categories={categories}
+          />
         ))}
       </Carousel>
     </div>

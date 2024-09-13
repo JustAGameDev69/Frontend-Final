@@ -21,7 +21,11 @@ export default function SectionCollection({
           categories={categories}
           linkTo={linkTo}
         />
-        {isLoading ? <Loading /> : <ProductListCarousel data={data} />}
+        {isLoading ? (
+          <Loading />
+        ) : (
+          <ProductListCarousel data={data} categories={linkTo} />
+        )}
       </div>
     </div>
   );

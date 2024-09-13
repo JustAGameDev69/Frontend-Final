@@ -1,6 +1,7 @@
 import "./ProductCarousel_Card.css";
 import ProductCardDetail from "../ProductCardDetail";
 import SvgReturn from "../../../SvgReturn";
+import { useNavigate } from "react-router-dom";
 
 //Calculate the current price after minus the sale value, then return the currency format!
 function calculateRoundedPercent(a, b) {
@@ -12,7 +13,9 @@ function calculateRoundedPercent(a, b) {
   return number.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ".");
 }
 
-export function ProductCarousel_Card({ product }) {
+export function ProductCarousel_Card({ product, categories }) {
+  const navigate = useNavigate();
+
   const {
     CPU: cpu,
     VGA: vga,
@@ -30,12 +33,20 @@ export function ProductCarousel_Card({ product }) {
     size,
     panel,
     resolution,
+    weight,
+    height,
+    material,
+    connectPort,
+    headPhoneType,
   } = product.components;
   const { image_1: cardImage } = product.image;
   const price = product.price;
 
   return (
-    <div className="product-carousel-card">
+    <div
+      className="product-carousel-card"
+      onClick={() => navigate(`/product/${categories}/${product.id}`)}
+    >
       <div className="product-carousel-card-img">
         <img src={cardImage} />
       </div>
@@ -71,6 +82,20 @@ export function ProductCarousel_Card({ product }) {
               {panel && <ProductCardDetail name="panel" content={panel} />}
               {resolution && (
                 <ProductCardDetail name="resolution" content={resolution} />
+              )}
+              {weight && <ProductCardDetail name="weight" content={weight} />}
+              {height && <ProductCardDetail name="height" content={height} />}
+              {material && (
+                <ProductCardDetail name="material" content={material} />
+              )}
+              {connectPort && (
+                <ProductCardDetail name="connectPort" content={connectPort} />
+              )}
+              {headPhoneType && (
+                <ProductCardDetail
+                  name="headPhoneType"
+                  content={headPhoneType}
+                />
               )}
             </div>
           </>

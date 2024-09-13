@@ -3,13 +3,16 @@ export default function ActionLink({
   content,
   textWidth,
   otherStyle = "",
+  link = "/",
 }) {
   return (
-    <div
-      className={`flex text-sm items-center text-wrap hover:cursor-pointer ${otherStyle}`}
-    >
-      <span className="w-5 h-5 mr-2 ml-2">{children}</span>
-      <p className={textWidth}>{content}</p>
-    </div>
+    <a href={link}>
+      <div
+        className={`flex text-sm items-center text-wrap hover:cursor-pointer ${otherStyle}`}
+      >
+        <span className="w-5 h-5 mr-2 ml-2">{children}</span>
+        <p className={textWidth}>{content}</p>
+      </div>
+    </a>
   );
 }

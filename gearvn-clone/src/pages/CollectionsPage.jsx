@@ -20,7 +20,7 @@ export default function CollectionsPage() {
   return (
     <>
       <Header />
-      <CollectionsBody products={collections} />
+      <CollectionsBody products={collections} categories={id} />
       <Footer />
     </>
   );

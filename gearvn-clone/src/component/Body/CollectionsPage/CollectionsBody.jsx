@@ -2,7 +2,7 @@ import { useData } from "../../../context/dataContext";
 import { Loading } from "../../Loading";
 import { ProductCarousel_Card } from "../SectionCollection/ProductCarousel/ProductCarousel_Card";
 
-export default function CollectionsBody({ products = [] }) {
+export default function CollectionsBody({ products = [], categories = "" }) {
   const { isLoading } = useData();
 
   return (
@@ -18,7 +18,11 @@ export default function CollectionsBody({ products = [] }) {
         ) : (
           <div className="flex flex-wrap gap-1">
             {products.map((product) => (
-              <ProductCarousel_Card key={product.id} product={product} />
+              <ProductCarousel_Card
+                key={product.id}
+                product={product}
+                categories={categories}
+              />
             ))}
           </div>
         )}

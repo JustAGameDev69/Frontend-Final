@@ -89,7 +89,9 @@ export default function SubHeader() {
               fill="currentcolor"
             ></path>
           </svg>
-          <p>Video</p>
+          <a href="https://www.youtube.com/c/GEARVNofficial/videos">
+            <p>Video</p>
+          </a>
         </SubHeaderLink>
         <SubHeaderLink divided={true}>
           <svg

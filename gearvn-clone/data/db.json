@@ -2325,6 +2325,7 @@
         "image_5": "https://product.hstatic.net/200000722513/product/w800__4__7d7328b8406c44afaa4f4732c840ab6f_grande.png",
         "image_6": "https://product.hstatic.net/200000722513/product/w800__2__10d4ef8b39f8432fae5e82be587569f7_grande.png"
       },
+      "components": "",
       "detail": {
         "CPU": "Intel LGA1700 dành cho bộ xử lý Intel Core thế hệ thứ 14 và 13, bộ xử lý Intel Core thế hệ thứ 12, Pentium Gold và Celeron.\nHỗ trợ Công nghệ Intel Turbo Boost 2.0 và Công nghệ Intel Turbo Boost Max 3.0 **\nHỗ trợ Công nghệ Intel® Turbo Boost Max 3.0 tùy thuộc vào loại CPU",
         "chipset": "Intel® Z790 Chipset",
@@ -2359,6 +2360,7 @@
         "image_5": "https://product.hstatic.net/200000722513/product/z790_eagle_ax-04_cf88bb59ea004414950fe482a4cfde88_grande.png",
         "image_6": "https://product.hstatic.net/200000722513/product/z790_eagle_ax-05_5bf7f48b6326493881780975d975d648_grande.png"
       },
+      "components": "",
       "detail": {
         "CPU": "Socket LGA1700: Hỗ trợ cho bộ xử lý Intel® Core ™, Pentium® Gold và Celeron® thế hệ thứ 14, 13 và 12 *\nBộ nhớ đệm L3 thay đổi theo CPU",
         "chipset": "Intel® Z790 Express Chipset",
@@ -2393,6 +2395,7 @@
         "image_5": "https://product.hstatic.net/200000722513/product/image__4__d199e6043aab4c518d9783a2c25d46d5_grande.png",
         "image_6": "https://product.hstatic.net/200000722513/product/image__5__e4b468cfcb244cddb44eee735c987a62_grande.png"
       },
+      "components": "",
       "detail": {
         "CPU": "AMD Socket AM5 dành cho Bộ xử lý máy tính để bàn AMD Ryzen ™ 7000 Series",
         "chipset": "AMD B650",
@@ -2427,6 +2430,7 @@
         "image_5": "https://product.hstatic.net/200000722513/product/1024__2__caae87d7bc914a34975b196140d800f6_grande.png",
         "image_6": "https://product.hstatic.net/200000722513/product/1024__1__23990042f2214b4b96015c045ba543a5_grande.png"
       },
+      "components": "",
       "detail": {
         "CPU": "Hỗ trợ Intel® Core™ 14th/ 13th/ 12th Gen Processors, Intel® Pentium® Gold and Celeron® Processors LGA 1700",
         "chipset": "Intel® H610 Chipset",
@@ -2461,6 +2465,7 @@
         "image_5": "https://product.hstatic.net/200000722513/product/1024__2__277c4151b28d49479fea541c6698f1cb_grande.png",
         "image_6": "https://product.hstatic.net/200000722513/product/1024__1__6d825c7ff04642f68c8004d8ec47cf96_grande.png"
       },
+      "components": "",
       "detail": {
         "CPU": "Hỗ trợ AMD Ryzen™ 8000/ 7000 Series Desktop Processors",
         "chipset": "B650 Chipset",
@@ -2495,6 +2500,7 @@
         "image_5": "https://product.hstatic.net/200000722513/product/image__4__d199e6043aab4c518d9783a2c25d46d5_grande.png",
         "image_6": "https://product.hstatic.net/200000722513/product/image__5__e4b468cfcb244cddb44eee735c987a62_grande.png"
       },
+      "components": "",
       "detail": {
         "CPU": "AMD Socket AM5 dành cho Bộ xử lý máy tính để bàn AMD Ryzen ™ 7000 Series",
         "chipset": "AMD B650",
@@ -2529,6 +2535,7 @@
         "image_5": "https://product.hstatic.net/200000722513/product/w800__2__3acd2084bdc7411aac4cfc5422a7a70e_grande.png",
         "image_6": "https://product.hstatic.net/200000722513/product/w800__1__29bb262fd13340848e5fde6e326b9dd0_grande.png"
       },
+      "components": "",
       "detail": {
         "CPU": "IỔ cắm Intel® LGA1700 dành cho bộ xử lý Intel® Core™ thế hệ thứ 14 & 13, bộ xử lý Intel® Core™ thế hệ thứ 12, Pentium® Gold và Celeron®*\nHỗ trợ Công nghệ Intel® Turbo Boost 2.0 và Intel® Turbo Boost Max Technology 3.0",
         "chipset": "Intel® Z790 Chipset",
@@ -2563,7 +2570,7 @@
         "image_5": "https://product.hstatic.net/200000722513/product/z790_aorus_xtreme_x_ice-06_46d47dc19f1d484c9604ee2532959ad0_grande.png",
         "image_6": "https://product.hstatic.net/200000722513/product/z790_aorus_xtreme_x_ice-05_6356d003f39242cb86c64d0fd295fbcb_grande.png"
       },
-
+      "components": "",
       "detail": {
         "CPU": "Socket LGA1700: Hỗ trợ bộ xử lý Intel® Core™, Pentium® Gold và Celeron® thế hệ thứ 14, 13 và 12\nBộ nhớ đệm L3 thay đổi theo CPU",
         "chipset": "Intel® Z790 Express Chipset",
@@ -2598,6 +2605,7 @@
         "image_5": "https://product.hstatic.net/200000722513/product/4_84116641591a415ba7cf9ecec3a49f44_grande.png",
         "image_6": "https://product.hstatic.net/200000722513/product/5_ab6f74d380ca4fbabf9d5b029688da2e_grande.png"
       },
+      "components": "",
       "detail": {
         "CPU": "Hỗ trợ bộ xử lý Intel® Core™ thế hệ thứ 14/13/12, bộ xử lý Intel® Pentium® Gold và Celeron® LGA 1700",
         "chipset": "Intel Z790",
@@ -2632,6 +2640,7 @@
         "image_5": "https://product.hstatic.net/200000722513/product/proart-z790-creator-wifi-05_32de9f793cd246ab82a1cd5aafc988ce_grande.jpg",
         "image_6": "https://product.hstatic.net/200000722513/product/proart-z790-creator-wifi-06_6c9a0d50ba5046fb8099750a1d28bfe6_grande.jpg"
       },
+      "components": "",
       "detail": {
         "CPU": "Intel® Socket LGA1700 cho Bộ xử lý Intel® Core ™ thế hệ thứ 13 & Bộ xử lý Intel® Core ™, Pentium® Gold và Celeron® thế hệ thứ 12\nHỗ trợ Công nghệ Intel® Turbo Boost 2.0 và Công nghệ Intel® Turbo Boost Max 3.0",
         "chipset": "Intel® Z790 Chipset",
@@ -2666,6 +2675,7 @@
         "image_3": "https://product.hstatic.net/200000722513/product/dealer_certificate_cong_ty_tnhh_8f0e63bd29994dc8ae271a35f50acf43_grande.png",
         "image_4": "https://product.hstatic.net/200000722513/product/chung-nhan-dai-ly-gearvn-intel_8_0256270fce114693a15e2ea709ca30a1_grande.png"
       },
+      "components": "",
       "detail": {
         "model": "Bộ vi xử lý Intel Core i5 thế hệ thứ 12",
         "processormodel": "i5 12400",
@@ -2709,6 +2719,7 @@
         "image_3": "https://product.hstatic.net/200000722513/product/chung-nhan-dai-ly-gearvn-intel_19994c8945e546ab8db86df0e9193ab7_grande.jpg",
         "image_4": "https://product.hstatic.net/200000722513/product/dealer_certificate_cong_ty_tnhh_thuong_mai_gearvn_-_intel_294d572be3ee4de89b873c41fb88a73c_grande.jpg"
       },
+      "components": "",
       "detail": {
         "model": "Bộ vi xử lý Intel Core i3 gen 12th",
         "processormodel": "i3-12100F",
@@ -2754,6 +2765,7 @@
         "image_5": "https://product.hstatic.net/200000722513/product/gearvn-intel-core-i5-12400f-13_b_18cbc784e3134feca38392605a469488_grande.png",
         "image_6": "https://product.hstatic.net/200000722513/product/gearvn-intel-core-i5-12400f-17_1_88f455acbe3d4624b1fe9c57cfc86e04_grande.png"
       },
+      "components": "",
       "detail": {
         "model": "Bộ vi xử lý Intel Core i5 thế hệ thứ 12",
         "processormodel": "i5 12400F",
@@ -2796,6 +2808,7 @@
         "image_2": "https://product.hstatic.net/200000722513/product/n22751-001-rpl-i3-fhs-dva-bc-univ_png_2345817de4254e87a385f40bd0dbb480_grande.png",
         "image_3": "https://product.hstatic.net/200000722513/product/core-i3-rgb-3000_8021b4585411421da3131fc832fd1c4f_grande.png"
       },
+      "components": "",
       "detail": {
         "model": "Core i3",
         "processormodel": "Intel® Core® i3-14100 (Raptor Lake)",
@@ -2838,6 +2851,7 @@
         "image_2": "https://product.hstatic.net/200000722513/product/n22561-001-i5f-_univ_2e1135c9919d46ce97e95d2e19cb74f3_grande.png",
         "image_3": "https://product.hstatic.net/200000722513/product/core-i5-rgb-3000_5ec0963579ae4ee3a276f539cc719504_grande.png"
       },
+      "components": "",
       "detail": {
         "model": "Core i5",
         "processormodel": "Intel® Core® i5-14400F (Raptor Lake)",
@@ -2880,6 +2894,7 @@
         "image_2": "https://product.hstatic.net/200000722513/product/n22635-001-rpl-i5-fhs-dva-bc-univ_png_75fcc375fc9541b2b86458c8890a4dba_grande.png",
         "image_3": "https://product.hstatic.net/200000722513/product/core-i5-rgb-3000_af32a7b6e1054a80a4977cd345bc7b6c_grande.png"
       },
+      "components": "",
       "detail": {
         "model": "Core i5",
         "processormodel": "Intel® Core® i5-14400F (Raptor Lake)",
@@ -2922,6 +2937,7 @@
         "image_2": "https://product.hstatic.net/200000722513/product/n22635-001-rpl-i5-fhs-dva-bc-univ_png_75fcc375fc9541b2b86458c8890a4dba_grande.png",
         "image_3": "https://product.hstatic.net/200000722513/product/core-i5-rgb-3000_af32a7b6e1054a80a4977cd345bc7b6c_grande.png"
       },
+      "components": "",
       "detail": {
         "model": "Core i5",
         "processormodel": "Intel® Core® i5-14500 (Raptor Lake)",
@@ -2964,7 +2980,7 @@
         "image_2": "https://product.hstatic.net/200000722513/product/n22459-001-rpl-i7f-fhs-dva-bc-univ_png_21fc4faaaca646ae9804e8bcc729ae57_grande.png",
         "image_3": "https://product.hstatic.net/200000722513/product/core-i7-rgb-3000_86a4fff85d4341a4a8719495ba6f28d3_grande.png"
       },
-
+      "components": "",
       "detail": {
         "model": "Core i7",
         "processormodel": "Intel® Core® i7-14700F (Raptor Lake)",
@@ -3007,6 +3023,7 @@
         "image_2": "https://product.hstatic.net/200000722513/product/n22488-001_db9abfdfc85b4585955cd1bf15aced2d_grande.png",
         "image_3": "https://product.hstatic.net/200000722513/product/core-i7-rgb-3000_86a4fff85d4341a4a8719495ba6f28d3_grande.png"
       },
+      "components": "",
       "detail": {
         "model": "Core i7",
         "processormodel": "Intel® Core® i7-14700 (Raptor Lake)",
@@ -3049,6 +3066,7 @@
         "image_2": "https://product.hstatic.net/200000722513/product/n22386-001-rpl-i9f-fhs-univ_f3fb9b4467824b389c8d7def9db8fb8e_grande.png",
         "image_3": "https://product.hstatic.net/200000722513/product/core-i9-rgb-3000_0b8c746878cf42898dee0dca66f7b5d3_grande.png"
       },
+      "components": "",
       "detail": {
         "model": "Core i9",
         "processormodel": "Intel® Core® i9-14900F (Raptor Lake)",
@@ -3097,6 +3115,7 @@
         "image_5": "https://product.hstatic.net/200000722513/product/xlr8-rtx-4060-8gb-oc-dual-fan-fr_4bdc03170741448c852ca73273e78c8c_grande.png",
         "image_6": "https://product.hstatic.net/200000722513/product/xlr8-rtx-4060-8gb-oc-dual-fan-ba_5248c2a416824c93ac49bccca307d0fe_grande.png"
       },
+      "components": "",
       "detail": {
         "PNYPartNumber": "VCG40608DFXPB1-O",
         "UPCCode": "751492780009",
@@ -3133,6 +3152,7 @@
         "image_5": "https://product.hstatic.net/200000722513/product/fwebp__8__10d52099c71a4958b107ea1db1ad43c4_grande.png",
         "image_6": "https://product.hstatic.net/200000722513/product/fwebp__7__d4f3a68f1cea4299931c84fad9401387_grande.png"
       },
+      "components": "",
       "detail": {
         "PNYPartNumber": "DUAL-RTX4060-O8G-V2",
         "UPCCode": "",
@@ -3169,6 +3189,7 @@
         "image_5": "https://product.hstatic.net/200000722513/product/fwebp__7__5cee7f1c223d43da93e2f637b79aa838_grande.png",
         "image_6": "https://product.hstatic.net/200000722513/product/fwebp__6__e4a4fc765c684a22a2c827780fbef2cf_grande.png"
       },
+      "components": "",
       "detail": {
         "PNYPartNumber": "DUAL-RTX4060TI-O8G-EVO",
         "UPCCode": "",
@@ -3205,6 +3226,7 @@
         "image_5": "https://product.hstatic.net/200000722513/product/fwebp__7__5cee7f1c223d43da93e2f637b79aa838_grande.png",
         "image_6": "https://product.hstatic.net/200000722513/product/fwebp__6__e4a4fc765c684a22a2c827780fbef2cf_grande.png"
       },
+      "components": "",
       "detail": {
         "PNYPartNumber": "DUAL-RTX4060TI-O16G-EVO",
         "UPCCode": "",
@@ -3241,7 +3263,7 @@
         "image_5": "https://product.hstatic.net/200000722513/product/fwebp__8__72d26d0bba364629837c4056c36e6092_grande.png",
         "image_6": "https://product.hstatic.net/200000722513/product/fwebp__7__689fec3b632f473ea23662f778c52148_grande.png"
       },
-
+      "components": "",
       "detail": {
         "PNYPartNumber": "DUAL-RTX4060TI-O16G-EVO",
         "UPCCode": "",
@@ -3278,6 +3300,7 @@
         "image_5": "https://product.hstatic.net/200000722513/product/fwebp__8__72d26d0bba364629837c4056c36e6092_grande.png",
         "image_6": "https://product.hstatic.net/200000722513/product/fwebp__7__689fec3b632f473ea23662f778c52148_grande.png"
       },
+      "components": "",
       "detail": {
         "PNYPartNumber": "DUAL-RX7600-O8G-V2",
         "UPCCode": "",
@@ -3314,6 +3337,7 @@
         "image_5": "https://product.hstatic.net/200000722513/product/fwebp__5__b4059553a4964757b4fbd9388527e1e7_grande.png",
         "image_6": "https://product.hstatic.net/200000722513/product/fwebp__3__ed7ec26c145643dfbfbbc45b2f7150e4_grande.png"
       },
+      "components": "",
       "detail": {
         "PNYPartNumber": "DUAL-RTX4070S-O12G-EVO",
         "UPCCode": "",
@@ -3350,6 +3374,7 @@
         "image_5": "https://product.hstatic.net/200000722513/product/fwebp__3__f4998ffdb0df46d598f740f3e032953a_grande.png",
         "image_6": "https://product.hstatic.net/200000722513/product/fwebp__2__befb402271b545be96b8ad42651f8b6d_grande.png"
       },
+      "components": "",
       "detail": {
         "PNYPartNumber": "TUF-RTX4070TIS-O16G-BTF-WHITE",
         "UPCCode": "",
@@ -3386,6 +3411,7 @@
         "image_5": "https://product.hstatic.net/200000722513/product/aorus_geforce_rtx__4080_super_xtreme_ice_16g-06_5cf772f604b14a819a9f26b1a05509fb_grande.png",
         "image_6": "https://product.hstatic.net/200000722513/product/aorus_geforce_rtx__4080_super_xtreme_ice_16g-07_2dbd4d58a36a4e9ea24c63164ca6b199_grande.png"
       },
+      "components": "",
       "detail": {
         "PNYPartNumber": "GV-N408SAORUSX ICE-16GD",
         "UPCCode": "",
@@ -3422,6 +3448,7 @@
         "image_5": "https://product.hstatic.net/200000722513/product/geforce_rtx__3050_windforce_oc_6g-07_935b2dacadeb4a28994de5ebaa88fcf8_grande.png",
         "image_6": "https://product.hstatic.net/200000722513/product/geforce_rtx__3050_windforce_oc_6g-08_817b5a4be55c45499a2ebe85f3547a0d_grande.png"
       },
+      "components": "",
       "detail": {
         "PNYPartNumber": "GV-N3050WF2OC-6GD",
         "UPCCode": "",
@@ -3461,6 +3488,7 @@
         "image_5": "https://product.hstatic.net/200000722513/product/2ba569d6590b5fe8e1f0d3febb0f4eeb_36d3968dcb0f4074ad06a25caea97d99_grande.png",
         "image_6": "https://product.hstatic.net/200000722513/product/fury_renegade_rgb_limited_editio__1__d7b29e051caf4c84917ef53ad7ac468c_grande.png"
       },
+      "components": "",
       "detail": {
         "fan": "Không",
         "color": "Black",
@@ -3499,6 +3527,7 @@
         "image_4": "https://product.hstatic.net/200000722513/product/dominator_titanium_rgb_ddr5_blac__2__31d3bbeb4b46427b967691c7967c72e5_grande.png",
         "image_5": "https://product.hstatic.net/200000722513/product/dominator_titanium_rgb_ddr5_blac__1__bf933ca2e1dc42bd91a05334508485fd_grande.png"
       },
+      "components": "",
       "detail": {
         "fan": "Không",
         "color": "Black",
@@ -3536,6 +3565,7 @@
         "image_3": "https://product.hstatic.net/200000722513/product/product_299311_1f5714eaf0954c6d9e43b914a4ccf55d_grande.png",
         "image_4": "https://product.hstatic.net/200000722513/product/product_299310_f2ea995ddd904834b984c2e34e788736_grande.png"
       },
+      "components": "",
       "detail": {
         "fan": "Có",
         "color": "Black",
@@ -3572,6 +3602,7 @@
         "image_2": "https://product.hstatic.net/200000722513/product/1600w_2d21c30f-e254-4389-b461-ca_fb1d1b7f32fd4c048e8f46fc951a5627_grande.png",
         "image_3": "https://product.hstatic.net/200000722513/product/1600w_26852c3e-fe0e-4d12-9968-85_c86d5e8d22b44b26b3b789a68a6ae378_grande.png"
       },
+      "components": "",
       "detail": {
         "fan": "Không",
         "color": "Silver",
@@ -3610,6 +3641,7 @@
         "image_4": "https://product.hstatic.net/200000722513/product/dominator_titanium_rgb_ddr5_blac__2__041242567e4f418480ad0e45cc9cb81b_grande.png",
         "image_5": "https://product.hstatic.net/200000722513/product/dominator_titanium_rgb_ddr5_blac__1__508725eaec234cc1b2d7b8fcd8838504_grande.png"
       },
+      "components": "",
       "detail": {
         "fan": "Không",
         "color": "Black",
@@ -3647,6 +3679,7 @@
         "image_3": "https://product.hstatic.net/200000722513/product/vengeance_-rgb-48gb-_2x24gb_-ddr__2__9282291b8327465b865a841152eb13b2_grande.png",
         "image_4": "https://product.hstatic.net/200000722513/product/vengeance_-rgb-48gb-_2x24gb_-ddr__1__3e438bda2dbc4189ae632aac94cf589f_grande.png"
       },
+      "components": "",
       "detail": {
         "fan": "Không",
         "color": "Black",
@@ -3684,6 +3717,7 @@
         "image_3": "https://product.hstatic.net/200000722513/product/51nwlwtm8jl_6ad8c5b2bb0640a19b5685f641187b0f_grande.png",
         "image_4": "https://product.hstatic.net/200000722513/product/79083_ram_desktop_pny_xlr8_md8gd_d454204b78f34404b96dda5a10d6d490_grande.png"
       },
+      "components": "",
       "detail": {
         "fan": "Không",
         "color": "Black",
@@ -3723,6 +3757,7 @@
         "image_5": "https://product.hstatic.net/200000722513/product/dominator_titanium_rgb_ddr5_whit__2__0ad3b7788ede44b0ab6125abf1d5f4df_grande.png",
         "image_6": "https://product.hstatic.net/200000722513/product/dominator_titanium_rgb_ddr5_whit__1__32cd237bd73548ca919ebe1e9195cd63_grande.png"
       },
+      "components": "",
       "detail": {
         "fan": "Không",
         "color": "White",
@@ -3760,6 +3795,7 @@
         "image_3": "https://product.hstatic.net/200000722513/product/gearvn-ram-v-color-skywalker-plus-1x8-3600-rgb-black-ddr4-3_250d149db7334b709e0b2f21fdfaf6f1_grande.jpg",
         "image_4": "https://product.hstatic.net/200000722513/product/gearvn-ram-v-color-skywalker-plus-1x8-3600-rgb-black-ddr4-2_47805cd614fd49d79fe8b17c7b363842_grande.jpg"
       },
+      "components": "",
       "detail": {
         "fan": "Không",
         "color": "Đen",
@@ -3794,6 +3830,7 @@
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/ktc-product-memory-beast-ddr4-si_cd911a7f8fc342c9a99dd1370a254c73_medium.png"
       },
+      "components": "",
       "detail": {
         "fan": "Không",
         "color": "Đen",
@@ -3832,6 +3869,7 @@
         "image_3": "https://product.hstatic.net/200000722513/product/snv3s_2000gb_angle-lg_b16cdc0070fb435895a3f0e65ed39a44_grande.png",
         "image_4": "https://product.hstatic.net/200000722513/product/snv3s_2000gb-lg_e277b24cbd7b4eccbe70dc2fba69e8d5_grande.png"
       },
+      "components": "",
       "detail": {
         "brand": "Kingston",
         "warranty": "36 tháng",
@@ -3863,6 +3901,7 @@
         "image_3": "https://product.hstatic.net/200000722513/product/snv3s_1000gb_angle-lg_6524dcffd17047d59a8705cde66eba23_grande.png",
         "image_4": "https://product.hstatic.net/200000722513/product/snv3s_1000gb-lg_e0b12174a02046f4906e47c16a18888e_grande.png"
       },
+      "components": "",
       "detail": {
         "brand": "Kingston",
         "warranty": "36 tháng",
@@ -3894,6 +3933,7 @@
         "image_3": "https://product.hstatic.net/200000722513/product/snv3s_500gb_angle-lg_7888a6209c8c4b3ca59874c9b475ac61_grande.png",
         "image_4": "https://product.hstatic.net/200000722513/product/snv3s_500gb-lg_2d12e7ab54724a0f96d869f5125fe015_grande.png"
       },
+      "components": "",
       "detail": {
         "brand": "Kingston",
         "warranty": "36 tháng",
@@ -3925,6 +3965,7 @@
         "image_3": "https://product.hstatic.net/200000722513/product/snv3s_500gb_angle-lg_7888a6209c8c4b3ca59874c9b475ac61_grande.png",
         "image_4": "https://product.hstatic.net/200000722513/product/snv3s_500gb-lg_2d12e7ab54724a0f96d869f5125fe015_grande.png"
       },
+      "components": "",
       "detail": {
         "brand": "Samsung",
         "warranty": "60 tháng",
@@ -3953,6 +3994,7 @@
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/gvn_addlink_s68_1_54089af0c6d845c9a6cde56b573eb06b_medium.png"
       },
+      "components": "",
       "detail": {
         "brand": "Addlink",
         "warranty": "36 tháng",
@@ -3986,6 +4028,7 @@
         "image_5": "https://product.hstatic.net/200000722513/product/aorus_gen4_5000e_ssd_500gb-05_14698c4d7b5e42b3bd5a1f882c365f3d_grande.png",
         "image_6": "https://product.hstatic.net/200000722513/product/aorus_gen4_5000e_ssd_500gb-06_ab799d60cced4f01aed34c6c8f72d9e8_grande.png"
       },
+      "components": "",
       "detail": {
         "brand": "GIGABYTE",
         "warranty": "36 tháng",
@@ -4018,6 +4061,7 @@
         "image_4": "https://product.hstatic.net/200000722513/product/gearvn-o-cung-ssd-verbatim-vi3000-256gb-pcie-nvme-gen-3-3_aa540dcc2bae4971addd94c801d6dc15_grande.png",
         "image_5": "https://product.hstatic.net/200000722513/product/gearvn-o-cung-ssd-verbatim-vi3000-256gb-pcie-nvme-gen-3-4_f6d4a3a9d4844ed087a30b56aa8c106d_grande.png"
       },
+      "components": "",
       "detail": {
         "brand": "Verbatim",
         "warranty": "36 tháng",
@@ -4050,6 +4094,7 @@
         "image_4": "https://product.hstatic.net/200000722513/product/gearvn-o-cung-ssd-verbatim-vi550-256gb-sata3-4_ac0cc9811eac41dab987c1a9132eeacb_grande.png",
         "image_5": "https://product.hstatic.net/200000722513/product/gearvn-o-cung-ssd-verbatim-vi550-256gb-sata3-5_d67f0de9a3d3423088e7b25cefbaf880_grande.png"
       },
+      "components": "",
       "detail": {
         "brand": "Verbatim",
         "warranty": "36 tháng",
@@ -4082,6 +4127,7 @@
         "image_4": "https://product.hstatic.net/200000722513/product/mp600_core_xt_22_0cacc777a1d642f1a886752632b28eb8_grande.png",
         "image_5": "https://product.hstatic.net/200000722513/product/mp600_core_xt_03_b53367cf470a4e32ad1fa379e97b0c22_grande.png"
       },
+      "components": "",
       "detail": {
         "brand": "Corsair",
         "warranty": "60 tháng",
@@ -4110,6 +4156,7 @@
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/77071_o_cung_ssd_wd_sn580_blue_m_142e515e8ca44a6eb9c032964c96bf53_medium.png"
       },
+      "components": "",
       "detail": {
         "brand": "Western Digital",
         "warranty": "60 tháng",
@@ -4144,6 +4191,7 @@
         "image_5": "https://product.hstatic.net/200000722513/product/83713_vo_case_cooler_master_shar__4__23534d034212453db34e997dd3dbdfa3_grande.png",
         "image_6": "https://product.hstatic.net/200000722513/product/83713_vo_case_cooler_master_shar__5__18acbcd3a5b64d4f8d26200150e27438_grande.png"
       },
+      "components": "",
       "detail": {
         "brand": "Cooler Master",
         "warranty": "24 tháng",
@@ -4174,6 +4222,7 @@
         "image_3": "https://product.hstatic.net/200000722513/product/o11dergb-005_1d4d0ee2d1514d7fbf64bd2df3f022c0_grande.png",
         "image_4": "https://product.hstatic.net/200000722513/product/o11dergb-003_c53dac3d4ece4d19bf16c762b00b9341_grande.png"
       },
+      "components": "",
       "detail": {
         "brand": "Lian Li",
         "warranty": "12 Tháng",
@@ -4206,6 +4255,7 @@
         "image_5": "https://product.hstatic.net/200000722513/product/o11dergb-004_fba32081cbb74631b49a10aac3a45b42_grande.png",
         "image_6": "https://product.hstatic.net/200000722513/product/o11dergb-002_2b4552c08dae407186346f34a1ccca4b_grande.png"
       },
+      "components": "",
       "detail": {
         "brand": "Lian Li",
         "warranty": "12 Tháng",
@@ -4237,6 +4287,7 @@
         "image_4": "https://product.hstatic.net/200000722513/product/3500x_link_wht_03_dee79171ced44fc4b16ef7200fb743dc_grande.png",
         "image_5": "https://product.hstatic.net/200000722513/product/3500x_link_wht_02_32e92c5d54a94dd1808252101426cf6e_grande.png"
       },
+      "components": "",
       "detail": {
         "brand": "Corsair",
         "warranty": "24 tháng",
@@ -4268,6 +4319,7 @@
         "image_4": "https://product.hstatic.net/200000722513/product/3500x_link_blk_03_0f076d35cdf14d39ae6ca46a61bf82ac_grande.png",
         "image_5": "https://product.hstatic.net/200000722513/product/3500x_link_blk_02_4b0a182ff2e848db8d9720627a5f5850_grande.png"
       },
+      "components": "",
       "detail": {
         "brand": "Corsair",
         "warranty": "24 tháng",
@@ -4299,6 +4351,7 @@
         "image_4": "https://product.hstatic.net/200000722513/product/3500x_wht_03_1e70492f3e55434b89bde4f17eb50c98_grande.png",
         "image_5": "https://product.hstatic.net/200000722513/product/3500x_wht_02_22d7c2e473314e27b62547e8455dfd5d_grande.png"
       },
+      "components": "",
       "detail": {
         "brand": "Corsair",
         "warranty": "24 tháng",
@@ -4330,6 +4383,7 @@
         "image_4": "https://product.hstatic.net/200000722513/product/3500x_blk_03_a8b2772ab1aa4e3897b7909467447cb4_grande.png",
         "image_5": "https://product.hstatic.net/200000722513/product/3500x_blk_02_8c5ec3403ce8488991921006a975582d_grande.png"
       },
+      "components": "",
       "detail": {
         "brand": "Corsair",
         "warranty": "24 tháng",
@@ -4361,6 +4415,7 @@
         "image_4": "https://product.hstatic.net/200000722513/product/z5538149348623_72dd552dc15577cfe789246ec0151b24_21822d1bc8d54bffb39575f075ca0554_grande.jpg",
         "image_5": "https://product.hstatic.net/200000722513/product/z5538149348646_a4b8a3c3a921f256a76dba13ba1aea78_3bce827f015a4972a784ddfefac9816e_grande.jpg"
       },
+      "components": "",
       "detail": {
         "brand": "Cooler Master",
         "warranty": "12 tháng",
@@ -4393,6 +4448,7 @@
         "image_5": "https://product.hstatic.net/200000722513/product/05_61d195ff312b43ecb6ad08de88692_5179c784d5e744148b1210254ddab336_grande.png",
         "image_6": "https://product.hstatic.net/200000722513/product/03_de363ca364af4ed68f102de6fa38e_c21e9ac0a80a45e78092902a4608b510_grande.png"
       },
+      "components": "",
       "detail": {
         "brand": "MIK",
         "warranty": "12 tháng",
@@ -4425,6 +4481,7 @@
         "image_5": "https://product.hstatic.net/200000722513/product/04_af3993a162e14fc0b64870553dd33_ef4029d905da4b579d036a41cadc64a0_grande.png",
         "image_6": "https://product.hstatic.net/200000722513/product/05_15f56dfe120e4dd78e7d6eda2e12c_bb07d20afdb44736a41b73ab88eb2f4d_grande.png"
       },
+      "components": "",
       "detail": {
         "brand": "MIK",
         "warranty": "12 tháng",
@@ -4457,6 +4514,7 @@
         "image_3": "https://product.hstatic.net/200000722513/product/starlink-ultra____-02_0d217bee05264c45b3d7b2b9c074e70c_grande.png",
         "image_4": "https://product.hstatic.net/200000722513/product/7123-fan-xigmatek-starlink-ultra_d9f1eb493499421d83bcfedc9c5be866_grande.png"
       },
+      "components": "",
       "detail": {
         "brand": "Xigmatek",
         "typeOfShaftBearing": "Hydraulic Bearing",
@@ -4488,6 +4546,7 @@
         "image_4": "https://product.hstatic.net/200000722513/product/rs120_argb_wht_trpl_02_aea759278bc5409bb66b2d31fdf692bb_grande.png",
         "image_5": "https://product.hstatic.net/200000722513/product/rs120_argb_blk_trpl_04_08bb5bb55808403ea27c9548f440c392_grande.png"
       },
+      "components": "",
       "detail": {
         "brand": "Corsair",
         "typeOfShaftBearing": "",
@@ -4519,6 +4578,7 @@
         "image_4": "https://product.hstatic.net/200000722513/product/rs120_argb_blk_trpl_03_9fa8c5b547c945c795810ebe1882a59b_grande.png",
         "image_5": "https://product.hstatic.net/200000722513/product/rs120_argb_blk_trpl_02_c3ddde5dfc154ff3953e736c77cbdc64_grande.png"
       },
+      "components": "",
       "detail": {
         "brand": "Corsair",
         "typeOfShaftBearing": "",
@@ -4548,6 +4608,7 @@
         "image_2": "https://product.hstatic.net/200000722513/product/unfan_tl_04_c_8b4d895e479243e8ac0d76e05eec187c_grande.png",
         "image_3": "https://product.hstatic.net/200000722513/product/dsc6837_c_702215b722864d2b8bff1ad86acdeb15_grande.png"
       },
+      "components": "",
       "detail": {
         "brand": "Lian Li",
         "typeOfShaftBearing": "Fluid Dynamic Bearing (FDB)",
@@ -4577,6 +4638,7 @@
         "image_2": "https://product.hstatic.net/200000722513/product/unfan_tl_02_c_e749ccb5226e4c9ab56b1eb72256328a_grande.png",
         "image_3": "https://product.hstatic.net/200000722513/product/dsc6835_c_6ffef6d659ce4b67a424a4f790dca49b_grande.png"
       },
+      "components": "",
       "detail": {
         "brand": "Lian Li",
         "typeOfShaftBearing": "Fluid Dynamic Bearing (FDB)",
@@ -4604,6 +4666,7 @@
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/20771_141a410a344d49beb903a97b5e9bfd7e_medium.png"
       },
+      "components": "",
       "detail": {
         "brand": "Xigmatek",
         "typeOfShaftBearing": "Hydraulic Bearing",
@@ -4631,6 +4694,7 @@
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/image_6499aa1bf60e496eab84d892de11b2cd_medium.png"
       },
+      "components": "",
       "detail": {
         "brand": "HYTE",
         "typeOfShaftBearing": "Fluid Dynamic Bearing",
@@ -4661,6 +4725,7 @@
         "image_3": "https://product.hstatic.net/200000722513/product/21539_f1bfcbe253f3416eb79b8224d3369a27_grande.jpeg",
         "image_4": "https://product.hstatic.net/200000722513/product/21540_e2980daacc194dcd860649d2193103e7_grande.jpeg"
       },
+      "components": "",
       "detail": {
         "brand": "Xigmatek",
         "typeOfShaftBearing": "Hydraulic Bearing",
@@ -4693,6 +4758,7 @@
         "image_5": "https://product.hstatic.net/200000722513/product/ple-pack-behind-right-side-view-black_cadbfe87398b41a683ab1e2958039f2d_66b5806d90904e0e9fa45f66b5a62d1d_grande.png",
         "image_6": "https://product.hstatic.net/200000722513/product/uo-triple-pack-above-angle-view-black_57d3c15f9f28498dab15bee932e6a201_53f69473780445aa8410a3f7a07d9163_grande.png"
       },
+      "components": "",
       "detail": {
         "brand": "NZXT",
         "typeOfShaftBearing": "PWM 4 chân",
@@ -4722,6 +4788,7 @@
         "image_2": "https://product.hstatic.net/200000722513/product/998116386fancasejetek12cmledrgbj_29584ee611fb40faa91ea527f17ad40f_grande.png",
         "image_3": "https://product.hstatic.net/200000722513/product/z5436086910814_661e2767337d0da10ca2ba46064cf482_e2e879d4d9324a06baf7665422196d02_grande.jpg"
       },
+      "components": "",
       "detail": {
         "brand": "Jetek",
         "typeOfShaftBearing": "",
@@ -4756,6 +4823,7 @@
         "image_5": "https://product.hstatic.net/200000722513/product/aorus_elite_p1000w_80__platinum_modular_pcie_5.0-05_d0a414eed57e4e5d91ae5b04e57cdbb1_grande.png",
         "image_6": "https://product.hstatic.net/200000722513/product/aorus_elite_p1000w_80__platinum_modular_pcie_5.0-01_ad2640487fe44638a0265a6c3d5407a7_grande.png"
       },
+      "components": "",
       "detail": {
         "model": "AE1000PM PG5",
         "type": "Intel Form Factor ATX 12V V3.0",
@@ -4790,6 +4858,7 @@
         "image_5": "https://product.hstatic.net/200000722513/product/p650ss_ice-04_c98fb239f9d344838a0277ec957fcd2f_grande.png",
         "image_6": "https://product.hstatic.net/200000722513/product/p650ss_ice-01_4e2526a6e6034e5ba96444fca7f941a5_grande.png"
       },
+      "components": "",
       "detail": {
         "model": "GP-P650SS ICE",
         "type": "Intel Form Factor ATX 12V v3.0",
@@ -4824,6 +4893,7 @@
         "image_5": "https://product.hstatic.net/200000722513/product/p550ss-03_63c928afd3a9403a965a1a42534c1029_grande.png",
         "image_6": "https://product.hstatic.net/200000722513/product/p550ss-04_ad7c073397d84ae5a8be722ba9214973_grande.png"
       },
+      "components": "",
       "detail": {
         "model": "GP-P550SS",
         "type": "Intel Form Factor ATX 12V v3.0",
@@ -4858,6 +4928,7 @@
         "image_5": "https://product.hstatic.net/200000722513/product/1024__8__c0b3724e56404c90b51212964b2ab24a_grande.png",
         "image_6": "https://product.hstatic.net/200000722513/product/1024__9__9affb24c22a340cfa0396ce467753355_grande.png"
       },
+      "components": "",
       "detail": {
         "model": "",
         "type": "",
@@ -4892,6 +4963,7 @@
         "image_5": "https://product.hstatic.net/200000722513/product/03_335b4223a0f24413bf6708fe2d9c46b5_grande.png",
         "image_6": "https://product.hstatic.net/200000722513/product/02_98531dee4a4d46c3a0336132b197b8bb_grande.png"
       },
+      "components": "",
       "detail": {
         "model": "",
         "type": "ATX12V V3.1",
@@ -4926,6 +4998,7 @@
         "image_5": "https://product.hstatic.net/200000722513/product/ap-850g-05_056776e363ec49279f1411a90502cd25_grande.jpg",
         "image_6": "https://product.hstatic.net/200000722513/product/ap-850g-06_1fd9fab49e3643678ca6286a75b8093d_grande.jpg"
       },
+      "components": "",
       "detail": {
         "model": "AP-850G",
         "type": "ATX12V",
@@ -4960,6 +5033,7 @@
         "image_5": "https://product.hstatic.net/200000722513/product/ud850gm_pg5-01_98be516160014f298d6033473d2ae3b4_grande.png",
         "image_6": "https://product.hstatic.net/200000722513/product/ud850gm_pg5-02_5400f71b599246e4988e9303996e9550_grande.png"
       },
+      "components": "",
       "detail": {
         "model": "GP-UD850GM",
         "type": "Intel Form Factor ATX 12V v2.31",
@@ -4994,6 +5068,7 @@
         "image_5": "https://product.hstatic.net/200000722513/product/h732__3__dc686d265254464c906213b595aad8ba_grande.png",
         "image_6": "https://product.hstatic.net/200000722513/product/h732__4__3b03344aaf59469bb5e002dbfad1465d_grande.png"
       },
+      "components": "",
       "detail": {
         "model": "",
         "type": "ATX 12V",
@@ -5028,6 +5103,7 @@
         "image_5": "https://product.hstatic.net/200000722513/product/gearvn-nguon-corsair-hx1500i-full-modular-80-plus-platinum-8_e2c0698816f24b608cd42cebe1d32d45_grande.png",
         "image_6": "https://product.hstatic.net/200000722513/product/gearvn-nguon-corsair-hx1500i-full-modular-80-plus-platinum-4_8064efd7ce99486eaacb60a78c198565_grande.png"
       },
+      "components": "",
       "detail": {
         "model": "",
         "type": "ATX 12V",
@@ -5062,6 +5138,7 @@
         "image_5": "https://product.hstatic.net/200000722513/product/h732__2__48b9d71068124d3cb6fe904fbd29c2fb_881cb095c74a4de1a3dd4a709148ca63_grande.png",
         "image_6": "https://product.hstatic.net/200000722513/product/h732__3__d25923dd04254dbf894ff7e3d840177f_7e01401ed6ca418781c5cf466cc26a53_grande.png"
       },
+      "components": "",
       "detail": {
         "model": "ASUS ROG Thor 1200P2",
         "type": "ATX 12V",
@@ -5838,6 +5915,11 @@
         "image_5": "https://product.hstatic.net/200000722513/product/z5491466387060_7ba35c81803b169209d7cc76e2c7bae7_2eaa3d7e19ad41d58823b4b4905782b5_grande.jpg",
         "image_6": "https://product.hstatic.net/200000722513/product/z5491466411537_f77e19fdb2c490b61610049521455a3a_1e742cdd340245e3a744821e8afa1139_grande.jpg"
       },
+      "components": {
+        "weight": "160kg",
+        "material": "Da PU",
+        "height": "Dưới 1m75"
+      },
       "detail": {
         "brand": "E-Dra",
         "material": "da PU",
@@ -5860,6 +5942,11 @@
         "image_4": "https://product.hstatic.net/200000722513/product/rangerpro-03_88a129bb875e41f494101214bda004b4_grande.jpg",
         "image_5": "https://product.hstatic.net/200000722513/product/rangerpro-08_fa8ba6959a2b4a96948327698c3cca4a_grande.jpg",
         "image_6": "https://product.hstatic.net/200000722513/product/rangerpro-10_7cc4c7d9fd834c97aa25848f39bec1ea_grande.jpg"
+      },
+      "components": {
+        "weight": "160kg",
+        "material": "Da PVC",
+        "height": "Dưới 1m75"
       },
       "detail": {
         "brand": "Cougar",
@@ -5884,6 +5971,11 @@
         "image_5": "https://product.hstatic.net/200000722513/product/nxsysaero-09-b_0b78f619efa341a887b15b02f6f845a2_grande.jpg",
         "image_6": "https://product.hstatic.net/200000722513/product/nxsysaero-10-b_f145e68a98e247bea3e40f9e75665e9a_grande.jpg"
       },
+      "components": {
+        "weight": "120kg",
+        "material": "Da PU",
+        "height": "Dưới 1m75"
+      },
       "detail": {
         "brand": "Cougar",
         "material": "Da PVC thoáng khí, tựa lưng phối khí",
@@ -5906,6 +5998,11 @@
         "image_4": "https://product.hstatic.net/200000722513/product/nxsysaero-07_ff77355ad65c4f6c8ef817f02f158eb4_grande.jpg",
         "image_5": "https://product.hstatic.net/200000722513/product/nxsysaero-08_f201dba8ea99427b93af801c3646950f_grande.jpg",
         "image_6": "https://product.hstatic.net/200000722513/product/nxsysaero-09_ede938a650394da38fbbb07bb4bf51e0_grande.jpg"
+      },
+      "components": {
+        "weight": "160kg",
+        "material": "Da PU",
+        "height": "Dưới 1m90"
       },
       "detail": {
         "brand": "Cougar",
@@ -5930,6 +6027,11 @@
         "image_5": "https://product.hstatic.net/200000722513/product/z5vaqdmi_01bebf58a99d418c88c5de84f9c5423d_grande.png",
         "image_6": "https://product.hstatic.net/200000722513/product/jbtd8u1t_c3e69d0a27914f9ebdddc98df5558efb_grande.png"
       },
+      "components": {
+        "weight": "160kg",
+        "material": "Vải",
+        "height": "Dưới 1m75"
+      },
       "detail": {
         "brand": "Corsair",
         "material": "Vải mềm cao cấp (bọt đệm ghế Polyurethane)",
@@ -5953,6 +6055,11 @@
         "image_5": "https://product.hstatic.net/200000722513/product/z5vaqdmi_4a784524ec2243a18a98db13a572d633_grande.png",
         "image_6": "https://product.hstatic.net/200000722513/product/ejah3eul_ede100a76292402f99c795afd11639e3_grande.png"
       },
+      "components": {
+        "weight": "120kg",
+        "material": "Vải",
+        "height": "Dưới 1m75"
+      },
       "detail": {
         "brand": "Corsair",
         "material": "Vải mềm cao cấp (bọt đệm ghế Polyurethane)",
@@ -5974,6 +6081,11 @@
         "image_3": "https://product.hstatic.net/200000722513/product/ghe-gaming-e-dra-yummy-egc232-v2-black-1_103dc6a621d443d684dd11ff27431ee7_grande.jpg",
         "image_4": "https://product.hstatic.net/200000722513/product/ghe-gaming-e-dra-yummy-egc232-v2-black-2_20135792f2b9426dbe416b79637d6c27_grande.jpg",
         "image_5": "https://product.hstatic.net/200000722513/product/ghe-gaming-e-dra-yummy-egc232-v2-black-3_d8dd747892e84641a186adcbe58e5c90_grande.jpg"
+      },
+      "components": {
+        "weight": "160kg",
+        "material": "da PU",
+        "height": "Dưới 1m75"
       },
       "detail": {
         "brand": "E-Dra",
@@ -5998,6 +6110,11 @@
         "image_5": "https://product.hstatic.net/200000722513/product/4_3d18e19f17354ec28ac28366d4eeb556_grande.jpg",
         "image_6": "https://product.hstatic.net/200000722513/product/5_aed432bec56a433a9c9ce2db7c944bc5_grande.jpg"
       },
+      "components": {
+        "weight": "160kg",
+        "material": "Lưới",
+        "height": "Dưới 1m75"
+      },
       "detail": {
         "brand": "E-Dra",
         "material": "Lưới chất lượng cao thông thoáng",
@@ -6021,6 +6138,11 @@
         "image_5": "https://product.hstatic.net/200000722513/product/z5vaqdmi_4a784524ec2243a18a98db13a572d633_grande.png",
         "image_6": "https://product.hstatic.net/200000722513/product/ejah3eul_ede100a76292402f99c795afd11639e3_grande.png"
       },
+      "components": {
+        "weight": "160kg",
+        "material": "Vải",
+        "height": "Dưới 1m75"
+      },
       "detail": {
         "brand": "Corsair",
         "material": "Vải mềm cao cấp (bọt đệm ghế Polyurethane)",
@@ -6043,6 +6165,11 @@
         "image_4": "https://product.hstatic.net/200000722513/product/4_a60a4039e45e43f3ba331fe1ffbdc87b_grande.jpg",
         "image_5": "https://product.hstatic.net/200000722513/product/5_9d07be45b464486f910f2b9681d33003_grande.jpg",
         "image_6": "https://product.hstatic.net/200000722513/product/6_d94816f882bd45ff8b2b349b73711b5e_grande.jpg"
+      },
+      "components": {
+        "weight": "160kg",
+        "material": "lưới",
+        "height": "Dưới 1m90"
       },
       "detail": {
         "brand": "Ergonomic",
@@ -6068,6 +6195,11 @@
         "image_4": "https://product.hstatic.net/200000722513/product/_gvn8888_e6d7b1f9ae3e4d249016d8b2338ceb30_adb2ea763c9645d2980818e45a1e6f22_grande.jpg",
         "image_5": "https://product.hstatic.net/200000722513/product/_gvn8892_ff10ed7b669745358264a903189cb04e_081c44ec94a14adea88068766d84401e_grande.jpg",
         "image_6": "https://product.hstatic.net/200000722513/product/_gvn8894_0ad8345edee04221929145e75e5107f9_3101791b14554960b77265def91a6b2e_grande.jpg"
+      },
+      "components": {
+        "connect": "Có dây",
+        "headPhoneType": "Over-ear",
+        "connectPort": ""
       },
       "detail": {
         "brand": "DareU",
@@ -6102,6 +6234,7 @@
         "image_5": "https://product.hstatic.net/200000722513/product/resizer.php__1__fb9af0a351c442398e04653b01429c1c_grande.png",
         "image_6": "https://product.hstatic.net/200000722513/product/resizer.php__2__00b4799d381b4b1baa42963db3c33009_grande.png"
       },
+      "components": "",
       "detail": ""
     },
     {
@@ -6116,6 +6249,7 @@
         "image_4": "https://product.hstatic.net/200000722513/product/84676_tai_nghe_gaming_khong_day__3__790affa9683045d2b641183d0ee7f345_grande.png",
         "image_5": "https://product.hstatic.net/200000722513/product/84676_tai_nghe_gaming_khong_day__2__1bc25b806817467ea28c4add7a16aafe_grande.png"
       },
+      "components": "",
       "detail": ""
     },
     {
@@ -6126,6 +6260,11 @@
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/d14a80cafe9eb5c44dd5e1f826dd9bf_32a5b028d5034e1e8340d24b27aca92b_large_7707b842735d493b859483923c7501b2_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/d14a80cafe9eb5c44dd5e1f826dd9bf_32a5b028d5034e1e8340d24b27aca92b_large_7707b842735d493b859483923c7501b2_grande.png"
+      },
+      "components": {
+        "connect": "Wireless",
+        "headPhoneType": "Over-ear",
+        "connectPort": "USB Type-C"
       },
       "detail": {
         "brand": "Edifier",
@@ -6156,6 +6295,11 @@
         "image_1": "https://product.hstatic.net/200000722513/product/fb4d7148326dbafe6c7949eeea20d43_10f0e89552c74fcfbaf376e82ab53397_large_7706945df66449f58fdce0f538651e29_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/fb4d7148326dbafe6c7949eeea20d43_10f0e89552c74fcfbaf376e82ab53397_large_7706945df66449f58fdce0f538651e29_grande.png"
       },
+      "components": {
+        "connect": "Wireless",
+        "headPhoneType": "Over-ear",
+        "connectPort": "USB Type-C"
+      },
       "detail": {
         "brand": "Edifier",
         "warranty": "12 tháng",
@@ -6184,6 +6328,11 @@
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/w692_6f9f5f8ddac84d3593c8e5fa17926a3f_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/w692_6f9f5f8ddac84d3593c8e5fa17926a3f_grande.png"
+      },
+      "components": {
+        "connect": "Wireless",
+        "headPhoneType": "Over-ear",
+        "connectPort": "USB-C"
       },
       "detail": {
         "brand": "ASUS",
@@ -6218,6 +6367,11 @@
         "image_5": "https://product.hstatic.net/200000722513/product/hammerhead_hyperspeed_playstation__2022__render_05_0676f19a06c44379a33f5111194667b0_grande.png",
         "image_6": "https://product.hstatic.net/200000722513/product/r_hce_hc8_9447197114398_221015-hammerhead-hyperspeed-ps-v2-1500x1000-1_f23bb3efbfb94d2c9e4e2f1f8ee5244e_grande.jpg"
       },
+      "components": {
+        "connect": "Wireless",
+        "headPhoneType": "In-ear",
+        "connectPort": ""
+      },
       "detail": {
         "brand": "Razer",
         "warranty": "24 tháng",
@@ -6249,6 +6403,11 @@
         "image_3": "https://product.hstatic.net/200000722513/product/hs35_v2_black_render_06_5c962dc7a40449aa856b8990da541505_grande.png",
         "image_4": "https://product.hstatic.net/200000722513/product/hs35_v2_black_render_07_71a0ec1c09b14101a77d8f541092a38e_grande.png",
         "image_5": "https://product.hstatic.net/200000722513/product/hs35_v2_black_render_08_334f3bb826ff4c5c9f18b3a85ebc0f03_grande.png"
+      },
+      "components": {
+        "connect": "Có dây",
+        "headPhoneType": "Over-ear",
+        "connectPort": ""
       },
       "detail": {
         "brand": "Corsair",
@@ -6283,6 +6442,11 @@
         "image_5": "https://product.hstatic.net/200000722513/product/b9ndhajk_a660413d2d6047aaa965de31e11c2369_grande.png",
         "image_6": "https://product.hstatic.net/200000722513/product/m3o5wy53_38c2178818c94bd09306fc525242a291_grande.png"
       },
+      "components": {
+        "connect": "Wireless",
+        "headPhoneType": "Over-ear",
+        "connectPort": "Bluetooth"
+      },
       "detail": {
         "brand": "Logitech",
         "warranty": "24 tháng",
@@ -6315,6 +6479,11 @@
         "image_4": "https://product.hstatic.net/200000722513/product/1jshzjr8_d7c0383e1a18404d83b3d23cc6880bb5_grande.png",
         "image_5": "https://product.hstatic.net/200000722513/product/7dyzl6xc_0367034abf8941cc9ff70f82ccde08e6_grande.png",
         "image_6": "https://product.hstatic.net/200000722513/product/djsheq0g_d35c2cc39df84b9cb8c97e57e928c931_grande.png"
+      },
+      "components": {
+        "connect": "Wireless",
+        "headPhoneType": "Over-ear",
+        "connectPort": "USB-C"
       },
       "detail": {
         "brand": "Logitech",
@@ -6351,6 +6520,7 @@
         "image_5": "https://product.hstatic.net/200000722513/product/_gvn8892_ff10ed7b669745358264a903189cb04e_081c44ec94a14adea88068766d84401e_grande.jpg",
         "image_6": "https://product.hstatic.net/200000722513/product/_gvn8894_0ad8345edee04221929145e75e5107f9_3101791b14554960b77265def91a6b2e_grande.jpg"
       },
+      "components": "",
       "detail": {
         "power": "2.2W",
         "configuration": "V5.3",
@@ -6376,6 +6546,7 @@
         "image_5": "https://product.hstatic.net/200000722513/product/r2-1_b9fa70bfd56e4b78a6ca1e5e2f754fd1_grande.jpg",
         "image_6": "https://product.hstatic.net/200000722513/product/r2-2_184ef24e48dd4183b948d2d974fda468_grande.jpg"
       },
+      "components": "",
       "detail": {
         "power": "60W",
         "configuration": "V5.3",
@@ -6401,6 +6572,7 @@
         "image_5": "https://product.hstatic.net/200000722513/product/9_b5ded9c4-6571-4bc5-b3fd-45093bdaccd9_5c326b02d5834437b16a326de2e4c966_grande.jpg",
         "image_6": "https://product.hstatic.net/200000722513/product/11_9b73d819-2ed9-46b6-8e80-4a7ca3435343_ef4228224a10457490bb41d1f4c16d6c_grande.jpg"
       },
+      "components": "",
       "detail": {
         "power": "40W",
         "configuration": "V5.3",
@@ -6426,6 +6598,7 @@
         "image_5": "https://product.hstatic.net/200000722513/product/10_90f977ad-4ed8-4adf-9f38-d828dcb59a00_24d60d41dd0a4728af8b06d422ab01d2_grande.jpg",
         "image_6": "https://product.hstatic.net/200000722513/product/5_e258c851-eb2c-4089-91ea-363b86e9284a_904a1b30600e44e2baeea7bfc22c60e3_grande.jpg"
       },
+      "components": "",
       "detail": {
         "power": "20W",
         "configuration": "V5.3",
@@ -6451,6 +6624,7 @@
         "image_5": "https://product.hstatic.net/200000722513/product/driverunits_157600e8-9bbd-4f48-a83c-b44df1f38cfc_b739415fba524d049f0f8468359d6c36_grande.jpg",
         "image_6": "https://product.hstatic.net/200000722513/product/lights_7ecbdd2d64c6403b988afd74282aa3cd_grande.jpg"
       },
+      "components": "",
       "detail": {
         "power": "16W",
         "configuration": "V5.1",
@@ -6476,6 +6650,7 @@
         "image_5": "https://product.hstatic.net/200000722513/product/9_64ba5c9a-35ff-4cc9-b959-9caab031d7ab_d98f11eeafc240f8bd70de0fcab6a137_grande.jpg",
         "image_6": "https://product.hstatic.net/200000722513/product/10_78299891-2611-4a65-8a24-314b1c06fc55_516b952e94f84836938f39d6d385eabb_grande.jpg"
       },
+      "components": "",
       "detail": {
         "power": "10W",
         "configuration": "V5.3",
@@ -6501,6 +6676,7 @@
         "image_5": "https://product.hstatic.net/200000722513/product/097b106e50a0320c2a394fb6d0c90070_47ef1640-aea7-4f0d-a285-499a1d7a284a_9cbf4b20f1744d5e8a95b4f1911422ca_grande.jpg",
         "image_6": "https://product.hstatic.net/200000722513/product/83391da716f74a4ae6d1bd2edf808e47_9c459b60-df94-45be-ad72-bfdbc9a9e665_17f3a39533b94b3ebec9bb682e90bf34_grande.jpg"
       },
+      "components": "",
       "detail": {
         "power": "5W",
         "configuration": "V5.3",
@@ -6526,6 +6702,7 @@
         "image_5": "https://product.hstatic.net/200000722513/product/ddf8c5101618e6f5eabca9ed22c0106b_dc82d7c4-d5be-41e0-8eff-609c1dd3f6e7_899655613f394e2087bdc78f8b7c74ea_grande.jpg",
         "image_6": "https://product.hstatic.net/200000722513/product/097b106e50a0320c2a394fb6d0c90070_5584cc67-d5f5-4ca7-9383-66c40925d435_05e3ec99b3cc4ac5803114559682dd1f_grande.jpg"
       },
+      "components": "",
       "detail": {
         "power": "5W",
         "configuration": "V5.3",
@@ -6551,6 +6728,7 @@
         "image_5": "https://product.hstatic.net/200000722513/product/097b106e50a0320c2a394fb6d0c90070_47ef1640-aea7-4f0d-a285-499a1d7a284a_9cbf4b20f1744d5e8a95b4f1911422ca_grande.jpg",
         "image_6": "https://product.hstatic.net/200000722513/product/83391da716f74a4ae6d1bd2edf808e47_9c459b60-df94-45be-ad72-bfdbc9a9e665_17f3a39533b94b3ebec9bb682e90bf34_grande.jpg"
       },
+      "components": "",
       "detail": {
         "power": "5W",
         "configuration": "V5.3",
@@ -6576,6 +6754,7 @@
         "image_5": "https://product.hstatic.net/200000722513/product/10_da6cb14f-e7b4-40d8-a1d5-dd8603ed28db_ad64f94567994f87acd718a80b38cf0c_grande.jpg",
         "image_6": "https://product.hstatic.net/200000722513/product/5_8b8d5cdf-2744-46bc-b50e-9313b85b443a_cca69803a70e45698cb69392da18ef43_grande.jpg"
       },
+      "components": "",
       "detail": {
         "power": "5W",
         "configuration": "V5.3",
@@ -6603,6 +6782,7 @@
         "image_5": "https://product.hstatic.net/200000722513/product/playstation-5-slim-ps5-slim-chinh-hang-asia-00479-dualsense-bundle--1-_dd1c9fe5c42f46e6be3b0e4fea1d3932_grande.png",
         "image_6": "https://product.hstatic.net/200000722513/product/9223-may-ps5-slim-digital-edition-42_cc87502f25fa4134948d0341f3a1fa30_grande.jpg"
       },
+      "components": "",
       "detail": {
         "CPU": "AMD Zen 2 8 nhân 16 luồng, xung nhịp 3.5GHz",
         "RAM": "16GB GDDR6",
@@ -6628,6 +6808,7 @@
         "image_3": "https://product.hstatic.net/200000722513/product/9223-ps5-slim-1_8bf2a611fdd14468a839dc96c06478b8_grande.jpg",
         "image_4": "https://product.hstatic.net/200000722513/product/9223-may-ps5-slim-digital-edition-42_813c69ad5f0d4d33b29eebb89990fade_grande.jpg"
       },
+      "components": "",
       "detail": {
         "CPU": "x86-64-AMD Ryzen “Zen 2” (8 lõi / 16 luồng, upto 3.5GHz)",
         "RAM": "16GB GDDR6",
@@ -6654,6 +6835,7 @@
         "image_4": "https://product.hstatic.net/200000722513/product/z5471996746838_0f27b22f8527de95a4b421474303c1ff_adc01e7cdbc14f8b90b9c83660fc8004_grande.jpg",
         "image_5": "https://product.hstatic.net/200000722513/product/z5471996746959_df215bf1085fd27f9d95006a98c37cfa_c9a5191675954f5bbf1243f3601365f9_grande.jpg"
       },
+      "components": "",
       "detail": {
         "accessory": "Cáp USB\n2 Caps mặc định\n2 Caps cao\n2 Caps thấp\n2 nút half dome ở mặt sau\n2 nút level back ở mặt sau\nĐầu kết nối tay cầm\nTúi đựng",
         "feature": "Tùy chỉnh hành trình hai nút Trigger, điều chỉnh vùng chết của cần điều khiển, cường độ rung, độ nhạy\nCần điều khiển có thể thay thế",
@@ -6675,6 +6857,7 @@
         "image_5": "https://product.hstatic.net/200000722513/product/z5471990651816_c9c0bfb2682d9ff3bb0a128fbd196f6f_da6b3bc220ed464bbf931a1e73dacfae_grande.jpg",
         "image_6": "https://product.hstatic.net/200000722513/product/z5471990632973_1766dea78098cbc5d3b6608090bbf948_801c68309a7b4d22bd26a2bf44615ab9_grande.jpg"
       },
+      "components": "",
       "detail": {
         "buttons": "PS button, Create button, Options button\nDirectional buttons (Up/Down/Left/Right), Action buttons (Triangle, Circle, Cross, Square)\nR1/L1 button\nR2/L2 button (with Trigger Effect)",
         "touchpad": "2 Point Touch Pad, Capacitive Type, Click Mechanism",
@@ -6693,6 +6876,7 @@
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/z5471986482810_0368019cb1e8e9e0ba703fae7e5c3452_43b911976a0b4e3bb4d1e30b08c86471_medium.jpg"
       },
+      "components": "",
       "detail": {
         "buttons": "PS button, Create button, Options button\nDirectional buttons (Up/Down/Left/Right), Action buttons (Triangle, Circle, Cross, Square)\nR1/L1 button\nR2/L2 button (with Trigger Effect)",
         "touchpad": "2 Point Touch Pad, Capacitive Type, Click Mechanism",
@@ -6713,6 +6897,7 @@
         "image_2": "https://product.hstatic.net/200000722513/product/z5471982444360_d12ae3c89fde56f1f49ec361a63c5fd1_88b3afda05ef4b68b8384119034798b6_grande.jpg",
         "image_3": "https://product.hstatic.net/200000722513/product/z5471982444450_1632a7e2aba264cff7d0181d18669970_bcc46c7e2828458ea66b511db652bc70_grande.jpg"
       },
+      "components": "",
       "detail": {
         "buttons": "PS button, Create button, Options button\nDirectional buttons (Up/Down/Left/Right), Action buttons (Triangle, Circle, Cross, Square)\nR1/L1 button\nR2/L2 button (with Trigger Effect)",
         "touchpad": "2 Point Touch Pad, Capacitive Type, Click Mechanism",
@@ -6735,6 +6920,7 @@
         "image_4": "https://product.hstatic.net/200000722513/product/z5471974301499_7148cbc71e7e5f106d2c5666626c5380_f02e0fb4e0c5401c90c3143466fd9933_grande.jpg",
         "image_5": "https://product.hstatic.net/200000722513/product/z5471974301500_da62f749915b2b629938805bb406aca0_a88a9a5b061642b1b6e71fdcd4226780_grande.jpg"
       },
+      "components": "",
       "detail": {
         "buttons": "PS button, Create button, Options button\nDirectional buttons (Up/Down/Left/Right), Action buttons (Triangle, Circle, Cross, Square)\nR1/L1 button\nR2/L2 button (with Trigger Effect)",
         "touchpad": "2 Point Touch Pad, Capacitive Type, Click Mechanism",
@@ -6757,6 +6943,7 @@
         "image_4": "https://product.hstatic.net/200000722513/product/z5471964609264_95063800fa0b65113b47cbd610062fe4_de018aeae16f463ab1901853efc4b53e_grande.jpg",
         "image_5": "https://product.hstatic.net/200000722513/product/z5471965801166_eb3be43bcbea851e0454849211210928_b89e4b628456459fae8cd918153696cf_grande.jpg"
       },
+      "components": "",
       "detail": {
         "buttons": "PS button, Create button, Options button\nDirectional buttons (Up/Down/Left/Right), Action buttons (Triangle, Circle, Cross, Square)\nR1/L1 button\nR2/L2 button (with Trigger Effect)",
         "touchpad": "2 Point Touch Pad, Capacitive Type, Click Mechanism",
@@ -6779,6 +6966,7 @@
         "image_4": "https://product.hstatic.net/200000722513/product/z5471964609264_95063800fa0b65113b47cbd610062fe4_de018aeae16f463ab1901853efc4b53e_grande.jpg",
         "image_5": "https://product.hstatic.net/200000722513/product/z5471965801166_eb3be43bcbea851e0454849211210928_b89e4b628456459fae8cd918153696cf_grande.jpg"
       },
+      "components": "",
       "detail": {
         "buttons": "PS button, Create button, Options button\nDirectional buttons (Up/Down/Left/Right), Action buttons (Triangle, Circle, Cross, Square)\nR1/L1 button\nR2/L2 button (with Trigger Effect)",
         "touchpad": "2 Point Touch Pad, Capacitive Type, Click Mechanism",
@@ -6801,6 +6989,7 @@
         "image_4": "https://product.hstatic.net/200000722513/product/9033-tay-cam-choi-game-ps5-midnight-black-3_619663acd451456d9a8a0fca3f1de043_grande.jpg",
         "image_5": "https://product.hstatic.net/200000722513/product/9033-tay-cam-choi-game-ps5-midnight-black-4_df6aa8eab14e46abb9f35317b52afed0_grande.jpg"
       },
+      "components": "",
       "detail": {
         "buttons": "PS button, Create button, Options button\nDirectional buttons (Up/Down/Left/Right), Action buttons (Triangle, Circle, Cross, Square)\nR1/L1 button\nR2/L2 button (with Trigger Effect)",
         "touchpad": "2 Point Touch Pad, Capacitive Type, Click Mechanism",
@@ -6826,6 +7015,7 @@
         "image_5": "https://product.hstatic.net/200000722513/product/seiren_v3_chroma_white_edition__2024__render04_76bc027b293a47dd93ec2d6e0863fc40_grande.png",
         "image_6": "https://product.hstatic.net/200000722513/product/seiren_v3_chroma_white_edition__2024__render05_7248a5e0dfe14bb5b60203299d85bb19_grande.png"
       },
+      "components": "",
       "detail": {
         "microphoneDirectionality": "Supercardioid",
         "outputPower": "None",
@@ -6853,6 +7043,7 @@
         "image_5": "https://product.hstatic.net/200000722513/product/seiren_v3_chroma__2023__render04_0a43aa007c8f4aa39e7c261f9a212a6a_grande.png",
         "image_6": "https://product.hstatic.net/200000722513/product/seiren_v3_chroma__2023__render05_be92fd093eb44cd89c1b6744d1c99004_grande.png"
       },
+      "components": "",
       "detail": {
         "microphoneDirectionality": "Supercardioid",
         "outputPower": "None",
@@ -6878,6 +7069,7 @@
         "image_3": "https://product.hstatic.net/200000722513/product/seiren_v3_mini_quartz__2023__render_02_92acfe141d614ae09fe743eda0b086e9_grande.png",
         "image_4": "https://product.hstatic.net/200000722513/product/seiren_v3_mini_quartz__2023__render_03_edebd0306f524effb4c9c35b40ec01c3_grande.png"
       },
+      "components": "",
       "detail": {
         "microphoneDirectionality": "Supercardioid",
         "outputPower": "None",
@@ -6903,6 +7095,7 @@
         "image_3": "https://product.hstatic.net/200000722513/product/seiren_v3_mini_white_2023__render_03_acdffac88a6c46dbae6bd6c65d3e05f4_grande.png",
         "image_4": "https://product.hstatic.net/200000722513/product/seiren_v3_mini_white_2023__render_02_d853194278be4f559a45e32cd474b492_grande.png"
       },
+      "components": "",
       "detail": {
         "microphoneDirectionality": "Supercardioid",
         "outputPower": "None",
@@ -6928,6 +7121,7 @@
         "image_3": "https://product.hstatic.net/200000722513/product/seiren_v3_mini___2023__render_02_296ef0c8e1c4437f926efe591f98ae98_grande.png",
         "image_4": "https://product.hstatic.net/200000722513/product/seiren_v3_mini___2023__render_03_1e21462e54c64bb7a2d220d8518508cd_grande.png"
       },
+      "components": "",
       "detail": {
         "microphoneDirectionality": "Supercardioid",
         "outputPower": "None",
@@ -6955,6 +7149,7 @@
         "image_5": "https://product.hstatic.net/200000722513/product/n3_laptop_stand_aluminium_allo_1673098427_6e7bad02_progressive_22ec74fbd00b451dbea68bc979c98080_grande.jpg",
         "image_6": "https://product.hstatic.net/200000722513/product/n3_laptop_stand_aluminium_allo_1673098427_44ab0a8f_progressive_5b1be400ed4540f1812f2bfd348a8ded_grande.jpg"
       },
+      "components": "",
       "detail": {}
     },
     {
@@ -6965,6 +7160,7 @@
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/hub_3in1_70336_cf84025cf1884ea4ac30c92c7506540d_medium.jpg"
       },
+      "components": "",
       "detail": {
         "power": "60W",
         "length": "15cm",
@@ -6987,6 +7183,7 @@
         "image_5": "https://product.hstatic.net/200000722513/product/gearvn-cong-chuyen-doi-usb-c-ugreen-5-in-1-cm478-15495-3_0e2499cde5b3492997c41675185ceb09_grande.jpg",
         "image_6": "https://product.hstatic.net/200000722513/product/gearvn-cong-chuyen-doi-usb-c-ugreen-5-in-1-cm478-15495-4_a912dd3f4d6f4665add49967a08ea21e_grande.jpg"
       },
+      "components": "",
       "detail": {
         "power": "60W",
         "length": "20cm",
@@ -7004,6 +7201,7 @@
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/ugreen-50985-jpg-v-1604290582437_dd4d93d98b0a423c837dedcb5c20d12f_medium.jpg"
       },
+      "components": "",
       "detail": {
         "power": "",
         "length": "",
@@ -7021,6 +7219,7 @@
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/5996_cbbe37545e744c74944f4dd785c53a68_medium.jpg"
       },
+      "components": "",
       "detail": {
         "power": "",
         "length": "",
@@ -7040,6 +7239,7 @@
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/_pro_online_dwnld_nr_fqc-10572_gearvn_dc5a004e0330424c816d20c0a5a31870_6f1e5c53e966459181ef80ade54457aa_medium.jpg"
       },
+      "components": "",
       "detail": {
         "manufacturer": "Mircosoft",
         "model": "FQC-10572",
@@ -7057,6 +7257,7 @@
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/home_online_dwnld_nr_kw9-00664_gearvn_1af7af131f934c3f9b0b98de4cbea282_6ed5acc9d8bd4266806a53d43ba2863a_medium.jpg"
       },
+      "components": "",
       "detail": {
         "manufacturer": "Mircosoft",
         "model": "KW9-00664",
@@ -7074,6 +7275,7 @@
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/office-home-student-2021-gearvn_2b58e2b89cb144c8af1a53cd0f50b138_3b6ac54980b343a4b7b0019c7bde1944_medium.jpg"
       },
+      "components": "",
       "detail": {
         "manufacturer": "Mircosoft",
         "model": "79G-05337",
@@ -7091,6 +7293,7 @@
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/family_5dfdd704879d48879ed9b008e82766f3_medium.jpg"
       },
+      "components": "",
       "detail": {
         "manufacturer": "Mircosoft",
         "model": "6GQ-00083",
@@ -7108,6 +7311,7 @@
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/_en_m365_personal_holidayfy24_posa_fob_rgb_1157_7b8ab684ef27489a98fc553c36bbd52a_medium.jpg"
       },
+      "components": "",
       "detail": {
         "manufacturer": "Mircosoft",
         "model": "6GQ-00083",
@@ -7132,6 +7336,7 @@
         "image_5": "https://product.hstatic.net/200000722513/product/07ecd021fe4ef69330be0ccd277095_master_3bcff5f38b8f47b391fcf27f4455e497_44a3a836717543a3a14e8ffab560fcfe_grande.jpg",
         "image_6": "https://product.hstatic.net/200000722513/product/b90d31019f48e0a30fddc380f44083_master_187e81b90e24480b8572c35543099c6f_b0eb6645a58444aa910375937a4c570a_grande.jpg"
       },
+      "components": "",
       "detail": {
         "CPU": "M2 8CPU 8GPU",
         "RAM": "16GB",
@@ -7164,6 +7369,7 @@
         "image_5": "https://product.hstatic.net/200000722513/product/cbook-air-m2-10gpu-8gb-512gb-silver-5_91c89c75938e4d6195d2dfbf1b639c1d_414f9fb5eba341fb8e337365d80001a2_grande.jpg",
         "image_6": "https://product.hstatic.net/200000722513/product/cbook-air-m2-10gpu-8gb-512gb-silver-6_1f08a89eb5004f92a81f72c678f57e94_02ef292f76434752a31fe0d8182fd9c7_grande.jpg"
       },
+      "components": "",
       "detail": {
         "CPU": "M2 8CPU 10GPU",
         "RAM": "8GB",
@@ -7196,6 +7402,11 @@
         "image_5": "https://product.hstatic.net/200000722513/product/211027011618-mk2a3za-a3_4aa02527eae3457d9d8c8c5ba5b5b6a1_c8f23af03888401fae71e4955175d017_grande.jpg",
         "image_6": "https://product.hstatic.net/200000722513/product/211027011618-mk2a3za-a4_d2f1214738a848838defccd69b05d64d_e97ec39f23c84d33be87aeb4bfd2c584_grande.jpg"
       },
+      "components": {
+        "connect": "Wireless",
+        "layout": "Mini",
+        "keycap": "Không"
+      },
       "detail": {
         "connect": "Kết nối: Bluetooth, Lightning port, Wireless",
         "size": "0,41–1,09, rộng: 27,89, sâu: 11,49 cm",
@@ -7215,6 +7426,7 @@
         "image_5": "https://product.hstatic.net/200000722513/product/k-pro-13-m2-10gpu-16gb-256gb-silver-4_aeed0f99fc6144b2a0443871676f12a1_d7f78061d199476e94979893c97ad3b3_grande.png",
         "image_6": "https://product.hstatic.net/200000722513/product/k-pro-13-m2-10gpu-16gb-256gb-silver-5_5964a5784a5248de91c996d61f741e09_9ef190799d4f420fa7ec02c5fe1fe810_grande.png"
       },
+      "components": "",
       "detail": {
         "CPU": "M2 8CPU 10GPU",
         "RAM": "16GB",
@@ -7247,6 +7459,7 @@
         "image_5": "https://product.hstatic.net/200000722513/product/ddf72d18b24ddb9af9c12f7c61ea11_master_5c59ffcc167b474193a2483ec6bc3c8a_2d5de082cff04763827ad0afbf92e406_grande.jpg",
         "image_6": "https://product.hstatic.net/200000722513/product/761e021c08492b90a341199d820a96_master_8696b04da206497da8370bcdaed810d0_0b42794b07db402d86fbe9812a4be6c5_grande.jpg"
       },
+      "components": "",
       "detail": {
         "CPU": "M2 8CPU 10GPU",
         "RAM": "16GB",
@@ -7277,6 +7490,7 @@
         "image_3": "https://product.hstatic.net/200000722513/product/o-13-m2-10gpu-16gb-512gb-space-gray-2_b0bb9c5d8d264fd7a6e60646b82559b0_0f36628cade7488593c66547e13966bb_grande.png",
         "image_4": "https://product.hstatic.net/200000722513/product/o-13-m2-10gpu-16gb-512gb-space-gray-3_66d1be1b1f224c28929a71f92b77fb28_20b0d53344cb4828b7cb477257e6a31a_grande.png"
       },
+      "components": "",
       "detail": {
         "CPU": "M2 8CPU 10GPU",
         "RAM": "16GB",
@@ -7307,6 +7521,7 @@
         "image_3": "https://product.hstatic.net/200000722513/product/k-pro-13-m2-10gpu-16gb-512gb-silver-3_d18bbca19729410d92463078d71c4f7f_9e7649eaa98347a3ac6816e36f4f1aaf_grande.png",
         "image_4": "https://product.hstatic.net/200000722513/product/k-pro-13-m2-10gpu-16gb-512gb-silver-4_672e1d9ffb2946609cfe70cc7b89c04c_46e1dafbbaa7456da31c9878c2cd1fad_grande.png"
       },
+      "components": "",
       "detail": {
         "CPU": "M2 8CPU 10GPU",
         "RAM": "16GB",
@@ -7336,6 +7551,7 @@
         "image_2": "https://product.hstatic.net/200000722513/product/book_pro_13_m2_10gpu_8gb_256gb_silver_e180342f0b514df4ae8bc6a04c428ec1_c827d55aa0cc4003a8794488dbc4e0eb_grande.jpg",
         "image_3": "https://product.hstatic.net/200000722513/product/ezgif-1-022a341f1b_d93cdb5160a343f09692d1cd2e9ba4e1_7813181b110840c69c21ee737435a1bd_grande.png"
       },
+      "components": "",
       "detail": {
         "CPU": "M2 8CPU 10GPU",
         "RAM": "8GB",
@@ -7366,6 +7582,7 @@
         "image_3": "https://product.hstatic.net/200000722513/product/220607113922-macbook-air-m2-512gb_930f85d20f6848f98452e364c9285d4c_6c88129bdac44682abbe04fda5d21e5e_grande.jpeg",
         "image_4": "https://product.hstatic.net/200000722513/product/ezgif-1-022a341f1b_91cf40a8190c49b4be3af3c1e55cdc7b_8d9afa26c6004f73a6c09f54a0fa1e95_grande.png"
       },
+      "components": "",
       "detail": {
         "CPU": "M2 8CPU 10GPU",
         "RAM": "8GB",
@@ -7393,6 +7610,7 @@
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/ezgif-1-022a341f1b_ebdd90220119408faadfd3c0d6808aee_0997e6994f914ffeaa573c2a91acccfd_medium.png"
       },
+      "components": "",
       "detail": {
         "CPU": "M2 8CPU 10GPU",
         "RAM": "8GB",

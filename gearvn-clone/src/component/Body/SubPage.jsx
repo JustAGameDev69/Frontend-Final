@@ -9,9 +9,7 @@ export default function SubPage({ title, contents }) {
     <div className="bg-white content-container rounded pb-2 border-b border-slate-800">
       <div className="flex justify-between">
         <h2 className="pt-3 pb-3 text-xl pl-2">{title}</h2>
-        <h2 className="pt-3 pb-3 text-lg pl-2 pr-2 text-[#1982F9]">
-          Xem tất cả
-        </h2>
+        <h2 className="pt-3 pb-3 text-lg pl-2 pr-2 pageLink">Xem tất cả</h2>
       </div>
       {isLoading ? (
         <Loading />

@@ -56,7 +56,11 @@ function MainHeader() {
         <div className="flex items-center gap-2 w-9/12">
           <SearchBar />
           <div className="flex gap-6 items-center w-7/12">
-            <ActionLink content={"Hotline: 1900.5301"} textWidth={"w-14"}>
+            <ActionLink
+              content={"Hotline: 1900.5301"}
+              textWidth={"w-14"}
+              link={"tel:19005301"}
+            >
               <svg
                 viewBox="0 0 20 25"
                 fill="none"
@@ -89,7 +93,11 @@ function MainHeader() {
                 ></path>
               </svg>
             </ActionLink>
-            <ActionLink content={"Hệ thống showroom"} textWidth={"w-14"}>
+            <ActionLink
+              content={"Hệ thống showroom"}
+              textWidth={"w-14"}
+              link={"https://gearvn.com/pages/he-thong-showroom-gearvn"}
+            >
               <svg
                 width="18"
                 height="24"
