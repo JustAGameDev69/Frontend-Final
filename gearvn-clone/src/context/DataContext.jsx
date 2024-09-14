@@ -14,6 +14,7 @@ const initialState = {
   techNews: [],
   collections: [],
   product: {},
+  suggestProducts: [],
   isLoading: false,
   error: "",
 };
@@ -79,6 +80,12 @@ function reducer(state, action) {
         isLoading: false,
         product: action.payload,
       };
+    case "suggestProducts/loaded":
+      return {
+        ...state,
+        isLoading: false,
+        suggestProducts: action.payload,
+      };
     case "rejected":
       return {
         ...state,
@@ -113,6 +120,7 @@ function DataProvider({ children }) {
       techNews,
       collections,
       product,
+      suggestProducts,
     },
     dispatch,
   ] = useReducer(reducer, initialState);
@@ -188,6 +196,28 @@ function DataProvider({ children }) {
     }
   }
 
+  async function getSuggestionProduct(type, number, id) {
+    dispatch({ type: "loading" });
+    if (type === "laptop-gaming" || type === "laptop-vanphong") type = "laptop";
+
+    try {
+      await delay();
+      const res = await fetch(`${BASE_URL}/${type}`);
+      const data = await res.json();
+
+      //Take number of random suggested products
+      const filteredData = data.filter((item) => item.id !== id);
+      const shuffled = filteredData.sort(() => 0.5 - Math.random());
+      const suggestProducts = shuffled.slice(0, number);
+      dispatch({ type: "suggestProducts/loaded", payload: suggestProducts });
+    } catch {
+      dispatch({
+        type: "rejected",
+        payload: "There was an error loading data",
+      });
+    }
+  }
+
   return (
     <DataContext.Provider
       value={{
@@ -202,8 +232,10 @@ function DataProvider({ children }) {
         collections,
         isLoading,
         product,
+        suggestProducts,
         getData,
         getProductDetail,
+        getSuggestionProduct,
       }}
     >
       {children}

@@ -5,14 +5,23 @@ import { Loading } from "../component/Loading";
 import { useData } from "../context/dataContext";
 import { useEffect } from "react";
 import ProductDetailPageHeader from "../component/DetailPage/ProductDetailPageHeader";
+import ProductDetailPageBody from "../component/DetailPage/ProductDetailPageBody";
 
 export default function ProductDetailPage() {
   const { type, id } = useParams();
-  const { getProductDetail, product, isLoading } = useData();
+  const {
+    getProductDetail,
+    product,
+    suggestProducts,
+    isLoading,
+    getSuggestionProduct,
+    techNews,
+  } = useData();
 
   useEffect(
     function () {
       getProductDetail(type, id);
+      getSuggestionProduct(type, 3, id);
     },
     [id, type]
   );
@@ -21,11 +30,21 @@ export default function ProductDetailPage() {
     <>
       <Header />
       <div className="w-full mt-3 mb-3">
-        <div className="content-container bg-white rounded">
+        <div className="content-container rounded">
           {isLoading ? (
             <Loading />
           ) : (
-            <ProductDetailPageHeader product={product} />
+            <>
+              <ProductDetailPageHeader product={product} />
+              <ProductDetailPageBody
+                descImage={product.desc_image}
+                detail={product.detail}
+                name={product.title}
+                suggestProducts={suggestProducts}
+                link={type}
+                techNews={techNews}
+              />
+            </>
           )}
         </div>
       </div>

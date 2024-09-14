@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import GallaryCarousel from "./GallaryCarousel";
+import SvgReturn from "../SvgReturn";
 import "../Body/SectionCollection/ProductCarousel/ProductCarousel_Card.css";
 
 function calculateRoundedPercent(a, b) {
@@ -39,7 +40,7 @@ export default function ProductDetailPageHeader({ product }) {
   }, [product.image]);
 
   return (
-    <div className="flex pt-3 gap-2">
+    <div className="flex pt-3 pb-10 gap-2 bg-white pr-3 pl-3">
       <div className="w-2/5">
         {images && <GallaryCarousel images={images} />}
       </div>
@@ -60,6 +61,26 @@ export default function ProductDetailPageHeader({ product }) {
             <p className="product-carousel-card-content-detail-current-price">
               {product.sale && <span>{`-${product.sale}%`}</span>}
             </p>
+          </div>
+          <div className="border rounded border-red-300 mb-3">
+            <div className="flex gap-2 bg-[#FFD9D9] text-lg pl-4 pt-2 pb-2">
+              <span>
+                <SvgReturn name="gift" />
+              </span>
+              Quà tặng khuyến mãi
+            </div>
+            <div className="flex gap-2 pl-5 pt-2 pb-2 items-center">
+              <span className="text-[#fff] pr-2 pl-2 bg-[#E30019] rounded-full">
+                1
+              </span>
+              <p>
+                Tặng ngay{" "}
+                <span className="text-[#ff0000] font-semibold">1</span> x{" "}
+                <span className="text-[#ff0000] font-semibold">product</span>{" "}
+                trị giá{" "}
+                <span className="text-[#ff0000] font-semibold">price</span>
+              </p>
+            </div>
           </div>
           <div className="w-1/2 bg-[#E30019] text-white text-center py-2 rounded cursor-pointer mt-2 mb-2">
             <p>MUA NGAY</p>
