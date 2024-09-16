@@ -38,7 +38,8 @@
       "id": 2,
       "title": "PC GVN Intel i5-12400F/ VGA RX 6600",
       "image": {
-        "image_1": "https://product.hstatic.net/200000722513/product/gvn07935_33fd08b98d774ab69f1efc16f4b90a94_grande.png"
+        "image_1": "https://product.hstatic.net/200000722513/product/gvn07935_33fd08b98d774ab69f1efc16f4b90a94_grande.png",
+        "image_2": "https://product.hstatic.net/200000722513/product/gvn07935_33fd08b98d774ab69f1efc16f4b90a94_grande.png"
       },
       "sale": 3,
       "price": "16.520.000",
@@ -3992,7 +3993,8 @@
       "sale": "22",
       "price": "890.000",
       "image": {
-        "image_1": "https://product.hstatic.net/200000722513/product/gvn_addlink_s68_1_54089af0c6d845c9a6cde56b573eb06b_medium.png"
+        "image_1": "https://product.hstatic.net/200000722513/product/gvn_addlink_s68_1_54089af0c6d845c9a6cde56b573eb06b_medium.png",
+        "image_2": "https://product.hstatic.net/200000722513/product/gvn_addlink_s68_1_54089af0c6d845c9a6cde56b573eb06b_grande.png"
       },
       "components": "",
       "detail": {
@@ -4154,7 +4156,8 @@
       "sale": "27",
       "price": "1.490.000",
       "image": {
-        "image_1": "https://product.hstatic.net/200000722513/product/77071_o_cung_ssd_wd_sn580_blue_m_142e515e8ca44a6eb9c032964c96bf53_medium.png"
+        "image_1": "https://product.hstatic.net/200000722513/product/77071_o_cung_ssd_wd_sn580_blue_m_142e515e8ca44a6eb9c032964c96bf53_medium.png",
+        "image_2": "https://product.hstatic.net/200000722513/product/77071_o_cung_ssd_wd_sn580_blue_m_142e515e8ca44a6eb9c032964c96bf53_grande.png"
       },
       "components": "",
       "detail": {
@@ -4664,7 +4667,8 @@
       "sale": "",
       "price": "1.090.000",
       "image": {
-        "image_1": "https://product.hstatic.net/200000722513/product/20771_141a410a344d49beb903a97b5e9bfd7e_medium.png"
+        "image_1": "https://product.hstatic.net/200000722513/product/20771_141a410a344d49beb903a97b5e9bfd7e_medium.png",
+        "image_2": "https://product.hstatic.net/200000722513/product/20771_141a410a344d49beb903a97b5e9bfd7e_grande.png"
       },
       "components": "",
       "detail": {
@@ -4692,7 +4696,8 @@
       "sale": "",
       "price": "890.000",
       "image": {
-        "image_1": "https://product.hstatic.net/200000722513/product/image_6499aa1bf60e496eab84d892de11b2cd_medium.png"
+        "image_1": "https://product.hstatic.net/200000722513/product/image_6499aa1bf60e496eab84d892de11b2cd_medium.png",
+        "image_2": "https://product.hstatic.net/200000722513/product/image_6499aa1bf60e496eab84d892de11b2cd_grande.png"
       },
       "components": "",
       "detail": {
@@ -6874,7 +6879,8 @@
       "sale": "5",
       "price": "2.090.000",
       "image": {
-        "image_1": "https://product.hstatic.net/200000722513/product/z5471986482810_0368019cb1e8e9e0ba703fae7e5c3452_43b911976a0b4e3bb4d1e30b08c86471_medium.jpg"
+        "image_1": "https://product.hstatic.net/200000722513/product/z5471986482810_0368019cb1e8e9e0ba703fae7e5c3452_43b911976a0b4e3bb4d1e30b08c86471_medium.jpg",
+        "image_2": "https://product.hstatic.net/200000722513/product/z5471986482810_0368019cb1e8e9e0ba703fae7e5c3452_43b911976a0b4e3bb4d1e30b08c86471_grande.jpg"
       },
       "components": "",
       "detail": {
@@ -7158,7 +7164,8 @@
       "sale": "23",
       "price": "390.000",
       "image": {
-        "image_1": "https://product.hstatic.net/200000722513/product/hub_3in1_70336_cf84025cf1884ea4ac30c92c7506540d_medium.jpg"
+        "image_1": "https://product.hstatic.net/200000722513/product/hub_3in1_70336_cf84025cf1884ea4ac30c92c7506540d_medium.jpg",
+        "image_2": "https://product.hstatic.net/200000722513/product/hub_3in1_70336_cf84025cf1884ea4ac30c92c7506540d_grande.jpg"
       },
       "components": "",
       "detail": {
@@ -7195,11 +7202,12 @@
     },
     {
       "id": 9,
-      "title": "Cổng chuyển đổi USB C Ugreen 4 in 1 CM219 50985",
-      "sale": "23",
-      "price": "390.000",
+      "title": "Cổng chuyển đổi USB C Ugreen 5 in 1 CM511 15596",
+      "sale": "40",
+      "price": "880.000",
       "image": {
-        "image_1": "https://product.hstatic.net/200000722513/product/ugreen-50985-jpg-v-1604290582437_dd4d93d98b0a423c837dedcb5c20d12f_medium.jpg"
+        "image_1": "https://product.hstatic.net/200000722513/product/5996_cbbe37545e744c74944f4dd785c53a68_medium.jpg",
+        "image_2": "https://product.hstatic.net/200000722513/product/5996_cbbe37545e744c74944f4dd785c53a68_grande.jpg"
       },
       "components": "",
       "detail": {
@@ -7215,9 +7223,10 @@
       "id": 10,
       "title": "Cổng chuyển đổi USB C Ugreen 5 in 1 CM511 15596",
       "sale": "40",
-      "price": "880.000",
+      "price": "260.000",
       "image": {
-        "image_1": "https://product.hstatic.net/200000722513/product/5996_cbbe37545e744c74944f4dd785c53a68_medium.jpg"
+        "image_1": "https://product.hstatic.net/200000722513/product/z5452906279993_ca5e9b038c6b1ad85715b9b3644c415b_7b62e0c1b3f44f078f0f33ef51b281ca_medium.jpg",
+        "image_2": "https://product.hstatic.net/200000722513/product/z5452906279993_ca5e9b038c6b1ad85715b9b3644c415b_7b62e0c1b3f44f078f0f33ef51b281ca_grande.jpg"
       },
       "components": "",
       "detail": {
@@ -7237,7 +7246,8 @@
       "sale": "20",
       "price": "5.590.000",
       "image": {
-        "image_1": "https://product.hstatic.net/200000722513/product/_pro_online_dwnld_nr_fqc-10572_gearvn_dc5a004e0330424c816d20c0a5a31870_6f1e5c53e966459181ef80ade54457aa_medium.jpg"
+        "image_1": "https://product.hstatic.net/200000722513/product/_pro_online_dwnld_nr_fqc-10572_gearvn_dc5a004e0330424c816d20c0a5a31870_6f1e5c53e966459181ef80ade54457aa_medium.jpg",
+        "image_2": "https://product.hstatic.net/200000722513/product/_pro_online_dwnld_nr_fqc-10572_gearvn_dc5a004e0330424c816d20c0a5a31870_6f1e5c53e966459181ef80ade54457aa_grande.jpg"
       },
       "components": "",
       "detail": {
@@ -7255,7 +7265,8 @@
       "sale": "16",
       "price": "3.690.000",
       "image": {
-        "image_1": "https://product.hstatic.net/200000722513/product/home_online_dwnld_nr_kw9-00664_gearvn_1af7af131f934c3f9b0b98de4cbea282_6ed5acc9d8bd4266806a53d43ba2863a_medium.jpg"
+        "image_1": "https://product.hstatic.net/200000722513/product/home_online_dwnld_nr_kw9-00664_gearvn_1af7af131f934c3f9b0b98de4cbea282_6ed5acc9d8bd4266806a53d43ba2863a_medium.jpg",
+        "image_2": "https://product.hstatic.net/200000722513/product/home_online_dwnld_nr_kw9-00664_gearvn_1af7af131f934c3f9b0b98de4cbea282_6ed5acc9d8bd4266806a53d43ba2863a_grande.jpg"
       },
       "components": "",
       "detail": {
@@ -7273,7 +7284,8 @@
       "sale": "35",
       "price": "2.990.000",
       "image": {
-        "image_1": "https://product.hstatic.net/200000722513/product/office-home-student-2021-gearvn_2b58e2b89cb144c8af1a53cd0f50b138_3b6ac54980b343a4b7b0019c7bde1944_medium.jpg"
+        "image_1": "https://product.hstatic.net/200000722513/product/office-home-student-2021-gearvn_2b58e2b89cb144c8af1a53cd0f50b138_3b6ac54980b343a4b7b0019c7bde1944_medium.jpg",
+        "image_2": "https://product.hstatic.net/200000722513/product/office-home-student-2021-gearvn_2b58e2b89cb144c8af1a53cd0f50b138_3b6ac54980b343a4b7b0019c7bde1944_grande.jpg"
       },
       "components": "",
       "detail": {
@@ -7291,7 +7303,9 @@
       "sale": "37",
       "price": "1.990.000",
       "image": {
-        "image_1": "https://product.hstatic.net/200000722513/product/family_5dfdd704879d48879ed9b008e82766f3_medium.jpg"
+        "image_1": "https://product.hstatic.net/200000722513/product/family_5dfdd704879d48879ed9b008e82766f3_medium.jpg",
+        "image_2": "https://product.hstatic.net/200000722513/product/family_5dfdd704879d48879ed9b008e82766f3_grande.jpg",
+        "image_3": "https://product.hstatic.net/200000722513/product/family_46a00f05867541db925c56347048af21_32d1755003ad40c9a252c9e7b12a1057_grande.jpg"
       },
       "components": "",
       "detail": {
@@ -7309,7 +7323,9 @@
       "sale": "5",
       "price": "990.000",
       "image": {
-        "image_1": "https://product.hstatic.net/200000722513/product/_en_m365_personal_holidayfy24_posa_fob_rgb_1157_7b8ab684ef27489a98fc553c36bbd52a_medium.jpg"
+        "image_1": "https://product.hstatic.net/200000722513/product/_en_m365_personal_holidayfy24_posa_fob_rgb_1157_7b8ab684ef27489a98fc553c36bbd52a_medium.jpg",
+        "image_2": "https://product.hstatic.net/200000722513/product/_en_m365_personal_holidayfy24_posa_fob_rgb_1157_7b8ab684ef27489a98fc553c36bbd52a_grande.jpg",
+        "image_3": "https://product.hstatic.net/200000722513/product/personal_88cc233e43174654abb323e71f45789b_ee8eb6860f414d779e13ae2e814cd9c2_grande.jpg"
       },
       "components": "",
       "detail": {
@@ -7605,10 +7621,11 @@
     {
       "id": 10,
       "title": "MacBook Pro 13 M2 10GPU 8GB 512GB Space Gray",
-      "sale": "11",
-      "price": "34.990.000",
+      "sale": "10",
+      "price": "39.990.000",
       "image": {
-        "image_1": "https://product.hstatic.net/200000722513/product/ezgif-1-022a341f1b_ebdd90220119408faadfd3c0d6808aee_0997e6994f914ffeaa573c2a91acccfd_medium.png"
+        "image_1": "https://product.hstatic.net/200000722513/product/ezgif-1-022a341f1b_ebdd90220119408faadfd3c0d6808aee_0997e6994f914ffeaa573c2a91acccfd_medium.png",
+        "image_2": "https://product.hstatic.net/200000722513/product/ezgif-1-022a341f1b_ebdd90220119408faadfd3c0d6808aee_0997e6994f914ffeaa573c2a91acccfd_grande.png"
       },
       "components": "",
       "detail": {

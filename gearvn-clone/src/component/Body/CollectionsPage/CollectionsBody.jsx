@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import { useData } from "../../../context/dataContext";
 import { Loading } from "../../Loading";
 import { ProductCarousel_Card } from "../SectionCollection/ProductCarousel/ProductCarousel_Card";
@@ -18,11 +19,12 @@ export default function CollectionsBody({ products = [], categories = "" }) {
         ) : (
           <div className="flex flex-wrap gap-1">
             {products.map((product) => (
-              <ProductCarousel_Card
+              <Link
                 key={product.id}
-                product={product}
-                categories={categories}
-              />
+                to={`/product/${categories}/${product.id}`}
+              >
+                <ProductCarousel_Card product={product} />
+              </Link>
             ))}
           </div>
         )}

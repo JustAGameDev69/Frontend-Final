@@ -1,7 +1,6 @@
 import "./ProductCarousel_Card.css";
 import ProductCardDetail from "../ProductCardDetail";
 import SvgReturn from "../../../SvgReturn";
-import { useNavigate } from "react-router-dom";
 
 //Calculate the current price after minus the sale value, then return the currency format!
 function calculateRoundedPercent(a, b) {
@@ -13,9 +12,7 @@ function calculateRoundedPercent(a, b) {
   return number.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ".");
 }
 
-export function ProductCarousel_Card({ product, categories }) {
-  const navigate = useNavigate();
-
+export function ProductCarousel_Card({ product }) {
   const {
     CPU: cpu,
     VGA: vga,
@@ -43,10 +40,7 @@ export function ProductCarousel_Card({ product, categories }) {
   const price = product.price;
 
   return (
-    <div
-      className="product-carousel-card"
-      onClick={() => navigate(`/product/${categories}/${product.id}`)}
-    >
+    <div className="product-carousel-card">
       <div className="product-carousel-card-img">
         <img src={cardImage} />
       </div>

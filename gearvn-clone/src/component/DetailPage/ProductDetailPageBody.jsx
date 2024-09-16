@@ -24,7 +24,7 @@ export default function ProductDetailPageBody({
             {descImage}
           </ImageTag>
         )}
-        {detail && (
+        {detail ? (
           <>
             <h1 className="text-xl pb-3 pt-3 font-semibold text-[#ff0000]">
               CẤU HÌNH CHI TIẾT SẢN PHẨM {name.toLocaleUpperCase()}
@@ -48,6 +48,11 @@ export default function ProductDetailPageBody({
               </tbody>
             </table>
           </>
+        ) : (
+          <h1 className="text-xl font-semibold text-[#ff0000]">
+            SẢN PHẨM HIỆN TẠI CHƯA CÓ THÔNG TIN. VUI LÒNG LIÊN HỆ QUA ZALO HOẶC
+            SĐT ĐỂ BIẾT THÊM CHI TIẾT. XIN CẢM ƠN!
+          </h1>
         )}
       </div>
       <div className="w-2/5">

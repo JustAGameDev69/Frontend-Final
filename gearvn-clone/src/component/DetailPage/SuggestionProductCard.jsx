@@ -18,12 +18,12 @@ export default function SuggestionProductCard({ product }) {
   return (
     <div className="flex w-full items-center gap-2 h-auto mb-1 mt-1">
       <ImageTag
-        containerStyle="w-32 h-32"
-        imgStyle="object-contain w-full h-full"
+        containerStyle="w-32 h-32 bg-white w-1/3"
+        imgStyle="w-full h-full object-contain"
       >
         {image_1}
       </ImageTag>
-      <div className="product-carousel-card-content">
+      <div className="product-carousel-card-content w-2/3">
         <p className="product-carousel-card-content-title">{product.title}</p>
         <p className="product-carousel-card-content-detail-base-price">
           {price}₫

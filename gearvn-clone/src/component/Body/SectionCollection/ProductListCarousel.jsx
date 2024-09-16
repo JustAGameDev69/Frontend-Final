@@ -2,6 +2,7 @@ import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
 import "./ProductListStyle.css";
 import { ProductCarousel_Card } from "./ProductCarousel/ProductCarousel_Card";
+import { Link } from "react-router-dom";
 
 export default function ProductListCarousel({ data, categories }) {
   const responsive = {
@@ -27,11 +28,9 @@ export default function ProductListCarousel({ data, categories }) {
     <div className="bg-white">
       <Carousel responsive={responsive} infinite={true} autoPlay={true}>
         {data.map((product) => (
-          <ProductCarousel_Card
-            product={product}
-            key={product.id}
-            categories={categories}
-          />
+          <Link key={product.id} to={`/product/${categories}/${product.id}`}>
+            <ProductCarousel_Card product={product} />
+          </Link>
         ))}
       </Carousel>
     </div>
