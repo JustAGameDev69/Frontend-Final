@@ -13,8 +13,6 @@ export default function ProductDetailPageBody({
   link = "",
   techNews,
 }) {
-  console.log(suggestProducts);
-
   return (
     <div className="flex gap-4 w-full mt-3">
       <div className="w-3/5 bg-white pl-3 pr-3 rounded pb-3">

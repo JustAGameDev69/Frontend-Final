@@ -17,35 +17,35 @@ export default function ProductDetailPageRating({ name = "" }) {
           <div className="w-2/3 flex flex-col gap-3 pr-5">
             <div className={ratingBarStyle}>
               <p>5⭐</p>
-              <Progress value={0} size="medium" color="red" />
+              <Progress value={0} size="md" color="red" />
               <p className="w-24">
                 <span>0</span> đánh giá
               </p>
             </div>
             <div className={ratingBarStyle}>
               <p>4⭐</p>
-              <Progress value={0} size="medium" color="red" />
+              <Progress value={0} size="md" color="red" />
               <p className="w-24">
                 <span>0</span> đánh giá
               </p>
             </div>
             <div className={ratingBarStyle}>
               <p>3⭐</p>
-              <Progress value={0} size="medium" color="red" />
+              <Progress value={0} size="md" color="red" />
               <p className="w-24">
                 <span>0</span> đánh giá
               </p>
             </div>
             <div className={ratingBarStyle}>
               <p>2⭐</p>
-              <Progress value={0} size="medium" color="red" />
+              <Progress value={0} size="md" color="red" />
               <p className="w-24">
                 <span>0</span> đánh giá
               </p>
             </div>
             <div className={ratingBarStyle}>
               <p>1⭐</p>
-              <Progress value={0} size="medium" color="red" />
+              <Progress value={0} size="md" color="red" />
               <p className="w-24">
                 <span>0</span> đánh giá
               </p>

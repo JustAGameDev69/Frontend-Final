@@ -4,21 +4,27 @@ import HomePage from "./pages/HomePage";
 import PageNotFound from "./pages/PageNotFound";
 import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
 import ProductDetailPage from "./pages/ProductDetailPage";
+import { AccountProvider } from "./context/AccountContext";
 
 function App() {
   return (
     <>
-      <DataProvider>
-        <BrowserRouter>
-          <Routes>
-            <Route index element={<HomePage />} />
-            <Route path="collections" element={<Navigate replace to="pc" />} />
-            <Route path="collections/:id" element={<CollectionsPage />} />
-            <Route path="product/:type/:id" element={<ProductDetailPage />} />
-            <Route path="*" element={<PageNotFound />} />
-          </Routes>
-        </BrowserRouter>
-      </DataProvider>
+      <AccountProvider>
+        <DataProvider>
+          <BrowserRouter>
+            <Routes>
+              <Route index element={<HomePage />} />
+              <Route
+                path="collections"
+                element={<Navigate replace to="pc" />}
+              />
+              <Route path="collections/:id" element={<CollectionsPage />} />
+              <Route path="product/:type/:id" element={<ProductDetailPage />} />
+              <Route path="*" element={<PageNotFound />} />
+            </Routes>
+          </BrowserRouter>
+        </DataProvider>
+      </AccountProvider>
     </>
   );
 }

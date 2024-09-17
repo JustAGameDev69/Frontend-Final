@@ -1,17 +1,19 @@
-[
-  {
-    "id": 1,
-    "fullName": "Nguyễn Duy Khang",
-    "email": "vngkhang.icc@gmail.com",
-    "isAdmin": true,
-    "password": "admin"
-  },
-  {
-    "id": 2,
-    "fullName": "Nguyễn Duy Khang",
-    "email": "vngkhang.icc@gmail.com",
-    "isAdmin": false,
-    "password": "123",
-    "cart": []
-  }
-]
+{
+  "account": [
+    {
+      "id": 1,
+      "fullName": "Admin",
+      "email": "admin@gmail.com",
+      "isAdmin": true,
+      "password": "admin"
+    },
+    {
+      "id": 2,
+      "fullName": "Nguyễn Duy Khang",
+      "email": "vngkhang.icc@gmail.com",
+      "isAdmin": false,
+      "password": "123",
+      "cart": []
+    }
+  ]
+}
