@@ -67,8 +67,17 @@ export default function ProductDetailPageBody({
           </div>
         )}
         <div className="pl-3 pr-3 pt-3 bg-white rounded pb-3 mt-3">
-          <h1 className="text-xl font-medium">Tin tức công nghệ</h1>
-          {techNews && <div className="flex">{}</div>}
+          <h1 className="text-xl font-medium mb-2">Tin tức công nghệ</h1>
+          {techNews && (
+            <div className="flex flex-col gap-2">
+              {techNews.map((techNew) => (
+                <div className="flex items-center gap-2" key={techNew.id}>
+                  <ImageTag containerStyle="w-1/3">{techNew.image}</ImageTag>
+                  <p className="w-2/3">{techNew.title}</p>
+                </div>
+              ))}
+            </div>
+          )}
         </div>
       </div>
     </div>

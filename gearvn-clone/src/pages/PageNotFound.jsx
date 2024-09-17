@@ -18,7 +18,6 @@ export default function PageNotFound() {
           <h1 className="pt-2 pb-2 text-center">
             Trang bạn đang tìm không tồn tại, vui lòng quay trở lại
             <Link to="/">
-              {" "}
               <span className="pageLink">TRANG CHỦ!</span>
             </Link>
           </h1>

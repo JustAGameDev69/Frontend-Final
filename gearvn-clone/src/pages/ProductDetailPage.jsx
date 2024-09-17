@@ -6,6 +6,7 @@ import { useData } from "../context/dataContext";
 import { useEffect } from "react";
 import ProductDetailPageHeader from "../component/DetailPage/ProductDetailPageHeader";
 import ProductDetailPageBody from "../component/DetailPage/ProductDetailPageBody";
+import ProductDetailPageRating from "../component/DetailPage/ProductDetailPageRating";
 
 export default function ProductDetailPage() {
   const { type, id } = useParams();
@@ -44,6 +45,7 @@ export default function ProductDetailPage() {
                 link={type}
                 techNews={techNews}
               />
+              <ProductDetailPageRating />
             </>
           )}
         </div>

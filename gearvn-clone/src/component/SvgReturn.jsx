@@ -1,4 +1,4 @@
-export default function svgReturn({ name }) {
+export default function SvgReturn({ name }) {
   switch (name) {
     case "cpu":
       return (

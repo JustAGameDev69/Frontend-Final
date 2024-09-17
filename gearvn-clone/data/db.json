@@ -27,7 +27,6 @@
         "RAM": "Corsair Vengeance RGB White 32GB (2x16GB) 5600 DDR5",
         "VGA": "ASUS TUF Gaming GeForce RTX 4070 Ti SUPER BTF White OC Edition 16GB GDDR6X",
         "SSD": "1TB M.2 NVMe™ PCIe® 4.0 SSD",
-        "HDD": "",
         "PSU": "ASUS Prime 850W - 80 Plus Gold - Full Modular ( 850W )",
         "CASE": "ASUS TUF Gaming GT302 ARGB White",
         "fan": "ASUS ROG Strix LC III 360 ARGB White Edition"
@@ -57,7 +56,6 @@
         "RAM": "PNY XLR8 Silver 1x8GB 3200 RGB",
         "VGA": "ASUS Dual Radeon RX 6600 V3 8GB GDDR6",
         "SSD": "WD Blue SN580 500GB M.2 NVMe PCIe Gen 4",
-        "HDD": "",
         "PSU": "FSP HV PRO 550W - 80 Plus Bronze",
         "CASE": "Xigmatek QUANTUM 3GF",
         "fan": "Cooler Master Hyper 212 Spectrum V3 ARGB"
@@ -91,7 +89,6 @@
         "RAM": "Kingston Fury Beast RGB 16GB (2x8GB) bus 5600 DDR5",
         "VGA": "MSI GeForce RTX 3060 Ventus 2X OC 12G",
         "SSD": "WD Blue SN580 500GB M.2 NVMe PCIe Gen 4",
-        "HDD": "",
         "PSU": "Corsair CX650 - 80 Plus Bronze (650W)",
         "CASE": "Xigmatek QUANTUM 3GF",
         "fan": "Cooler Master Hyper 212 ARGB"
@@ -125,7 +122,6 @@
         "RAM": "Corsair Vengeance RGB 32GB (2x16GB) 5600 DDR5",
         "VGA": "ASUS Dual GeForce RTX 3060 12GB V2",
         "SSD": "WD Black SN770 500G M.2 NVMe PCIe Gen4",
-        "HDD": "",
         "PSU": "ASUS TUF Gaming 750B 80 Plus Bronze",
         "CASE": "NZXT H5 Flow White",
         "fan": "NZXT Kraken 240 RGB WHITE"
@@ -159,7 +155,6 @@
         "RAM": "Corsair Vengeance RGB 32GB (2x16GB) 5600 DDR5",
         "VGA": "MSI GeForce RTX 3060 Ventus 2X OC 12G",
         "SSD": "WD Black SN770 500G M.2 NVMe PCIe Gen4",
-        "HDD": "",
         "PSU": "Corsair RM750e - 80 Plus Gold - Full Modular",
         "CASE": "Corsair 4000D AIRFLOW Black",
         "fan": "Corsair H150i ELITE CAPELLIX"
@@ -193,10 +188,8 @@
         "RAM": "PNY XLR8 Silver 1x8GB 3200 RGB",
         "VGA": "MSI GeForce GT 1030 AERO ITX 2GD4 OC",
         "SSD": "Verbatim Vi550 256GB Sata3",
-        "HDD": "",
         "PSU": "Jetek J400 (400W)",
-        "CASE": "Xigmatek QUANTUM 3GF",
-        "fan": ""
+        "CASE": "Xigmatek QUANTUM 3GF"
       },
       "desc_image": "https://file.hstatic.net/1000026716/file/mang-nhen-pc-20_2f476fae30434e9dbcc51e79d65836cb.png"
     },
@@ -227,7 +220,6 @@
         "RAM": "Corsair Vengeance RGB 32GB (2x16GB) 5600 DDR5",
         "VGA": "GIGABYTE GeForce RTX 4060 Ti GAMING OC 8G",
         "SSD": "WD Black SN770 500G M.2 NVMe PCIe Gen4",
-        "HDD": "",
         "PSU": "Deepcool DQ850M-V3L - 80 Plus Gold - Full Modular (850W)",
         "CASE": "Corsair 5000D Airflow TG Black (CC-9011210-WW)",
         "fan": "Corsair iCUE LINK QX120 RGB 120mm — Triple Pack with iCUE LINK Hub"
@@ -295,7 +287,6 @@
         "RAM": "Corsair Vengeance RGB 32GB (2x16GB) 5600 DDR5",
         "VGA": "MSI GeForce RTX 4070 SUPER 12G GAMING X SLIM",
         "SSD": "MSI Spatium M450 1TB M.2 PCIe NVMe Gen 4.0",
-        "HDD": "",
         "PSU": "MSI MAG A850GL PCIE5 - 80 Plus Gold - Full Modular (850W)",
         "CASE": "MSI MAG FORGE 320R AIRFLOW",
         "fan": "MSI MAG CORELIQUID E360 BLACK"
@@ -329,7 +320,6 @@
         "RAM": "Corsair Vengeance RGB White 32GB (2x16GB) 5600 DDR5",
         "VGA": "GIGABYTE GeForce RTX 4060 Ti AERO OC 8G (GV-N406TAERO-OC-8GD)",
         "SSD": "WD Blue SN580 500GB M.2 NVMe PCIe Gen 4",
-        "HDD": "",
         "PSU": "GIGABYTE UD850GM PG5 - 80 Plus Gold - Full Modular (850W)",
         "CASE": "Corsair 3500X TG Mid Tower White (CC-9011277-WW)",
         "fan": "Bộ 3 quạt Corsair RS120 ARGB WHITE"
@@ -363,7 +353,6 @@
         "RAM": "Corsair Dominator Titanium White 32GB (2x16GB) RGB 6000 DDR5",
         "VGA": "ASUS ROG Strix GeForce RTX 4090 OC White Edition 24GB",
         "SSD": "SamSung 980 Pro 1TB M.2 NVMe",
-        "HDD": "",
         "PSU": "ASUS TUF Gaming 1000W - 80 Plus Gold - Full Modular",
         "CASE": "ASUS ROG Hyperion GR701 White",
         "fan": ""
@@ -397,7 +386,6 @@
         "RAM": "V-Color Skywalker Plus 1x8 3600 RGB Black DDR4",
         "VGA": "MSI GeForce GTX 1650 4GB D6 VENTUS XS OCV3",
         "SSD": "Verbatim Vi550 256GB Sata3",
-        "HDD": "",
         "PSU": "Deepcool PF450D - 80 Plus",
         "CASE": "Xigmatek QUANTUM 3GF",
         "fan": "Cooler Master Hyper 212 Spectrum V3 ARGB"
@@ -431,7 +419,6 @@
         "RAM": "Kingston Fury Beast 1x8GB 3600 DDR4 RGB x 2",
         "VGA": "ASUS Dual GeForce RTX 4060 EVO OC Edition 8GB GDDR6",
         "SSD": "WD Blue SN580 500GB M.2 NVMe PCIe Gen 4",
-        "HDD": "",
         "PSU": "Corsair CX750 - 80 Plus Bronze (750W)",
         "CASE": "Corsair 3500X TG Mid Tower Black (CC-9011276-WW)",
         "fan": "Bộ 3 quạt Xigmatek STARLINK ARGB BLACK"
@@ -465,7 +452,6 @@
         "RAM": "T-Group T-Force Delta 1x8GB 3600 RGB Black x 2",
         "VGA": "ASUS Dual GeForce RTX 3050 6GB GDDR6",
         "SSD": "WD Blue SN580 500GB M.2 NVMe PCIe Gen 4",
-        "HDD": "",
         "PSU": "FSP HV PRO 650W - 80 Plus Bronze",
         "CASE": "Xigmatek QUANTUM 3GF",
         "fan": "Cooler Master Hyper 212 Spectrum V3 ARGB"
@@ -2445,8 +2431,6 @@
         "I/Oport": "1x Power Connector(ATX_PWR)\n1x Power Connector(CPU_PWR)\n1x CPU Fan\n2x Front Panel (JFP)\n1x Chassis Intrusion (JCI)\n1x Front Audio (JAUD)\n1x TPM pin header(Support TPM 2.0)",
         "special": "4x EZ Debug LED",
         "software": "",
-        "BIOS": "",
-        "manageability": "",
         "accessory": "Cáp, Miscellaneous, Tài liệu",
         "system": "Hỗ trợ cho Windows® 11 64-bit, Windows® 10 64-bit",
         "form-factor": "mATX 200mmx236.16mm"
@@ -2480,8 +2464,6 @@
         "I/Oport": "1x Power Connector(ATX_PWR)\n1x Power Connector(CPU_PWR)\n1x CPU Fan\n2x Front Panel (JFP)\n1x Chassis Intrusion (JCI)\n1x Front Audio (JAUD)\n1x TPM pin header(Support TPM 2.0)",
         "special": "4x EZ Debug LED",
         "software": "",
-        "BIOS": "",
-        "manageability": "",
         "accessory": "Cáp, Miscellaneous, Tài liệu",
         "system": "Hỗ trợ cho Windows® 11 64-bit, Windows® 10 64-bit",
         "form-factor": "mATX 243.84mmx243.84mm"
@@ -2515,8 +2497,6 @@
         "I/Oport": "1x Power Connector(ATX_PWR)\n1x Power Connector(CPU_PWR)\n1x CPU Fan\n2x Front Panel (JFP)\n1x Chassis Intrusion (JCI)\n1x Front Audio (JAUD)\n1x TPM pin header(Support TPM 2.0)",
         "special": "4x EZ Debug LED",
         "software": "",
-        "BIOS": "",
-        "manageability": "",
         "accessory": "Cáp, Miscellaneous, Tài liệu",
         "system": "Hỗ trợ cho Windows® 11 64-bit, Windows® 10 64-bit",
         "form-factor": "mATX 243.84mmx243.84mm"
@@ -2620,8 +2600,6 @@
         "I/Oport": "1x Power Connector(ATX_PWR)\n2x Power Connector\n1x CPU Fan\n1x Pump Fan\n6x System Fan\n2x Front Panel\nx Chassis Intrusion",
         "special": "",
         "software": "4 x EZ Debug LED\n1 x EZ LED Control switch",
-        "BIOS": "",
-        "manageability": "",
         "accessory": "Cáp, Miscellaneous, Tài liệu",
         "system": "Hỗ trợ cho Windows® 11 64-bit, Windows® 10 64-bit",
         "form-factor": "Hệ số hình thức ATX 243,84mm x 304,8mm"
@@ -2738,12 +2716,6 @@
         "maximummemorychannel": "2",
         "maximumbandwidth": "76.8 GB/s",
         "CPU": "",
-        "basegraphicsfrequency": "",
-        "maxgraphicsfrequency": "",
-        "graphicoutput": "",
-        "resolution": "",
-        "directX": "",
-        "OpenGL": "",
         "OpenCL": "",
         "PCIExpressRevision": "4.0 và 5.0",
         "MaximumPCIExpressConfiguration": "Up to 1x16+4, 2x8+4",
@@ -2784,13 +2756,6 @@
         "maximummemorychannel": "2",
         "maximumbandwidth": "76.8 GB/s",
         "CPU": "",
-        "basegraphicsfrequency": "",
-        "maxgraphicsfrequency": "",
-        "graphicoutput": "",
-        "resolution": "",
-        "directX": "",
-        "OpenGL": "",
-        "OpenCL": "",
         "PCIExpressRevision": "4.0 và 5.0",
         "MaximumPCIExpressConfiguration": "Up to 1x16+4, 2x8+4",
         "MaximumPCIExpressLane": "20",
@@ -2828,12 +2793,6 @@
         "maximumbandwidth": "76.8 GB/s",
         "CPU": "Intel® UHD Graphics 730",
         "basegraphicsfrequency": "",
-        "maxgraphicsfrequency": "",
-        "graphicoutput": "",
-        "resolution": "",
-        "directX": "",
-        "OpenGL": "",
-        "OpenCL": "",
         "PCIExpressRevision": "4.0 và 5.0",
         "MaximumPCIExpressConfiguration": "Up to 1x16+4, 2x8+4",
         "MaximumPCIExpressLane": "20",
@@ -2867,16 +2826,7 @@
         "maxpower": "148W",
         "capacity": "192GB",
         "memory": "",
-        "maximummemorychannel": "",
-        "maximumbandwidth": "",
         "CPU": "Không",
-        "basegraphicsfrequency": "",
-        "maxgraphicsfrequency": "",
-        "graphicoutput": "",
-        "resolution": "",
-        "directX": "",
-        "OpenGL": "",
-        "OpenCL": "",
         "PCIExpressRevision": "4.0 và 5.0",
         "MaximumPCIExpressConfiguration": "",
         "MaximumPCIExpressLane": "20",
@@ -2910,16 +2860,7 @@
         "maxpower": "148W",
         "capacity": "192GB",
         "memory": "",
-        "maximummemorychannel": "",
-        "maximumbandwidth": "",
         "CPU": "Intel® UHD Graphics 730",
-        "basegraphicsfrequency": "",
-        "maxgraphicsfrequency": "",
-        "graphicoutput": "",
-        "resolution": "",
-        "directX": "",
-        "OpenGL": "",
-        "OpenCL": "",
         "PCIExpressRevision": "4.0 và 5.0",
         "MaximumPCIExpressConfiguration": "",
         "MaximumPCIExpressLane": "20",
@@ -2956,13 +2897,6 @@
         "maximummemorychannel": "",
         "maximumbandwidth": "",
         "CPU": "Intel® UHD Graphics 770",
-        "basegraphicsfrequency": "",
-        "maxgraphicsfrequency": "",
-        "graphicoutput": "",
-        "resolution": "",
-        "directX": "",
-        "OpenGL": "",
-        "OpenCL": "",
         "PCIExpressRevision": "4.0 và 5.0",
         "MaximumPCIExpressConfiguration": "",
         "MaximumPCIExpressLane": "20",
@@ -2999,13 +2933,6 @@
         "maximummemorychannel": "",
         "maximumbandwidth": "",
         "CPU": "Intel® UHD Graphics 770",
-        "basegraphicsfrequency": "",
-        "maxgraphicsfrequency": "",
-        "graphicoutput": "",
-        "resolution": "",
-        "directX": "",
-        "OpenGL": "",
-        "OpenCL": "",
         "PCIExpressRevision": "4.0 và 5.0",
         "MaximumPCIExpressConfiguration": "",
         "MaximumPCIExpressLane": "20",
@@ -3042,13 +2969,6 @@
         "maximummemorychannel": "",
         "maximumbandwidth": "",
         "CPU": "Intel® UHD Graphics 770",
-        "basegraphicsfrequency": "",
-        "maxgraphicsfrequency": "",
-        "graphicoutput": "",
-        "resolution": "",
-        "directX": "",
-        "OpenGL": "",
-        "OpenCL": "",
         "PCIExpressRevision": "4.0 và 5.0",
         "MaximumPCIExpressConfiguration": "",
         "MaximumPCIExpressLane": "20",
@@ -3085,13 +3005,6 @@
         "maximummemorychannel": "",
         "maximumbandwidth": "",
         "CPU": "Không",
-        "basegraphicsfrequency": "",
-        "maxgraphicsfrequency": "",
-        "graphicoutput": "",
-        "resolution": "",
-        "directX": "",
-        "OpenGL": "",
-        "OpenCL": "",
         "PCIExpressRevision": "4.0 và 5.0",
         "MaximumPCIExpressConfiguration": "",
         "MaximumPCIExpressLane": "20",
@@ -3607,17 +3520,11 @@
       "detail": {
         "fan": "Không",
         "color": "Silver",
-        "memoryCompatibility": "",
-        "detailedMemoryCompatibility": "",
-        "material": "",
         "ledColor": "RGB",
         "memorySeries": "Fury Beast RGB",
         "memorySize": "64GB (32GBx2)",
         "memoryType": "DDR5",
         "memoryPackage": "",
-        "memoryPackageType": "",
-        "ledLight": "",
-        "performance": "",
         "SDPLatency": "32-39-39-102",
         "SDPSpeed": "4800 MT/s",
         "SPDVoltage": "1.4V",
@@ -3691,16 +3598,8 @@
         "memorySeries": "VENGEANCE RGB DDR5",
         "memorySize": "48GB (2 x 24Gb)",
         "memoryType": "DDR5",
-        "memoryPackage": "",
-        "memoryPackageType": "",
-        "ledLight": "",
-        "performance": "",
         "SDPLatency": "38-38-38-84",
         "SDPSpeed": "5200MHz",
-        "SPDVoltage": "",
-        "checkSpeed": "",
-        "checkVoltage": "",
-        "weight": "",
         "motherboard": ""
       }
     },
@@ -3729,17 +3628,10 @@
         "memorySeries": "Ram PNY XLR8 1x8GB 3200 DDR4 MD8GD4320016XR",
         "memorySize": "1 x 8GB",
         "memoryType": "DesktopDDR4",
-        "memoryPackage": "",
-        "memoryPackageType": "",
-        "ledLight": "",
-        "performance": "",
         "SDPLatency": "38-38-38-84",
         "SDPSpeed": "3200MHz",
         "SPDVoltage": "1.35V",
-        "checkSpeed": "",
-        "checkVoltage": "",
-        "weight": "",
-        "motherboard": ""
+        "checkSpeed": ""
       }
     },
     {
@@ -3809,15 +3701,8 @@
         "memoryType": "DDR4",
         "memoryPackage": "DIMM",
         "memoryPackageType": "",
-        "ledLight": "",
-        "performance": "",
-        "SDPLatency": "",
         "SDPSpeed": "3600MHz",
-        "SPDVoltage": "1.35V",
-        "checkSpeed": "",
-        "checkVoltage": "",
-        "weight": "",
-        "motherboard": ""
+        "SPDVoltage": "1.35V"
       }
     },
     {
@@ -3843,16 +3728,8 @@
         "memorySize": "1 x 8GB",
         "memoryType": "DDR4",
         "memoryPackage": "DIMM",
-        "memoryPackageType": "",
-        "ledLight": "",
-        "performance": "",
-        "SDPLatency": "",
         "SDPSpeed": "3200MHz",
-        "SPDVoltage": "1,2V",
-        "checkSpeed": "",
-        "checkVoltage": "",
-        "weight": "",
-        "motherboard": ""
+        "SPDVoltage": "1,2V"
       }
     }
   ],
@@ -3975,14 +3852,7 @@
         "NAND": "Samsung V-NAND TLC",
         "storageCapacity": "4 TB",
         "readWrite": "7450 MB/s/6900 MB/s",
-        "durability": "2400 TB",
-        "storageTemperature": "",
-        "operatingTemperature": "",
-        "standardSize": "",
-        "weight": "",
-        "operatingVibration": "",
-        "averageLifespan": "",
-        "warrantySupport": ""
+        "durability": "2400 TB"
       }
     },
     {
@@ -4004,15 +3874,7 @@
         "interface": "PCIe Gen 3.0 x4 NVMe",
         "NAND": "",
         "storageCapacity": "256 GB",
-        "readWrite": "1700Mb/s/1100Mb/s",
-        "durability": "",
-        "storageTemperature": "",
-        "operatingTemperature": "",
-        "standardSize": "",
-        "weight": "",
-        "operatingVibration": "",
-        "averageLifespan": "",
-        "warrantySupport": ""
+        "readWrite": "1700Mb/s/1100Mb/s"
       }
     },
     {
@@ -4075,11 +3937,7 @@
         "durability": "100 TBW",
         "storageTemperature": "",
         "operatingTemperature": "",
-        "standardSize": "3.15in x 0.87in x 0.09in",
-        "weight": "",
-        "operatingVibration": "",
-        "averageLifespan": "",
-        "warrantySupport": ""
+        "standardSize": "3.15in x 0.87in x 0.09in"
       }
     },
     {
@@ -4108,11 +3966,7 @@
         "durability": "100 TBW",
         "storageTemperature": "",
         "operatingTemperature": "",
-        "standardSize": "3.96in x 2.75in x 0.28in",
-        "weight": "",
-        "operatingVibration": "",
-        "averageLifespan": "",
-        "warrantySupport": ""
+        "standardSize": "3.96in x 2.75in x 0.28in"
       }
     },
     {
@@ -4173,9 +4027,7 @@
         "operatingTemperature": "0°C to 85°C",
         "standardSize": "3.15\" x 0.87\" x 0.09\"",
         "weight": "",
-        "operatingVibration": "20Hz~80Hz/1.52mm, 80Hz~2000Hz/20G",
-        "averageLifespan": "",
-        "warrantySupport": ""
+        "operatingVibration": "20Hz~80Hz/1.52mm, 80Hz~2000Hz/20G"
       }
     }
   ],
@@ -4208,9 +4060,7 @@
         "fan": "Cooler Master MASTERLIQUID 120 ATMOS",
         "GPULength": "",
         "coolerHeight": "",
-        "PSU": "Cooler Master V850 SFX Gold",
-        "I/Oport": "",
-        "dustFilter": ""
+        "PSU": "Cooler Master V850 SFX Gold"
       }
     },
     {
@@ -4430,8 +4280,6 @@
         "drive": "1 (tối đa 2)",
         "RAID": "",
         "fan": "2x 120mm / 2x 140mm",
-        "GPULength": "",
-        "coolerHeight": "",
         "PSU": "163.5mm",
         "I/Oport": "1 x USB 3.2 Gen 1 Type-A\n1 x USB 3.2 Gen 1 Type-C\n1 x Jack tai nghe 3,5mm Combo",
         "dustFilter": ""
@@ -4553,8 +4401,6 @@
       "detail": {
         "brand": "Corsair",
         "typeOfShaftBearing": "",
-        "LEDpos": "",
-        "operatingVoltage": "",
         "powerDrawFan": "0.4A",
         "pressure": "13.3 - 72.8 CFM",
         "lifeSpan": "",
@@ -4585,8 +4431,6 @@
       "detail": {
         "brand": "Corsair",
         "typeOfShaftBearing": "",
-        "LEDpos": "",
-        "operatingVoltage": "",
         "powerDrawFan": "0.4A",
         "pressure": "13.3 - 72.8 CFM",
         "lifeSpan": "",
@@ -4625,9 +4469,7 @@
         "fanSpeed": "0, 200~2600 RPM",
         "powerDrawLED": "5.8W",
         "noiseLevel": "33 dB(A) Max",
-        "airPressure": "3.97 mmH2O (tối đa)",
-        "fanContain": "",
-        "accessory": ""
+        "airPressure": "3.97 mmH2O (tối đa)"
       }
     },
     {
@@ -4655,9 +4497,7 @@
         "fanSpeed": "0, 200~2600 RPM",
         "powerDrawLED": "5.8W",
         "noiseLevel": "33 dB(A) Max",
-        "airPressure": "3.97 mmH2O (tối đa)",
-        "fanContain": "",
-        "accessory": ""
+        "airPressure": "3.97 mmH2O (tối đa)"
       }
     },
     {
@@ -4703,9 +4543,6 @@
       "detail": {
         "brand": "HYTE",
         "typeOfShaftBearing": "Fluid Dynamic Bearing",
-        "LEDpos": "",
-        "operatingVoltage": "",
-        "powerDrawFan": "",
         "pressure": "72 CFM",
         "lifeSpan": "",
         "size": "120 x 120 x 25 mm",
@@ -4771,15 +4608,11 @@
         "operatingVoltage": "12V DC",
         "powerDrawFan": "",
         "pressure": "48.58 CFM",
-        "lifeSpan": "",
         "size": "120 x120 x 25 mm",
-        "ledColor": "",
         "fanSpeed": "500 - 1.800 ± 300RPM",
         "powerDrawLED": "",
         "noiseLevel": "29 dBA",
-        "airPressure": "2.42 mm-H₂O",
-        "fanContain": "",
-        "accessory": ""
+        "airPressure": "2.42 mm-H₂O"
       }
     },
     {
@@ -4796,20 +4629,11 @@
       "components": "",
       "detail": {
         "brand": "Jetek",
-        "typeOfShaftBearing": "",
-        "LEDpos": "",
-        "operatingVoltage": "",
-        "powerDrawFan": "",
-        "pressure": "",
-        "lifeSpan": "",
+
         "size": "120mm x 25mm",
         "ledColor": "RGB",
         "fanSpeed": "1100 RPM ± 10%",
-        "powerDrawLED": "",
-        "noiseLevel": "",
-        "airPressure": "",
-        "fanContain": "",
-        "accessory": ""
+        "powerDrawLED": ""
       }
     }
   ],
@@ -4935,8 +4759,6 @@
       },
       "components": "",
       "detail": {
-        "model": "",
-        "type": "",
         "PFC": "Active PFC",
         "inputVoltage": "100~240 VAC",
         "inputCurrent": "",
@@ -4948,8 +4770,6 @@
         "efficiency": "80 PLUS Gold (up to 90%)",
         "MTBF": "MTTF 150,000 Hours (25℃)",
         "protection": "OCP / OVP / OPP / OTP / SCP / UVP",
-        "powerSignal": "",
-        "holdupTime": "",
         "cableType": "Thẳng, đen",
         "port": "4-Pin PWM/DC"
       }
@@ -4973,10 +4793,6 @@
         "model": "",
         "type": "ATX12V V3.1",
         "PFC": "Active PFC + Full Bridge SRC LLC + DC to DC",
-        "inputVoltage": "",
-        "inputCurrent": "",
-        "inputFrequency": "",
-        "outputPower": "",
         "size": "150×140×86mm (W x L x H)",
         "fanType": "FDB (Fluid Dynamic Bearing)",
         "80Plus": "Gold",
@@ -4985,7 +4801,6 @@
         "protection": "SCP,OPP,OTP,OVP,OCP,UVP",
         "powerSignal": "100-500ms",
         "holdupTime": "≥16ms(80% Load)",
-        "cableType": "",
         "port": ""
       }
     },
@@ -5013,14 +4828,9 @@
         "inputFrequency": "",
         "outputPower": "850W",
         "size": "150 x 150 x 86 mm",
-        "fanType": "",
-        "80Plus": "",
         "efficiency": "80Plus Gold",
         "MTBF": "",
         "protection": "OPP / OVP / UVP / SCP / OCP / OTP",
-        "powerSignal": "",
-        "holdupTime": "",
-        "cableType": "",
         "port": "MB 24/20-pin x 1\nCPU 4+4-pin x 2\nPCI-E 16-pin x 1 (cả PSU và mặt đầu nối)\nPCI-E 8-pin x 3\nSATA x 5\nPeriplheral x 3"
       }
     },
@@ -5088,9 +4898,6 @@
         "efficiency": "80 Plus Gold",
         "MTBF": "",
         "protection": "OPP / OVP / SCP / OCP / OTP",
-        "powerSignal": "",
-        "holdupTime": "",
-        "cableType": "",
         "port": "MB 24/20-pin x 1\nCPU 4+4-pin x 2\nPCI-E 16-pin x 1\nPCI-E 8-pin x 4 SATA x 5\nPERIPHERAL x 4"
       }
     },
@@ -5114,19 +4921,11 @@
         "type": "ATX 12V",
         "PFC": "",
         "inputVoltage": "100-240Vac",
-        "inputCurrent": "",
-        "inputFrequency": "",
         "outputPower": "1500W",
-        "size": "",
-        "fanType": "",
-        "80Plus": "",
         "efficiency": "80 Plus Titanium",
         "MTBF": "100,000 hours",
         "protection": "OPP / OVP / SCP / OCP / OTP",
-        "powerSignal": "",
-        "holdupTime": "",
-        "cableType": "",
-        "port": ""
+        "powerSignal": ""
       }
     },
     {
@@ -5149,18 +4948,11 @@
         "type": "ATX 12V",
         "PFC": "",
         "inputVoltage": "100-240Vac",
-        "inputCurrent": "",
-        "inputFrequency": "",
         "outputPower": "1000W",
         "size": "190 x 150 x 86 mm",
-        "fanType": "",
-        "80Plus": "",
         "efficiency": "80Plus Platinum",
         "MTBF": "",
         "protection": "OPP / OVP / UVP / SCP / OCP / OTP",
-        "powerSignal": "",
-        "holdupTime": "",
-        "cableType": "",
         "port": "MB 24/20-pin x 1\nCPU 4+4-pin x 2\nPCI-E 16-pin x 1\nPCI-E 6+2-pin x 8\nSATA x 12\nPERIPHERAL x 6"
       }
     }
@@ -5264,17 +5056,11 @@
         "battery": "",
         "connect": "Multi-Modes",
         "brand": "AKKO",
-        "maximumProfile": "",
-        "CUE": "",
-        "keyboardRollover": "",
-        "supportFeature": "",
         "warranty": "12 tháng",
         "port": "",
         "LED": "RGB",
         "weight": "",
-        "keySwitch": "Akko V3 Piano Pro",
-        "keys": "",
-        "processor": ""
+        "keySwitch": "Akko V3 Piano Pro"
       }
     },
     {
@@ -5301,17 +5087,12 @@
         "battery": "",
         "connect": "USB Type-C 8K Hz",
         "brand": "AKKO",
-        "maximumProfile": "",
-        "CUE": "",
-        "keyboardRollover": "",
         "supportFeature": "NKRO / Multimedia / Macro / Khóa phím Win",
         "warranty": "12 tháng",
         "port": "",
         "LED": "RGB",
         "weight": "",
-        "keySwitch": "Akko Cream Yellow Magnetic Switch",
-        "keys": "",
-        "processor": ""
+        "keySwitch": "Akko Cream Yellow Magnetic Switch"
       }
     },
     {
@@ -5338,17 +5119,10 @@
         "battery": "3000mah",
         "connect": "",
         "brand": "AKKO",
-        "maximumProfile": "",
-        "CUE": "",
-        "keyboardRollover": "",
-        "supportFeature": "",
         "warranty": "12 tháng",
         "port": "",
         "LED": "RGB",
-        "weight": "",
-        "keySwitch": "",
-        "keys": "",
-        "processor": ""
+        "weight": ""
       }
     },
     {
@@ -5373,19 +5147,11 @@
         "size": "333 x 140 x 40mm | Trọng lượng: 740g",
         "keycap": "CHERRY profile, PBT Double-Shot",
         "battery": "",
-        "connect": "",
         "brand": "DareU",
-        "maximumProfile": "",
-        "CUE": "",
-        "keyboardRollover": "",
-        "supportFeature": "",
         "warranty": "12 tháng",
         "port": "",
         "LED": "RGB",
-        "weight": "",
-        "keySwitch": "",
-        "keys": "",
-        "processor": ""
+        "weight": ""
       }
     },
     {
@@ -5412,17 +5178,12 @@
         "battery": "3000mah",
         "connect": "Có dây / Wireless 2.4 / Bluetooth 5.0",
         "brand": "AKKO",
-        "maximumProfile": "",
-        "CUE": "",
-        "keyboardRollover": "",
         "supportFeature": "NKRO / Multimedia / Macro / Khóa phím Win",
         "warranty": "12 tháng",
         "port": "",
         "LED": "RGB",
         "weight": "",
-        "keySwitch": "Akko switch v3 – Cream Yellow Pro",
-        "keys": "",
-        "processor": ""
+        "keySwitch": "Akko switch v3 – Cream Yellow Pro"
       }
     },
     {
@@ -5444,17 +5205,13 @@
         "battery": "",
         "connect": "Có dây - USB Type-C 8k Hz",
         "brand": "AKKO",
-        "maximumProfile": "",
-        "CUE": "",
         "keyboardRollover": "",
         "supportFeature": "NKRO / Multimedia / Macro / Khóa phím Win Hotswap 5 pin",
         "warranty": "12 tháng",
         "port": "",
         "LED": "RGB",
         "weight": "",
-        "keySwitch": "AKKO X TTC Demon Switch",
-        "keys": "",
-        "processor": ""
+        "keySwitch": "AKKO X TTC Demon Switch"
       }
     },
     {
@@ -5481,8 +5238,6 @@
         "battery": "",
         "connect": "Có dây",
         "brand": "DareU",
-        "maximumProfile": "",
-        "CUE": "",
         "keyboardRollover": "N-Key Rollover",
         "supportFeature": "",
         "warranty": "24 Tháng",
@@ -5517,8 +5272,6 @@
         "battery": "",
         "connect": "Có dây",
         "brand": "DareU",
-        "maximumProfile": "",
-        "CUE": "",
         "keyboardRollover": "N-Key Rollover",
         "supportFeature": "",
         "warranty": "24 Tháng",
@@ -5557,8 +5310,6 @@
         "maxIPS": ">400",
         "color": "",
         "weight": "POWERPLAY 68g / Pin AA 86g",
-        "brand": "",
-        "connect": "",
         "cable": "Lightspeed",
         "programmingButtons": "",
         "size": "120 mm x 64 mm x 39 mm",
@@ -5566,8 +5317,7 @@
         "switch": "hybrid quang học - cơ học Lightforce",
         "maxDPI": "100 - 25600 Dpi",
         "LED": "",
-        "maximumAcceleration": "> 40G2",
-        "design": ""
+        "maximumAcceleration": "> 40G2"
       }
     },
     {
@@ -5595,8 +5345,6 @@
         "maxIPS": ">400",
         "color": "",
         "weight": "POWERPLAY 68g / Pin AA 86g",
-        "brand": "",
-        "connect": "",
         "cable": "Lightspeed",
         "programmingButtons": "",
         "size": "120 mm x 64 mm x 39 mm",
@@ -5631,19 +5379,11 @@
         "FEET": "",
         "batteryTime": "Thời lượng pin lên đến 30 ngày",
         "maxIPS": "30",
-        "color": "",
         "weight": "88.6 gram",
-        "brand": "",
         "connect": "Wireless/Wired/Bluetooth",
         "cable": "",
         "programmingButtons": "",
-        "size": "",
-        "sensor": "",
-        "switch": "",
-        "maxDPI": "400",
-        "LED": "",
-        "maximumAcceleration": "",
-        "design": ""
+        "maxDPI": "400"
       }
     },
     {
@@ -5739,16 +5479,9 @@
       },
       "detail": {
         "warranty": "24 tháng",
-        "FEET": "",
-        "batteryTime": "",
-        "maxIPS": "",
-        "color": "",
         "weight": "110G",
         "brand": "Rapoo",
         "connect": "Wireless",
-        "cable": "",
-        "programmingButtons": "",
-        "size": "",
         "sensor": "Quang học PixArt",
         "switch": "",
         "maxDPI": "Lên đến 5000",
@@ -5856,12 +5589,8 @@
         "color": "",
         "weight": "77g",
         "brand": "Razer",
-        "connect": "",
-        "cable": "",
         "programmingButtons": "8 nút có thể lập trình",
         "size": "127.0 x 61.7  x 42.7 mm",
-        "sensor": "",
-        "switch": "",
         "maxDPI": "30.000 DPI",
         "LED": "Razer Chroma™ RGB (Con lăn, Logo, nhiều vùng bên dưới chuột)",
         "maximumAcceleration": "70G",
@@ -5887,17 +5616,12 @@
       },
       "detail": {
         "warranty": "24 tháng",
-        "FEET": "",
-        "batteryTime": "",
-        "maxIPS": "",
         "color": "Đen",
         "weight": "",
         "brand": "E-DRA",
         "connect": "USB Type-C / Wireless 2.4 / Bluetooth 5.0",
         "cable": "",
         "programmingButtons": "7D + 1 Scroll",
-        "size": "",
-        "sensor": "",
         "switch": "Kailh switch 80 triệu lần nhấn",
         "maxDPI": "800/1600/2400/3200/6400/10000 DPI",
         "LED": "RGB",
@@ -5958,8 +5682,6 @@
         "material": "Da PVC cao cấp thoáng khí",
         "armrest": "",
         "maximumRecliningAngle": "Góc ngã lưng 95° - 160°",
-        "frameMaterial": "",
-        "hydraulicLiftMechanism": "",
         "accessory": "Ghế; Lục giác; Ốc vít; Tài liệu hướng dẫn"
       }
     },
@@ -5987,8 +5709,7 @@
         "armrest": "3D",
         "maximumRecliningAngle": "150 độ",
         "frameMaterial": "Thép",
-        "hydraulicLiftMechanism": "",
-        "accessory": ""
+        "hydraulicLiftMechanism": ""
       }
     },
     {
@@ -6014,9 +5735,7 @@
         "material": "Da PVC thoáng khí, tựa lưng phối khí",
         "armrest": "3D",
         "maximumRecliningAngle": "150 độ",
-        "frameMaterial": "Thép",
-        "hydraulicLiftMechanism": "",
-        "accessory": ""
+        "frameMaterial": "Thép"
       }
     },
     {
@@ -6043,8 +5762,7 @@
         "armrest": "4D (Up/Down; Left/Right; Front/Back; Swivel)",
         "maximumRecliningAngle": "90°-160°",
         "frameMaterial": "kim loại",
-        "hydraulicLiftMechanism": "",
-        "accessory": ""
+        "hydraulicLiftMechanism": ""
       }
     },
     {
@@ -6071,8 +5789,7 @@
         "armrest": "4D (Up/Down; Left/Right; Front/Back; Swivel)",
         "maximumRecliningAngle": "90°-180°",
         "frameMaterial": "kim loại",
-        "hydraulicLiftMechanism": "",
-        "accessory": ""
+        "hydraulicLiftMechanism": ""
       }
     },
     {
@@ -6125,7 +5842,6 @@
         "material": "Lưới chất lượng cao thông thoáng",
         "armrest": "Tựa đầu 2D điều chỉnh độ cao và góc, nâng hạ gắn liền",
         "maximumRecliningAngle": "",
-        "frameMaterial": "",
         "hydraulicLiftMechanism": "Class-3 Bifma",
         "accessory": ""
       }
@@ -6154,8 +5870,7 @@
         "armrest": "4D (Up/Down; Left/Right; Front/Back; Swivel)",
         "maximumRecliningAngle": "90°-180°",
         "frameMaterial": "kim loại",
-        "hydraulicLiftMechanism": "",
-        "accessory": ""
+        "hydraulicLiftMechanism": ""
       }
     },
     {
@@ -6181,7 +5896,6 @@
         "material": "Lưng lưới – Mâm ngồi Foam nguyên chất\nChân kim loại thiết kế chịu lực",
         "armrest": "Tựa đầu 2D, Kê tay tùy chỉnh",
         "maximumRecliningAngle": "",
-        "frameMaterial": "",
         "hydraulicLiftMechanism": "Trục thủy lực Class 4 bền bỉ",
         "accessory": "HDSD"
       }
@@ -6219,9 +5933,6 @@
         "compatibility": "Windows / MacOS",
         "impedance": "1KHz / 32Ohm",
         "frequency": "20Hz - 20KHz",
-        "sensitivity": "",
-        "soundQuality": "",
-        "surroundSound": "",
         "noiseIsolation": "Có",
         "headphoneDriver": ""
       }
@@ -6281,12 +5992,6 @@
         "wirelessRange": "10m",
         "microphone": "Có",
         "frameMaterial": "",
-        "compatibility": "",
-        "impedance": "",
-        "frequency": "",
-        "sensitivity": "",
-        "soundQuality": "",
-        "surroundSound": "",
         "noiseIsolation": "Chống ồn chủ động ANC",
         "headphoneDriver": ""
       }
@@ -6314,13 +6019,6 @@
         "batteryTime": "49 giờ",
         "wirelessRange": "10m",
         "microphone": "Có",
-        "frameMaterial": "",
-        "compatibility": "",
-        "impedance": "",
-        "frequency": "",
-        "sensitivity": "",
-        "soundQuality": "",
-        "surroundSound": "",
         "noiseIsolation": "Chống ồn chủ động ANC",
         "headphoneDriver": ""
       }
@@ -6425,11 +6123,6 @@
         "microphone": "Có",
         "frameMaterial": "",
         "compatibility": "PC, Mac, PlayStation 4/5, Xbox One / Series XS, Nintendo Switch, Mobile devices",
-        "impedance": "",
-        "frequency": "",
-        "sensitivity": "",
-        "soundQuality": "",
-        "surroundSound": "",
         "noiseIsolation": "Có",
         "headphoneDriver": "50mm"
       }
@@ -6461,13 +6154,8 @@
         "batteryTime": "20 giờ",
         "wirelessRange": " 30 m",
         "microphone": "Có",
-        "frameMaterial": "",
-        "compatibility": "",
-        "impedance": "",
         "frequency": "50-20KHz",
         "sensitivity": "96dB ±3dB @1kHz",
-        "soundQuality": "",
-        "surroundSound": "",
         "noiseIsolation": "Có",
         "headphoneDriver": ""
       }
@@ -6499,13 +6187,8 @@
         "batteryTime": "20 giờ",
         "wirelessRange": "30 m",
         "microphone": "Mic MEMS mọi hướng kép với chùm tia có định hướng và DSP",
-        "frameMaterial": "",
-        "compatibility": "",
-        "impedance": "",
         "frequency": "100 ~ 8 KHz",
         "sensitivity": "118,0±3 dB ở 1mW @1kHz",
-        "soundQuality": "",
-        "surroundSound": "",
         "noiseIsolation": "Có",
         "headphoneDriver": ""
       }
@@ -6533,7 +6216,6 @@
         "signalToNoiseRatio": "≥ 85dB (A)",
         "distortion": "",
         "signalSensitivity": "Bluetooth: 550±50mFFS",
-        "input": "",
         "size": "52mm × 63mm × 28.5mm",
         "weight": "0.7kg"
       }
@@ -6556,9 +6238,6 @@
         "power": "60W",
         "configuration": "V5.3",
         "frequencyResponse": "100Hz – 20kHz",
-        "signalToNoiseRatio": "",
-        "distortion": "",
-        "signalSensitivity": "",
         "input": "DC 5V/2A, via Type-C Port",
         "size": "29 x 11.5 x 11.5cm",
         "weight": "1.51kg"
@@ -6582,9 +6261,6 @@
         "power": "40W",
         "configuration": "V5.3",
         "frequencyResponse": "100Hz – 20kHz",
-        "signalToNoiseRatio": "",
-        "distortion": "",
-        "signalSensitivity": "",
         "input": "DC 5V/2A, via Type-C Port",
         "size": "23.5 x 9 x 9cm",
         "weight": "0.94kg"
@@ -6608,9 +6284,6 @@
         "power": "20W",
         "configuration": "V5.3",
         "frequencyResponse": "80Hz – 18kHz",
-        "signalToNoiseRatio": "",
-        "distortion": "",
-        "signalSensitivity": "",
         "input": "5V/1A, via Type-C Port",
         "size": "7.4 x 7.4 x 18.8cm",
         "weight": "580g"
@@ -6634,10 +6307,6 @@
         "power": "16W",
         "configuration": "V5.1",
         "frequencyResponse": "80Hz-20kHz",
-        "signalToNoiseRatio": "",
-        "distortion": "",
-        "signalSensitivity": "",
-        "input": "",
         "size": "25.5 x 11 x 8.7cm",
         "weight": "0.74kg"
       }
@@ -6660,9 +6329,6 @@
         "power": "10W",
         "configuration": "V5.3",
         "frequencyResponse": "80Hz-20kHz",
-        "signalToNoiseRatio": "",
-        "distortion": "",
-        "signalSensitivity": "",
         "input": "5V/1A, via Type-C Port",
         "size": "",
         "weight": "470g"
@@ -6686,9 +6352,6 @@
         "power": "5W",
         "configuration": "V5.3",
         "frequencyResponse": "90Hz-19kHz",
-        "signalToNoiseRatio": "",
-        "distortion": "",
-        "signalSensitivity": "",
         "input": "5V/900mAh，via Type-C Port",
         "size": "",
         "weight": "245g"
@@ -6712,9 +6375,6 @@
         "power": "5W",
         "configuration": "V5.3",
         "frequencyResponse": "90Hz-19kHz",
-        "signalToNoiseRatio": "",
-        "distortion": "",
-        "signalSensitivity": "",
         "input": "5V/900mAh，via Type-C Port",
         "size": "",
         "weight": "245g"
@@ -6738,9 +6398,6 @@
         "power": "5W",
         "configuration": "V5.3",
         "frequencyResponse": "90Hz-19kHz",
-        "signalToNoiseRatio": "",
-        "distortion": "",
-        "signalSensitivity": "",
         "input": "5V/900mAh，via Type-C Port",
         "size": "",
         "weight": "245g"
@@ -6764,9 +6421,6 @@
         "power": "5W",
         "configuration": "V5.3",
         "frequencyResponse": "90Hz-19kHz",
-        "signalToNoiseRatio": "",
-        "distortion": "",
-        "signalSensitivity": "",
         "input": "5V/900mAh，via Type-C Port",
         "size": "",
         "weight": "245g"

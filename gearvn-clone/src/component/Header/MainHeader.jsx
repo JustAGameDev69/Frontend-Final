@@ -1,8 +1,12 @@
 import { Link } from "react-router-dom";
 import ActionLink from "./ActionLink";
 import SearchBar from "./SearchBar";
+import { useState } from "react";
+import LoginSignup from "../LoginSignup";
 
 function MainHeader() {
+  const [open, handleOpen] = useState(false);
+
   return (
     <div className="w-full bg-[#E30019] h-auto sticky top-0 z-20">
       <div className="content-container justify-between flex items-center text-base text-white text-nowrap w-full font-medium">
@@ -138,30 +142,33 @@ function MainHeader() {
                 ></path>
               </svg>
             </ActionLink>
-            <ActionLink
-              content={"Đăng nhập"}
-              textWidth={"w-10"}
-              otherStyle="bg-[#BE1529] p-1 rounded"
-            >
-              <svg
-                viewBox="0 0 24 26"
-                fill="none"
-                xmlns="http://www.w3.org/2000/svg"
+            <button className="p-0" onClick={() => handleOpen(true)}>
+              <ActionLink
+                content={"Đăng nhập"}
+                textWidth={"w-10"}
+                otherStyle="bg-[#BE1529] p-1 rounded"
               >
-                <path
-                  d="M11.9999 11.9091C10.5412 11.9091 9.14224 11.3344 8.11079 10.3115C7.07934 9.28857 6.49988 7.90118 6.49988 6.45455C6.49988 5.00791 7.07934 3.62052 8.11079 2.5976C9.14224 1.57467 10.5412 1 11.9999 1C13.4586 1 14.8575 1.57467 15.889 2.5976C16.9204 3.62052 17.4999 5.00791 17.4999 6.45455C17.4999 7.90118 16.9204 9.28857 15.889 10.3115C14.8575 11.3344 13.4586 11.9091 11.9999 11.9091Z"
-                  stroke="white"
-                  strokeWidth="2"
-                  strokeLinecap="round"
-                ></path>
-                <path
-                  d="M0.999878 25.0001V23.5975C0.999878 20.7923 4.49988 15.1819 11.9999 15.1819C19.4999 15.1819 22.9999 20.7923 22.9999 23.5975V25.0001"
-                  stroke="white"
-                  strokeWidth="2"
-                  strokeLinecap="round"
-                ></path>
-              </svg>
-            </ActionLink>
+                <svg
+                  viewBox="0 0 24 26"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M11.9999 11.9091C10.5412 11.9091 9.14224 11.3344 8.11079 10.3115C7.07934 9.28857 6.49988 7.90118 6.49988 6.45455C6.49988 5.00791 7.07934 3.62052 8.11079 2.5976C9.14224 1.57467 10.5412 1 11.9999 1C13.4586 1 14.8575 1.57467 15.889 2.5976C16.9204 3.62052 17.4999 5.00791 17.4999 6.45455C17.4999 7.90118 16.9204 9.28857 15.889 10.3115C14.8575 11.3344 13.4586 11.9091 11.9999 11.9091Z"
+                    stroke="white"
+                    strokeWidth="2"
+                    strokeLinecap="round"
+                  ></path>
+                  <path
+                    d="M0.999878 25.0001V23.5975C0.999878 20.7923 4.49988 15.1819 11.9999 15.1819C19.4999 15.1819 22.9999 20.7923 22.9999 23.5975V25.0001"
+                    stroke="white"
+                    strokeWidth="2"
+                    strokeLinecap="round"
+                  ></path>
+                </svg>
+              </ActionLink>
+            </button>
+            <LoginSignup handleOpen={handleOpen} open={open} />
           </div>
         </div>
       </div>
