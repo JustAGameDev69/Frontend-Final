@@ -16,30 +16,59 @@ export default function LoginSignup({ open, handleOpen }) {
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
+  const [signupLoginStatus, setSignupLoginStatus] = useState("");
 
-  const { account, isLoading, getUser, createAccount } = useAccount();
+  const onChangeLoginSignupState = (state) => {
+    setLoginState(state);
+    setEmail("");
+    setPassword("");
+    setName("");
+    setSignupLoginStatus("");
+  };
 
-  console.log(account);
+  const handleCancel = () => {
+    handleOpen((i) => !i);
+    setLoginState("login");
+    setEmail("");
+    setPassword("");
+    setName("");
+    setSignupLoginStatus("");
+  };
 
-  const handleLoginSignUp = () => {
+  const { isLoading, getUser, createAccount, validateSignup } = useAccount();
+
+  const handleLoginSignUp = async () => {
     if (loginState === "login") {
-      if (password && email) {
-        getUser(email, password);
+      if (email && password) {
+        const data = await getUser(email, password);
+        if (data.account) {
+          setSignupLoginStatus(data.message);
+          handleCancel();
+        } else {
+          setSignupLoginStatus(
+            "Tên tài khoản hoặc mật khẩu không đúng! Vui lòng thử lại"
+          );
+          setPassword("");
+        }
       } else {
-        console.log("Nhap day du thong tin!");
+        setSignupLoginStatus("Bạn cần phải nhập đầy đủ thông tin");
       }
     } else if (loginState === "signup") {
-      if (name && email && password) {
+      const { valid, message } = validateSignup(name, email, password);
+      if (valid) {
         const account = {
           fullName: name,
           email: email,
           password: password,
           isAdmin: false,
           cart: [],
+          avatar: "",
         };
-        createAccount(account);
+        await createAccount(account);
+        setSignupLoginStatus(message);
+        handleCancel();
       } else {
-        console.log("Nhap day du thong tin!");
+        setSignupLoginStatus(message);
       }
     }
   };
@@ -88,6 +117,9 @@ export default function LoginSignup({ open, handleOpen }) {
           {loginState == "login" && (
             <p className="text-right mt-2 mb-2 italic">Quên mật khẩu?</p>
           )}
+          {signupLoginStatus && (
+            <p className="text-[#E30019] italic mt-3">{signupLoginStatus}</p>
+          )}
           <Button
             className={`w-full h-12 rounded bg-[#E30019] ${
               loginState === "login" ? "mt-3" : "mt-6"
@@ -101,7 +133,7 @@ export default function LoginSignup({ open, handleOpen }) {
               Bạn chưa có tài khoản?{" "}
               <span
                 className="pageLink"
-                onClick={() => setLoginState("signup")}
+                onClick={() => onChangeLoginSignupState("signup")}
               >
                 Đăng ký ngay
               </span>
@@ -111,7 +143,10 @@ export default function LoginSignup({ open, handleOpen }) {
           {loginState === "signup" && (
             <p className="mt-3 mb-3">
               Bạn đã có tài khoản?{" "}
-              <span className="pageLink" onClick={() => setLoginState("login")}>
+              <span
+                className="pageLink"
+                onClick={() => onChangeLoginSignupState("login")}
+              >
                 Đăng nhập ngay
               </span>
               !
@@ -124,7 +159,7 @@ export default function LoginSignup({ open, handleOpen }) {
         <Button
           variant="text"
           color="red"
-          onClick={() => handleOpen(false)}
+          onClick={() => handleCancel()}
           className="mr-1"
           disabled={isLoading}
         >

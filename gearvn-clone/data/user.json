@@ -1,19 +1,48 @@
 {
   "account": [
     {
-      "id": 1,
+      "id": "1",
       "fullName": "Admin",
       "email": "admin@gmail.com",
       "isAdmin": true,
-      "password": "admin"
+      "password": "admin",
+      "avatar": ""
     },
     {
-      "id": 2,
+      "id": "2",
       "fullName": "Nguyễn Duy Khang",
       "email": "vngkhang.icc@gmail.com",
       "isAdmin": false,
       "password": "123",
-      "cart": []
+      "cart": [],
+      "avatar": "https://lh3.googleusercontent.com/OLKWeSV57e8TDrWzI42IIGoik0wuJCEGLYMwGJr60pZBVrxXgFyjpWw-C37vKA0GzwyK6QQ-SMUURswU_KU6UAVJGSWucIm4Ms51M_a13tVmOnKZGPbnvjjUYzUgdU_qNpOBMJIMizt_OCoymRUIvQ"
+    },
+    {
+      "id": "36b4",
+      "fullName": "Nguyễn Duy Hiển",
+      "email": "duyhien@gmail.com",
+      "password": "12345",
+      "isAdmin": false,
+      "cart": [],
+      "avatar": ""
+    },
+    {
+      "id": "d7bd",
+      "fullName": "KelvinDang",
+      "email": "dangkelvin@gmail.com",
+      "password": "12345",
+      "isAdmin": false,
+      "cart": [],
+      "avatar": ""
+    },
+    {
+      "id": "69e8",
+      "fullName": "senzekken",
+      "email": "zekkensencity@gmail.com",
+      "password": "12345",
+      "isAdmin": false,
+      "cart": [],
+      "avatar": ""
     }
   ]
 }
