@@ -1,4 +1,4 @@
-import { Link } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import ActionLink from "./ActionLink";
 import SearchBar from "./SearchBar";
 import { useState } from "react";
@@ -8,8 +8,15 @@ import { useAccount } from "../../context/AccountContext";
 function MainHeader() {
   const [open, handleOpen] = useState(false);
   const { account } = useAccount();
+  const navigate = useNavigate();
 
-  console.log(account);
+  const handleOnClickAccount = () => {
+    if (account) {
+      navigate("/account");
+    } else {
+      handleOpen(true);
+    }
+  };
 
   return (
     <div className="w-full bg-[#E30019] h-auto sticky top-0 z-20">
@@ -146,7 +153,7 @@ function MainHeader() {
                 ></path>
               </svg>
             </ActionLink>
-            <button className="p-0" onClick={() => handleOpen(true)}>
+            <button className="p-0" onClick={() => handleOnClickAccount()}>
               <ActionLink
                 content={account ? account.fullName : "Đăng nhập"}
                 textWidth={"w-10"}

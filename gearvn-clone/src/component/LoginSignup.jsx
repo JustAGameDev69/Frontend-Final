@@ -10,6 +10,7 @@ import {
 import { Loading } from "./Loading";
 import { useState } from "react";
 import { useAccount } from "../context/AccountContext";
+import { useNavigate } from "react-router-dom";
 
 export default function LoginSignup({ open, handleOpen }) {
   const [loginState, setLoginState] = useState("login");
@@ -17,6 +18,8 @@ export default function LoginSignup({ open, handleOpen }) {
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
   const [signupLoginStatus, setSignupLoginStatus] = useState("");
+
+  const navigate = useNavigate();
 
   const onChangeLoginSignupState = (state) => {
     setLoginState(state);
@@ -44,6 +47,9 @@ export default function LoginSignup({ open, handleOpen }) {
         if (data.account) {
           setSignupLoginStatus(data.message);
           handleCancel();
+          if (data.account.email === "admin@gmail.com") {
+            navigate("/admin");
+          }
         } else {
           setSignupLoginStatus(
             "Tên tài khoản hoặc mật khẩu không đúng! Vui lòng thử lại"
