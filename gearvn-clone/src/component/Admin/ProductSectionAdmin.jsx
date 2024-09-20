@@ -15,14 +15,16 @@ export default function ProductSectionAdmin() {
     }
   }, [selectedCategories]);
 
-  console.log(collections);
-
   return (
     <div className="bg-white rounded w-3/4 mt-5 mb-5 ml-96 pt-5 pb-5 px-10">
       {isLoading ? (
         <Loading className="mt-96 mb-96" />
       ) : selectedCategories ? (
-        <ProductListAdmin data={collections} />
+        <ProductListAdmin
+          data={collections}
+          setSelectedCategories={setSelectedCategories}
+          selectedCategories={selectedCategories}
+        />
       ) : (
         <div className="flex flex-wrap gap-4">
           {categories.map((item, index) => (

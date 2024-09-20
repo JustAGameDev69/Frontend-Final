@@ -86,6 +86,22 @@ function reducer(state, action) {
         isLoading: false,
         suggestProducts: action.payload,
       };
+    case "edit/success":
+      return {
+        ...state,
+        isLoading: false,
+        collections: state.collections.map((item) =>
+          item.id === action.payload.id ? action.payload : item
+        ),
+      };
+    case "product/deleted":
+      return {
+        ...state,
+        isLoading: false,
+        collections: state.collections.filter(
+          (item) => item.id !== action.payload
+        ),
+      };
     case "rejected":
       return {
         ...state,
@@ -179,6 +195,32 @@ function DataProvider({ children }) {
     }
   }
 
+  async function updateProduct(product, type, id) {
+    dispatch({ type: "loading" });
+    try {
+      await delay();
+      const response = await fetch(`${BASE_URL}/${type}/${id}`, {
+        method: "PUT",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify(product),
+      });
+
+      if (!response.ok) {
+        throw new Error("Failed to update product");
+      }
+      const data = await response.json();
+      dispatch({ type: "edit/success", payload: data });
+      return { data, message: "Product updated successfully!" };
+    } catch {
+      dispatch({
+        type: "rejected",
+        payload: "There was an error loading data",
+      });
+    }
+  }
+
   async function getProductDetail(type, id) {
     dispatch({ type: "loading" });
     if (type === "laptop-gaming" || type === "laptop-vanphong") type = "laptop";
@@ -192,6 +234,22 @@ function DataProvider({ children }) {
       dispatch({
         type: "rejected",
         payload: "There was an error loading data",
+      });
+    }
+  }
+
+  async function deleteProduct(type, id) {
+    dispatch({ type: "loading" });
+    try {
+      await delay();
+      await fetch(`${BASE_URL}/${type}/${id}`, {
+        method: "DELETE",
+      });
+      dispatch({ type: "product/deleted", payload: id });
+    } catch {
+      dispatch({
+        type: "rejected",
+        payload: "There was an error delete city",
       });
     }
   }
@@ -236,6 +294,8 @@ function DataProvider({ children }) {
         getData,
         getProductDetail,
         getSuggestionProduct,
+        updateProduct,
+        deleteProduct,
       }}
     >
       {children}

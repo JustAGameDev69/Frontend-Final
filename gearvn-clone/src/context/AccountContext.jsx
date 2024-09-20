@@ -5,6 +5,7 @@ const BASE_URL = "http://localhost:3001";
 const delay = () => new Promise((resolve) => setTimeout(resolve, 2000));
 
 const initialState = {
+  accounts: [],
   account: null,
   isLoading: false,
   error: "",
@@ -16,6 +17,12 @@ function reducer(state, action) {
       return {
         ...state,
         isLoading: true,
+      };
+    case "accounts/loaded":
+      return {
+        ...state,
+        isLoading: false,
+        accounts: action.payload,
       };
     case "account/login":
       return {
@@ -41,10 +48,25 @@ function reducer(state, action) {
 }
 
 function AccountProvider({ children }) {
-  const [{ account, isLoading, error }, dispatch] = useReducer(
+  const [{ accounts, account, isLoading, error }, dispatch] = useReducer(
     reducer,
     initialState
   );
+
+  async function getAllUser() {
+    dispatch({ type: "loading" });
+    try {
+      await delay();
+      const res = await fetch(`${BASE_URL}/account`);
+      const data = await res.json();
+      dispatch({ type: "accounts/loaded", payload: data });
+    } catch {
+      dispatch({
+        type: "rejected",
+        payload: "There was an error loading data",
+      });
+    }
+  }
 
   async function getUser(email, password) {
     dispatch({ type: "loading" });
@@ -118,8 +140,10 @@ function AccountProvider({ children }) {
   return (
     <AccountContext.Provider
       value={{
+        accounts,
         account,
         isLoading,
+        getAllUser,
         getUser,
         createAccount,
         validateSignup,
