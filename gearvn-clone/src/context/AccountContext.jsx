@@ -36,6 +36,20 @@ function reducer(state, action) {
         isLoading: false,
         account: action.payload,
       };
+    case "account/deleted":
+      return {
+        ...state,
+        isLoading: false,
+        accounts: state.accounts.filter(
+          (account) => account.id !== action.payload
+        ),
+      };
+    case "cart/updated":
+      return {
+        ...state,
+        isLoading: false,
+        account: action.payload,
+      };
     case "rejected":
       return {
         ...state,
@@ -86,6 +100,28 @@ function AccountProvider({ children }) {
     }
   }
 
+  async function updateUserCart(account, id) {
+    dispatch({ type: "loading" });
+    try {
+      await delay();
+      const res = await fetch(`${BASE_URL}/account/${id}`, {
+        method: "PUT",
+        body: JSON.stringify(account),
+        headers: {
+          "Content-Type": "application/json",
+        },
+      });
+      const data = await res.json();
+      console.log(data);
+      dispatch({ type: "cart/updated", payload: data });
+    } catch {
+      dispatch({
+        type: "rejected",
+        payload: "There was an error loading data",
+      });
+    }
+  }
+
   async function createAccount(account) {
     dispatch({ type: "loading" });
     try {
@@ -103,6 +139,22 @@ function AccountProvider({ children }) {
       dispatch({
         type: "rejected",
         payload: "There was an error create account",
+      });
+    }
+  }
+
+  async function deleteAccount(id) {
+    dispatch({ type: "loading" });
+    try {
+      await delay();
+      await fetch(`${BASE_URL}/account/${id}`, {
+        method: "DELETE",
+      });
+      dispatch({ type: "account/deleted", payload: id });
+    } catch {
+      dispatch({
+        type: "rejected",
+        payload: "There was an error delete account",
       });
     }
   }
@@ -147,6 +199,8 @@ function AccountProvider({ children }) {
         getUser,
         createAccount,
         validateSignup,
+        deleteAccount,
+        updateUserCart,
         error,
       }}
     >

@@ -249,7 +249,7 @@ function DataProvider({ children }) {
     } catch {
       dispatch({
         type: "rejected",
-        payload: "There was an error delete city",
+        payload: "There was an error delete product",
       });
     }
   }

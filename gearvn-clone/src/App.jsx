@@ -1,4 +1,4 @@
-import { DataProvider } from "./context/dataContext";
+import { DataProvider } from "./context/DataContext";
 import CollectionsPage from "./pages/CollectionsPage";
 import HomePage from "./pages/HomePage";
 import PageNotFound from "./pages/PageNotFound";
@@ -6,6 +6,7 @@ import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
 import ProductDetailPage from "./pages/ProductDetailPage";
 import { AccountProvider } from "./context/AccountContext";
 import AdminPage from "./pages/AdminPage";
+import UserCartPage from "./pages/UserCartPage";
 
 function App() {
   return (
@@ -21,8 +22,9 @@ function App() {
               />
               <Route path="collections/:id" element={<CollectionsPage />} />
               <Route path="product/:type/:id" element={<ProductDetailPage />} />
-              <Route path="*" element={<PageNotFound />} />
+              <Route path="user/cart" element={<UserCartPage />} />
               <Route path="admin" element={<AdminPage />} />
+              <Route path="*" element={<PageNotFound />} />
             </Routes>
           </BrowserRouter>
         </DataProvider>
