@@ -5,7 +5,7 @@ import PleaseLoginModal from "./Cart/PleaseLoginModal";
 import { useNavigate } from "react-router-dom";
 
 export default function AccountPageBody() {
-  const { account } = useAccount();
+  const { account, updateUserInformation, isLoading } = useAccount();
   const [open, handleOpen] = useState(!account);
   const navigate = useNavigate();
 
@@ -17,7 +17,11 @@ export default function AccountPageBody() {
   return (
     <div className="content-container bg-white mt-3 mb-3 rounded px-8 py-5">
       {account ? (
-        <AccountDetail account={account} />
+        <AccountDetail
+          account={account}
+          updateUserInformation={updateUserInformation}
+          isLoading={isLoading}
+        />
       ) : (
         <>
           <div className="w-full">

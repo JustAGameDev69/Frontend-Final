@@ -50,6 +50,12 @@ function reducer(state, action) {
         isLoading: false,
         account: action.payload,
       };
+    case "account/updated":
+      return {
+        ...state,
+        isLoading: false,
+        account: action.payload,
+      };
     case "rejected":
       return {
         ...state,
@@ -112,8 +118,28 @@ function AccountProvider({ children }) {
         },
       });
       const data = await res.json();
-      console.log(data);
       dispatch({ type: "cart/updated", payload: data });
+    } catch {
+      dispatch({
+        type: "rejected",
+        payload: "There was an error loading data",
+      });
+    }
+  }
+
+  async function updateUserInformation(account, id) {
+    dispatch({ type: "loading" });
+    try {
+      await delay();
+      const res = await fetch(`${BASE_URL}/account/${id}`, {
+        method: "PUT",
+        body: JSON.stringify(account),
+        headers: {
+          "Content-Type": "application/json",
+        },
+      });
+      const data = await res.json();
+      dispatch({ type: "account/updated", payload: data });
     } catch {
       dispatch({
         type: "rejected",
@@ -201,6 +227,7 @@ function AccountProvider({ children }) {
         validateSignup,
         deleteAccount,
         updateUserCart,
+        updateUserInformation,
         error,
       }}
     >

@@ -1,13 +1,17 @@
-import { Typography, Button } from "@material-tailwind/react";
+import { Button } from "@material-tailwind/react";
 import ImageTag from "./Body/SliderSection/ImageTag";
 import { useReducer, useState } from "react";
+import { Loading } from "./Loading";
+import AccounDetailForm from "./AccounDetailForm";
 
 const initialState = {
   edit: false,
   changePassword: false,
   newPassword: "",
   confirmPassword: "",
-  reConfirmPassword: "",
+  currentPassword: "",
+  changePasswordState: "",
+  avatarChange: false,
 };
 
 function reducer(state, action) {
@@ -17,13 +21,117 @@ function reducer(state, action) {
         ...state,
         edit: action.payload,
       };
+    case "changePassword/set":
+      return {
+        ...state,
+        changePassword: !state.changePassword,
+      };
+    case "currentPassword/set":
+      return {
+        ...state,
+        currentPassword: action.payload,
+      };
+    case "newPassword/set":
+      return {
+        ...state,
+        newPassword: action.payload,
+      };
+    case "confirmPassword/set":
+      return {
+        ...state,
+        confirmPassword: action.payload,
+      };
+    case "changePasswordState/set":
+      return {
+        ...state,
+        changePasswordState: action.payload,
+      };
+    case "avatarChange/set":
+      return {
+        ...state,
+        avatarChange: !state.avatarChange,
+      };
   }
 }
 
-export default function AccountDetail({ account }) {
-  const [{ edit }, dispatch] = useReducer(initialState);
+export default function AccountDetail({
+  account,
+  updateUserInformation,
+  isLoading,
+}) {
+  const [
+    {
+      edit,
+      changePassword,
+      currentPassword,
+      newPassword,
+      confirmPassword,
+      changePasswordState,
+      avatarChange,
+    },
+    dispatch,
+  ] = useReducer(reducer, initialState);
+
   const [change, setChange] = useState(account);
-  const [changePassword, setChangePassword] = useState(reducer, false);
+
+  const emptyPasswordChangeForm = () => {
+    dispatch({
+      type: "currentPassword/set",
+      payload: "",
+    });
+    dispatch({
+      type: "newPassword/set",
+      payload: "",
+    });
+    dispatch({
+      type: "confirmPassword/set",
+      payload: "",
+    });
+    dispatch({
+      type: "changePasswordState/set",
+      payload: "",
+    });
+  };
+
+  const handleConfirmNewPassword = (updatedAccount) => {
+    if (!currentPassword || !newPassword || !confirmPassword) {
+      dispatch({
+        type: "changePasswordState/set",
+        payload: "Vui lòng nhập toàn bộ các mục!",
+      });
+      return;
+    }
+
+    if (currentPassword != account.password) {
+      dispatch({
+        type: "changePasswordState/set",
+        payload: "Mật khẩu hiện tại không đúng!",
+      });
+      return;
+    }
+
+    if (newPassword !== confirmPassword) {
+      dispatch({
+        type: "changePasswordState/set",
+        payload: "Mật khẩu mới và mật khẩu xác định lại không trùng khớp!",
+      });
+      return;
+    }
+
+    if (
+      currentPassword == account.password &&
+      newPassword === confirmPassword
+    ) {
+      dispatch({ type: "changePassword/set" });
+      updateUserInformation(updatedAccount, account.id);
+      emptyPasswordChangeForm();
+    }
+  };
+
+  const handleAccountDetailChange = (updatedAccount) => {
+    updateUserInformation(updatedAccount, account.id);
+    dispatch({ type: "edit/set", payload: false });
+  };
 
   return (
     <>
@@ -38,118 +146,59 @@ export default function AccountDetail({ account }) {
                 ? account.avatar
                 : "https://t4.ftcdn.net/jpg/05/49/98/39/360_F_549983970_bRCkYfk0P6PP5fKbMhZMIb07mCJ6esXL.jpg"}
             </ImageTag>
-            <Button variant="outlined" size="sm" className="">
+            {avatarChange && (
+              <div className="my-4">
+                <input
+                  className="w-full my-2 text-lg px-2 py-2 block border border-blue-gray-200 rounded-lg focus:outline-none focus:border-blue-gray-700"
+                  value={change.avatar ? change.avatar : ""}
+                  onChange={(e) =>
+                    setChange({ ...change, avatar: e.target.value })
+                  }
+                />
+                <Button
+                  size="sm"
+                  color="green"
+                  onClick={() => handleAccountDetailChange(change)}
+                >
+                  Lưu
+                </Button>
+              </div>
+            )}
+            <Button
+              onClick={() => dispatch({ type: "avatarChange/set" })}
+              variant="outlined"
+              size="sm"
+            >
               Thay đổi Avatar
             </Button>
           </div>
-          <div className="w-2/3 flex flex-col px-4">
-            <Typography className="mb-1 mt-2" variant="h6">
-              Họ và tên:
-            </Typography>
-            <input
-              disabled={!edit}
-              value={change.fullName}
-              onChange={(e) =>
-                setChange({ ...change, fullName: e.target.value })
-              }
-              type="text"
-              placeholder="Tên đầy đủ"
-              className="text-xl px-4 py-2 border border-blue-gray-200 rounded-lg focus:outline-none focus:border-blue-gray-700"
+          {isLoading ? (
+            <Loading className="my-32" />
+          ) : (
+            <AccounDetailForm
+              edit={edit}
+              change={change}
+              setChange={setChange}
+              changePassword={changePassword}
+              currentPassword={currentPassword}
+              newPassword={newPassword}
+              confirmPassword={confirmPassword}
+              changePasswordState={changePasswordState}
+              dispatch={dispatch}
+              emptyPasswordChangeForm={emptyPasswordChangeForm}
+              handleConfirmNewPassword={handleConfirmNewPassword}
             />
-            <Typography type="email" className="mb-1 mt-2" variant="h6">
-              Email:
-            </Typography>
-            <input
-              disabled={!edit}
-              value={change.email}
-              onChange={(e) => setChange({ ...change, email: e.target.value })}
-              type="email"
-              placeholder="Email"
-              className="text-xl px-4 py-2 border border-blue-gray-200 rounded-lg focus:outline-none focus:border-blue-gray-700"
-            />
-            <Typography className="mb-1 mt-2" variant="h6">
-              Số điện thoại:
-            </Typography>
-            <input
-              disabled={!edit}
-              type="number"
-              placeholder="SĐT"
-              className="text-xl px-4 py-2 border border-blue-gray-200 rounded-lg focus:outline-none focus:border-blue-gray-700"
-            />
-            <Typography className="mb-1 mt-2" variant="h6">
-              Địa chỉ:
-            </Typography>
-            <input
-              disabled={!edit}
-              type="text"
-              placeholder="Địa chỉ cụ thể"
-              className="text-xl px-4 py-2 border border-blue-gray-200 rounded-lg focus:outline-none focus:border-blue-gray-700"
-            />
-            <Typography className="mb-1 mt-2" variant="h6">
-              Giới thiệu bản thân:
-            </Typography>
-            <textarea
-              disabled={!edit}
-              type="text"
-              placeholder="Một chút về bạn..."
-              className="text-xl px-4 py-2 border border-blue-gray-200 rounded-lg focus:outline-none focus:border-blue-gray-700"
-              rows="3"
-            />
-            {changePassword && (
-              <>
-                <Typography className="mb-1 mt-2" variant="h6">
-                  Nhập mật khẩu hiện tại:
-                </Typography>
-                <input
-                  disabled={!edit}
-                  value={change.password}
-                  onChange={(e) =>
-                    setChange({ ...change, password: e.target.value })
-                  }
-                  type="password"
-                  placeholder="Mật khẩu"
-                  className="text-xl px-4 py-2 border border-blue-gray-200 rounded-lg focus:outline-none focus:border-blue-gray-700"
-                />
-                <Typography className="mb-1 mt-2" variant="h6">
-                  Mật khẩu mới:
-                </Typography>
-                <input
-                  disabled={!edit}
-                  value={change.password}
-                  onChange={(e) =>
-                    setChange({ ...change, password: e.target.value })
-                  }
-                  type="password"
-                  placeholder="Mật khẩu"
-                  className="text-xl px-4 py-2 border border-blue-gray-200 rounded-lg focus:outline-none focus:border-blue-gray-700"
-                />
-                <Typography className="mb-1 mt-2" variant="h6">
-                  Nhập lại mật khẩu mới:
-                </Typography>
-                <input
-                  disabled={!edit}
-                  value={change.password}
-                  onChange={(e) =>
-                    setChange({ ...change, password: e.target.value })
-                  }
-                  type="password"
-                  placeholder="Mật khẩu"
-                  className="text-xl px-4 py-2 border border-blue-gray-200 rounded-lg focus:outline-none focus:border-blue-gray-700"
-                />
-                <div className="flex gap-2 py-4">
-                  <Button onClick={() => setChangePassword(false)}>Hủy</Button>
-                  <Button onClick={() => setChangePassword(false)}>Lưu</Button>
-                </div>
-              </>
-            )}
-          </div>
+          )}
         </div>
         <div className="py-4 text-right">
           <Button
             color="blue-gray"
             size="md"
             className="w-36 mx-2"
-            onClick={() => setChangePassword(true)}
+            onClick={() => {
+              dispatch({ type: "changePassword/set" });
+              emptyPasswordChangeForm();
+            }}
           >
             Đổi mật khẩu
           </Button>
@@ -165,7 +214,7 @@ export default function AccountDetail({ account }) {
               <Button
                 className="mx-2"
                 color="green"
-                onClick={() => dispatch({ type: "edit/set", payload: false })}
+                onClick={() => handleAccountDetailChange(change)}
               >
                 Lưu
               </Button>

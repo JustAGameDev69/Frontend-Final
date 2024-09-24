@@ -174,7 +174,7 @@ function MainHeader() {
               >
                 {account ? (
                   <img
-                    className="w-full rounded"
+                    className="rounded"
                     src={
                       account.avatar
                         ? account.avatar
