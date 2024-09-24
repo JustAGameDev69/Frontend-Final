@@ -3,7 +3,7 @@ import GallaryCarousel from "./GallaryCarousel";
 import SvgReturn from "../SvgReturn";
 import "../Body/SectionCollection/ProductCarousel/ProductCarousel_Card.css";
 import { useAccount } from "../../context/AccountContext";
-import AddToCartModal from "../Cart/AddToCartModal";
+import PleaseLoginModal from "../Cart/PleaseLoginModal";
 import { Loading } from "../Loading";
 
 function calculateRoundedPercent(a, b) {
@@ -148,7 +148,11 @@ export default function ProductDetailPageHeader({ product, type }) {
           </div>
         </div>
       </div>
-      <AddToCartModal open={open} handleOpen={handleOpen} />
+      <PleaseLoginModal
+        open={open}
+        handleOpen={handleOpen}
+        content={"BẠN HÃY VUI LÒNG ĐĂNG NHẬP ĐỂ MUA HÀNG NHÉ!"}
+      />
     </>
   );
 }

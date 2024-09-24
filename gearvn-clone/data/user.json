@@ -32,7 +32,16 @@
       "email": "duyhien@gmail.com",
       "password": "12345",
       "isAdmin": false,
-      "cart": [],
+      "cart": [
+        {
+          "product_id": "8",
+          "product_type": "pc",
+          "product_image": "https://product.hstatic.net/200000722513/product/post-03_3e7ea534e5ea4d269529733634ee4b5d_grande.jpg",
+          "product_name": "PC GVN G-STUDIO AMD R9-7950X3D/ VGA RX 7900 XTX (Powered by ASUS)",
+          "product_price": "97.400.000",
+          "product_quantity": 1
+        }
+      ],
       "avatar": ""
     },
     {

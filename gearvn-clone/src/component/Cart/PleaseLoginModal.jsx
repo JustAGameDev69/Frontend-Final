@@ -6,16 +6,23 @@ import {
   DialogFooter,
 } from "@material-tailwind/react";
 
-export default function AddToCartModal({ open, handleOpen }) {
+export default function PleaseLoginModal({
+  open,
+  handleOpen,
+  content,
+  onClickFunction,
+}) {
   return (
     <Dialog open={open} handler={handleOpen}>
       <DialogHeader>CHƯA ĐĂNG NHẬP</DialogHeader>
-      <DialogBody>BẠN HÃY VUI LÒNG ĐĂNG NHẬP ĐỂ MUA HÀNG NHÉ!</DialogBody>
+      <DialogBody>{content}</DialogBody>
       <DialogFooter>
         <Button
           variant="text"
           color="green"
-          onClick={() => handleOpen(false)}
+          onClick={
+            onClickFunction ? () => onClickFunction() : () => handleOpen(false)
+          }
           className="mr-1"
         >
           <span>ĐỒNG Ý</span>
