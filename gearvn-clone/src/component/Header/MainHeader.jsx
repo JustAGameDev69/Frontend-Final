@@ -144,7 +144,7 @@ function MainHeader() {
                   {account.cart.length}
                 </p>
               )}
-              <Link to={"user/cart"}>
+              <Link to="/user/cart">
                 <ActionLink content={"Giỏ hàng"} textWidth={"w-10"}>
                   <svg
                     viewBox="0 0 20 20"

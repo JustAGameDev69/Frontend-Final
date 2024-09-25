@@ -33,7 +33,7 @@ export default function ProductDetailPage() {
       <div className="w-full mt-3 mb-3">
         <div className="content-container rounded">
           {isLoading ? (
-            <Loading className="mt-20 mb-20" />
+            <Loading className="mt-56 mb-56" />
           ) : (
             <>
               <ProductDetailPageHeader product={product} type={type} />

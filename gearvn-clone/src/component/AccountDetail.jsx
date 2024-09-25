@@ -3,6 +3,7 @@ import ImageTag from "./Body/SliderSection/ImageTag";
 import { useReducer, useState } from "react";
 import { Loading } from "./Loading";
 import AccounDetailForm from "./AccounDetailForm";
+import { useNavigate } from "react-router-dom";
 
 const initialState = {
   edit: false,
@@ -58,6 +59,7 @@ export default function AccountDetail({
   account,
   updateUserInformation,
   isLoading,
+  logOut,
 }) {
   const [
     {
@@ -73,6 +75,7 @@ export default function AccountDetail({
   ] = useReducer(reducer, initialState);
 
   const [change, setChange] = useState(account);
+  const navigate = useNavigate();
 
   const emptyPasswordChangeForm = () => {
     dispatch({
@@ -190,44 +193,57 @@ export default function AccountDetail({
             />
           )}
         </div>
-        <div className="py-4 text-right">
+        <div className="py-4 ml-24 flex items-center justify-between">
           <Button
-            color="blue-gray"
+            color="deep-orange"
             size="md"
             className="w-36 mx-2"
-            onClick={() => {
-              dispatch({ type: "changePassword/set" });
-              emptyPasswordChangeForm();
+            onClick={async () => {
+              await logOut();
+              navigate("/");
             }}
           >
-            Đổi mật khẩu
+            {isLoading ? "Vui lòng chờ..." : "Đăng xuất"}
           </Button>
-          {edit ? (
-            <>
-              <Button
-                className="mx-2"
-                color="red"
-                onClick={() => dispatch({ type: "edit/set", payload: false })}
-              >
-                Hủy
-              </Button>
-              <Button
-                className="mx-2"
-                color="green"
-                onClick={() => handleAccountDetailChange(change)}
-              >
-                Lưu
-              </Button>
-            </>
-          ) : (
+          <div>
             <Button
-              color="indigo"
-              className="mx-2"
-              onClick={() => dispatch({ type: "edit/set", payload: true })}
+              color="blue-gray"
+              size="md"
+              className="w-36 mx-2"
+              onClick={() => {
+                dispatch({ type: "changePassword/set" });
+                emptyPasswordChangeForm();
+              }}
             >
-              Chỉnh sửa
+              Đổi mật khẩu
             </Button>
-          )}
+            {edit ? (
+              <>
+                <Button
+                  className="mx-2"
+                  color="red"
+                  onClick={() => dispatch({ type: "edit/set", payload: false })}
+                >
+                  Hủy
+                </Button>
+                <Button
+                  className="mx-2"
+                  color="green"
+                  onClick={() => handleAccountDetailChange(change)}
+                >
+                  Lưu
+                </Button>
+              </>
+            ) : (
+              <Button
+                color="indigo"
+                className="mx-2"
+                onClick={() => dispatch({ type: "edit/set", payload: true })}
+              >
+                Chỉnh sửa
+              </Button>
+            )}
+          </div>
         </div>
       </div>
     </>

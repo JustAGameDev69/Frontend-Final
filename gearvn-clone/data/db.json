@@ -47,7 +47,7 @@
       "sale": 0,
       "components": {
         "mainboard": "B650M-E",
-        "CPU": "5 8400F",
+        "CPU": "Ryzen 5 8400F",
         "RAM": "16GB",
         "SSD": "500G",
         "HDD": "",
@@ -184,7 +184,7 @@
         "RAM": "8GB",
         "SSD": "256GB",
         "HDD": "",
-        "VGA": "GT 1030"
+        "VGA": "GTX 1030"
       },
       "detail": {
         "mainboard": "GIGABYTE H610M-H V2 (DDR4)",
@@ -283,7 +283,7 @@
         "RAM": "32GB",
         "SSD": "1TB",
         "HDD": "",
-        "VGA": "4070 SUPER"
+        "VGA": "RTX 4070 SUPER"
       },
       "detail": {
         "mainboard": "MSI MAG Z790 TOMAHAWK MAX WIFI DDR5",

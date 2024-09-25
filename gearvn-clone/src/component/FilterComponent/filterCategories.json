@@ -1,0 +1,51 @@
+{
+  "filterCategories": {
+    "cpuCategories": [
+      { "title": "PC-I3", "value": "i3" },
+      { "title": "PC-I5", "value": "i5" },
+      { "title": "PC-I7", "value": "i7" },
+      { "title": "PC-I9", "value": "i9" },
+      { "title": "PC-R3", "value": "ryzen 3" },
+      { "title": "PC-R5", "value": "ryzen r5" },
+      { "title": "PC-R7", "value": "ryzen r7" },
+      { "title": "PC-R9", "value": "ryzen r9" }
+    ],
+    "vgaCategories": [
+      { "title": "GTX Series", "value": "gtx" },
+      { "title": "AMD Radeon Series", "value": "rx" },
+      { "title": "RTX 1000 Series", "value": "rtx 1" },
+      { "title": "RTX 2000 Series", "value": "rtx 2" },
+      { "title": "RTX 3000 Series", "value": "rtx 3" },
+      { "title": "RTX 4000 Series", "value": "rtx 4" }
+    ],
+    "ramCategories": [
+      { "title": "8GB", "value": "8gb" },
+      { "title": "16GB", "value": "16gb" },
+      { "title": "32GB", "value": "32gb" },
+      { "title": "64GB", "value": "64gb" }
+    ],
+    "ssdCategories": [
+      { "title": "256GB", "value": "256gb" },
+      { "title": "512GB", "value": "500gb" },
+      { "title": "1TB", "value": "1tb" },
+      { "title": "2TB", "value": "2tb" }
+    ],
+    "price": [
+      { "title": "1.000 - 10.000.000", "value": "range1" },
+      { "title": "10.000.000 - 20.000.000", "value": "range2" },
+      { "title": "20.000.000 - 30.000.000", "value": "range3" },
+      { "title": "30.000.000 - 50.000.000", "value": "range4" },
+      { "title": "50.000.000+", "value": "range5" }
+    ],
+    "refreshRate": [
+      { "title": "60Hz", "value": "60" },
+      { "title": "75Hz", "value": "75" },
+      { "title": "75Hz", "value": "90" },
+      { "title": "120Hz", "value": "120" },
+      { "title": "144Hz", "value": "144" },
+      { "title": "165Hz", "value": "165" },
+      { "title": "180Hz", "value": "180" }
+    ],
+    "connect": []
+  }
+}

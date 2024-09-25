@@ -30,6 +30,12 @@ function reducer(state, action) {
         isLoading: false,
         account: action.payload[0],
       };
+    case "account/logout":
+      return {
+        ...state,
+        isLoading: false,
+        account: initialState.account,
+      };
     case "account/signup":
       return {
         ...state,
@@ -98,6 +104,19 @@ function AccountProvider({ children }) {
       const data = await res.json();
       dispatch({ type: "account/login", payload: data });
       return { account: data[0], message: "Đăng nhập thành công!" };
+    } catch {
+      dispatch({
+        type: "rejected",
+        payload: "There was an error loading data",
+      });
+    }
+  }
+
+  async function LogOut() {
+    dispatch({ type: "loading" });
+    try {
+      await delay();
+      dispatch({ type: "account/logout" });
     } catch {
       dispatch({
         type: "rejected",
@@ -228,6 +247,7 @@ function AccountProvider({ children }) {
         deleteAccount,
         updateUserCart,
         updateUserInformation,
+        LogOut,
         error,
       }}
     >
