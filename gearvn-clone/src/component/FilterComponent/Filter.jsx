@@ -1,4 +1,4 @@
-import { useState } from "react";
+/* import { useState } from "react";
 
 export default function Filter({
   categories = [],
@@ -23,6 +23,47 @@ export default function Filter({
         onChange={handleGetValue}
         className="w-auto py-1 px-2 border-2 border-red-600 rounded-md bg-white text-red-600 focus:outline-none focus:border-red-400 text-sm"
       >
+        {categories.map((category, index) => (
+          <option key={index} value={category.value}>
+            {category.title}
+          </option>
+        ))}
+      </select>
+    </div>
+  );
+}
+ */
+
+import { useState } from "react";
+
+export default function Filter({
+  categories = [],
+  children,
+  dispatch,
+  dispatchType,
+  filter,
+}) {
+  const [selectedValue, setSelectedValue] = useState("");
+
+  const handleGetValue = (e) => {
+    setSelectedValue(e.target.value);
+    dispatch({
+      type: dispatchType,
+      payload: { name: filter, value: e.target.value },
+    });
+  };
+
+  return (
+    <div className="flex items-center mx-2">
+      <label className="text-sm font-medium text-red-600 mr-2">
+        {children}:
+      </label>
+      <select
+        value={selectedValue}
+        onChange={handleGetValue}
+        className="w-auto py-1 px-2 border-2 border-red-600 rounded-md bg-white text-red-600 focus:outline-none focus:border-red-400 text-sm"
+      >
+        <option value="">Tất cả</option> {/* Option cho phép chọn tất cả */}
         {categories.map((category, index) => (
           <option key={index} value={category.value}>
             {category.title}

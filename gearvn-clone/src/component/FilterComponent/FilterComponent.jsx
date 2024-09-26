@@ -4,14 +4,35 @@ import { filterCategories } from "./filterCategories.json";
 import { Button } from "@material-tailwind/react";
 
 const initialState = {
+  filters: {},
+};
+
+/* const initialState = {
   priceFilter: "",
   cpuFilter: "",
   vgaFilter: "",
   ramFilter: "",
   ssdFilter: "",
-};
+}; */
 
 function reducer(state, action) {
+  switch (action.type) {
+    case "FILTER":
+      return {
+        ...state,
+        filters: {
+          ...state.filters,
+          [action.payload.name]: action.payload.value,
+        },
+      };
+    case "CLEAR_ALL":
+      return initialState;
+    default:
+      return state;
+  }
+}
+
+/* function reducer(state, action) {
   switch (action.type) {
     case "price/filter":
       return {
@@ -54,13 +75,21 @@ function reducer(state, action) {
         refreshRate: initialState.refreshRate,
       };
   }
-}
+} */
 
-export default function LaptopFilter({ products = [], setProductss }) {
-  const [
+export default function FilterComponent({
+  products = [],
+  setProductss,
+  filters = [],
+}) {
+  const [{ filters: selectedFilters }, dispatch] = useReducer(
+    reducer,
+    initialState
+  );
+  /*   const [
     { priceFilter, cpuFilter, vgaFilter, ramFilter, ssdFilter, refreshRate },
     dispatch,
-  ] = useReducer(reducer, initialState);
+  ] = useReducer(reducer, initialState); */
 
   const priceRanges = {
     range1: { min: 1000, max: 10000000 },
@@ -70,7 +99,32 @@ export default function LaptopFilter({ products = [], setProductss }) {
     range5: { min: 50000000, max: Infinity },
   };
 
-  const filteredPCs = useMemo(() => {
+  const filteredProducts = useMemo(() => {
+    return products.filter((product) => {
+      const productPrice = parseInt(product.price.replace(/\./g, ""));
+      const components = product.components;
+
+      let isWithinPriceRange = true;
+      if (selectedFilters.price) {
+        const { min, max } = priceRanges[selectedFilters.price];
+        isWithinPriceRange = productPrice >= min && productPrice <= max;
+      }
+
+      return Object.keys(selectedFilters).every((key) => {
+        if (key === "price") return isWithinPriceRange; // Lọc theo giá riêng
+        if (!selectedFilters[key]) return true;
+        return components[key]
+          ?.toLowerCase()
+          .includes(selectedFilters[key].toLowerCase());
+      });
+    });
+  }, [selectedFilters, products]);
+
+  useEffect(() => {
+    setProductss(filteredProducts);
+  }, [filteredProducts, setProductss]);
+
+  /*   const filteredPCs = useMemo(() => {
     return products.filter((pc) => {
       const pcPrice = parseInt(pc.price.replace(/\./g, ""));
       const components = pc.components;
@@ -105,11 +159,11 @@ export default function LaptopFilter({ products = [], setProductss }) {
 
   useEffect(() => {
     setProductss(filteredPCs);
-  }, [filteredPCs, setProductss]);
+  }, [filteredPCs, setProductss]); */
 
   return (
-    <div className="flex flex-wrap items-center mb-2">
-      <Filter
+    <div className="flex flex-wrap items-center mb-2 gap-2">
+      {/*       <Filter
         categories={filterCategories.price}
         dispatch={dispatch}
         dispatchType={"price/filter"}
@@ -150,12 +204,46 @@ export default function LaptopFilter({ products = [], setProductss }) {
         dispatchType={"refreshRate/filter"}
       >
         Tần số quét
-      </Filter>
+      </Filter> */}
+      {/*       {Object.entries(filterCategories).map(([key, categories]) => (
+        <Filter
+          key={key}
+          categories={categories}
+          dispatch={dispatch}
+          dispatchType="FILTER"
+        >
+          {key.charAt(0).toUpperCase() + key.slice(1).replace("Categories", "")}
+        </Filter>
+      ))} */}
+      {filters.map((filter) => {
+        let content;
+        if (filter === "price") {
+          content = "Giá tiền(VNĐ)";
+        } else if (filter === "refreshRate") {
+          content = "Tần số quét";
+        } else if (filter === "monitor") {
+          content = "Thông số màn hình";
+        } else {
+          content = filter;
+        }
+
+        return (
+          <Filter
+            key={filter}
+            categories={filterCategories[`${filter}Categories`]}
+            dispatch={dispatch}
+            dispatchType="FILTER"
+            filter={filter}
+          >
+            {content}
+          </Filter>
+        );
+      })}
       <Button
-        className="mx-2 mt-2"
+        className="mx-2"
         color="orange"
         size="sm"
-        onClick={() => dispatch({ type: "clearAll" })}
+        onClick={() => dispatch({ type: "CLEAR_ALL" })}
       >
         Xóa bộ lọc
       </Button>

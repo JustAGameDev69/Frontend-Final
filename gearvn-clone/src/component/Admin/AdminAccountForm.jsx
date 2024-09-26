@@ -112,7 +112,7 @@ export default function AdminAccountForm({ open, account, handleOpen }) {
                   <ul className="list-disc pl-5">
                     {change.cart.map((item, idx) => (
                       <li key={idx}>
-                        {item} <button>Delete</button>
+                        {item.product_name} <button>Delete</button>
                       </li>
                     ))}
                   </ul>

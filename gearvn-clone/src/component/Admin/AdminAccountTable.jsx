@@ -5,6 +5,7 @@ const thStyle = "border border-gray-300 px-4 py-2";
 const tdStyle = "border border-gray-300 px-10 py-2 text-center";
 
 export default function AdminAccountTable({ users, deleteAccount }) {
+  console.log(users);
   const [open, handleOpen] = useState(false);
   const [account, setAccount] = useState({});
 
@@ -55,7 +56,10 @@ export default function AdminAccountTable({ users, deleteAccount }) {
                   user.cart.length > 0 ? (
                     <ul className="list-disc pl-5">
                       {user.cart.map((item, idx) => (
-                        <li key={idx}>{item}</li>
+                        <li key={idx}>
+                          {item.product_name}
+                          <p>(Số lượng: {item.product_quantity})</p>
+                        </li>
                       ))}
                     </ul>
                   ) : (
