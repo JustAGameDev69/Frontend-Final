@@ -26,21 +26,25 @@
     ],
     "SSDCategories": [
       { "title": "256GB", "value": "256gb" },
-      { "title": "512GB", "value": "500gb" },
+      { "title": "512GB", "value": "512gb" },
       { "title": "1TB", "value": "1tb" },
       { "title": "2TB", "value": "2tb" }
     ],
     "priceCategories": [
-      { "title": "1.000 - 10.000.000", "value": "range1" },
-      { "title": "10.000.000 - 20.000.000", "value": "range2" },
-      { "title": "20.000.000 - 30.000.000", "value": "range3" },
-      { "title": "30.000.000 - 50.000.000", "value": "range4" },
-      { "title": "50.000.000+", "value": "range5" }
+      { "title": "1.000 - 500.000", "value": "range1" },
+      { "title": "500.000 - 1.000.000", "value": "range2" },
+      { "title": "1.000.000 - 5.000.000", "value": "range3" },
+      { "title": "5.000.000 - 10.000.000", "value": "range4" },
+      { "title": "10.000.000 - 20.000.000", "value": "range5" },
+      { "title": "20.000.000 - 30.000.000", "value": "range6" },
+      { "title": "30.000.000 - 50.000.000", "value": "range7" },
+      { "title": "50.000.000+", "value": "range8" }
     ],
     "refreshRateCategories": [
       { "title": "60Hz", "value": "60" },
       { "title": "75Hz", "value": "75" },
       { "title": "90Hz", "value": "90" },
+      { "title": "100Hz", "value": "100" },
       { "title": "120Hz", "value": "120" },
       { "title": "144Hz", "value": "144" },
       { "title": "165Hz", "value": "165" },
@@ -56,6 +60,52 @@
       { "title": "14.0inch", "value": "14" },
       { "title": "15.6inch", "value": "15" },
       { "title": "16inch", "value": "16" }
+    ],
+    "sizeCategories": [
+      { "title": "24 inch", "value": "24" },
+      { "title": "25 inch", "value": "25" },
+      { "title": "27 inch", "value": "27" }
+    ],
+    "resolutionCategories": [
+      { "title": "Full HD", "value": "hd" },
+      { "title": "2K", "value": "2k" },
+      { "title": "4K", "value": "4k" }
+    ],
+    "connectCategories": [
+      { "title": "Có dây", "value": "Có dây" },
+      { "title": "Không dây", "value": "Không dây" }
+    ],
+    "layoutCategories": [
+      { "title": "TKL", "value": "tkl" },
+      { "title": "Full size", "value": "full" }
+    ],
+    "keycapCategories": [
+      { "title": "PBT", "value": "pbt" },
+      { "title": "ABS", "value": "abs" }
+    ],
+    "ledCategories": [{ "title": "RGB", "value": "rgb" }],
+    "batteryCategories": [{ "title": "Pin sạc", "value": "pin sạc" }],
+    "weightCategories": [
+      { "title": "120kg", "value": "120" },
+      { "title": "160kg", "value": "160" }
+    ],
+    "heightCategories": [
+      { "title": "Dưới 1m75", "value": "1m75" },
+      { "title": "Dưới 1m90", "value": "1m90" }
+    ],
+    "materialCategories": [
+      { "title": "Lưới", "value": "lưới" },
+      { "title": "Vải", "value": "vải" },
+      { "title": "Da PU", "value": "pu" },
+      { "title": "Da PVC", "value": "pvc" }
+    ],
+    "connectPortCategories": [
+      { "title": "Type-C", "value": "c" },
+      { "title": "Bluetooth", "value": "bluetooth" }
+    ],
+    "headPhoneTypeCategories": [
+      { "title": "Over-ear", "value": "over" },
+      { "title": "In-ear", "value": "in" }
     ]
   }
 }

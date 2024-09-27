@@ -2,21 +2,42 @@ import { Link } from "react-router-dom";
 import { useData } from "../../../context/dataContext";
 import { Loading } from "../../Loading";
 import { ProductCarousel_Card } from "../SectionCollection/ProductCarousel/ProductCarousel_Card";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import FilterComponent from "../../FilterComponent/FilterComponent";
 
 export default function CollectionsBody({ products = [], categories = "" }) {
   const { isLoading } = useData();
   const [filteredProducts, setFilteredProducts] = useState(products);
 
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
+
   const filterCategories = {
-    laptop: ["CPU", "RAM", "VGA", "SSD", "refreshRate", "price"],
+    laptop: ["CPU", "RAM", "VGA", "SSD", "refreshRate", "monitor", "price"],
     pc: ["CPU", "RAM", "VGA", "SSD", "price"],
     "laptop-vanphong": ["CPU", "RAM", "VGA", "SSD", "monitor", "price"],
+    "laptop-gaming": ["CPU", "RAM", "VGA", "SSD", "refreshRate", "price"],
+    monitor: ["resolution", "size", "refreshRate", "price"],
+    mainboard: ["price"],
+    cpu: ["price"],
+    vga: ["price"],
+    ram: ["price"],
+    disk: ["price"],
+    case: ["price"],
+    coolingfan: ["price"],
+    psu: ["price"],
+    keyboard: ["connect", "layout", "keycap", "price"],
+    mouse: ["led", "battery", "price"],
+    chair: ["weight", "height", "material", "price"],
+    headphone: ["connect", "connectPort", "headPhoneType", "price"],
+    speaker: ["price"],
+    console: ["price"],
+    accessory: ["price"],
+    officedevice: ["price"],
+    apple: ["price"],
   };
   const currentFilters = filterCategories[categories] || [];
-
-  console.log(filteredProducts);
 
   return (
     <div className="w-full">
@@ -32,7 +53,7 @@ export default function CollectionsBody({ products = [], categories = "" }) {
           />
         </div>
         {isLoading ? (
-          <Loading />
+          <Loading className="my-40" />
         ) : (
           <div className="flex flex-wrap gap-1">
             {filteredProducts[0] ? (

@@ -49,7 +49,7 @@
         "mainboard": "B650M-E",
         "CPU": "Ryzen 5 8400F",
         "RAM": "16GB",
-        "SSD": "500G",
+        "SSD": "512G",
         "HDD": "",
         "VGA": "RX 7600"
       },
@@ -83,7 +83,7 @@
         "mainboard": "B650M",
         "CPU": "Ryzen 5 7600",
         "RAM": "16GB",
-        "SSD": "500GB",
+        "SSD": "512GB",
         "HDD": "",
         "VGA": "RTX 3060"
       },
@@ -116,7 +116,7 @@
         "mainboard": "B650M-E",
         "CPU": "Ryzen 7 7700",
         "RAM": "32GB",
-        "SSD": "500GB",
+        "SSD": "512GB",
         "HDD": "",
         "VGA": "RTX 3060"
       },
@@ -149,7 +149,7 @@
         "mainboard": "X670",
         "CPU": "Ryzen 9 7900",
         "RAM": "32GB",
-        "SSD": "500GB",
+        "SSD": "512GB",
         "HDD": "",
         "VGA": "RTX 3060"
       },
@@ -214,7 +214,7 @@
         "mainboard": "Z790",
         "CPU": "i9 14900K",
         "RAM": "32GB",
-        "SSD": "500GB",
+        "SSD": "512GB",
         "HDD": "",
         "VGA": "RTX 4060Ti"
       },
@@ -314,7 +314,7 @@
         "mainboard": "Z790",
         "CPU": "i5 14600KF",
         "RAM": "32GB",
-        "SSD": "500GB",
+        "SSD": "512GB",
         "HDD": "",
         "VGA": "RTX 4060Ti"
       },
@@ -413,7 +413,7 @@
         "mainboard": "B760M-PLUS",
         "CPU": "i5 12400F",
         "RAM": "8GB",
-        "SSD": "500GB",
+        "SSD": "512GB",
         "HDD": "",
         "VGA": "RTX 4060"
       },
@@ -446,7 +446,7 @@
         "mainboard": "B550M-A",
         "CPU": "Ryzen 5 5600X",
         "RAM": "8GB",
-        "SSD": "500GB",
+        "SSD": "512GB",
         "HDD": "",
         "VGA": "RTX 3050"
       },
@@ -5982,7 +5982,7 @@
         "image_2": "https://product.hstatic.net/200000722513/product/d14a80cafe9eb5c44dd5e1f826dd9bf_32a5b028d5034e1e8340d24b27aca92b_large_7707b842735d493b859483923c7501b2_grande.png"
       },
       "components": {
-        "connect": "Wireless",
+        "connect": "Không dây",
         "headPhoneType": "Over-ear",
         "connectPort": "USB Type-C"
       },
@@ -6010,7 +6010,7 @@
         "image_2": "https://product.hstatic.net/200000722513/product/fb4d7148326dbafe6c7949eeea20d43_10f0e89552c74fcfbaf376e82ab53397_large_7706945df66449f58fdce0f538651e29_grande.png"
       },
       "components": {
-        "connect": "Wireless",
+        "connect": "Không dây",
         "headPhoneType": "Over-ear",
         "connectPort": "USB Type-C"
       },
@@ -6037,7 +6037,7 @@
         "image_2": "https://product.hstatic.net/200000722513/product/w692_6f9f5f8ddac84d3593c8e5fa17926a3f_grande.png"
       },
       "components": {
-        "connect": "Wireless",
+        "connect": "Không dây",
         "headPhoneType": "Over-ear",
         "connectPort": "USB-C"
       },
@@ -6075,7 +6075,7 @@
         "image_6": "https://product.hstatic.net/200000722513/product/r_hce_hc8_9447197114398_221015-hammerhead-hyperspeed-ps-v2-1500x1000-1_f23bb3efbfb94d2c9e4e2f1f8ee5244e_grande.jpg"
       },
       "components": {
-        "connect": "Wireless",
+        "connect": "Không dây",
         "headPhoneType": "In-ear",
         "connectPort": ""
       },
@@ -6145,7 +6145,7 @@
         "image_6": "https://product.hstatic.net/200000722513/product/m3o5wy53_38c2178818c94bd09306fc525242a291_grande.png"
       },
       "components": {
-        "connect": "Wireless",
+        "connect": "Không dây",
         "headPhoneType": "Over-ear",
         "connectPort": "Bluetooth"
       },
@@ -6178,7 +6178,7 @@
         "image_6": "https://product.hstatic.net/200000722513/product/djsheq0g_d35c2cc39df84b9cb8c97e57e928c931_grande.png"
       },
       "components": {
-        "connect": "Wireless",
+        "connect": "Không dây",
         "headPhoneType": "Over-ear",
         "connectPort": "USB-C"
       },

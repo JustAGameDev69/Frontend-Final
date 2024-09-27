@@ -92,11 +92,14 @@ export default function FilterComponent({
   ] = useReducer(reducer, initialState); */
 
   const priceRanges = {
-    range1: { min: 1000, max: 10000000 },
-    range2: { min: 10000000, max: 20000000 },
-    range3: { min: 20000000, max: 30000000 },
-    range4: { min: 30000000, max: 50000000 },
-    range5: { min: 50000000, max: Infinity },
+    range1: { min: 1000, max: 500000 },
+    range2: { min: 500000, max: 1000000 },
+    range3: { min: 1000000, max: 5000000 },
+    range4: { min: 5000000, max: 10000000 },
+    range5: { min: 10000000, max: 20000000 },
+    range6: { min: 20000000, max: 30000000 },
+    range7: { min: 30000000, max: 50000000 },
+    range8: { min: 50000000, max: Infinity },
   };
 
   const filteredProducts = useMemo(() => {
@@ -223,6 +226,28 @@ export default function FilterComponent({
           content = "Tần số quét";
         } else if (filter === "monitor") {
           content = "Thông số màn hình";
+        } else if (filter === "size") {
+          content = "Kích thước";
+        } else if (filter === "resolution") {
+          content = "Độ phân giải";
+        } else if (filter === "layout") {
+          content = "Layout";
+        } else if (filter === "keycap") {
+          content = "Keycap";
+        } else if (filter === "connect") {
+          content = "Kết nối";
+        } else if (filter === "battery") {
+          content = "Pin";
+        } else if (filter === "weight") {
+          content = "Cân nặng";
+        } else if (filter === "height") {
+          content = "Chiều cao";
+        } else if (filter === "material") {
+          content = "Chất liệu";
+        } else if (filter === "connectPort") {
+          content = "Kiểu kết nối";
+        } else if (filter === "headPhoneType") {
+          content = "Loại tai nghe";
         } else {
           content = filter;
         }
