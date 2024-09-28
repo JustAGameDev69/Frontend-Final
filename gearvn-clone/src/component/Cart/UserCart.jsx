@@ -1,7 +1,40 @@
+import { useEffect, useState } from "react";
 import { useAccount } from "../../context/AccountContext";
+import CartItems from "./CartItems";
 
-export default function UserCard() {
-  const { account } = useAccount();
+export default function UserCart() {
+  const { account, updateUserCartItems } = useAccount();
+  const [cart, setCart] = useState(account ? account.cart : []);
+  const [selectedItems, setSelectedItems] = useState([]);
+
+  const totalPrice = selectedItems.reduce((total, item) => {
+    const numericPrice = parseInt(item.product_price.replace(/\./g, ""), 10);
+    return total + numericPrice * item.product_quantity;
+  }, 0);
+
+  const handleSelectItem = (item, isChecked) => {
+    if (isChecked) {
+      setSelectedItems((prev) => [...prev, item]);
+    } else {
+      setSelectedItems((prev) =>
+        prev.filter(
+          (selectedItem) => selectedItem.product_id !== item.product_id
+        )
+      );
+    }
+  };
+
+  useEffect(() => {
+    setSelectedItems((prevSelected) =>
+      prevSelected.map(
+        (item) =>
+          cart.find((cartItem) => cartItem.product_id === item.product_id) ||
+          item
+      )
+    );
+  }, [cart]);
+
+  console.log(cart);
 
   return (
     <div className="w-full mt-2 mb-2">
@@ -13,27 +46,18 @@ export default function UserCard() {
               GIỎ HÀNG CỦA{" "}
               <span className="text-[#ff0000]">{account.fullName}</span>
             </h1>
+            <p>(Tick chọn vào sản phẩm bạn muốn thanh toán nhé!)</p>
             <div className="grid grid-cols-1 gap-4">
-              {account.cart.map((item) => (
-                <div
-                  key={item.product_id}
-                  className="flex items-center bg-white shadow-md rounded-lg p-4"
-                >
-                  <img
-                    src={item.product_image}
-                    alt={item.product_name}
-                    className="w-24 h-24 object-cover rounded-lg mr-4"
-                  />
-                  <div className="flex-1">
-                    <p className="text-lg font-semibold">{item.product_name}</p>
-                    <p className="text-sm text-gray-500">
-                      {item.product_price}
-                    </p>
-                  </div>
-                  <button className="text-red-500 hover:text-red-700">
-                    Del
-                  </button>
-                </div>
+              {cart.map((item, index) => (
+                <CartItems
+                  key={index}
+                  item={item}
+                  handleSelectItem={handleSelectItem}
+                  updateUserCartItems={updateUserCartItems}
+                  setCart={setCart}
+                  cart={cart}
+                  accountId={account.id}
+                />
               ))}
             </div>
           </>
@@ -51,6 +75,13 @@ export default function UserCard() {
             </h1>
           </>
         )}
+        <h2 className="text-lg mt-8">
+          Tổng tiền:{" "}
+          <span className="text-[#ff0000] font-semibold italic">
+            {totalPrice.toLocaleString("vi-VN")}
+          </span>{" "}
+          VNĐ
+        </h2>
       </div>
     </div>
   );

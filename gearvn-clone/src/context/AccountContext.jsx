@@ -146,6 +146,26 @@ function AccountProvider({ children }) {
     }
   }
 
+  async function updateUserCartItems(newCart, id) {
+    dispatch({ type: "loading" });
+    try {
+      const res = await fetch(`${BASE_URL}/account/${id}`, {
+        method: "PATCH",
+        body: JSON.stringify({ cart: newCart }),
+        headers: {
+          "Content-Type": "application/json",
+        },
+      });
+      const data = await res.json();
+      dispatch({ type: "cart/updated", payload: data });
+    } catch {
+      dispatch({
+        type: "rejected",
+        payload: "There was an error loading data",
+      });
+    }
+  }
+
   async function updateUserInformation(account, id) {
     dispatch({ type: "loading" });
     try {
@@ -248,6 +268,7 @@ function AccountProvider({ children }) {
         updateUserCart,
         updateUserInformation,
         LogOut,
+        updateUserCartItems,
         error,
       }}
     >
