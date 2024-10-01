@@ -34,32 +34,45 @@ export default function UserCart() {
     );
   }, [cart]);
 
-  console.log(cart);
-
   return (
     <div className="w-full mt-2 mb-2">
       <div className="bg-white content-container rounded px-10 py-10">
         {account ? (
           <>
-            {" "}
-            <h1 className="text-2xl font-semibold italic">
+            <h1 className="text-2xl font-semibold italic border-b border-slate-800">
               GIỎ HÀNG CỦA{" "}
               <span className="text-[#ff0000]">{account.fullName}</span>
             </h1>
-            <p>(Tick chọn vào sản phẩm bạn muốn thanh toán nhé!)</p>
-            <div className="grid grid-cols-1 gap-4">
-              {cart.map((item, index) => (
-                <CartItems
-                  key={index}
-                  item={item}
-                  handleSelectItem={handleSelectItem}
-                  updateUserCartItems={updateUserCartItems}
-                  setCart={setCart}
-                  cart={cart}
-                  accountId={account.id}
-                />
-              ))}
-            </div>
+            {cart[0] ? (
+              <>
+                <p>(Tick chọn vào sản phẩm bạn muốn thanh toán nhé!)</p>
+                <div className="grid grid-cols-1 gap-4">
+                  {cart.map((item, index) => (
+                    <CartItems
+                      key={index}
+                      item={item}
+                      handleSelectItem={handleSelectItem}
+                      updateUserCartItems={updateUserCartItems}
+                      setCart={setCart}
+                      cart={cart}
+                      accountId={account.id}
+                    />
+                  ))}
+                </div>
+                <h2 className="text-lg mt-8">
+                  Tổng tiền:{" "}
+                  <span className="text-[#ff0000] font-semibold italic">
+                    {totalPrice.toLocaleString("vi-VN")}
+                  </span>{" "}
+                  VNĐ
+                </h2>
+              </>
+            ) : (
+              <h1 className="my-40 text-2xl text-center text-[#ff0000] font-semibold italic">
+                Bạn chưa có sản phẩm nào trong giỏ hàng. Hãy tìm cho mình một
+                sản phẩm nhé!
+              </h1>
+            )}
           </>
         ) : (
           <>
@@ -75,13 +88,6 @@ export default function UserCart() {
             </h1>
           </>
         )}
-        <h2 className="text-lg mt-8">
-          Tổng tiền:{" "}
-          <span className="text-[#ff0000] font-semibold italic">
-            {totalPrice.toLocaleString("vi-VN")}
-          </span>{" "}
-          VNĐ
-        </h2>
       </div>
     </div>
   );

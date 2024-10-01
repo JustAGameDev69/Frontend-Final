@@ -23,6 +23,15 @@
           "product_price": "29.430.000",
           "product_quantity": 1,
           "product_status": "waiting"
+        },
+        {
+          "product_id": "3",
+          "product_type": "keyboard",
+          "product_image": "https://product.hstatic.net/200000722513/product/mu01_________.3-1-510x510_5c2c0cb550be4297bd98ba7ba72dc6f4_grande.png",
+          "product_name": "Bàn phím cơ AKKO MU01 Joy of Life",
+          "product_price": "3.690.000",
+          "product_quantity": 1,
+          "product_status": "waiting"
         }
       ],
       "avatar": "https://lh3.googleusercontent.com/OLKWeSV57e8TDrWzI42IIGoik0wuJCEGLYMwGJr60pZBVrxXgFyjpWw-C37vKA0GzwyK6QQ-SMUURswU_KU6UAVJGSWucIm4Ms51M_a13tVmOnKZGPbnvjjUYzUgdU_qNpOBMJIMizt_OCoymRUIvQ"
@@ -40,7 +49,8 @@
           "product_image": "https://product.hstatic.net/200000722513/product/post-03_3e7ea534e5ea4d269529733634ee4b5d_grande.jpg",
           "product_name": "PC GVN G-STUDIO AMD R9-7950X3D/ VGA RX 7900 XTX (Powered by ASUS)",
           "product_price": "97.400.000",
-          "product_quantity": 1
+          "product_quantity": 1,
+          "product_status": "waiting"
         }
       ],
       "avatar": ""

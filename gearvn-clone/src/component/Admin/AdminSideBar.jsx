@@ -13,8 +13,12 @@ import {
   InboxIcon,
   PowerIcon,
 } from "@heroicons/react/24/solid";
+import { useAccount } from "../../context/AccountContext";
+import { useNavigate } from "react-router-dom";
 
 export default function AdminSideBar({ setSelect }) {
+  const navigate = useNavigate();
+  const { LogOut } = useAccount();
   return (
     <Card className="h-screen w-full max-w-[20rem] p-4 shadow-xl shadow-blue-gray-900/5 fixed top-0 left-0">
       <div className="mb-2 p-4">
@@ -53,7 +57,12 @@ export default function AdminSideBar({ setSelect }) {
           </ListItemPrefix>
           Settings
         </ListItem>
-        <ListItem onClick={() => setSelect("logout")}>
+        <ListItem
+          onClick={async () => {
+            await LogOut();
+            navigate("/");
+          }}
+        >
           <ListItemPrefix>
             <PowerIcon className="h-5 w-5" />
           </ListItemPrefix>

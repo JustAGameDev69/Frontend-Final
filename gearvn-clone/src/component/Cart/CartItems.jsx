@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 export default function CartItems({
   item,
   handleSelectItem,
@@ -12,6 +13,8 @@ export default function CartItems({
 
   const handleQuantityChange = (amount) => {
     const newQuantity = item.product_quantity + amount;
+
+    if (newQuantity < 1) return;
 
     const newCart = cart.map((product) =>
       product.product_id === item.product_id
@@ -40,11 +43,13 @@ export default function CartItems({
         onChange={handleCheckboxChange}
         type="checkbox"
       />
-      <img
-        src={item.product_image}
-        alt={item.product_name}
-        className="w-24 h-24 object-cover rounded-lg mr-4"
-      />
+      <Link to={`/product/${item.product_type}/${item.product_id}`}>
+        <img
+          src={item.product_image}
+          alt={item.product_name}
+          className="w-24 h-24 object-cover rounded-lg mr-4"
+        />
+      </Link>
       <div className="flex-1">
         <p className="text-lg font-semibold">{item.product_name}</p>
         <p className="text-sm text-gray-500">{item.product_price}</p>

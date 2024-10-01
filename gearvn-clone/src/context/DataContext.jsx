@@ -102,6 +102,12 @@ function reducer(state, action) {
           (item) => item.id !== action.payload
         ),
       };
+    case "addProduct":
+      return {
+        ...state,
+        isLoading: false,
+        collections: [...state.collections, action.payload],
+      };
     case "rejected":
       return {
         ...state,
@@ -221,6 +227,27 @@ function DataProvider({ children }) {
     }
   }
 
+  async function AddProduct(newProduct, type) {
+    dispatch({ type: "loading" });
+    try {
+      await delay();
+      const res = await fetch(`${BASE_URL}/${type}`, {
+        method: "POST",
+        body: JSON.stringify(newProduct),
+        headers: {
+          "Content-Type": "application/json",
+        },
+      });
+      const data = await res.json();
+      dispatch({ type: "addProduct", payload: data });
+    } catch {
+      dispatch({
+        type: "rejected",
+        payload: "There was an error create account",
+      });
+    }
+  }
+
   async function getProductDetail(type, id) {
     dispatch({ type: "loading" });
     if (type === "laptop-gaming" || type === "laptop-vanphong") type = "laptop";
@@ -294,6 +321,7 @@ function DataProvider({ children }) {
         getData,
         getProductDetail,
         getSuggestionProduct,
+        AddProduct,
         updateProduct,
         deleteProduct,
       }}

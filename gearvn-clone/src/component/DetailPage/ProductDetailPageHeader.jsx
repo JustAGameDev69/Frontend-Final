@@ -20,6 +20,10 @@ export default function ProductDetailPageHeader({ product, type }) {
   const [images, setImage] = useState([]);
   const { account, updateUserCart, isLoading } = useAccount();
 
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
+
   function handleAddToCart() {
     if (!account) handleOpen(true);
     if (account) {
@@ -43,6 +47,7 @@ export default function ProductDetailPageHeader({ product, type }) {
                   product.sale
                 ),
                 product_quantity: 1,
+                product_status: "waiting",
               },
             ],
       };

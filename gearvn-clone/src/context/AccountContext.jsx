@@ -115,7 +115,6 @@ function AccountProvider({ children }) {
   async function LogOut() {
     dispatch({ type: "loading" });
     try {
-      await delay();
       dispatch({ type: "account/logout" });
     } catch {
       dispatch({

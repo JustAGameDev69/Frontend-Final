@@ -82,18 +82,20 @@ export default function AdminAccountTable({ users, deleteAccount }) {
                 )}
               </td>
               <td className={`${tdStyle} text-center`}>
-                <button
-                  className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-1 px-2 rounded mr-2"
-                  onClick={() => handleEditAccount(user)}
-                >
-                  Edit
-                </button>
-                <button
-                  className="bg-red-500 hover:bg-red-700 text-white font-bold py-1 px-2 rounded"
-                  onClick={() => deleteAccount(user.id)}
-                >
-                  Delete
-                </button>
+                <div className="flex gap-2">
+                  <button
+                    className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-1 px-2 rounded"
+                    onClick={() => handleEditAccount(user)}
+                  >
+                    Edit
+                  </button>
+                  <button
+                    className="bg-red-500 hover:bg-red-700 text-white font-bold py-1 px-2 rounded"
+                    onClick={() => deleteAccount(user.id)}
+                  >
+                    Delete
+                  </button>
+                </div>
               </td>
             </tr>
           ))}

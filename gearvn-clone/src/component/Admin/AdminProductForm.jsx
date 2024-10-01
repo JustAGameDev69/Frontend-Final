@@ -32,12 +32,7 @@ export default function AdminProductForm({
   const [change, setChange] = useState(initialState);
 
   const handleConfirmUpdateProduct = async () => {
-    const response = await updateProduct(
-      change,
-      selectedCategories,
-      product.id
-    );
-    console.log(response);
+    await updateProduct(change, selectedCategories, product.id);
   };
 
   return (

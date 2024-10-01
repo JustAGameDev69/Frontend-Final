@@ -2,8 +2,13 @@ import Header from "../component/Header/Header";
 import Body from "../component/Body/Body";
 import Footer from "../component/Footer/Footer";
 import AdsComponent from "../component/Body/AdsComponent";
+import { useEffect } from "react";
 
 export default function HomePage() {
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
+
   return (
     <>
       <AdsComponent

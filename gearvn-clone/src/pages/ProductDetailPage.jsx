@@ -19,6 +19,10 @@ export default function ProductDetailPage() {
     techNews,
   } = useData();
 
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
+
   useEffect(
     function () {
       getProductDetail(type, id);

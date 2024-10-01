@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import { useData } from "../../../context/dataContext";
+import { useData } from "../../../context/DataContext";
 import { Loading } from "../../Loading";
 import { ProductCarousel_Card } from "../SectionCollection/ProductCarousel/ProductCarousel_Card";
 import { useEffect, useState } from "react";
