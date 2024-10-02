@@ -27,7 +27,7 @@ export default function AdminAddProductForm({
   handleOpen,
   selectedCategories,
 }) {
-  const { isLoading } = useData();
+  const { isLoading, AddProduct } = useData();
   const [newProduct, setNewProduct] = useState(initialState);
 
   let MAX_ITEMS = 5;
@@ -35,6 +35,10 @@ export default function AdminAddProductForm({
   const handleAddItem = (section) => {
     if (section === "detail") {
       MAX_ITEMS = 10;
+    }
+
+    if (section === "image") {
+      MAX_ITEMS = 6;
     }
 
     if (Object.keys(newProduct[section]).length < MAX_ITEMS) {
@@ -66,10 +70,8 @@ export default function AdminAddProductForm({
   };
 
   const handleSaveProduct = () => {
-    // Create a copy of newProduct to work with
     let sanitizedProduct = { ...newProduct };
 
-    // Function to remove empty values from an object
     const removeEmptyValues = (section) => {
       const filteredSection = Object.entries(sanitizedProduct[section])
         .filter(([key, value]) => value.trim() !== "")
@@ -81,13 +83,16 @@ export default function AdminAddProductForm({
       sanitizedProduct[section] = filteredSection;
     };
 
-    // Sanitize components, detail, and image sections
     removeEmptyValues("components");
     removeEmptyValues("detail");
     removeEmptyValues("image");
 
-    // Now sanitizedProduct has no empty values in these sections
-    console.log("Sanitized Product Data:", sanitizedProduct);
+    if (sanitizedProduct.sale) {
+      sanitizedProduct.sale = Number(sanitizedProduct.sale);
+    }
+
+    console.log(sanitizedProduct, selectedCategories);
+    AddProduct(sanitizedProduct, selectedCategories);
   };
 
   const renderDynamicFields = (section, label, maxItem) => (
@@ -174,7 +179,10 @@ export default function AdminAddProductForm({
                   size="md"
                   value={newProduct.sale}
                   onChange={(e) =>
-                    setNewProduct({ ...newProduct, sale: e.target.value })
+                    setNewProduct({
+                      ...newProduct,
+                      sale: e.target.value,
+                    })
                   }
                 />
                 <Typography className="mb-1 mt-2" variant="h6">
@@ -202,7 +210,7 @@ export default function AdminAddProductForm({
               </div>
               <div className="w-2/5">
                 {renderDynamicFields("components", "Components", MAX_ITEMS)}
-                {renderDynamicFields("image", "Image(URL)", MAX_ITEMS)}
+                {renderDynamicFields("image", "Image(URL)", 6)}
               </div>
               <div className="w-2/5">
                 {renderDynamicFields("detail", "Detail", 10)}

@@ -14,6 +14,9 @@
       "email": "vngkhang.icc@gmail.com",
       "isAdmin": false,
       "password": "123",
+      "phoneNumber": "0965159060",
+      "address": "Hà Nội - Việt Nam",
+      "personalIntroduction": "Là một lập trình viên phát triển website bằng React!",
       "cart": [
         {
           "product_id": "5",
@@ -41,6 +44,9 @@
       "fullName": "Nguyễn Duy Hiển",
       "email": "duyhien@gmail.com",
       "password": "12345",
+      "phoneNumber": "",
+      "address": "",
+      "personalIntroduction": "",
       "isAdmin": false,
       "cart": [
         {
@@ -60,6 +66,9 @@
       "fullName": "KelvinDang",
       "email": "dangkelvin@gmail.com",
       "password": "12345",
+      "phoneNumber": "",
+      "address": "",
+      "personalIntroduction": "",
       "isAdmin": false,
       "cart": [],
       "avatar": ""
@@ -69,6 +78,9 @@
       "fullName": "senzekken",
       "email": "zekkensencity@gmail.com",
       "password": "12345",
+      "phoneNumber": "",
+      "address": "",
+      "personalIntroduction": "",
       "isAdmin": false,
       "cart": [],
       "avatar": ""

@@ -42,6 +42,8 @@ export default function AccounDetailForm({
       </Typography>
       <input
         disabled={!edit}
+        value={change.phoneNumber}
+        onChange={(e) => setChange({ ...change, phoneNumber: e.target.value })}
         type="number"
         placeholder="SĐT"
         className="text-xl px-4 py-2 border border-blue-gray-200 rounded-lg focus:outline-none focus:border-blue-gray-700"
@@ -51,6 +53,8 @@ export default function AccounDetailForm({
       </Typography>
       <input
         disabled={!edit}
+        value={change.address}
+        onChange={(e) => setChange({ ...change, address: e.target.value })}
         type="text"
         placeholder="Địa chỉ cụ thể"
         className="text-xl px-4 py-2 border border-blue-gray-200 rounded-lg focus:outline-none focus:border-blue-gray-700"
@@ -60,6 +64,10 @@ export default function AccounDetailForm({
       </Typography>
       <textarea
         disabled={!edit}
+        value={change.personalIntroduction}
+        onChange={(e) =>
+          setChange({ ...change, personalIntroduction: e.target.value })
+        }
         type="text"
         placeholder="Một chút về bạn..."
         className="text-xl px-4 py-2 border border-blue-gray-200 rounded-lg focus:outline-none focus:border-blue-gray-700"

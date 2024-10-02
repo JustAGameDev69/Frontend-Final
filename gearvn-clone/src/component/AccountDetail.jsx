@@ -153,7 +153,7 @@ export default function AccountDetail({
               <div className="my-4">
                 <input
                   className="w-full my-2 text-lg px-2 py-2 block border border-blue-gray-200 rounded-lg focus:outline-none focus:border-blue-gray-700"
-                  value={change.avatar ? change.avatar : ""}
+                  value={change.avatar ? change.avatar : "No avatar yet!"}
                   onChange={(e) =>
                     setChange({ ...change, avatar: e.target.value })
                   }

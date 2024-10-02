@@ -495,6 +495,39 @@
         "fan": "Cooler Master MASTERLIQUID 240L CORE ARGB"
       },
       "desc_image": "https://file.hstatic.net/200000722513/file/pba_proart_2000x720px_798542a10fe0468e86f939e14faa2b72.jpg"
+    },
+    {
+      "id": "eef9",
+      "title": "PC GVN Intel i3-12100F/ VGA GT 1030",
+      "manufacturer": "",
+      "sale": 7,
+      "price": "8.930.000",
+      "image": {
+        "image_1": "https://product.hstatic.net/200000722513/product/gvn07935__1__b0b39d0512b4419f8c2a729bcb170881_medium.png",
+        "image_2": "https://product.hstatic.net/200000722513/product/gvn07935__1__b0b39d0512b4419f8c2a729bcb170881_grande.png",
+        "image_3": "https://product.hstatic.net/200000722513/product/_dsc0083_b6df1dc4e4364f2ca8112b03b8e3406d_41c66841706d429087a17a3c935f17b5_grande.jpg",
+        "image_4": "https://product.hstatic.net/200000722513/product/_dsc0028_4a93819c8ecc4d41a73e0c900b830e78_551a79e9341c4e28bdc039ba0ea707ff_grande.jpg",
+        "image_5": "https://product.hstatic.net/200000722513/product/_dsc0032_cfe8cd60ce404ab4b35cdcc8f65e761e_b3a2d0e2b0cf4cdd8b3cbce6ddcd4ea0_grande.jpg",
+        "image_6": "https://product.hstatic.net/200000722513/product/_dsc0040_9dfda6f22d624ad085ea340fe639280e_9235b634f5344eafb8be765371b56131_grande.jpg"
+      },
+      "components": {
+        "mainboard": "H610M-H",
+        "CPU": "i3 12100F",
+        "RAM": "8GB",
+        "VGA": "GTX 1030",
+        "SSD": "250GB"
+      },
+      "detail": {
+        "Mainboard": "GIGABYTE H610M-H V2 (DDR4)",
+        "CPU": "Intel Core i3 12100F / 3.3GHz Turbo 4.3GHz / 4 Nhân 8 Luồng / 12MB / LGA 1700",
+        "RAM": "PNY XLR8 Silver 1x8GB 3200 RGB",
+        "VGA - Card đồ họa": "MSI GeForce GT 1030 AERO ITX 2GD4 OC",
+        "HDD": "Có thể tùy chọn Nâng cấp",
+        "SSD": "PNY CS900 250GB Sata3",
+        "PSU": "Jetek J400 (400W)",
+        "Case": "Xigmatek QUANTUM 3GF"
+      },
+      "desc_image": "https://file.hstatic.net/1000026716/file/mang-nhen-pc-20_2f476fae30434e9dbcc51e79d65836cb.png"
     }
   ],
   "laptop": [
