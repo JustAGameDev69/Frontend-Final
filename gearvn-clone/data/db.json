@@ -3,6 +3,7 @@
     {
       "title": "PC GVN x ASUS Back to Future (Intel i7-14700K/ VGA RTX 4070 Ti Super)",
       "price": "71.220.000",
+      "categories": "pc",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/pc_ai_9d2576de0d644c8289792f295c8c2bdf_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/pc_asus_tuf_btf_-_3_2d54bb55a893411d8ba905a11eb5a05c_grande.png",
@@ -36,6 +37,7 @@
     {
       "title": "PC GVN AMD R5-8400F/ VGA RX 7600",
       "price": "24.490.000",
+      "categories": "pc",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/pc_gvn_-_asus_case_proart_-_22_4ec0f1b853dd4bb1b801d380e732ab16_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/pc_gvn_-_asus_case_proart_-_22_4ec0f1b853dd4bb1b801d380e732ab16_grande.png",
@@ -79,6 +81,7 @@
       },
       "sale": 3,
       "price": "24.820.000",
+      "categories": "pc",
       "components": {
         "mainboard": "B650M",
         "CPU": "Ryzen 5 7600",
@@ -112,6 +115,7 @@
       },
       "sale": 6,
       "price": "34.920.000",
+      "categories": "pc",
       "components": {
         "mainboard": "B650M-E",
         "CPU": "Ryzen 7 7700",
@@ -145,6 +149,7 @@
       },
       "sale": 3,
       "price": "42.420.000",
+      "categories": "pc",
       "components": {
         "mainboard": "X670",
         "CPU": "Ryzen 9 7900",
@@ -178,6 +183,7 @@
       },
       "sale": 7,
       "price": "9.130.000",
+      "categories": "pc",
       "components": {
         "mainboard": "H610M-H",
         "CPU": "i3 12100F",
@@ -210,6 +216,7 @@
       },
       "sale": 3,
       "price": "65.170.000",
+      "categories": "pc",
       "components": {
         "mainboard": "Z790",
         "CPU": "i9 14900K",
@@ -243,6 +250,7 @@
       },
       "sale": 1,
       "price": "98.380.000",
+      "categories": "pc",
       "components": {
         "mainboard": "X670E-CREATOR",
         "CPU": "Ryzen 9 7950X3D",
@@ -277,6 +285,7 @@
       },
       "sale": 5,
       "price": "52.620.000",
+      "categories": "pc",
       "components": {
         "mainboard": "Z790",
         "CPU": "i7 14700F",
@@ -300,6 +309,7 @@
     {
       "id": "10",
       "title": "PC GVN Intel i5-14600KF/ VGA RTX 4060 Ti",
+      "categories": "pc",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/pc_gvn_-_4060__case_corsair__-_3_cc6e90437cfd447580de3e3438ca8292_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/post-01_ebcf4dc58c39435a9605df5f55da38b2_grande.jpg",
@@ -343,6 +353,7 @@
       },
       "sale": 1,
       "price": "116.390.000",
+      "categories": "pc",
       "components": {
         "mainboard": "Z790-A",
         "CPU": "i9 14900K",
@@ -376,6 +387,7 @@
       },
       "sale": 3,
       "price": "11.180.000",
+      "categories": "pc",
       "components": {
         "mainboard": "H610M-CS",
         "CPU": "i3 12100F",
@@ -409,6 +421,7 @@
       },
       "sale": 2,
       "price": "22.410.000",
+      "categories": "pc",
       "components": {
         "mainboard": "B760M-PLUS",
         "CPU": "i5 12400F",
@@ -442,6 +455,7 @@
       },
       "sale": 6,
       "price": "18.110.000",
+      "categories": "pc",
       "components": {
         "mainboard": "B550M-A",
         "CPU": "Ryzen 5 5600X",
@@ -475,6 +489,7 @@
       },
       "sale": "",
       "price": "35.390.000",
+      "categories": "pc",
       "components": {
         "mainboard": "B760M",
         "CPU": "i7 13700",
@@ -502,6 +517,7 @@
       "manufacturer": "",
       "sale": 7,
       "price": "8.930.000",
+      "categories": "pc",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/gvn07935__1__b0b39d0512b4419f8c2a729bcb170881_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/gvn07935__1__b0b39d0512b4419f8c2a729bcb170881_grande.png",
@@ -544,6 +560,7 @@
       },
       "sale": 17,
       "price": "38.390.000",
+      "categories": "laptop",
       "components": {
         "CPU": "i7-13700H",
         "RAM": "16GB",
@@ -586,6 +603,7 @@
       },
       "sale": 12,
       "price": "20.490.000",
+      "categories": "laptop",
       "components": {
         "CPU": "i5-12450HX",
         "RAM": "12GB",
@@ -628,6 +646,7 @@
       },
       "sale": 29,
       "price": "33.990.000",
+      "categories": "laptop",
       "components": {
         "CPU": "i7-13620H",
         "RAM": "8GB",
@@ -670,6 +689,7 @@
       },
       "sale": 26,
       "price": "37.990.000",
+      "categories": "laptop",
       "components": {
         "CPU": "i7-13620H",
         "RAM": "16GB",
@@ -712,6 +732,7 @@
       },
       "sale": 8,
       "price": "31.990.000",
+      "categories": "laptop",
       "components": {
         "CPU": "i7-13650HX",
         "RAM": "16GB",
@@ -754,6 +775,7 @@
       },
       "sale": 25,
       "price": "25.990.000",
+      "categories": "laptop",
       "components": {
         "CPU": "i5-12500H",
         "RAM": "8GB",
@@ -796,6 +818,7 @@
       },
       "sale": 11,
       "price": "22.990.000",
+      "categories": "laptop",
       "components": {
         "CPU": "i7-13620H",
         "RAM": "16GB",
@@ -838,6 +861,7 @@
       },
       "sale": 8,
       "price": "22.490.000",
+      "categories": "laptop",
       "components": {
         "CPU": "i5-12450HX",
         "RAM": "12GB",
@@ -880,6 +904,7 @@
       },
       "sale": 18,
       "price": "20.490.000",
+      "categories": "laptop",
       "components": {
         "CPU": "i5-13420H",
         "RAM": "8GB",
@@ -922,6 +947,7 @@
       },
       "sale": 14,
       "price": "17.990.000",
+      "categories": "laptop",
       "components": {
         "CPU": "i5-12450H",
         "RAM": "8GB",
@@ -964,6 +990,7 @@
       },
       "sale": 9,
       "price": "34.990.000",
+      "categories": "laptop",
       "components": {
         "CPU": "i7-14700HX",
         "RAM": "16GB",
@@ -1006,6 +1033,7 @@
       },
       "sale": 10,
       "price": "35.990.000",
+      "categories": "laptop",
       "components": {
         "CPU": "i7-13650HX",
         "RAM": "24GB",
@@ -1048,6 +1076,7 @@
       },
       "sale": 14,
       "price": "20.990.000",
+      "categories": "laptop",
       "components": {
         "CPU": "i5-12500H",
         "RAM": "16GB",
@@ -1090,6 +1119,7 @@
       },
       "sale": 15,
       "price": "19.990.000",
+      "categories": "laptop",
       "components": {
         "CPU": "i5-12450H",
         "RAM": "8GB",
@@ -1132,6 +1162,7 @@
       },
       "sale": 24,
       "price": "61.990.000",
+      "categories": "laptop",
       "components": {
         "CPU": "i9-13950HX",
         "RAM": "16GB",
@@ -1174,6 +1205,7 @@
       },
       "sale": 16,
       "price": "18.990.000",
+      "categories": "laptop",
       "components": {
         "CPU": "i5-12500H",
         "RAM": "16GB",
@@ -1216,6 +1248,7 @@
       },
       "sale": 24,
       "price": "18.490.000",
+      "categories": "laptop",
       "components": {
         "CPU": "7 7730U",
         "RAM": "16GB",
@@ -1258,6 +1291,7 @@
       },
       "sale": 14,
       "price": "15.990.000",
+      "categories": "laptop",
       "components": {
         "CPU": "i5-13420H",
         "RAM": "16GB",
@@ -1300,6 +1334,7 @@
       },
       "sale": 17,
       "price": "20.990.000",
+      "categories": "laptop",
       "components": {
         "CPU": "i5-13500H",
         "RAM": "16GB",
@@ -1342,6 +1377,7 @@
       },
       "sale": 13,
       "price": "11.990.000",
+      "categories": "laptop",
       "components": {
         "CPU": "i3-1315U",
         "RAM": "8GB",
@@ -1384,6 +1420,7 @@
       },
       "sale": 11,
       "price": "15.490.000",
+      "categories": "laptop",
       "components": {
         "CPU": "i5-13420H",
         "RAM": "8GB",
@@ -1426,6 +1463,7 @@
       },
       "sale": 7,
       "price": "29.990.000",
+      "categories": "laptop",
       "components": {
         "CPU": "Ultra 7",
         "RAM": "16GB",
@@ -1468,6 +1506,7 @@
       },
       "sale": 7,
       "price": "26.990.000",
+      "categories": "laptop",
       "components": {
         "CPU": "Ultra 5",
         "RAM": "16GB",
@@ -1510,6 +1549,7 @@
       },
       "sale": 18,
       "price": "14.690.000",
+      "categories": "laptop",
       "components": {
         "CPU": "i3-1305U",
         "RAM": "8GB",
@@ -1552,6 +1592,7 @@
       },
       "sale": 7,
       "price": "28.990.000",
+      "categories": "laptop",
       "components": {
         "CPU": "Ultra 5",
         "RAM": "16GB",
@@ -1594,6 +1635,7 @@
       },
       "sale": 9,
       "price": "28.990.000",
+      "categories": "laptop",
       "components": {
         "CPU": "Ultra 5",
         "RAM": "16GB",
@@ -1636,6 +1678,7 @@
       },
       "sale": 2,
       "price": "59.990.000",
+      "categories": "laptop",
       "components": {
         "CPU": "Ultra 9",
         "RAM": "32GB",
@@ -1678,6 +1721,7 @@
       },
       "sale": 17,
       "price": "20.990.000",
+      "categories": "laptop",
       "components": {
         "CPU": "i5-13500H",
         "RAM": "16GB",
@@ -1720,6 +1764,7 @@
       },
       "sale": 26,
       "price": "32.490.000",
+      "categories": "laptop",
       "components": {
         "CPU": "i5-1340P",
         "RAM": "16GB",
@@ -1762,6 +1807,7 @@
       },
       "sale": 5,
       "price": "27.990.000",
+      "categories": "laptop",
       "components": {
         "CPU": "Ultra 7",
         "RAM": "32GB",
@@ -1807,6 +1853,7 @@
       },
       "sale": 10,
       "price": "5.190.000",
+      "categories": "monitor",
       "components": {
         "size": "24 inch",
         "refreshRate": "180 Hz",
@@ -1843,6 +1890,7 @@
       },
       "sale": 16,
       "price": "4.990.000",
+      "categories": "monitor",
       "components": {
         "size": "27 inch",
         "refreshRate": "180 Hz",
@@ -1879,6 +1927,7 @@
       },
       "sale": 9,
       "price": "5.490.000",
+      "categories": "monitor",
       "components": {
         "size": "27 inch",
         "refreshRate": "180 Hz",
@@ -1915,6 +1964,7 @@
       },
       "sale": 2,
       "price": "2.290.000",
+      "categories": "monitor",
       "components": {
         "size": "24 inch",
         "refreshRate": "100 Hz",
@@ -1951,6 +2001,7 @@
       },
       "sale": 14,
       "price": "4.190.000",
+      "categories": "monitor",
       "components": {
         "size": "24 inch",
         "refreshRate": "180 Hz",
@@ -1987,6 +2038,7 @@
       },
       "sale": 3,
       "price": "3.090.000",
+      "categories": "monitor",
       "components": {
         "size": "25 inch",
         "refreshRate": "100 Hz",
@@ -2023,6 +2075,7 @@
       },
       "sale": 4,
       "price": "2.590.000",
+      "categories": "monitor",
       "components": {
         "size": "25 inch",
         "refreshRate": "100 Hz",
@@ -2059,6 +2112,7 @@
       },
       "sale": 24,
       "price": "2.490.000",
+      "categories": "monitor",
       "components": {
         "size": "24 inch",
         "refreshRate": "100 Hz",
@@ -2095,6 +2149,7 @@
       },
       "sale": 17,
       "price": "2.390.000",
+      "categories": "monitor",
       "components": {
         "size": "25 inch",
         "refreshRate": "100 Hz",
@@ -2131,6 +2186,7 @@
       },
       "sale": 10,
       "price": "4.990.000",
+      "categories": "monitor",
       "components": {
         "size": "27 inch",
         "refreshRate": "100 Hz",
@@ -2173,6 +2229,7 @@
       },
       "sale": 13,
       "price": "2.990.000",
+      "categories": "monitor",
       "detail": {
         "reponsetime": "1ms",
         "colorgamut": "sRGB 105%",
@@ -2203,6 +2260,7 @@
       },
       "sale": 13,
       "price": "2.990.000",
+      "categories": "monitor",
       "components": {
         "size": "24 inch",
         "refreshRate": "100 Hz",
@@ -2239,6 +2297,7 @@
       },
       "sale": 13,
       "price": "2.990.000",
+      "categories": "monitor",
       "components": {
         "size": "25 inch",
         "refreshRate": "120 Hz",
@@ -2275,6 +2334,7 @@
       },
       "sale": 27,
       "price": "2.990.000",
+      "categories": "monitor",
       "components": {
         "size": "25 inch",
         "refreshRate": "100 Hz",
@@ -2311,6 +2371,7 @@
       },
       "sale": 10,
       "price": "3.990.000",
+      "categories": "monitor",
       "components": {
         "size": "25 inch",
         "refreshRate": "180 Hz",
@@ -2341,6 +2402,7 @@
       "manufacturer": "ASUS",
       "sale": 5,
       "price": "5.990.000",
+      "categories": "mainboard",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/w800__3__cba5e8e45ba4474f892b2a127761b0d2_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/w800__7__739e3fe827d443f79173f3745ad3c914_grande.png",
@@ -2376,6 +2438,7 @@
       "manufacturer": "GIGABYTE",
       "sale": 11,
       "price": "6.590.000",
+      "categories": "mainboard",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/z790_eagle_ax-01_9c311d255ea44c01aa955566aed095b3_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/z790_eagle_ax-01_9c311d255ea44c01aa955566aed095b3_grande.png",
@@ -2411,6 +2474,7 @@
       "manufacturer": "ASUS",
       "sale": 12,
       "price": "4.990.000",
+      "categories": "mainboard",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/image__7__8575cbe67ed045d592b99c79d539e222_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/image__1__259250587cb543f0a869685810fd6667_grande.png",
@@ -2446,6 +2510,7 @@
       "manufacturer": "MSI",
       "sale": 23,
       "price": "2.990.000",
+      "categories": "mainboard",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/1024_db520bc118e94500b5f659128b677163_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/1024_db520bc118e94500b5f659128b677163_grande.png",
@@ -2479,6 +2544,7 @@
       "manufacturer": "MSI",
       "sale": 17,
       "price": "5.990.000",
+      "categories": "mainboard",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/1024_7fec54cb3f6e4cfab3f0e9a1562fa91a_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/1024_7fec54cb3f6e4cfab3f0e9a1562fa91a_grande.png",
@@ -2512,6 +2578,7 @@
       "manufacturer": "ASUS",
       "sale": 12,
       "price": "4.390.000",
+      "categories": "mainboard",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/image__7__8575cbe67ed045d592b99c79d539e222_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/image__1__259250587cb543f0a869685810fd6667_grande.png",
@@ -2545,6 +2612,7 @@
       "manufacturer": "ASUS",
       "sale": 10,
       "price": "9.990.000",
+      "categories": "mainboard",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/w800__6__da684b2f2c0540eca10fae13f0b5877e_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/w800__5__4db7c01b893242448d7d1248844a8dbe_grande.png",
@@ -2580,6 +2648,7 @@
       "manufacturer": "GIGABYTE",
       "sale": 20,
       "price": "59.990.000",
+      "categories": "mainboard",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/z790_aorus_xtreme_x_ice-01_5a397436688c4f2e9dc0e358ebf25927_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/z790_aorus_xtreme_x_ice-02_883b50df574a48489655804a533c6f2b_grande.png",
@@ -2615,6 +2684,7 @@
       "manufacturer": "MSI",
       "sale": "",
       "price": "10.990.000",
+      "categories": "mainboard",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/1_0ea7bd65ac7340978a5aa4f424be7313_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/1_0ea7bd65ac7340978a5aa4f424be7313_grande.png",
@@ -2648,6 +2718,7 @@
       "manufacturer": "ASUS",
       "sale": "11",
       "price": "13.490.000",
+      "categories": "mainboard",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/proart-z790-creator-wifi-01_975b6cb6e21c4f93a1de301b76b27821_medium.jpg",
         "image_2": "https://product.hstatic.net/200000722513/product/proart-z790-creator-wifi-02_c1afb84ed86c41b7806d2907ff998ea4_grande.jpg",
@@ -2685,6 +2756,7 @@
       "manufacturer": "Intel",
       "sale": "13",
       "price": "3.990.000",
+      "categories": "cpu",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/thumb_linhkien_9067fd110a6346198_7072aa7eb3b34e18894e06378e65ccf4_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/thumb_linhkien_9067fd110a6346198_7072aa7eb3b34e18894e06378e65ccf4_grande.png",
@@ -2729,6 +2801,7 @@
       "manufacturer": "Intel",
       "sale": "43",
       "price": "2.990.000",
+      "categories": "cpu",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/thumb_linhkien_0a9b4293bc454d009534a32fb88f7fdc_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/thumb_linhkien_0a9b4293bc454d009534a32fb88f7fdc_grande.png",
@@ -2767,6 +2840,7 @@
       "manufacturer": "Intel",
       "sale": "35",
       "price": "3.990.000",
+      "categories": "cpu",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/thumb_linhkien_9067fd110a6346198bb56d6673942477_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/chung-nhan-dai-ly-gearvn-intel_849c873724c44f2aa31a4478d3d67c87_grande.jpg",
@@ -2806,6 +2880,7 @@
       "manufacturer": "Intel",
       "sale": "12",
       "price": "4.400.000",
+      "categories": "cpu",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/n22751-001-rpl-i3-fhs-dva-bc-univ_png_2345817de4254e87a385f40bd0dbb480_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/n22751-001-rpl-i3-fhs-dva-bc-univ_png_2345817de4254e87a385f40bd0dbb480_grande.png",
@@ -2843,6 +2918,7 @@
       "manufacturer": "Intel",
       "sale": "11",
       "price": "6.300.000",
+      "categories": "cpu",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/n22561-001-i5f-_univ_2e1135c9919d46ce97e95d2e19cb74f3_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/n22561-001-i5f-_univ_2e1135c9919d46ce97e95d2e19cb74f3_grande.png",
@@ -2877,6 +2953,7 @@
       "manufacturer": "Intel",
       "sale": "10",
       "price": "7.200.000",
+      "categories": "cpu",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/n22635-001-rpl-i5-fhs-dva-bc-univ_png_75fcc375fc9541b2b86458c8890a4dba_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/n22635-001-rpl-i5-fhs-dva-bc-univ_png_75fcc375fc9541b2b86458c8890a4dba_grande.png",
@@ -2911,6 +2988,7 @@
       "manufacturer": "Intel",
       "sale": "15",
       "price": "7.600.000",
+      "categories": "cpu",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/n22635-001-rpl-i5-fhs-dva-bc-univ_png_413dec9963c14344a48ec62451a1edb3_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/n22635-001-rpl-i5-fhs-dva-bc-univ_png_75fcc375fc9541b2b86458c8890a4dba_grande.png",
@@ -2947,6 +3025,7 @@
       "manufacturer": "Intel",
       "sale": "12",
       "price": "11.400.000",
+      "categories": "cpu",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/n22459-001-rpl-i7f-fhs-dva-bc-univ_png_21fc4faaaca646ae9804e8bcc729ae57_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/n22459-001-rpl-i7f-fhs-dva-bc-univ_png_21fc4faaaca646ae9804e8bcc729ae57_grande.png",
@@ -2983,6 +3062,7 @@
       "manufacturer": "Intel",
       "sale": "13",
       "price": "12.200.000",
+      "categories": "cpu",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/n22488-001_db9abfdfc85b4585955cd1bf15aced2d_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/n22488-001_db9abfdfc85b4585955cd1bf15aced2d_grande.png",
@@ -3019,6 +3099,7 @@
       "manufacturer": "Intel",
       "sale": "12",
       "price": "17.000.000",
+      "categories": "cpu",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/n22386-001-rpl-i9f-fhs-univ_f3fb9b4467824b389c8d7def9db8fb8e_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/n22386-001-rpl-i9f-fhs-univ_f3fb9b4467824b389c8d7def9db8fb8e_grande.png",
@@ -3058,6 +3139,7 @@
       "status": "new",
       "sale": "11",
       "price": "8.990.000",
+      "categories": "vga",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/xlr8-rtx-4060-8gb-oc-dual-fan-ra_d679e6dd6b9a4f4d9b5b2ab4a7bef6f0_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/xlr8-rtx-4060-8gb-oc-dual-fan-to_f04d8d1b94c943fb8a56bc6d9af399cd_grande.png",
@@ -3095,6 +3177,7 @@
       "status": "",
       "sale": "8",
       "price": "8.990.000",
+      "categories": "vga",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/fwebp_f763561886254dc9838eb6d71feaecf3_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/fwebp__11__9b5de2cef14a4f159db05e6bc1a90e5d_grande.png",
@@ -3132,6 +3215,7 @@
       "status": "",
       "sale": "11",
       "price": "12.990.000",
+      "categories": "vga",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/fwebp__11__5860f8b8b48443048645b7b3ef544c51_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/fwebp__10__b8fd8a38bbbf4d7d90b015ddbf9cca00_grande.png",
@@ -3169,6 +3253,7 @@
       "status": "",
       "sale": "11",
       "price": "15.990.000",
+      "categories": "vga",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/fwebp__13__2db317b4f2304ec496d85397a3b21fd0_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/fwebp__10__b8fd8a38bbbf4d7d90b015ddbf9cca00_grande.png",
@@ -3206,6 +3291,7 @@
       "status": "",
       "sale": "10",
       "price": "5.990.000",
+      "categories": "vga",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/fwebp__12__4348a8cef9f8446bb85a6570855f34d1_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/fwebp__6__455d6acf3cc3454189a9d4bf3f0b950d_grande.png",
@@ -3243,6 +3329,7 @@
       "status": "",
       "sale": "10",
       "price": "5.990.000",
+      "categories": "vga",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/fwebp__6__cfffcef0dbca441ea89fe16191bf7368_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/fwebp__6__455d6acf3cc3454189a9d4bf3f0b950d_grande.png",
@@ -3280,6 +3367,7 @@
       "status": "",
       "sale": "11",
       "price": "21.990.000",
+      "categories": "vga",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/fwebp__4__83972316a56544008496cd70208bd2fe_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/fwebp__8__770ac9dc45584401ba47489cfad40fdc_grande.png",
@@ -3317,6 +3405,7 @@
       "status": "",
       "sale": "8",
       "price": "31.990.000",
+      "categories": "vga",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/fwebp__10__596e93ad33e04c72b0a41d26b5a6f051_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/fwebp_5efa4afc8a454b52a69601f155fc2b2e_grande.png",
@@ -3354,6 +3443,7 @@
       "status": "",
       "sale": "7",
       "price": "59.990.000",
+      "categories": "vga",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/aorus_geforce_rtx__4080_super_xtreme_ice_16g-02_73657b76adc1478f829ef65d5c50d996_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/aorus_geforce_rtx__4080_super_xtreme_ice_16g-03_2ad2a823a8f74a338d76201b91c448ce_grande.png",
@@ -3391,6 +3481,7 @@
       "status": "",
       "sale": "15",
       "price": "5.990.000",
+      "categories": "vga",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/geforce_rtx__3050_windforce_oc_6g-02_8e038f8bf31d4b008bc170b13dd3cff4_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/geforce_rtx__3050_windforce_oc_6g-04_46bc584a054c4fd2bc4697817fa79b9b_grande.png",
@@ -3431,6 +3522,7 @@
       "productCode": "KF580C36RLAK2-48",
       "sale": "",
       "price": "10.990.000",
+      "categories": "ram",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/c3789afaff9158d5614583b0ff8ef4b7_69bb9d83b04e4e869b44affa4f8dc1d3_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/c3789afaff9158d5614583b0ff8ef4b7_69bb9d83b04e4e869b44affa4f8dc1d3_grande.png",
@@ -3471,6 +3563,7 @@
       "productCode": "CMP64GX5M2B6000C30",
       "sale": "10",
       "price": "9.990.000",
+      "categories": "ram",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/dominator_titanium_rgb_ddr5_blac_fa0f0c02819e4313b6a595ecb2e029b0_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/dominator_titanium_rgb_ddr5_blac_fa0f0c02819e4313b6a595ecb2e029b0_grande.png",
@@ -3510,6 +3603,7 @@
       "productCode": "KF436C17BB2A/8",
       "sale": "",
       "price": "890.000",
+      "categories": "ram",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/1001019272_8a27eef0d5f74504bc2a56b99ed1bca3_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/1001019272_8a27eef0d5f74504bc2a56b99ed1bca3_grande.png",
@@ -3548,6 +3642,7 @@
       "productCode": "F5-6400J3239G32GX2-TR5S",
       "sale": "11",
       "price": "8.990.000",
+      "categories": "ram",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/1600w_2d21c30f-e254-4389-b461-ca_fb1d1b7f32fd4c048e8f46fc951a5627_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/1600w_2d21c30f-e254-4389-b461-ca_fb1d1b7f32fd4c048e8f46fc951a5627_grande.png",
@@ -3579,6 +3674,7 @@
       "productCode": "CMP64GX5M2X6600C32",
       "sale": "7",
       "price": "9.290.000",
+      "categories": "ram",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/dominator_titanium_rgb_ddr5_blac_41dfe569b59a48deb0e1d6c5bd83056e_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/dominator_titanium_rgb_ddr5_blac_41dfe569b59a48deb0e1d6c5bd83056e_grande.png",
@@ -3618,6 +3714,7 @@
       "productCode": "CMH48GX5M2B5200C38",
       "sale": "17",
       "price": "5.990.000",
+      "categories": "ram",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/vengeance_-rgb-48gb-_2x24gb_-ddr_569aa71ad81b465ba5df9bf4eba02ac9_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/vengeance_-rgb-48gb-_2x24gb_-ddr_569aa71ad81b465ba5df9bf4eba02ac9_grande.png",
@@ -3648,6 +3745,7 @@
       "productCode": "MD8GD4320016XR",
       "sale": "18",
       "price": "790.000",
+      "categories": "ram",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/32864_xlr8_ddr4_8gb_3200_pk_bafe_291c2d1952ff446d9285ada0e525d44a_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/32864_xlr8_ddr4_8gb_3200_pk_bafe_291c2d1952ff446d9285ada0e525d44a_grande.png",
@@ -3679,6 +3777,7 @@
       "productCode": "CMP64GX5M2X6600C32W",
       "sale": "7",
       "price": "9.990.000",
+      "categories": "ram",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/dominator_titanium_rgb_ddr5_whit_ada5b98eea53441486b7bbecf785b4ce_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/dominator_titanium_rgb_ddr5_whit_ada5b98eea53441486b7bbecf785b4ce_grande.png",
@@ -3719,6 +3818,7 @@
       "productCode": "",
       "sale": "31",
       "price": "1.290.000",
+      "categories": "ram",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/gearvn-ram-v-color-skywalker-plus-1x8-3600-rgb-black-ddr4-1_0cc069224a634431a327905e0a16bacb_medium.jpg",
         "image_2": "https://product.hstatic.net/200000722513/product/gearvn-ram-v-color-skywalker-plus-1x8-3600-rgb-black-ddr4-1_0cc069224a634431a327905e0a16bacb_grande.jpg",
@@ -3750,6 +3850,7 @@
       "productCode": "KF432C16BB/8",
       "sale": "12",
       "price": "850.000",
+      "categories": "ram",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/ktc-product-memory-beast-ddr4-si_cd911a7f8fc342c9a99dd1370a254c73_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/ktc-product-memory-beast-ddr4-si_cd911a7f8fc342c9a99dd1370a254c73_grande.png"
@@ -3779,6 +3880,7 @@
       "status": "New",
       "sale": "5",
       "price": "4.190.000",
+      "categories": "disk",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/snv3s_2000gb_pkg-lg_a603785fc04542c5be21481462584107_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/snv3s_2000gb_pkg-lg_a603785fc04542c5be21481462584107_grande.png",
@@ -3811,6 +3913,7 @@
       "status": "New",
       "sale": "9",
       "price": "2.290.000",
+      "categories": "disk",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/snv3s_1000gb_pkg-lg_c8006de4edc5418ba1016953a9a041bf_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/snv3s_1000gb_pkg-lg_c8006de4edc5418ba1016953a9a041bf_grande.png",
@@ -3843,6 +3946,7 @@
       "status": "New",
       "sale": "11",
       "price": "1.790.000",
+      "categories": "disk",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/snv3s_500gb_pkg-lg_989b947a38a043e58b87ae7a31a6528a_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/snv3s_500gb_pkg-lg_989b947a38a043e58b87ae7a31a6528a_grande.png",
@@ -3875,6 +3979,7 @@
       "status": "New",
       "sale": "2",
       "price": "9.990.000",
+      "categories": "disk",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/vn-990pro-nvme-m2-ssd-mz-v9p4t0b__3__6be2da12adb145f0901041df2b0d723f_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/snv3s_500gb_pkg-lg_989b947a38a043e58b87ae7a31a6528a_grande.png",
@@ -3900,6 +4005,7 @@
       "status": "New",
       "sale": "22",
       "price": "890.000",
+      "categories": "disk",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/gvn_addlink_s68_1_54089af0c6d845c9a6cde56b573eb06b_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/gvn_addlink_s68_1_54089af0c6d845c9a6cde56b573eb06b_grande.png"
@@ -3922,6 +4028,7 @@
       "status": "New",
       "sale": "",
       "price": "1.690.000",
+      "categories": "disk",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/aorus_gen4_5000e_ssd_500gb-01_6ef637a2a06e4d0cb8cd545c868aaf50_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/aorus_gen4_5000e_ssd_500gb-02_cd0065a2ad8d47ca9b72711cd9f802de_grande.png",
@@ -3956,6 +4063,7 @@
       "status": "New",
       "sale": "30",
       "price": "990.000",
+      "categories": "disk",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/gearvn-o-cung-ssd-verbatim-vi3000-256gb-pcie-nvme-gen-3-1_f4b276d272e44ba6ac1958d8704217f1_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/gearvn-o-cung-ssd-verbatim-vi3000-256gb-pcie-nvme-gen-3-1_f4b276d272e44ba6ac1958d8704217f1_grande.png",
@@ -3985,6 +4093,7 @@
       "status": "New",
       "sale": "14",
       "price": "690.000",
+      "categories": "disk",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/gearvn-o-cung-ssd-verbatim-vi550-256gb-sata3-1_7ef1024514df4f3484b56186726535d2_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/gearvn-o-cung-ssd-verbatim-vi550-256gb-sata3-2_f1a4477bce5e4545bdd357795b99fd17_grande.png",
@@ -4014,6 +4123,7 @@
       "status": "New",
       "sale": "25",
       "price": "3.990.000",
+      "categories": "disk",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/mp600_core_xt_21_b185c78c017944cfa72685e3898fc03e_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/mp600_core_xt_21_b185c78c017944cfa72685e3898fc03e_grande.png",
@@ -4047,6 +4157,7 @@
       "status": "New",
       "sale": "27",
       "price": "1.490.000",
+      "categories": "disk",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/77071_o_cung_ssd_wd_sn580_blue_m_142e515e8ca44a6eb9c032964c96bf53_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/77071_o_cung_ssd_wd_sn580_blue_m_142e515e8ca44a6eb9c032964c96bf53_grande.png"
@@ -4076,6 +4187,7 @@
       "manufacturer": "Cooler Master",
       "sale": "37",
       "price": "150.000.000",
+      "categories": "case",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/83713_vo_case_cooler_master_shar__12__03856bf3c4784d42ab957f3f809408d6_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/83713_vo_case_cooler_master_shar__1__5a1cbb64be3d4c9fa68cd278ce4058a5_grande.png",
@@ -4107,6 +4219,7 @@
       "manufacturer": "Lian Li",
       "sale": "13",
       "price": "4.590.000",
+      "categories": "case",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/o11dergb-001_6d0a8573f7174ff1b1c9443d5e293150_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/o11dergb-001_6d0a8573f7174ff1b1c9443d5e293150_grande.png",
@@ -4138,6 +4251,7 @@
       "manufacturer": "Lian Li",
       "sale": "13",
       "price": "4.490.000",
+      "categories": "case",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/o11dergb-000_43ed36ea1a994db890b0913ba68b4bda_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/o11dergb-000_43ed36ea1a994db890b0913ba68b4bda_grande.png",
@@ -4171,6 +4285,7 @@
       "manufacturer": "Corsair",
       "sale": "13",
       "price": "3.990.000",
+      "categories": "case",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/3500x_link_wht_01_8b16de1beb35479d84a3e48c7d759372_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/3500x_link_wht_01_8b16de1beb35479d84a3e48c7d759372_grande.png",
@@ -4203,6 +4318,7 @@
       "manufacturer": "Corsair",
       "sale": "13",
       "price": "3.990.000",
+      "categories": "case",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/3500x_link_blk_01_85b56174d9994a4f8db95482a0b9245f_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/3500x_link_blk_01_85b56174d9994a4f8db95482a0b9245f_grande.png",
@@ -4235,6 +4351,7 @@
       "manufacturer": "Corsair",
       "sale": "9",
       "price": "2.190.000",
+      "categories": "case",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/3500x_wht_01_b6991d1686b14103b0c9c3d734a0b7a5_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/3500x_wht_01_b6991d1686b14103b0c9c3d734a0b7a5_grande.png",
@@ -4267,6 +4384,7 @@
       "manufacturer": "Corsair",
       "sale": "9",
       "price": "2.190.000",
+      "categories": "case",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/3500x_blk_01_1f55ef1bec404d95be8d62810eb42ac0_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/3500x_blk_01_1f55ef1bec404d95be8d62810eb42ac0_grande.png",
@@ -4299,6 +4417,7 @@
       "manufacturer": "Cooler Master",
       "sale": "10",
       "price": "990.000",
+      "categories": "case",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/z5538174826244_dc908f1dba87385ab3da6d49dec08c17_a89b62db365b4a379d90061dca9958c0_medium.jpg",
         "image_2": "https://product.hstatic.net/200000722513/product/z5538174826244_dc908f1dba87385ab3da6d49dec08c17_a89b62db365b4a379d90061dca9958c0_grande.jpg",
@@ -4329,6 +4448,7 @@
       "manufacturer": "MIK",
       "sale": "31",
       "price": "1.590.000",
+      "categories": "case",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/01_70c53b77cff94c1b9a97ee908eafa_7d37d55c1f4f4f74937dc407bedd3ca7_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/07_d63869f8901d4ee183546ea000d21_fc4542c984f344079ae61a2857b56d86_grande.png",
@@ -4362,6 +4482,7 @@
       "manufacturer": "MIK",
       "sale": "31",
       "price": "1.590.000",
+      "categories": "case",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/07_6c871795b9334f029658cfdb08afe_ebb1090483a74ef5895c347c9b333892_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/07_6c871795b9334f029658cfdb08afe_ebb1090483a74ef5895c347c9b333892_grande.png",
@@ -4397,6 +4518,7 @@
       "manufacturer": "Xigmatek",
       "sale": "16",
       "price": "1.290.000",
+      "categories": "coolingfan",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/10198-tnc-store-quat-tan-nhiet-x_be645523146b46f09a1d93af2f0af5b0_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/10198-tnc-store-quat-tan-nhiet-x_be645523146b46f09a1d93af2f0af5b0_grande.png",
@@ -4428,6 +4550,7 @@
       "manufacturer": "Corsair",
       "sale": "14",
       "price": "1.390.000",
+      "categories": "coolingfan",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/rs120_argb_wht_trpl_01_e35dee912dcb480e94cbac4237d0aec0_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/rs120_argb_wht_trpl_01_e35dee912dcb480e94cbac4237d0aec0_grande.png",
@@ -4458,6 +4581,7 @@
       "manufacturer": "Corsair",
       "sale": "14",
       "price": "1.390.000",
+      "categories": "coolingfan",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/rs120_argb_blk_trpl_01_34dd7f9080a848ac9dfdf53ef62ccf19_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/rs120_argb_blk_trpl_01_34dd7f9080a848ac9dfdf53ef62ccf19_grande.png",
@@ -4488,6 +4612,7 @@
       "manufacturer": "Lian Li",
       "sale": "15",
       "price": "4.690.000",
+      "categories": "coolingfan",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/unfan_tl_04_c_8b4d895e479243e8ac0d76e05eec187c_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/unfan_tl_04_c_8b4d895e479243e8ac0d76e05eec187c_grande.png",
@@ -4516,6 +4641,7 @@
       "manufacturer": "Lian Li",
       "sale": "15",
       "price": "4.690.000",
+      "categories": "coolingfan",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/unfan_tl_02_c_e749ccb5226e4c9ab56b1eb72256328a_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/unfan_tl_02_c_e749ccb5226e4c9ab56b1eb72256328a_grande.png",
@@ -4544,6 +4670,7 @@
       "manufacturer": "Xigmatek",
       "sale": "",
       "price": "1.090.000",
+      "categories": "coolingfan",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/20771_141a410a344d49beb903a97b5e9bfd7e_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/20771_141a410a344d49beb903a97b5e9bfd7e_grande.png"
@@ -4573,6 +4700,7 @@
       "manufacturer": "HYTE",
       "sale": "",
       "price": "890.000",
+      "categories": "coolingfan",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/image_6499aa1bf60e496eab84d892de11b2cd_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/image_6499aa1bf60e496eab84d892de11b2cd_grande.png"
@@ -4599,6 +4727,8 @@
       "manufacturer": "Xigmatek",
       "sale": "",
       "price": "690.000",
+
+      "categories": "coolingfan",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/21538_88a187ff839c4646939450df439e4788_medium.jpeg",
         "image_2": "https://product.hstatic.net/200000722513/product/21538_88a187ff839c4646939450df439e4788_grande.jpeg",
@@ -4630,6 +4760,7 @@
       "manufacturer": "NZXT ",
       "sale": "",
       "price": "2.490.000",
+      "categories": "coolingfan",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/controller-left-side-angle-view-white_66e5f86a540947c0997c07094aed4af8_c94a540a94b949b7afcdf5d00b7e4e10_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/controller-left-side-angle-view-white_66e5f86a540947c0997c07094aed4af8_c94a540a94b949b7afcdf5d00b7e4e10_grande.png",
@@ -4659,6 +4790,7 @@
       "manufacturer": "Jetek ",
       "sale": "20",
       "price": "100.000",
+      "categories": "coolingfan",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/998116386fancasejetek12cmledrgbj_29584ee611fb40faa91ea527f17ad40f_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/998116386fancasejetek12cmledrgbj_29584ee611fb40faa91ea527f17ad40f_grande.png",
@@ -4681,6 +4813,7 @@
       "manufacturer": "GIGABYTE",
       "sale": "",
       "price": "6.490.000",
+      "categories": "psu",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/aorus_elite_p1000w_80__platinum_modular_pcie_5.0-07_0ec8124d51f943d9a84e29232be026b7_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/aorus_elite_p1000w_80__platinum_modular_pcie_5.0-03_2bffe27bbdd347c0b97c97b8f836c55f_grande.png",
@@ -4716,6 +4849,7 @@
       "manufacturer": "GIGABYTE",
       "sale": "19",
       "price": "1.290.000",
+      "categories": "psu",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/p650ss_ice-06_0a181d4033c2451c9ef00725bad28ae7_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/p650ss_ice-06_0a181d4033c2451c9ef00725bad28ae7_grande.png",
@@ -4751,6 +4885,7 @@
       "manufacturer": "GIGABYTE",
       "sale": "9",
       "price": "1.090.000",
+      "categories": "psu",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/p550ss-07_c6a8b9b2cfcf482dbfcc4c69e80d4080_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/p550ss-07_c6a8b9b2cfcf482dbfcc4c69e80d4080_grande.png",
@@ -4786,6 +4921,7 @@
       "manufacturer": "MSI",
       "sale": "0",
       "price": "5.490.000",
+      "categories": "psu",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/1024__5__10dc755f12ec4edea59e4aaedc53b52e_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/1024__5__10dc755f12ec4edea59e4aaedc53b52e_grande.png",
@@ -4817,6 +4953,7 @@
       "manufacturer": "Deepcool",
       "sale": "3",
       "price": "2.990.000",
+      "categories": "psu",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/06_b5ea2f53caa441ff84157adcabbd2a64_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/06_b5ea2f53caa441ff84157adcabbd2a64_grande.png",
@@ -4847,6 +4984,7 @@
       "manufacturer": "ASUS",
       "sale": "",
       "price": "3.490.000",
+      "categories": "psu",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/ap-850g-01_ce1fbc32a4384e64bdd5badd98f851c3_medium.jpg",
         "image_2": "https://product.hstatic.net/200000722513/product/ap-850g-02_a949e2f5dc3a4db5bb7be64f5a0651fd_grande.jpg",
@@ -4877,6 +5015,7 @@
       "manufacturer": "Gigabyte",
       "sale": "14",
       "price": "3.490.000",
+      "categories": "psu",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/ud850gm_pg5-07_0adb9528a06f4b94b0fa2e2ea07f5351_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/ud850gm_pg5-05_a511107d8c9c4fe19e9debf49aac94da_grande.png",
@@ -4912,6 +5051,7 @@
       "manufacturer": "Asus",
       "sale": "",
       "price": "6.990.000",
+      "categories": "psu",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/h732__10__4150de0d482c4cc7bab04278c67116f1_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/h732_b95f07bb7b484e54a34642e16888d5fa_grande.png",
@@ -4944,6 +5084,7 @@
       "manufacturer": "Corsair",
       "sale": "5",
       "price": "9.990.000",
+      "categories": "psu",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/gearvn-nguon-corsair-hx1500i-full-modular-80-plus-platinum-5_941b6db02f2a4848ac2503a49d00472f_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/gearvn-nguon-corsair-hx1500i-full-modular-80-plus-platinum-1_f7177e0a7e3346dd897a67097033ddd1_grande.png",
@@ -4971,6 +5112,7 @@
       "manufacturer": "Asus",
       "sale": "10",
       "price": "9.990.000",
+      "categories": "psu",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/h732_d28f32102b2c4fb6ab2a5bfa31f95b41_30899e2f85eb4ecca967eee77a147ccc_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/h732__6__9bb72716f9924e899b4a6366fba73e06_46afd1e8c6a6498596cf17dcddbb241f_grande.png",
@@ -5000,6 +5142,7 @@
       "title": "Bàn phím Corsair K70 PRO MINI WIRELESS RGB MX Red - White",
       "sale": "49",
       "price": "4.489.000",
+      "categories": "keyboard",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/ban-phim-co-khong-day-corsair-k7__7__44203c1a9e6342278f6d8ff4b283bc33_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/keyboard-k70-pro-mini-white-4-16_cdb86b8129ed48789360caea66ce3271_grande.png",
@@ -5037,6 +5180,7 @@
       "title": "Bàn phím Corsair K70 PRO MINI WIRELESS RGB MX Red - Black",
       "sale": "49",
       "price": "4.489.000",
+      "categories": "keyboard",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/ban-phim-co-khong-day-corsair-k7_e98505220fb44a4f88e56bfb936ec073_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/ban-phim-co-khong-day-corsair-k7_e98505220fb44a4f88e56bfb936ec073_grande.png",
@@ -5074,6 +5218,7 @@
       "title": "Bàn phím cơ AKKO MU01 Joy of Life",
       "sale": "",
       "price": "3.690.000",
+      "categories": "keyboard",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/mu01_________.1-1-510x510_09e73886fb8b4c7da6ae0a4e804f0dcf_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/mu01_________.6-510x510_fa92893eda954a8793d79ae44fcd8c31_grande.png",
@@ -5105,6 +5250,7 @@
       "title": "Bàn phím cơ AKKO MOD 007B HE PC Joy of Life",
       "sale": "",
       "price": "3.690.000",
+      "categories": "keyboard",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/thiet-ke-chua-co-ten-7-510x510_4057bd9acafd4f2a9cf7d18829252c9b_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/007pc-he-____rgb__-510x510_75a10dbc9aa24cf498a9179a27759f96_grande.png",
@@ -5137,6 +5283,7 @@
       "title": "Bàn phím AKKO 5108 SE Joy of Life",
       "sale": "",
       "price": "2.990.000",
+      "categories": "keyboard",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/thiet-ke-chua-co-ten-9_2f5f783235394285ba098d22832b4f22_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/5108-__-___-_______80a79407e7e64d1f937908abe6038f20_grande.png",
@@ -5167,6 +5314,7 @@
       "title": "Bàn phím cơ DareU EK75 Rapid Trigger Black",
       "sale": "22",
       "price": "2.290.000",
+      "categories": "keyboard",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/black__5__37a0f1f91dcb4e5f8ac4bf6ee482f62a_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/black__2__c7994b4e1cf64f12a0cd4b2782f01452_grande.png",
@@ -5196,6 +5344,7 @@
       "title": "Bàn phím cơ AKKO 5075B Plus Horizon SP Akko Switch V3 Cream Yellow Pro",
       "sale": "25",
       "price": "1.990.000",
+      "categories": "keyboard",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/5075b-plus-sp___-rgb__-1-1_0245f87c5efe439c8715ad6523371697_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/5075b-plus-sp___-rgb__-1_27054e2192be43ffad8c5fad9e7efa1e_grande.png",
@@ -5228,6 +5377,7 @@
       "title": "Bàn phím AKKO MU01 Autumn",
       "sale": "9",
       "price": "3.290.000",
+      "categories": "keyboard",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/mu-2.0-1_22d6bf8e5c3247b6b4aa4112194accd5_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/mu-2.0-1_22d6bf8e5c3247b6b4aa4112194accd5_grande.png",
@@ -5256,6 +5406,7 @@
       "title": "Bàn phím cơ DareU EK75 Full White Firefly switch",
       "sale": "13 ",
       "price": "699.000",
+      "categories": "keyboard",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/47488_dareu_ek75_white__6__6d19968870264154b3dc98905e329f1a_medium.jpg",
         "image_2": "https://product.hstatic.net/200000722513/product/47488_dareu_ek75_white__1__afa8527fbe5440938b27d81590bd39ac_grande.jpg",
@@ -5291,6 +5442,7 @@
       "title": "Bàn phím cơ DareU EK75 White Black Firefly switch",
       "sale": "13 ",
       "price": "699.000",
+      "categories": "keyboard",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/bd2d5c0a8a07d4928bfda5fcc64.png_9b0f7402b03b4beea236b41293ad9c22_large_9bcf8def83e9473abd8e320085c9980d_medium.jpg",
         "image_2": "https://product.hstatic.net/200000722513/product/bd2d5c0a8a07d4928bfda5fcc64.png_9b0f7402b03b4beea236b41293ad9c22_large_9bcf8def83e9473abd8e320085c9980d_grande.jpg",
@@ -5327,6 +5479,7 @@
       "title": "Chuột Logitech G309 Lightspeed Wireless Bluetooth Đen",
       "sale": "10",
       "price": "2.090.000",
+      "categories": "mouse",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/black_b406079deeae46858542c5af8f18771b_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/2_95f623904df4480a88e886523edee9f6_grande.png",
@@ -5362,6 +5515,7 @@
       "title": "Chuột Logitech G309 Lightspeed Wireless Bluetooth Trắng",
       "sale": "10",
       "price": "2.090.000",
+      "categories": "mouse",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/white_e563efbdda644fe59e2227176c1607fd_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/3_79a2ad3d6f294967a65bfab3a8e602a6_grande.png",
@@ -5398,6 +5552,7 @@
       "title": "Chuột Rapoo MT760 Mini Không Dây Hồng",
       "sale": "20",
       "price": "990.000",
+      "categories": "mouse",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/thumb_gear_31c2bf7f39e9401495380e72a5fa24cb_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/5277-vt760-mini-pink-1_6cbfa95e694e446b926f6a05859e19d9_grande.jpg",
@@ -5428,6 +5583,7 @@
       "title": "Chuột Razer DeathAdder V3 Hyperspeed Wireless",
       "sale": "17",
       "price": "2.990.000",
+      "categories": "mouse",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/v9amb50o_6df2fc1a8a944bdbbf598f3f0dd408e4_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/iner_h69_h81_9785428607006_240620-deathadder-v3-hyperspeed-1500x1000-5_5beb89e149494a8497b9b3c4b056a0b2_grande.jpg",
@@ -5466,6 +5622,7 @@
       "title": "Chuột Razer Deathadder V3 Pro Faker Edition",
       "sale": "11",
       "price": "4.390.000",
+      "categories": "mouse",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/thumbchuot_d48b1fc55115417cae8e12993f1103b0_eff100e94b52425c8788727470ecabae_medium.gif",
         "image_2": "https://product.hstatic.net/200000722513/product/thumbchuot_d48b1fc55115417cae8e12993f1103b0_eff100e94b52425c8788727470ecabae_grande.gif",
@@ -5501,6 +5658,7 @@
       "title": "Chuột gaming Rapoo VT200 RGB Wireless",
       "sale": "22",
       "price": "890.000",
+      "categories": "mouse",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/vt200_6734bf9c0882496cb1f6dd02bb678266_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/1562833596-7887_compressed_06127e9ac1ce4a1590e88df3ded53862_37005db111e640009ece627efc14ed33_grande.jpg",
@@ -5532,6 +5690,7 @@
       "title": "Chuột Rapoo VT9 Air Gaming Không Dây Trắng Tím",
       "sale": "15",
       "price": "1.990.000",
+      "categories": "mouse",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/vt9_air_trang_deceba7d8d50450ca9ef0284388f9dda_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/gearvn-chuot-rapoo-vt9-air-gaming-khong-day-trang-tim-1_da46d2436086461ba8b099c873c01ae8_grande.png",
@@ -5570,6 +5729,7 @@
       "title": "Chuột Razer Không dây Viper V3 Pro Trắng",
       "sale": "10",
       "price": "4.990.000",
+      "categories": "mouse",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/ci9f8k75_e9e8bebbbb164f648e7bf94d561919f7_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/ci9f8k75_e9e8bebbbb164f648e7bf94d561919f7_grande.png",
@@ -5607,6 +5767,7 @@
       "title": "Chuột Razer Cobra Pro Trắng",
       "sale": "25",
       "price": "3.990.000",
+      "categories": "mouse",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/42rc3efe_13d1959281ec44749394fad1ceebece4_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/42rc3efe_13d1959281ec44749394fad1ceebece4_grande.png",
@@ -5639,6 +5800,7 @@
       "title": "Chuột E-DRA Không dây EM625X Superlight Black",
       "sale": "55",
       "price": "990.000",
+      "categories": "mouse",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/512_625x_7_530dd67ad0864f19a1446ffe52b4a469_medium.jpg",
         "image_2": "https://product.hstatic.net/200000722513/product/512_625x_7_530dd67ad0864f19a1446ffe52b4a469_grande.jpg",
@@ -5673,6 +5835,7 @@
       "title": "Ghế Gaming E-Dra Dignity EGC234 Black",
       "sale": "15",
       "price": "1.990.000",
+      "categories": "chair",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/521_egc234b___4_c9f3274cf6a14ade8cbafdc596d2ee15_medium.jpg",
         "image_2": "https://product.hstatic.net/200000722513/product/z5491466387132_32ad25df31ad39bcc60ddb599e8c01b4_ed628f3223a14135bd77857ead21f2e9_grande.jpg",
@@ -5701,6 +5864,7 @@
       "title": "Ghế Gaming E-Dra Dignity EGC234 Black",
       "sale": "12",
       "price": "8.990.000",
+      "categories": "chair",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/rangerpro-05_f5a2577aaaf24be1b9cf44f6443b8cc2_medium.jpg",
         "image_2": "https://product.hstatic.net/200000722513/product/rangerpro-06_a3bc713b7ff34a1ab426c46ff015ac65_grande.jpg",
@@ -5727,6 +5891,7 @@
       "title": "Ghế Cougar NxSys Aero Đen",
       "sale": "13",
       "price": "11.990.000",
+      "categories": "chair",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/nxsysaero-02-b_25dec82c8007498c84d5a40e1144ad63_medium.jpg",
         "image_2": "https://product.hstatic.net/200000722513/product/nxsysaero-04-b_9d96e19295a34e949f452e0665d5f5e3_grande.jpg",
@@ -5754,6 +5919,7 @@
       "title": "Ghế Cougar NxSys Aero",
       "sale": "13",
       "price": "11.990.000",
+      "categories": "chair",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/nxsysaero-01_935fdb31700741718316efba45c13ee3_medium.jpg",
         "image_2": "https://product.hstatic.net/200000722513/product/nxsysaero-03_016f2195cb734fafbfa24015e4262b9a_grande.jpg",
@@ -5780,6 +5946,7 @@
       "title": "Ghế Corsair T3 RUSH Charcoal 2023 (CF-9010057-WW)",
       "sale": "11",
       "price": "7.590.000",
+      "categories": "chair",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/t3_rush_charcoal_black_render_02_003bb0f8517c47fda2f8417390bcbb13_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/t3_rush_charcoal_black_render_02_003bb0f8517c47fda2f8417390bcbb13_grande.png",
@@ -5807,6 +5974,7 @@
       "title": "Ghế Corsair T3 RUSH Gray/Charcoal 2023 (CF-9010056-WW)",
       "sale": "11",
       "price": "7.590.000",
+      "categories": "chair",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/t3_rush_charcoal_gray_render_02_fecb51ab0f4244da923d4af1a4e28177_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/t3_rush_charcoal_gray_render_02_fecb51ab0f4244da923d4af1a4e28177_grande.png",
@@ -5834,6 +6002,7 @@
       "title": "Ghế Gaming E-Dra Yummy EGC232 V2 Black",
       "sale": "24",
       "price": "2.090.000",
+      "categories": "chair",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/ghe-gaming-e-dra-yummy-egc232-v2-black_fbec0d997e254cef874fe047d469cbae_medium.jpg",
         "image_2": "https://product.hstatic.net/200000722513/product/ghe-gaming-e-dra-yummy-egc232-v2-black_fbec0d997e254cef874fe047d469cbae_grande.jpg",
@@ -5861,6 +6030,7 @@
       "title": "Ghế công thái học E-Dra EEC218",
       "sale": "14",
       "price": "1.499.000",
+      "categories": "chair",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/1_9db0dfdae3dd4c2688485116d8f85aa7_medium.jpg",
         "image_2": "https://product.hstatic.net/200000722513/product/1_9db0dfdae3dd4c2688485116d8f85aa7_grande.jpg",
@@ -5888,6 +6058,7 @@
       "title": "Ghế Corsair T3 RUSH Gray/White 2023 (CF-9010058-WW)",
       "sale": "11",
       "price": "7.590.000",
+      "categories": "chair",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/t3_rush_white_gray_render_02_e4b06fe54e0342f189c4c421631753d4_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/t3_rush_white_gray_render_02_e4b06fe54e0342f189c4c421631753d4_grande.png",
@@ -5915,6 +6086,7 @@
       "title": "Ghế công thái học Ergonomic Warrior Pawn Series WEC105 Black",
       "sale": "20",
       "price": "1.990.000",
+      "categories": "chair",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/1_e3e00b5da7ba465b8f4834fe8c39768c_medium.jpg",
         "image_2": "https://product.hstatic.net/200000722513/product/2_1afe426989a943d185613db96fcfe7d5_grande.jpg",
@@ -5944,6 +6116,7 @@
       "title": "Tai nghe DareU EH469 7.1 RGB Pink",
       "sale": "27",
       "price": "599.000",
+      "categories": "headphone",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/34400_dareu_eh469_pink_1d57e30add8f42eca3eaa006d32481e2_5fea9259b65343acadecc1b76079c8b4_medium.jpg",
         "image_2": "https://product.hstatic.net/200000722513/product/34400_dareu_eh469_pink_1d57e30add8f42eca3eaa006d32481e2_5fea9259b65343acadecc1b76079c8b4_grande.jpg",
@@ -5979,6 +6152,7 @@
       "title": "Tai nghe SteelSeries Xbox Arctis Nova 5 Black",
       "sale": "",
       "price": "4.290.000",
+      "categories": "headphone",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/tai-nghe-steelseries-arctis-nova_976a87d72f954b62ae7b17bfc0f62a9e_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/tai-nghe-steelseries-arctis-nova_976a87d72f954b62ae7b17bfc0f62a9e_grande.png",
@@ -5995,6 +6169,7 @@
       "title": "Tai nghe SteelSeries Arctis Nova 5 Black",
       "sale": "9",
       "price": "4.290.000",
+      "categories": "headphone",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/84676_tai_nghe_gaming_khong_day_d4b9ac7d7c854fe9bfb7b7d9707da44d_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/84676_tai_nghe_gaming_khong_day_d4b9ac7d7c854fe9bfb7b7d9707da44d_grande.png",
@@ -6010,6 +6185,7 @@
       "title": "Tai nghe Edifier Không dây W820NB Xanh Dương",
       "sale": "24",
       "price": "1.390.000",
+      "categories": "headphone",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/d14a80cafe9eb5c44dd5e1f826dd9bf_32a5b028d5034e1e8340d24b27aca92b_large_7707b842735d493b859483923c7501b2_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/d14a80cafe9eb5c44dd5e1f826dd9bf_32a5b028d5034e1e8340d24b27aca92b_large_7707b842735d493b859483923c7501b2_grande.png"
@@ -6038,6 +6214,7 @@
       "title": "Tai nghe Edifier Không dây W820NB Trắng Ngà",
       "sale": "24",
       "price": "1.390.000",
+      "categories": "headphone",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/fb4d7148326dbafe6c7949eeea20d43_10f0e89552c74fcfbaf376e82ab53397_large_7706945df66449f58fdce0f538651e29_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/fb4d7148326dbafe6c7949eeea20d43_10f0e89552c74fcfbaf376e82ab53397_large_7706945df66449f58fdce0f538651e29_grande.png"
@@ -6065,6 +6242,7 @@
       "title": "Tai nghe ASUS TUF GAMING H1 Wireless Black(90YH0391-B3UA00)",
       "sale": "",
       "price": "1.490.000",
+      "categories": "headphone",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/w692_6f9f5f8ddac84d3593c8e5fa17926a3f_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/w692_6f9f5f8ddac84d3593c8e5fa17926a3f_grande.png"
@@ -6099,6 +6277,7 @@
       "title": "Tai nghe Razer Hammerhead True Wireless HyperSpeed (Playstation)",
       "sale": "24",
       "price": "4.990.000",
+      "categories": "headphone",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/hammerhead_hyperspeed_playstation__2022__render_03_917eb422b45241e28161be182ecc5953_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/hammerhead_hyperspeed_playstation__2022__render_03_917eb422b45241e28161be182ecc5953_grande.png",
@@ -6137,6 +6316,7 @@
       "title": "Tai nghe Corsair HS35 V2 Carbon",
       "sale": "23",
       "price": "1.290.000",
+      "categories": "headphone",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/hs35_v2_artboard01_aa_80b3106cd5654c1e89d113d784994e3c_medium.jpg",
         "image_2": "https://product.hstatic.net/200000722513/product/hs35_v2_artboard01_aa_80b3106cd5654c1e89d113d784994e3c_grande.jpg",
@@ -6169,6 +6349,7 @@
       "title": "Tai nghe Không dây Logitech Zone 300 Đen",
       "sale": "19",
       "price": "1.790.000",
+      "categories": "headphone",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/icz2qubb_56b4a8177f6f489e91fa2c41e28bf963_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/icz2qubb_56b4a8177f6f489e91fa2c41e28bf963_grande.png",
@@ -6202,6 +6383,7 @@
       "title": "Tai nghe Không dây Logitech Zone 300 Đen",
       "sale": "21",
       "price": "2.390.000",
+      "categories": "headphone",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/obdp1pwt_33d3bbb08fe043aeafec7408dfff5abc_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/obdp1pwt_33d3bbb08fe043aeafec7408dfff5abc_grande.png",
@@ -6237,6 +6419,7 @@
       "title": "Loa Bluetooth Edifier MP85 Trắng",
       "sale": "38",
       "price": "450.000",
+      "categories": "speaker",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/1_bcef33871e754eb9b4f382fb3f51cf57_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/1_bcef33871e754eb9b4f382fb3f51cf57_grande.png",
@@ -6262,6 +6445,7 @@
       "title": "Loa di động kháng nước IPX6 SOUNARC R2 Portable Speaker - Black",
       "sale": "",
       "price": "1.790.000",
+      "categories": "speaker",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/r2_1f4db38daf1743398b669e751191354e_medium.jpg",
         "image_2": "https://product.hstatic.net/200000722513/product/r2_1f4db38daf1743398b669e751191354e_grande.jpg",
@@ -6285,6 +6469,7 @@
       "title": "Loa di động kháng nước IPX6 SOUNARC R1 Portable Speaker - Black",
       "sale": "",
       "price": "1.790.000",
+      "categories": "speaker",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/r1-1_8abc0d0a77934129972e8c231408c620_medium.jpg",
         "image_2": "https://product.hstatic.net/200000722513/product/r1-1_8abc0d0a77934129972e8c231408c620_grande.jpg",
@@ -6308,6 +6493,7 @@
       "title": "Loa di động kháng nước IPX6 SOUNARC P4 Portable Speaker - Black",
       "sale": "",
       "price": "990.000",
+      "categories": "speaker",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/p4-2_2522060ec81e422d9aee65ef70a509ae_medium.jpg",
         "image_2": "https://product.hstatic.net/200000722513/product/p4-2_2522060ec81e422d9aee65ef70a509ae_grande.jpg",
@@ -6331,6 +6517,7 @@
       "title": "Loa di động kháng nước IPX6 SOUNARC P4 Portable Speaker - Black",
       "sale": "6",
       "price": "690.000",
+      "categories": "speaker",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/1.1_fa8622bbe2b6419fac802c03e65149c6_medium.jpg",
         "image_2": "https://product.hstatic.net/200000722513/product/1.1_fa8622bbe2b6419fac802c03e65149c6_grande.jpg",
@@ -6353,6 +6540,7 @@
       "title": "Loa di động kháng nước IPX5 SOUNARC P2 Portable Speaker - Black",
       "sale": "6",
       "price": "450.000",
+      "categories": "speaker",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/2_58b8f581-e022-4ab2-b4d1-5bb0d08f27d7_0ee22ee6e0494b128049d75c07e55f4c_medium.jpg",
         "image_2": "https://product.hstatic.net/200000722513/product/2_58b8f581-e022-4ab2-b4d1-5bb0d08f27d7_0ee22ee6e0494b128049d75c07e55f4c_grande.jpg",
@@ -6376,6 +6564,7 @@
       "title": "Loa di động kháng nước IPX5 SOUNARC P2 Portable Speaker - Black",
       "sale": "",
       "price": "350.000",
+      "categories": "speaker",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/1_ef67d9ff-28a7-4bc7-b9f3-cecc395c54ad_93da1879d99843aa894d9e0ef839c1d4_medium.jpg",
         "image_2": "https://product.hstatic.net/200000722513/product/1_ef67d9ff-28a7-4bc7-b9f3-cecc395c54ad_93da1879d99843aa894d9e0ef839c1d4_grande.jpg",
@@ -6399,6 +6588,7 @@
       "title": "Loa di động kháng nước IPX5 SOUNARC P2 Portable Speaker - Black",
       "sale": "",
       "price": "350.000",
+      "categories": "speaker",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/3_fd6f2505-fc77-49a1-8d18-d74c4b73e500_1a7915adda254a489370e633da92f0d3_medium.jpg",
         "image_2": "https://product.hstatic.net/200000722513/product/83391da716f74a4ae6d1bd2edf808e47_bc4161b5-349b-41a7-a060-39e4f32caa29_2597a74b16be45508aa4742ca805fd12_grande.jpg",
@@ -6422,6 +6612,7 @@
       "title": "Loa di động kháng nước IPX4 SOUNARC P1 Portable Speaker - Pink",
       "sale": "",
       "price": "350.000",
+      "categories": "speaker",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/1_ef67d9ff-28a7-4bc7-b9f3-cecc395c54ad_93da1879d99843aa894d9e0ef839c1d4_medium.jpg",
         "image_2": "https://product.hstatic.net/200000722513/product/1_ef67d9ff-28a7-4bc7-b9f3-cecc395c54ad_93da1879d99843aa894d9e0ef839c1d4_grande.jpg",
@@ -6445,6 +6636,7 @@
       "title": "Loa di động kháng nước IPX4 SOUNARC P1 Portable Speaker - Black",
       "sale": "",
       "price": "350.000",
+      "categories": "speaker",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/4.2_1ce0ede807c843fca01da2f5d21b9158_medium.jpg",
         "image_2": "https://product.hstatic.net/200000722513/product/4.2_1ce0ede807c843fca01da2f5d21b9158_grande.jpg",
@@ -6470,6 +6662,7 @@
       "title": "Máy chơi game Sony PlayStation 5 Slim CFI-2018A 01 (2 TAY CẦM)",
       "sale": "",
       "price": "15.000.000",
+      "categories": "console",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/9223-ps5-slim-1_16f3f04d3f974bbebf72569d962b07d7_medium.jpg",
         "image_2": "https://product.hstatic.net/200000722513/product/9223-ps5-slim-1_16f3f04d3f974bbebf72569d962b07d7_grande.jpg",
@@ -6498,6 +6691,7 @@
       "title": "Máy chơi game Sony PlayStation 5 Slim CFI-2018A 01",
       "sale": "",
       "price": "13.300.000",
+      "categories": "console",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/9223-ps5-slim_f51c096af206409bb9dfe7a858ea433d_medium.jpg",
         "image_2": "https://product.hstatic.net/200000722513/product/9223-ps5-slim_f51c096af206409bb9dfe7a858ea433d_grande.jpg",
@@ -6524,6 +6718,7 @@
       "title": "Tay cầm không dây Dualsense Edge Sony Playstation CFI-ZCP1 G_CFI-ZCP1 G",
       "sale": "",
       "price": "13.300.000",
+      "categories": "console",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/z5471996768412_8a99e56fd2f83f5f7f3f3d30bb01776a_2c9c102acd9b4fc7a7301b0c1890d2d7_medium.jpg",
         "image_2": "https://product.hstatic.net/200000722513/product/z5471996768412_8a99e56fd2f83f5f7f3f3d30bb01776a_2c9c102acd9b4fc7a7301b0c1890d2d7_grande.jpg",
@@ -6545,6 +6740,7 @@
       "title": "Tay Cầm Không Dây DualSense God Of War Sony Playstation CFI-ZCT1G Z1_CFI-ZCT1G Z1",
       "sale": "5",
       "price": "2.090.000",
+      "categories": "console",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/z5471990692565_70ac8bf85a7d531a14c56ddbf6db4462_46431cd7e46f45f5b5613be54cec42c9_medium.jpg",
         "image_2": "https://product.hstatic.net/200000722513/product/z5471990692565_70ac8bf85a7d531a14c56ddbf6db4462_46431cd7e46f45f5b5613be54cec42c9_grande.jpg",
@@ -6569,6 +6765,7 @@
       "title": "Tay Cầm Không Dây DualSense Grey Camo Sony Playstation CFI-ZCT1G 06_CFI-ZCT1G 06",
       "sale": "5",
       "price": "2.090.000",
+      "categories": "console",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/z5471986482810_0368019cb1e8e9e0ba703fae7e5c3452_43b911976a0b4e3bb4d1e30b08c86471_medium.jpg",
         "image_2": "https://product.hstatic.net/200000722513/product/z5471986482810_0368019cb1e8e9e0ba703fae7e5c3452_43b911976a0b4e3bb4d1e30b08c86471_grande.jpg"
@@ -6589,6 +6786,7 @@
       "title": "Tay Cầm Không Dây DualSense Blue Sony Playstation CFI-ZCT1G 05_CFI-ZCT1G 05",
       "sale": "5",
       "price": "2.090.000",
+      "categories": "console",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/z5471982444360_d12ae3c89fde56f1f49ec361a63c5fd1_88b3afda05ef4b68b8384119034798b6_medium.jpg",
         "image_2": "https://product.hstatic.net/200000722513/product/z5471982444360_d12ae3c89fde56f1f49ec361a63c5fd1_88b3afda05ef4b68b8384119034798b6_grande.jpg",
@@ -6610,6 +6808,7 @@
       "title": "Tay Cầm Không Dây DualSense Purple Sony Playstation CFI-ZCT1G 04_CFI-ZCT1G 04",
       "sale": "5",
       "price": "2.090.000",
+      "categories": "console",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/z5471974301501_04e72fa0636b97579cd5f10d7652ab77_a391bf683a184e659be0f1ea501505ab_medium.jpg",
         "image_2": "https://product.hstatic.net/200000722513/product/z5471974301501_04e72fa0636b97579cd5f10d7652ab77_a391bf683a184e659be0f1ea501505ab_grande.jpg",
@@ -6633,6 +6832,7 @@
       "title": "Tay Cầm Không Dây DualSense Nova Pink Sony Playstation CFI-ZCT1G 03_CFI-ZCT1G 03",
       "sale": "5",
       "price": "2.090.000",
+      "categories": "console",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/z5471963640916_fb431972d35bed0b509993975354cbc4_6d6dcf7f1a9f45d7963f38f693706618_medium.jpg",
         "image_2": "https://product.hstatic.net/200000722513/product/z5471963640916_fb431972d35bed0b509993975354cbc4_6d6dcf7f1a9f45d7963f38f693706618_grande.jpg",
@@ -6656,6 +6856,7 @@
       "title": "Tay cầm không dây DualSense Cosmic Red Sony Playstation CFI-ZCT1G 02_CFI-ZCT1G 02",
       "sale": "5",
       "price": "2.090.000",
+      "categories": "console",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/z5471963640916_fb431972d35bed0b509993975354cbc4_6d6dcf7f1a9f45d7963f38f693706618_medium.jpg",
         "image_2": "https://product.hstatic.net/200000722513/product/z5471963640916_fb431972d35bed0b509993975354cbc4_6d6dcf7f1a9f45d7963f38f693706618_grande.jpg",
@@ -6679,6 +6880,7 @@
       "title": "Tay Cầm Không Dây DualSense Black Sony Playstation CFI-ZCT1G 01_CFI-ZCT1G 01",
       "sale": "5",
       "price": "1.990.000",
+      "categories": "console",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/9033-tay-cam-choi-game-ps5-midnight-black-avt-1_aeb10f57c18849dcbd131ac00accbbe5_medium.jpg",
         "image_2": "https://product.hstatic.net/200000722513/product/9033-tay-cam-choi-game-ps5-midnight-black-avt-1_aeb10f57c18849dcbd131ac00accbbe5_grande.jpg",
@@ -6704,6 +6906,7 @@
       "title": "Microphone Razer Seiren V3 Chroma - White",
       "sale": "",
       "price": "3.689.000",
+      "categories": "accessory",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/seiren_v3_chroma_white_edition__2024__render01_43c91876151c43cbaf62bbff9fa85b8f_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/seiren_v3_chroma_white_edition__2024__render01_43c91876151c43cbaf62bbff9fa85b8f_grande.png",
@@ -6732,6 +6935,7 @@
       "title": "Microphone Razer Seiren V3 Chroma - Black",
       "sale": "",
       "price": "3.580.000",
+      "categories": "accessory",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/seiren_v3_chroma__2023__render01_9fb6432beb0846a6b0ab7e094b1c55b9_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/seiren_v3_chroma__2023__render01_9fb6432beb0846a6b0ab7e094b1c55b9_grande.png",
@@ -6760,6 +6964,7 @@
       "title": "Microphone Razer Seiren V3 Mini - Quartz",
       "sale": "",
       "price": "1.370.000",
+      "categories": "accessory",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/seiren_v3_mini_quartz__2023__render_01_3ae3913fe0eb481c8d61908af61b9d32_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/seiren_v3_mini_quartz__2023__render_01_3ae3913fe0eb481c8d61908af61b9d32_grande.png",
@@ -6786,6 +6991,7 @@
       "title": "Microphone Razer Seiren V3 Mini - White",
       "sale": "",
       "price": "1.370.000",
+      "categories": "accessory",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/seiren_v3_mini_white_2023__render_01_551f10b96f4448e788b5f14b76ef2592_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/seiren_v3_mini_white_2023__render_01_551f10b96f4448e788b5f14b76ef2592_grande.png",
@@ -6812,6 +7018,7 @@
       "title": "Microphone Razer Seiren V3 Mini - Black",
       "sale": "",
       "price": "1.370.000",
+      "categories": "accessory",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/seiren_v3_mini___2023__render_01_826b6625c73a4629aceb74f25bca9550_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/seiren_v3_mini___2023__render_01_826b6625c73a4629aceb74f25bca9550_grande.png",
@@ -6838,6 +7045,7 @@
       "title": "Phụ kiện giá đỡ Laptop N3",
       "sale": "43",
       "price": "349.000",
+      "categories": "accessory",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/laptop_stand_n3_e3de80daf5804bf798be1ea741292cab_medium.jpg",
         "image_2": "https://product.hstatic.net/200000722513/product/laptop_stand_n3_e3de80daf5804bf798be1ea741292cab_grande.jpg",
@@ -6854,6 +7062,7 @@
       "title": "Cổng chuyển đổi USB C Ugreen 4 in 1 CM219 70336",
       "sale": "23",
       "price": "390.000",
+      "categories": "accessory",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/hub_3in1_70336_cf84025cf1884ea4ac30c92c7506540d_medium.jpg",
         "image_2": "https://product.hstatic.net/200000722513/product/hub_3in1_70336_cf84025cf1884ea4ac30c92c7506540d_grande.jpg"
@@ -6873,6 +7082,7 @@
       "title": "Cổng chuyển đổi USB C Ugreen 5 in 1 CM478 15495",
       "sale": "47",
       "price": "600.000",
+      "categories": "accessory",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/z5525342113717_207d3f4dd5d6c0524369c76700630f42_355e250573f74014ac9fb074a47e6085_medium.jpg",
         "image_2": "https://product.hstatic.net/200000722513/product/z5525342113717_207d3f4dd5d6c0524369c76700630f42_355e250573f74014ac9fb074a47e6085_grande.jpg",
@@ -6896,6 +7106,7 @@
       "title": "Cổng chuyển đổi USB C Ugreen 5 in 1 CM511 15596",
       "sale": "40",
       "price": "880.000",
+      "categories": "accessory",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/5996_cbbe37545e744c74944f4dd785c53a68_medium.jpg",
         "image_2": "https://product.hstatic.net/200000722513/product/5996_cbbe37545e744c74944f4dd785c53a68_grande.jpg"
@@ -6915,6 +7126,7 @@
       "title": "Cổng chuyển đổi USB C Ugreen 5 in 1 CM511 15596",
       "sale": "40",
       "price": "260.000",
+      "categories": "accessory",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/z5452906279993_ca5e9b038c6b1ad85715b9b3644c415b_7b62e0c1b3f44f078f0f33ef51b281ca_medium.jpg",
         "image_2": "https://product.hstatic.net/200000722513/product/z5452906279993_ca5e9b038c6b1ad85715b9b3644c415b_7b62e0c1b3f44f078f0f33ef51b281ca_grande.jpg"
@@ -6936,6 +7148,7 @@
       "title": "Phần mềm Windows 11 Pro Online DwnLd NR FQC-10572",
       "sale": "20",
       "price": "5.590.000",
+      "categories": "officedevice",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/_pro_online_dwnld_nr_fqc-10572_gearvn_dc5a004e0330424c816d20c0a5a31870_6f1e5c53e966459181ef80ade54457aa_medium.jpg",
         "image_2": "https://product.hstatic.net/200000722513/product/_pro_online_dwnld_nr_fqc-10572_gearvn_dc5a004e0330424c816d20c0a5a31870_6f1e5c53e966459181ef80ade54457aa_grande.jpg"
@@ -6955,6 +7168,7 @@
       "title": "Phần mềm Windows 11 Home Online DwnLd NR KW9-00664",
       "sale": "16",
       "price": "3.690.000",
+      "categories": "officedevice",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/home_online_dwnld_nr_kw9-00664_gearvn_1af7af131f934c3f9b0b98de4cbea282_6ed5acc9d8bd4266806a53d43ba2863a_medium.jpg",
         "image_2": "https://product.hstatic.net/200000722513/product/home_online_dwnld_nr_kw9-00664_gearvn_1af7af131f934c3f9b0b98de4cbea282_6ed5acc9d8bd4266806a53d43ba2863a_grande.jpg"
@@ -6974,6 +7188,7 @@
       "title": "Phần mềm Office Home & Student 2021 79G-05337",
       "sale": "35",
       "price": "2.990.000",
+      "categories": "officedevice",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/office-home-student-2021-gearvn_2b58e2b89cb144c8af1a53cd0f50b138_3b6ac54980b343a4b7b0019c7bde1944_medium.jpg",
         "image_2": "https://product.hstatic.net/200000722513/product/office-home-student-2021-gearvn_2b58e2b89cb144c8af1a53cd0f50b138_3b6ac54980b343a4b7b0019c7bde1944_grande.jpg"
@@ -6993,6 +7208,7 @@
       "title": "Phần mềm Microsoft 365 Family 6GQ-00083",
       "sale": "37",
       "price": "1.990.000",
+      "categories": "officedevice",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/family_5dfdd704879d48879ed9b008e82766f3_medium.jpg",
         "image_2": "https://product.hstatic.net/200000722513/product/family_5dfdd704879d48879ed9b008e82766f3_grande.jpg",
@@ -7013,6 +7229,7 @@
       "title": "Phần mềm Microsoft 365 Personal QQ2-00003",
       "sale": "5",
       "price": "990.000",
+      "categories": "officedevice",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/_en_m365_personal_holidayfy24_posa_fob_rgb_1157_7b8ab684ef27489a98fc553c36bbd52a_medium.jpg",
         "image_2": "https://product.hstatic.net/200000722513/product/_en_m365_personal_holidayfy24_posa_fob_rgb_1157_7b8ab684ef27489a98fc553c36bbd52a_grande.jpg",
@@ -7035,6 +7252,7 @@
       "title": "Macbook Air M2 8GPU 16GB 256GB - Midnight",
       "sale": "23",
       "price": "39.990.000",
+      "categories": "apple",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/ook_air_m2_8gpu_16gb_256gb_-_midnight_8ead913e1d624d79be608bbbc7f46f94_f825a6934627488b965e487885ce51dd_medium.jpg",
         "image_2": "https://product.hstatic.net/200000722513/product/ook_air_m2_8gpu_16gb_256gb_-_midnight_8ead913e1d624d79be608bbbc7f46f94_f825a6934627488b965e487885ce51dd_grande.jpg",
@@ -7068,6 +7286,7 @@
       "title": "Macbook Air M2 10GPU 8GB 512GB - Silver",
       "sale": "23",
       "price": "41.990.000",
+      "categories": "apple",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/cbook-air-m2-10gpu-8gb-512gb-silver-2_9996b049f85648169fad6e9f71ed1bc1_6c61a5a4d2a44212af3826b301a4af43_medium.jpg",
         "image_2": "https://product.hstatic.net/200000722513/product/cbook-air-m2-10gpu-8gb-512gb-silver-2_9996b049f85648169fad6e9f71ed1bc1_6c61a5a4d2a44212af3826b301a4af43_grande.jpg",
@@ -7101,6 +7320,7 @@
       "title": "Bàn phím APPLE Magic Keyboard - US English Silver (MK2A3ZA/A)",
       "sale": "15",
       "price": "2.800.000",
+      "categories": "apple",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/211027011618-mk2a3za-a_c2dbcf7f3cdd4a96ace549a0bb0dcfb4_85f5a96d45b242f49524b67026980f85_medium.jpg",
         "image_2": "https://product.hstatic.net/200000722513/product/211027011618-mk2a3za-a_c2dbcf7f3cdd4a96ace549a0bb0dcfb4_85f5a96d45b242f49524b67026980f85_grande.jpg",
@@ -7125,6 +7345,7 @@
       "title": "MacBook Pro 13 M2 10GPU 16GB 256GB Silver",
       "sale": "8",
       "price": "41.990.000",
+      "categories": "apple",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/k-pro-13-m2-10gpu-16gb-256gb-silver-1_4d290b6712d84766bf2efa685de084bf_1a9e50e8e91148aeaeae491dd102d722_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/k-pro-13-m2-10gpu-16gb-256gb-silver-1_4d290b6712d84766bf2efa685de084bf_1a9e50e8e91148aeaeae491dd102d722_grande.png",
@@ -7158,6 +7379,7 @@
       "title": "Macbook Air M2 10GPU 16GB 512GB - Space Grey",
       "sale": "17",
       "price": "45.990.000",
+      "categories": "apple",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/_air_m2_10gpu_16gb_512gb_-_space_gray_3fe5b076416a499ea0588534a6c9f3a3_c3f333635f0c4f68b41312bd399ac5d4_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/_air_m2_10gpu_16gb_512gb_-_space_gray_3fe5b076416a499ea0588534a6c9f3a3_c3f333635f0c4f68b41312bd399ac5d4_grande.png",
@@ -7191,6 +7413,7 @@
       "title": "MacBook Pro 13 M2 10GPU 16GB 512GB Space Gray",
       "sale": "17",
       "price": "45.990.000",
+      "categories": "apple",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/o-13-m2-10gpu-16gb-512gb-space-gray-1_96f2eff0bd9c4da788b8e7fd9c299ae2_46f7c51b44144836a47747b2877679cf_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/o-13-m2-10gpu-16gb-512gb-space-gray-1_96f2eff0bd9c4da788b8e7fd9c299ae2_46f7c51b44144836a47747b2877679cf_grande.png",
@@ -7222,6 +7445,7 @@
       "title": "Macbook Air M2 10GPU 16GB 512GB - Space Grey",
       "sale": "6",
       "price": "46.990.000",
+      "categories": "apple",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/k-pro-13-m2-10gpu-16gb-512gb-silver-2_b9322cd38b244032bfbae665db01d586_0334bca49ca246aeac2fc80ed6edc7c2_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/k-pro-13-m2-10gpu-16gb-512gb-silver-2_b9322cd38b244032bfbae665db01d586_0334bca49ca246aeac2fc80ed6edc7c2_grande.png",
@@ -7253,6 +7477,7 @@
       "title": "MacBook Pro 13 M2 10GPU 8GB 256GB Silver",
       "sale": "11",
       "price": "34.990.000",
+      "categories": "apple",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/book_pro_13_m2_10gpu_8gb_256gb_silver_e180342f0b514df4ae8bc6a04c428ec1_c827d55aa0cc4003a8794488dbc4e0eb_medium.jpg",
         "image_2": "https://product.hstatic.net/200000722513/product/book_pro_13_m2_10gpu_8gb_256gb_silver_e180342f0b514df4ae8bc6a04c428ec1_c827d55aa0cc4003a8794488dbc4e0eb_grande.jpg",
@@ -7283,6 +7508,7 @@
       "title": "MacBook Pro 13 M2 10GPU 8GB 256GB Silver",
       "sale": "11",
       "price": "34.990.000",
+      "categories": "apple",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/_pro_13_m2_10gpu_8gb_256gb_space_gray_5121587000e84619abebc5ce6d543cdc_347fe899dc474bdc9889c033f46743d8_medium.jpg",
         "image_2": "https://product.hstatic.net/200000722513/product/_pro_13_m2_10gpu_8gb_256gb_space_gray_5121587000e84619abebc5ce6d543cdc_347fe899dc474bdc9889c033f46743d8_grande.jpg",
@@ -7314,6 +7540,7 @@
       "title": "MacBook Pro 13 M2 10GPU 8GB 512GB Space Gray",
       "sale": "10",
       "price": "39.990.000",
+      "categories": "apple",
       "image": {
         "image_1": "https://product.hstatic.net/200000722513/product/ezgif-1-022a341f1b_ebdd90220119408faadfd3c0d6808aee_0997e6994f914ffeaa573c2a91acccfd_medium.png",
         "image_2": "https://product.hstatic.net/200000722513/product/ezgif-1-022a341f1b_ebdd90220119408faadfd3c0d6808aee_0997e6994f914ffeaa573c2a91acccfd_grande.png"

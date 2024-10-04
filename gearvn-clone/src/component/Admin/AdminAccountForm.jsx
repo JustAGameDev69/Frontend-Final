@@ -27,7 +27,14 @@ export default function AdminAccountForm({ open, account, handleOpen }) {
   const { isLoading } = useAccount();
   const [change, setChange] = useState(initialState);
 
-  //console.log(change);
+  const handleStatusChange = (productName, newStatus) => {
+    const updatedCart = change.cart.map((item) =>
+      item.product_name === productName
+        ? { ...item, product_status: newStatus }
+        : item
+    );
+    setChange({ ...change, cart: updatedCart });
+  };
 
   return (
     <Dialog open={open} size={"md"}>
@@ -112,7 +119,23 @@ export default function AdminAccountForm({ open, account, handleOpen }) {
                   <ul className="list-disc pl-5">
                     {change.cart.map((item, idx) => (
                       <li key={idx}>
-                        {item.product_name} <button>Delete</button>
+                        {item.product_name}{" "}
+                        <select
+                          value={item.product_status}
+                          onChange={(e) =>
+                            handleStatusChange(
+                              item.product_name,
+                              e.target.value
+                            )
+                          }
+                          className="p-2 w-full border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-2 focus:ring-teal-500 focus:border-teal-500 transition-colors duration-300 ease-in-out text-gray-700"
+                        >
+                          <option value="cancel">Cancel</option>
+                          <option value="waiting">Waiting</option>
+                          <option value="confirm">Confirm</option>
+                          <option value="delivering">Delivering</option>
+                          <option value="finished">Finished</option>
+                        </select>
                       </li>
                     ))}
                   </ul>

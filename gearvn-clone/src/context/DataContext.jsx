@@ -15,6 +15,7 @@ const initialState = {
   collections: [],
   product: {},
   suggestProducts: [],
+  allProduct: [],
   isLoading: false,
   error: "",
 };
@@ -31,6 +32,12 @@ function reducer(state, action) {
         ...state,
         isLoading: false,
         pc: action.payload,
+      };
+    case "allProduct/loaded":
+      return {
+        ...state,
+        isLoading: false,
+        allProduct: state.allProduct.concat(action.payload),
       };
     case "laptop/loaded":
       return {
@@ -119,7 +126,17 @@ function reducer(state, action) {
   }
 }
 
-const categories = [
+const allProductCategories = [
+  "pc",
+  "laptop",
+  "mouse",
+  "keyboard",
+  "monitor",
+  "vga",
+  "apple",
+];
+
+const homePageCategories = [
   "pc",
   "laptop",
   "mouse",
@@ -143,6 +160,7 @@ function DataProvider({ children }) {
       collections,
       product,
       suggestProducts,
+      allProduct,
     },
     dispatch,
   ] = useReducer(reducer, initialState);
@@ -173,7 +191,24 @@ function DataProvider({ children }) {
         });
       }
     }
-    categories.map((item) => fetchData(item));
+    homePageCategories.map((item) => fetchData(item));
+  }, []);
+
+  useEffect(() => {
+    async function getAllProduct(item) {
+      try {
+        await delay();
+        const res = await fetch(`${BASE_URL}/${item}`);
+        const data = await res.json();
+        dispatch({ type: `allProduct/loaded`, payload: data });
+      } catch {
+        dispatch({
+          type: "rejected",
+          payload: "There was an error loading data",
+        });
+      }
+    }
+    allProductCategories.map((item) => getAllProduct(item));
   }, []);
 
   async function getData(id) {
@@ -318,6 +353,7 @@ function DataProvider({ children }) {
         isLoading,
         product,
         suggestProducts,
+        allProduct,
         getData,
         getProductDetail,
         getSuggestionProduct,

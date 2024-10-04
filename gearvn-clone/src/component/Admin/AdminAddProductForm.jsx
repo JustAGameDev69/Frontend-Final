@@ -11,22 +11,23 @@ import { useState } from "react";
 import { useData } from "../../context/DataContext";
 import { Loading } from "../Loading";
 
-const initialState = {
-  title: "",
-  manufacturer: "",
-  sale: "",
-  price: "",
-  image: {},
-  components: {},
-  detail: {},
-  desc_image: "",
-};
-
 export default function AdminAddProductForm({
   open,
   handleOpen,
   selectedCategories,
 }) {
+  const initialState = {
+    title: "",
+    manufacturer: "",
+    sale: "",
+    price: "",
+    image: {},
+    components: {},
+    detail: {},
+    desc_image: "",
+    categories: selectedCategories,
+  };
+
   const { isLoading, AddProduct } = useData();
   const [newProduct, setNewProduct] = useState(initialState);
 
@@ -91,7 +92,6 @@ export default function AdminAddProductForm({
       sanitizedProduct.sale = Number(sanitizedProduct.sale);
     }
 
-    console.log(sanitizedProduct, selectedCategories);
     AddProduct(sanitizedProduct, selectedCategories);
   };
 

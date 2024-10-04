@@ -2,10 +2,9 @@ import { useState } from "react";
 import AdminAccountForm from "./AdminAccountForm";
 
 const thStyle = "border border-gray-300 px-4 py-2";
-const tdStyle = "border border-gray-300 px-10 py-2 text-center";
+const tdStyle = "border border-gray-300 px-2 py-2 text-center 2xl:px-4";
 
 export default function AdminAccountTable({ users, deleteAccount }) {
-  console.log(users);
   const [open, handleOpen] = useState(false);
   const [account, setAccount] = useState({});
 

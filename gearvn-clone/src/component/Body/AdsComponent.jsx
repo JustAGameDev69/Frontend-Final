@@ -43,12 +43,12 @@ export default function AdsComponent({ leftImageUrl, rightImageUrl }) {
   return (
     <>
       <img
-        className={`${adStyle} ${windowWidth > 1600 ? "left-44" : "left-10"}`}
+        className={`${adStyle} ${windowWidth > 1670 ? "left-44" : "left-10"}`}
         src={leftImageUrl}
         alt="Quảng cáo trái"
       />
       <img
-        className={`${adStyle} ${windowWidth > 1600 ? "right-44" : "right-10"}`}
+        className={`${adStyle} ${windowWidth > 1670 ? "right-44" : "right-10"}`}
         src={rightImageUrl}
         alt="Quảng cáo phải"
       />

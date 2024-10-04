@@ -69,6 +69,9 @@ export default function LoginSignup({ open, handleOpen }) {
           isAdmin: false,
           cart: [],
           avatar: "",
+          phoneNumber: "",
+          address: "",
+          personalIntroduction: "",
         };
         await createAccount(account);
         setSignupLoginStatus(message);
