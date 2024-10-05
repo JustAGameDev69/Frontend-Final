@@ -24,6 +24,7 @@ export default function CartItems({
 
     setCart(newCart);
 
+    //Update user cart on API
     updateUserCartItems(newCart, accountId);
   };
 

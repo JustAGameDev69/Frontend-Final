@@ -19,12 +19,15 @@ export default function AdminAccountForm({ open, account, handleOpen }) {
     fullName: account.fullName,
     email: account.email,
     isAdmin: account.isAdmin,
+    phoneNumber: account.phoneNumber,
+    address: account.address,
+    personalIntroduction: account.personalIntroduction,
     cart: account.cart,
     password: account.password,
     avatar: account.avatar,
   };
 
-  const { isLoading } = useAccount();
+  const { isLoading, AdminUserDataUpdate } = useAccount();
   const [change, setChange] = useState(initialState);
 
   const handleStatusChange = (productName, newStatus) => {
@@ -34,6 +37,10 @@ export default function AdminAccountForm({ open, account, handleOpen }) {
         : item
     );
     setChange({ ...change, cart: updatedCart });
+  };
+
+  const handleUserDataChange = (account, id) => {
+    AdminUserDataUpdate(account, id);
   };
 
   return (
@@ -48,7 +55,7 @@ export default function AdminAccountForm({ open, account, handleOpen }) {
           <>
             <div className="w-1/2">
               <Typography className="mb-1 mt-2" variant="h6">
-                ID (Cannot change)
+                ID
               </Typography>
               <Input label="ID" size="md" value={change.id} disabled />
               <Typography className="mb-1 mt-2" variant="h6">
@@ -131,6 +138,7 @@ export default function AdminAccountForm({ open, account, handleOpen }) {
                           className="p-2 w-full border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-2 focus:ring-teal-500 focus:border-teal-500 transition-colors duration-300 ease-in-out text-gray-700"
                         >
                           <option value="cancel">Cancel</option>
+                          <option value="waitingConfirm">waitingConfirm</option>
                           <option value="waiting">Waiting</option>
                           <option value="confirm">Confirm</option>
                           <option value="delivering">Delivering</option>
@@ -150,7 +158,11 @@ export default function AdminAccountForm({ open, account, handleOpen }) {
         )}
       </DialogBody>
       <DialogFooter>
-        <Button variant="text" color="green">
+        <Button
+          variant="text"
+          color="green"
+          onClick={() => handleUserDataChange(change, change.id)}
+        >
           <span>Confirm</span>
         </Button>
         <Button variant="text" color="red" onClick={() => handleOpen(false)}>

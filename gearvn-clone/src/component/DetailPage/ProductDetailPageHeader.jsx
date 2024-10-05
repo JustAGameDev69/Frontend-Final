@@ -29,7 +29,11 @@ export default function ProductDetailPageHeader({ product, type }) {
     if (account) {
       const updatedAccount = {
         ...account,
-        cart: account.cart.find((item) => item.product_id === product.id)
+        cart: account.cart.find(
+          (item) =>
+            item.product_id === product.id &&
+            item.product_type === product.categories
+        )
           ? account.cart.map((item) =>
               item.product_id === product.id
                 ? { ...item, product_quantity: item.product_quantity + 1 }

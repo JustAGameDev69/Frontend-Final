@@ -24,6 +24,17 @@ export default function UserCart() {
     }
   };
 
+  /*   const handleConfirmOrder = (selectedItems) => {
+    const itemConfirm = selectedItems.map((item) => {
+      return { ...item, product_status: "waitingConfirm" };
+    });
+    const currentCart = account.cart.filter(
+      (product) => product.product_status !== "waiting"
+    );
+    const newCart = [...itemConfirm, ...currentCart];
+    console.log(newCart);
+  }; */
+
   useEffect(() => {
     setSelectedItems((prevSelected) =>
       prevSelected.map(
@@ -59,13 +70,18 @@ export default function UserCart() {
                     />
                   ))}
                 </div>
-                <h2 className="text-lg mt-8">
-                  Tổng tiền:{" "}
-                  <span className="text-[#ff0000] font-semibold italic">
-                    {totalPrice.toLocaleString("vi-VN")}
-                  </span>{" "}
-                  VNĐ
-                </h2>
+                <div className="flex items-center justify-between  mt-8">
+                  <h2 className="text-lg">
+                    Tổng tiền:{" "}
+                    <span className="text-[#ff0000] font-semibold italic">
+                      {totalPrice.toLocaleString("vi-VN")}
+                    </span>{" "}
+                    VNĐ
+                  </h2>
+                  <button className="py-3 px-6 bg-blue-600 text-white font-semibold rounded-lg shadow-md hover:bg-blue-700 transition duration-300 ease-in-out border border-transparent">
+                    Xác nhận mua hàng
+                  </button>
+                </div>
               </>
             ) : (
               <h1 className="my-40 text-2xl text-center text-[#ff0000] font-semibold italic">

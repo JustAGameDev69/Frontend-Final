@@ -68,6 +68,14 @@ function reducer(state, action) {
         isLoading: false,
         error: action.payload,
       };
+    case "adminAccount/update":
+      return {
+        ...state,
+        accounts: state.accounts.map((account) =>
+          account.id === action.payload.id ? action.payload : account
+        ),
+        isLoading: false,
+      };
     default:
       throw new Error("Unknow action type");
   }
@@ -186,6 +194,26 @@ function AccountProvider({ children }) {
     }
   }
 
+  async function AdminUserDataUpdate(account, id) {
+    dispatch({ type: "loading" });
+    try {
+      const res = await fetch(`${BASE_URL}/account/${id}`, {
+        method: "PUT",
+        body: JSON.stringify(account),
+        headers: {
+          "Content-Type": "application/json",
+        },
+      });
+      const data = await res.json();
+      dispatch({ type: "adminAccount/update", payload: data });
+    } catch {
+      dispatch({
+        type: "rejected",
+        payload: "There was an error loading data",
+      });
+    }
+  }
+
   async function createAccount(account) {
     dispatch({ type: "loading" });
     try {
@@ -268,6 +296,7 @@ function AccountProvider({ children }) {
         updateUserInformation,
         LogOut,
         updateUserCartItems,
+        AdminUserDataUpdate,
         error,
       }}
     >

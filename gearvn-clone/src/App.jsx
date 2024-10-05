@@ -8,6 +8,7 @@ import { AccountProvider } from "./context/AccountContext";
 import AdminPage from "./pages/AdminPage";
 import UserCartPage from "./pages/UserCartPage";
 import AccountPage from "./pages/AccountPage";
+import OrderTrackingPage from "./pages/OrderTrackingPage";
 
 function App() {
   return (
@@ -26,6 +27,7 @@ function App() {
               <Route path="user/cart" element={<UserCartPage />} />
               <Route path="admin" element={<AdminPage />} />
               <Route path="account" element={<AccountPage />} />
+              <Route path="tracking" element={<OrderTrackingPage />} />
               <Route path="*" element={<PageNotFound />} />
             </Routes>
           </BrowserRouter>

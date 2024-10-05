@@ -4,6 +4,9 @@
       "id": "1",
       "fullName": "Admin",
       "email": "admin@gmail.com",
+      "phoneNumber": "",
+      "address": "",
+      "personalIntroduction": "",
       "isAdmin": true,
       "password": "admin",
       "avatar": ""
@@ -13,10 +16,9 @@
       "fullName": "Nguyễn Duy Khang",
       "email": "vngkhang.icc@gmail.com",
       "isAdmin": false,
-      "password": "123",
-      "phoneNumber": "0965159060",
-      "address": "Hà Nội - Việt Nam",
-      "personalIntroduction": "Là một lập trình viên phát triển website bằng React!",
+      "phoneNumber": "",
+      "address": "",
+      "personalIntroduction": "",
       "cart": [
         {
           "product_id": "5",
@@ -25,18 +27,28 @@
           "product_name": "Laptop gaming Lenovo LOQ 15IRX9 83DV00D5VN",
           "product_price": "29.430.000",
           "product_quantity": 1,
-          "product_status": "waiting"
+          "product_status": "waitingConfirm"
         },
         {
-          "product_id": "3",
-          "product_type": "keyboard",
-          "product_image": "https://product.hstatic.net/200000722513/product/mu01_________.3-1-510x510_5c2c0cb550be4297bd98ba7ba72dc6f4_grande.png",
-          "product_name": "Bàn phím cơ AKKO MU01 Joy of Life",
-          "product_price": "3.690.000",
+          "product_id": "19",
+          "product_type": "laptop-vanphong",
+          "product_image": "https://product.hstatic.net/200000722513/product/vobook_14_oled_x1405v_m1405y_cool_silver_black_keyboard_07_fingerprint_776fe1c0bfb7488e90ef8f1737c06abb_grande.png",
+          "product_name": "Laptop ASUS Vivobook 14 OLED A1405VA KM095W",
+          "product_price": "17.420.000",
           "product_quantity": 1,
-          "product_status": "waiting"
+          "product_status": "confirm"
+        },
+        {
+          "product_id": "5",
+          "product_type": "mouse",
+          "product_image": "https://product.hstatic.net/200000722513/product/wireless-faker-edition-38883096559861_55d27411196e498f9fd3ca7cb575283c_0dcc1a40ad574dcabb100293e54192da_grande.jpg",
+          "product_name": "Chuột Razer Deathadder V3 Pro Faker Edition",
+          "product_price": "3.910.000",
+          "product_quantity": 1,
+          "product_status": "delivering"
         }
       ],
+      "password": "123",
       "avatar": "https://lh3.googleusercontent.com/OLKWeSV57e8TDrWzI42IIGoik0wuJCEGLYMwGJr60pZBVrxXgFyjpWw-C37vKA0GzwyK6QQ-SMUURswU_KU6UAVJGSWucIm4Ms51M_a13tVmOnKZGPbnvjjUYzUgdU_qNpOBMJIMizt_OCoymRUIvQ"
     },
     {
