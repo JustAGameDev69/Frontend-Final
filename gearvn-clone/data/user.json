@@ -21,15 +21,6 @@
       "personalIntroduction": "",
       "cart": [
         {
-          "product_id": "5",
-          "product_type": "laptop-gaming",
-          "product_image": "https://product.hstatic.net/200000722513/product/loq_15iax9_ct1_02_e21fbf60e2f44114bd7c550b1d6d3d2a_grande.png",
-          "product_name": "Laptop gaming Lenovo LOQ 15IRX9 83DV00D5VN",
-          "product_price": "29.430.000",
-          "product_quantity": 1,
-          "product_status": "waitingConfirm"
-        },
-        {
           "product_id": "19",
           "product_type": "laptop-vanphong",
           "product_image": "https://product.hstatic.net/200000722513/product/vobook_14_oled_x1405v_m1405y_cool_silver_black_keyboard_07_fingerprint_776fe1c0bfb7488e90ef8f1737c06abb_grande.png",
@@ -40,12 +31,21 @@
         },
         {
           "product_id": "5",
-          "product_type": "mouse",
-          "product_image": "https://product.hstatic.net/200000722513/product/wireless-faker-edition-38883096559861_55d27411196e498f9fd3ca7cb575283c_0dcc1a40ad574dcabb100293e54192da_grande.jpg",
-          "product_name": "Chuột Razer Deathadder V3 Pro Faker Edition",
-          "product_price": "3.910.000",
+          "product_type": "pc",
+          "product_image": "https://product.hstatic.net/200000722513/product/post-07_3fd93ff483af477f8f33493d2c661b9f_grande.jpg",
+          "product_name": "PC GVN AMD R9-7900/ VGA RTX 3060",
+          "product_price": "41.150.000",
+          "product_quantity": 2,
+          "product_status": "waiting"
+        },
+        {
+          "product_id": "16",
+          "product_type": "laptop-vanphong",
+          "product_image": "https://product.hstatic.net/200000722513/product/vobook_14_oled_x1405v_m1405y_cool_silver_black_keyboard_08_fingerprint_9443487a7b16401f8aee83be5087301f_grande.png",
+          "product_name": "Laptop ASUS Vivobook 14 OLED A1405ZA KM264W",
+          "product_price": "15.950.000",
           "product_quantity": 1,
-          "product_status": "delivering"
+          "product_status": "waiting"
         }
       ],
       "password": "123",
